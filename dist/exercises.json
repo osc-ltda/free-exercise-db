@@ -2973,7 +2973,7 @@
     "popularity": 0.2
   },
   {
-    "name": "Press (Bradford/Rocky es)",
+    "name": "Press (Bradford/Rocky)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -4674,7 +4674,7 @@
     "popularity": 1.5
   },
   {
-    "name": "Clean (and Press)",
+    "name": "Clean and Press",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -5280,7 +5280,7 @@
     "popularity": 2.4
   },
   {
-    "name": "Crunch (es)",
+    "name": "Crunch",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -5572,7 +5572,7 @@
     "popularity": 3.5
   },
   {
-    "name": "Fly (Decline Dumbbell es)",
+    "name": "Fly (Decline Dumbbell)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -6367,7 +6367,7 @@
     "popularity": 2
   },
   {
-    "name": "Fly (Dumbbell es)",
+    "name": "Fly (Dumbbell)",
     "force": "push",
     "level": "beginner",
     "mechanic": "isolation",
@@ -7322,7 +7322,7 @@
     "popularity": 2
   },
   {
-    "name": "Pull (Exercise Ball -In)",
+    "name": "Pull-In (Exercise Ball)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -7562,7 +7562,7 @@
     "popularity": 2.7
   },
   {
-    "name": "Fly (Flat Bench Cable es)",
+    "name": "Fly (Flat Bench Cable)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "isolation",
@@ -7590,7 +7590,7 @@
     "popularity": 2.4
   },
   {
-    "name": "Pull (Flat Bench Leg -In)",
+    "name": "Leg Pull-In (Flat Bench)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -9452,7 +9452,7 @@
     "popularity": 2.7
   },
   {
-    "name": "Fly (Incline Cable e)",
+    "name": "Fly (Incline Cable)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "isolation",
@@ -9537,7 +9537,7 @@
     "popularity": 2.7
   },
   {
-    "name": "Fly (Incline Dumbbell es)",
+    "name": "Fly (Incline Dumbbell)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -11517,7 +11517,7 @@
     "popularity": 5.5
   },
   {
-    "name": "Pull (Leg -In)",
+    "name": "Leg Pull-In",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -13291,7 +13291,7 @@
     "popularity": 2.6
   },
   {
-    "name": "Crunch (Oblique es)",
+    "name": "Crunch (Oblique)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -13453,7 +13453,7 @@
     "popularity": 5
   },
   {
-    "name": "Fly (One-Arm Flat Bench Dumbbell e)",
+    "name": "Fly (One-Arm Flat Bench Dumbbell)",
     "force": "push",
     "level": "beginner",
     "mechanic": "isolation",
@@ -13480,7 +13480,7 @@
     "popularity": 2.7
   },
   {
-    "name": "Pull (One-Arm High-ey Cable Side Bends)",
+    "name": "Side Bend (One-Arm High-Pulley Cable)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -14939,7 +14939,7 @@
     "popularity": 2.1
   },
   {
-    "name": "Press (Pin es)",
+    "name": "Press (Pin)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -15558,7 +15558,7 @@
     "popularity": 1.9
   },
   {
-    "name": "Row (Pler Sprint)",
+    "name": "Prowler Sprint",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -15614,7 +15614,7 @@
     "popularity": 2.7
   },
   {
-    "name": "Pull (ups)",
+    "name": "Pull-Up",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -15700,7 +15700,7 @@
     "popularity": 2.3
   },
   {
-    "name": "Push-Up (s With Feet Elevated)",
+    "name": "Push-Up (Feet Elevated)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -15729,7 +15729,7 @@
     "popularity": 2.5
   },
   {
-    "name": "Push-Up (s With Feet On An Exercise Ball)",
+    "name": "Push-Up (Feet On An Exercise Ball)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -15809,7 +15809,7 @@
     "popularity": 1.7
   },
   {
-    "name": "Push Up (to Side Plank)",
+    "name": "Push-Up to Side Plank",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -16571,7 +16571,7 @@
     "popularity": 2.1
   },
   {
-    "name": "Fly (Reverse Machine es)",
+    "name": "Fly (Reverse Machine)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -16823,7 +16823,7 @@
     "popularity": 2.7
   },
   {
-    "name": "Pull-Up (Rocky s/Pulldowns)",
+    "name": "Pull-Up (Rocky)",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "compound",
@@ -16996,7 +16996,7 @@
     "popularity": 0.4
   },
   {
-    "name": "Pull (Rope Straight-Arm down)",
+    "name": "Pulldown (Rope Straight-Arm)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -17048,7 +17048,7 @@
     "popularity": 0.5
   },
   {
-    "name": "Row (ing, Stationary)",
+    "name": "Rowing, Stationary",
     "force": null,
     "level": "intermediate",
     "mechanic": null,
@@ -17742,7 +17742,7 @@
     "popularity": 4.5
   },
   {
-    "name": "Pull (Seated Flat Bench Leg -In)",
+    "name": "Leg Pull-In (Seated Flat Bench)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -22151,7 +22151,7 @@
     "popularity": 2.6
   },
   {
-    "name": "Pull (Straight-Arm down)",
+    "name": "Pulldown (Straight-Arm)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -22869,7 +22869,7 @@
     "popularity": 0.5
   },
   {
-    "name": "Walk (Trail Running/ing)",
+    "name": "Trail Running/Walking",
     "force": null,
     "level": "beginner",
     "mechanic": null,
@@ -23259,7 +23259,7 @@
     "popularity": 2.1
   },
   {
-    "name": "Pull (Underhand Cable downs)",
+    "name": "Pulldown (Underhand Cable)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -23447,7 +23447,7 @@
     "popularity": 0.4
   },
   {
-    "name": "Pull (V-Bar down)",
+    "name": "Pulldown (V-Bar)",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "compound",
@@ -23478,7 +23478,7 @@
     "popularity": 2.5
   },
   {
-    "name": "Pull (V-Bar up)",
+    "name": "Pull-Up (V-Bar)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -23537,7 +23537,7 @@
     "popularity": 1.7
   },
   {
-    "name": "Walk (ing, Treadmill)",
+    "name": "Walking, Treadmill",
     "force": null,
     "level": "beginner",
     "mechanic": null,
@@ -23650,7 +23650,7 @@
     "popularity": 1.9
   },
   {
-    "name": "Crunch (Weighted es)",
+    "name": "Crunch (Weighted)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
