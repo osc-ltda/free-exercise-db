@@ -1,5 +1,5 @@
 {
-  "name": "Clean Deadlift",
+  "name": "Deadlift (Clean)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Clean_Deadlift/0.jpg",
     "Clean_Deadlift/1.jpg"
   ],
-  "id": "Clean_Deadlift"
+  "id": "Clean_Deadlift",
+  "baseXP": 24,
+  "popularity": 1.9
 }

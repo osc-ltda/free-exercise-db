@@ -1,5 +1,5 @@
 {
-  "name": "Bench Press - With Bands",
+  "name": "Bench Press (With Bands)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Bench_Press_-_With_Bands/0.jpg",
     "Bench_Press_-_With_Bands/1.jpg"
   ],
-  "id": "Bench_Press_-_With_Bands"
+  "id": "Bench_Press_-_With_Bands",
+  "baseXP": 19,
+  "popularity": 2.1
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Deadlift with Chains",
+  "name": "Deadlift (with Chains)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -26,5 +26,7 @@
     "Deadlift_with_Chains/0.jpg",
     "Deadlift_with_Chains/1.jpg"
   ],
-  "id": "Deadlift_with_Chains"
+  "id": "Deadlift_with_Chains",
+  "baseXP": 50,
+  "popularity": 1.8
 }

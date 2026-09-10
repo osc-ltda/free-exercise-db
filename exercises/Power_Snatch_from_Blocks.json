@@ -1,5 +1,5 @@
 {
-  "name": "Power Snatch from Blocks",
+  "name": "Snatch (Power from Blocks)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -29,5 +29,7 @@
     "Power_Snatch_from_Blocks/0.jpg",
     "Power_Snatch_from_Blocks/1.jpg"
   ],
-  "id": "Power_Snatch_from_Blocks"
+  "id": "Power_Snatch_from_Blocks",
+  "baseXP": 36,
+  "popularity": 1.7
 }

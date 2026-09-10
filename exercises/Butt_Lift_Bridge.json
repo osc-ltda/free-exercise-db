@@ -1,5 +1,5 @@
 {
-  "name": "Butt Lift (Bridge)",
+  "name": "Bridge (Butt Lift)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -20,5 +20,7 @@
     "Butt_Lift_Bridge/0.jpg",
     "Butt_Lift_Bridge/1.jpg"
   ],
-  "id": "Butt_Lift_Bridge"
+  "id": "Butt_Lift_Bridge",
+  "baseXP": 13,
+  "popularity": 2.4
 }

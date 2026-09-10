@@ -1,5 +1,5 @@
 {
-  "name": "Stiff-Legged Barbell Deadlift",
+  "name": "Deadlift (Stiff-Legged Barbell)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Stiff-Legged_Barbell_Deadlift/0.jpg",
     "Stiff-Legged_Barbell_Deadlift/1.jpg"
   ],
-  "id": "Stiff-Legged_Barbell_Deadlift"
+  "id": "Stiff-Legged_Barbell_Deadlift",
+  "baseXP": 35,
+  "popularity": 2.6
 }

@@ -21,5 +21,7 @@
     "Seated_Overhead_Stretch/0.jpg",
     "Seated_Overhead_Stretch/1.jpg"
   ],
-  "id": "Seated_Overhead_Stretch"
+  "id": "Seated_Overhead_Stretch",
+  "baseXP": 6,
+  "popularity": 0.7
 }

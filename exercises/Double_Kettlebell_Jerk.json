@@ -1,5 +1,5 @@
 {
-  "name": "Double Kettlebell Jerk",
+  "name": "Jerk (Double Kettlebell)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -26,5 +26,7 @@
     "Double_Kettlebell_Jerk/0.jpg",
     "Double_Kettlebell_Jerk/1.jpg"
   ],
-  "id": "Double_Kettlebell_Jerk"
+  "id": "Double_Kettlebell_Jerk",
+  "baseXP": 33,
+  "popularity": 2.1
 }

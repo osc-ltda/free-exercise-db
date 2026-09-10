@@ -21,5 +21,7 @@
     "Seated_Leg_Tucks/0.jpg",
     "Seated_Leg_Tucks/1.jpg"
   ],
-  "id": "Seated_Leg_Tucks"
+  "id": "Seated_Leg_Tucks",
+  "baseXP": 12,
+  "popularity": 2.4
 }

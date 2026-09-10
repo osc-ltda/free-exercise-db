@@ -1,5 +1,5 @@
 {
-  "name": "Power Clean",
+  "name": "Clean (Power)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -49,5 +49,7 @@
     "Power_Clean/0.jpg",
     "Power_Clean/1.jpg"
   ],
-  "id": "Power_Clean"
+  "id": "Power_Clean",
+  "baseXP": 36,
+  "popularity": 2.6
 }

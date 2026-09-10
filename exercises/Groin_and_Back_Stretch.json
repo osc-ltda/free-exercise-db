@@ -20,5 +20,7 @@
     "Groin_and_Back_Stretch/0.jpg",
     "Groin_and_Back_Stretch/1.jpg"
   ],
-  "id": "Groin_and_Back_Stretch"
+  "id": "Groin_and_Back_Stretch",
+  "baseXP": 10,
+  "popularity": 0.6
 }

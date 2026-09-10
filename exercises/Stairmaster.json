@@ -22,5 +22,7 @@
     "Stairmaster/0.jpg",
     "Stairmaster/1.jpg"
   ],
-  "id": "Stairmaster"
+  "id": "Stairmaster",
+  "baseXP": 29,
+  "popularity": 1
 }

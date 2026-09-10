@@ -1,5 +1,5 @@
 {
-  "name": "One-Arm Kettlebell Row",
+  "name": "Row (One-Arm Kettlebell)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,5 +19,7 @@
     "One-Arm_Kettlebell_Row/0.jpg",
     "One-Arm_Kettlebell_Row/1.jpg"
   ],
-  "id": "One-Arm_Kettlebell_Row"
+  "id": "One-Arm_Kettlebell_Row",
+  "baseXP": 35,
+  "popularity": 2.1
 }

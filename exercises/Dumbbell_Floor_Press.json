@@ -1,5 +1,5 @@
 {
-  "name": "Dumbbell Floor Press",
+  "name": "Press (Dumbbell Floor)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -21,5 +21,7 @@
     "Dumbbell_Floor_Press/0.jpg",
     "Dumbbell_Floor_Press/1.jpg"
   ],
-  "id": "Dumbbell_Floor_Press"
+  "id": "Dumbbell_Floor_Press",
+  "baseXP": 32,
+  "popularity": 2
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Hammer Curls",
+  "name": "Hammer Curl (Dumbbell)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Hammer_Curls/0.jpg",
     "Hammer_Curls/1.jpg"
   ],
-  "id": "Hammer_Curls"
+  "id": "Hammer_Curls",
+  "baseXP": 15,
+  "popularity": 4.5
 }

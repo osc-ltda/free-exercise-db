@@ -18,5 +18,7 @@
     "Shoulder_Stretch/0.jpg",
     "Shoulder_Stretch/1.jpg"
   ],
-  "id": "Shoulder_Stretch"
+  "id": "Shoulder_Stretch",
+  "baseXP": 6,
+  "popularity": 0.4
 }

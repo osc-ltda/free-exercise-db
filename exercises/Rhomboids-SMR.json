@@ -19,5 +19,7 @@
     "Rhomboids-SMR/0.jpg",
     "Rhomboids-SMR/1.jpg"
   ],
-  "id": "Rhomboids-SMR"
+  "id": "Rhomboids-SMR",
+  "baseXP": 10,
+  "popularity": 0.2
 }

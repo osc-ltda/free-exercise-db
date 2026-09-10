@@ -20,5 +20,7 @@
     "Standing_Elevated_Quad_Stretch/0.jpg",
     "Standing_Elevated_Quad_Stretch/1.jpg"
   ],
-  "id": "Standing_Elevated_Quad_Stretch"
+  "id": "Standing_Elevated_Quad_Stretch",
+  "baseXP": 6,
+  "popularity": 0.5
 }

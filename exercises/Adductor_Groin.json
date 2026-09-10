@@ -21,5 +21,7 @@
     "Adductor_Groin/0.jpg",
     "Adductor_Groin/1.jpg"
   ],
-  "id": "Adductor_Groin"
+  "id": "Adductor_Groin",
+  "baseXP": 10,
+  "popularity": 0.2
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Plie Dumbbell Squat",
+  "name": "Squat (Plie Dumbbell)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Plie_Dumbbell_Squat/0.jpg",
     "Plie_Dumbbell_Squat/1.jpg"
   ],
-  "id": "Plie_Dumbbell_Squat"
+  "id": "Plie_Dumbbell_Squat",
+  "baseXP": 21,
+  "popularity": 2.8
 }

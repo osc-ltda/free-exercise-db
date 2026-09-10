@@ -1,5 +1,5 @@
 {
-  "name": "Reverse Band Sumo Deadlift",
+  "name": "Deadlift (Reverse Band Sumo)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -29,5 +29,7 @@
     "Reverse_Band_Sumo_Deadlift/0.jpg",
     "Reverse_Band_Sumo_Deadlift/1.jpg"
   ],
-  "id": "Reverse_Band_Sumo_Deadlift"
+  "id": "Reverse_Band_Sumo_Deadlift",
+  "baseXP": 50,
+  "popularity": 1.8
 }

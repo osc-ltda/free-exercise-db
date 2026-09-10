@@ -1,5 +1,5 @@
 {
-  "name": "Smith Single-Leg Split Squat",
+  "name": "Squat (Smith Single-Leg Split)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -26,5 +26,7 @@
     "Smith_Single-Leg_Split_Squat/0.jpg",
     "Smith_Single-Leg_Split_Squat/1.jpg"
   ],
-  "id": "Smith_Single-Leg_Split_Squat"
+  "id": "Smith_Single-Leg_Split_Squat",
+  "baseXP": 21,
+  "popularity": 2.7
 }

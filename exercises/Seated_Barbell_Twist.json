@@ -1,5 +1,5 @@
 {
-  "name": "Seated Barbell Twist",
+  "name": "Twist (Seated Barbell)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Seated_Barbell_Twist/0.jpg",
     "Seated_Barbell_Twist/1.jpg"
   ],
-  "id": "Seated_Barbell_Twist"
+  "id": "Seated_Barbell_Twist",
+  "baseXP": 18,
+  "popularity": 2.7
 }

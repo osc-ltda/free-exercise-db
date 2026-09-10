@@ -21,5 +21,7 @@
     "Overhead_Slam/0.jpg",
     "Overhead_Slam/1.jpg"
   ],
-  "id": "Overhead_Slam"
+  "id": "Overhead_Slam",
+  "baseXP": 20,
+  "popularity": 1
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Floor Glute-Ham Raise",
+  "name": "Glute-Ham Raise (Floor)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Floor_Glute-Ham_Raise/0.jpg",
     "Floor_Glute-Ham_Raise/1.jpg"
   ],
-  "id": "Floor_Glute-Ham_Raise"
+  "id": "Floor_Glute-Ham_Raise",
+  "baseXP": 24,
+  "popularity": 1.7
 }

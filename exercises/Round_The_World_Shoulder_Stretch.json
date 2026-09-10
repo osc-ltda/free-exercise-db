@@ -21,5 +21,7 @@
     "Round_The_World_Shoulder_Stretch/0.jpg",
     "Round_The_World_Shoulder_Stretch/1.jpg"
   ],
-  "id": "Round_The_World_Shoulder_Stretch"
+  "id": "Round_The_World_Shoulder_Stretch",
+  "baseXP": 6,
+  "popularity": 0.5
 }

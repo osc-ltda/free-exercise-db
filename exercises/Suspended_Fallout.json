@@ -24,5 +24,7 @@
     "Suspended_Fallout/0.jpg",
     "Suspended_Fallout/1.jpg"
   ],
-  "id": "Suspended_Fallout"
+  "id": "Suspended_Fallout",
+  "baseXP": 26,
+  "popularity": 1.8
 }

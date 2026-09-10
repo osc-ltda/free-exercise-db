@@ -28,5 +28,7 @@
     "Log_Lift/0.jpg",
     "Log_Lift/1.jpg"
   ],
-  "id": "Log_Lift"
+  "id": "Log_Lift",
+  "baseXP": 32,
+  "popularity": 0.8
 }

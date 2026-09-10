@@ -21,5 +21,7 @@
     "Glute_Kickback/0.jpg",
     "Glute_Kickback/1.jpg"
   ],
-  "id": "Glute_Kickback"
+  "id": "Glute_Kickback",
+  "baseXP": 18,
+  "popularity": 3
 }

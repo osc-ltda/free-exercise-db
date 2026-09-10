@@ -20,5 +20,7 @@
     "Bicycling/0.jpg",
     "Bicycling/1.jpg"
   ],
-  "id": "Bicycling"
+  "id": "Bicycling",
+  "baseXP": 15,
+  "popularity": 0.6
 }

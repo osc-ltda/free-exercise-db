@@ -1,5 +1,5 @@
 {
-  "name": "Cross Body Hammer Curl",
+  "name": "Hammer Curl (Cross Body)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -21,5 +21,7 @@
     "Cross_Body_Hammer_Curl/0.jpg",
     "Cross_Body_Hammer_Curl/1.jpg"
   ],
-  "id": "Cross_Body_Hammer_Curl"
+  "id": "Cross_Body_Hammer_Curl",
+  "baseXP": 16,
+  "popularity": 2.7
 }

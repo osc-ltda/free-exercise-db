@@ -1,5 +1,5 @@
 {
-  "name": "One Arm Dumbbell Bench Press",
+  "name": "Bench Press (One Arm Dumbbell)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "One_Arm_Dumbbell_Bench_Press/0.jpg",
     "One_Arm_Dumbbell_Bench_Press/1.jpg"
   ],
-  "id": "One_Arm_Dumbbell_Bench_Press"
+  "id": "One_Arm_Dumbbell_Bench_Press",
+  "baseXP": 23,
+  "popularity": 2.8
 }

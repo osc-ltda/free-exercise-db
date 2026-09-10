@@ -1,5 +1,5 @@
 {
-  "name": "Kneeling Cable Crunch With Alternating Oblique Twists",
+  "name": "Crunch (Kneeling Cable With Alternating Oblique Twists)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -26,5 +26,7 @@
     "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists/0.jpg",
     "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists/1.jpg"
   ],
-  "id": "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists"
+  "id": "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists",
+  "baseXP": 16,
+  "popularity": 2.6
 }

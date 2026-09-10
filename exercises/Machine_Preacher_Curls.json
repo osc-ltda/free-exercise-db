@@ -1,5 +1,5 @@
 {
-  "name": "Machine Preacher Curls",
+  "name": "Preacher Curl (Machine)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Machine_Preacher_Curls/0.jpg",
     "Machine_Preacher_Curls/1.jpg"
   ],
-  "id": "Machine_Preacher_Curls"
+  "id": "Machine_Preacher_Curls",
+  "baseXP": 12,
+  "popularity": 2.6
 }

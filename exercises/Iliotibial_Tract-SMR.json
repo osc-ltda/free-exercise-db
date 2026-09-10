@@ -20,5 +20,7 @@
     "Iliotibial_Tract-SMR/0.jpg",
     "Iliotibial_Tract-SMR/1.jpg"
   ],
-  "id": "Iliotibial_Tract-SMR"
+  "id": "Iliotibial_Tract-SMR",
+  "baseXP": 10,
+  "popularity": 0.5
 }

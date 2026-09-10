@@ -1,5 +1,5 @@
 {
-  "name": "Barbell Full Squat",
+  "name": "Squat (Barbell Full)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -26,5 +26,7 @@
     "Barbell_Full_Squat/0.jpg",
     "Barbell_Full_Squat/1.jpg"
   ],
-  "id": "Barbell_Full_Squat"
+  "id": "Barbell_Full_Squat",
+  "baseXP": 34,
+  "popularity": 4.5
 }

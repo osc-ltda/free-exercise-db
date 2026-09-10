@@ -22,5 +22,7 @@
     "Inchworm/0.jpg",
     "Inchworm/1.jpg"
   ],
-  "id": "Inchworm"
+  "id": "Inchworm",
+  "baseXP": 6,
+  "popularity": 1.3
 }

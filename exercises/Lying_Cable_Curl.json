@@ -1,5 +1,5 @@
 {
-  "name": "Lying Cable Curl",
+  "name": "Curl (Lying Cable)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Lying_Cable_Curl/0.jpg",
     "Lying_Cable_Curl/1.jpg"
   ],
-  "id": "Lying_Cable_Curl"
+  "id": "Lying_Cable_Curl",
+  "baseXP": 26,
+  "popularity": 2.4
 }

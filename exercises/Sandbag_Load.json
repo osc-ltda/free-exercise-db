@@ -30,5 +30,7 @@
     "Sandbag_Load/0.jpg",
     "Sandbag_Load/1.jpg"
   ],
-  "id": "Sandbag_Load"
+  "id": "Sandbag_Load",
+  "baseXP": 20,
+  "popularity": 1
 }

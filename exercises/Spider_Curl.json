@@ -24,5 +24,7 @@
     "Spider_Curl/0.jpg",
     "Spider_Curl/1.jpg"
   ],
-  "id": "Spider_Curl"
+  "id": "Spider_Curl",
+  "baseXP": 18,
+  "popularity": 2.3
 }

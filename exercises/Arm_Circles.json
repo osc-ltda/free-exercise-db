@@ -20,5 +20,7 @@
     "Arm_Circles/0.jpg",
     "Arm_Circles/1.jpg"
   ],
-  "id": "Arm_Circles"
+  "id": "Arm_Circles",
+  "baseXP": 6,
+  "popularity": 0.7
 }

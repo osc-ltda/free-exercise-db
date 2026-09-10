@@ -25,5 +25,7 @@
     "Alternate_Leg_Diagonal_Bound/0.jpg",
     "Alternate_Leg_Diagonal_Bound/1.jpg"
   ],
-  "id": "Alternate_Leg_Diagonal_Bound"
+  "id": "Alternate_Leg_Diagonal_Bound",
+  "baseXP": 19,
+  "popularity": 0.9
 }

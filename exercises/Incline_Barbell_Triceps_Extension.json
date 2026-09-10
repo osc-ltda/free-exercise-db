@@ -1,5 +1,5 @@
 {
-  "name": "Incline Barbell Triceps Extension",
+  "name": "Triceps Extension (Incline Barbell)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Incline_Barbell_Triceps_Extension/0.jpg",
     "Incline_Barbell_Triceps_Extension/1.jpg"
   ],
-  "id": "Incline_Barbell_Triceps_Extension"
+  "id": "Incline_Barbell_Triceps_Extension",
+  "baseXP": 28,
+  "popularity": 2.5
 }

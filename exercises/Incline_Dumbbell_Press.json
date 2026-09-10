@@ -1,5 +1,5 @@
 {
-  "name": "Incline Dumbbell Press",
+  "name": "Press (Incline Dumbbell)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Incline_Dumbbell_Press/0.jpg",
     "Incline_Dumbbell_Press/1.jpg"
   ],
-  "id": "Incline_Dumbbell_Press"
+  "id": "Incline_Dumbbell_Press",
+  "baseXP": 24,
+  "popularity": 5
 }

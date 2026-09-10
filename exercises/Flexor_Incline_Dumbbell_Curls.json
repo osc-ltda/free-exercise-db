@@ -1,5 +1,5 @@
 {
-  "name": "Flexor Incline Dumbbell Curls",
+  "name": "Flexor Curls (Incline Dumbbell)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Flexor_Incline_Dumbbell_Curls/0.jpg",
     "Flexor_Incline_Dumbbell_Curls/1.jpg"
   ],
-  "id": "Flexor_Incline_Dumbbell_Curls"
+  "id": "Flexor_Incline_Dumbbell_Curls",
+  "baseXP": 15,
+  "popularity": 2.7
 }

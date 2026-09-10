@@ -1,5 +1,5 @@
 {
-  "name": "Supine Chest Throw",
+  "name": "Throw (Supine Chest)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Supine_Chest_Throw/0.jpg",
     "Supine_Chest_Throw/1.jpg"
   ],
-  "id": "Supine_Chest_Throw"
+  "id": "Supine_Chest_Throw",
+  "baseXP": 22,
+  "popularity": 1
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Overhead Cable Curl",
+  "name": "Curl (Overhead Cable)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Overhead_Cable_Curl/0.jpg",
     "Overhead_Cable_Curl/1.jpg"
   ],
-  "id": "Overhead_Cable_Curl"
+  "id": "Overhead_Cable_Curl",
+  "baseXP": 25,
+  "popularity": 2.4
 }

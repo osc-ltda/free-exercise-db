@@ -1,5 +1,5 @@
 {
-  "name": "Smith Machine Reverse Calf Raises",
+  "name": "Calf Raises (Smith Machine Reverse)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Smith_Machine_Reverse_Calf_Raises/0.jpg",
     "Smith_Machine_Reverse_Calf_Raises/1.jpg"
   ],
-  "id": "Smith_Machine_Reverse_Calf_Raises"
+  "id": "Smith_Machine_Reverse_Calf_Raises",
+  "baseXP": 12,
+  "popularity": 2.6
 }

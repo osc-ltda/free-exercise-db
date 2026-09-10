@@ -1,5 +1,5 @@
 {
-  "name": "Two-Arm Kettlebell Row",
+  "name": "Row (Two-Arm Kettlebell)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -20,5 +20,7 @@
     "Two-Arm_Kettlebell_Row/0.jpg",
     "Two-Arm_Kettlebell_Row/1.jpg"
   ],
-  "id": "Two-Arm_Kettlebell_Row"
+  "id": "Two-Arm_Kettlebell_Row",
+  "baseXP": 32,
+  "popularity": 2.1
 }

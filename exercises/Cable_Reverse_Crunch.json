@@ -1,5 +1,5 @@
 {
-  "name": "Cable Reverse Crunch",
+  "name": "Reverse Crunch (Cable)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Cable_Reverse_Crunch/0.jpg",
     "Cable_Reverse_Crunch/1.jpg"
   ],
-  "id": "Cable_Reverse_Crunch"
+  "id": "Cable_Reverse_Crunch",
+  "baseXP": 16,
+  "popularity": 2.6
 }

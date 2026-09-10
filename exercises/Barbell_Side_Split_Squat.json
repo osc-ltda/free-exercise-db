@@ -1,5 +1,5 @@
 {
-  "name": "Barbell Side Split Squat",
+  "name": "Squat (Barbell Side Split)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Barbell_Side_Split_Squat/0.jpg",
     "Barbell_Side_Split_Squat/1.jpg"
   ],
-  "id": "Barbell_Side_Split_Squat"
+  "id": "Barbell_Side_Split_Squat",
+  "baseXP": 21,
+  "popularity": 2.8
 }

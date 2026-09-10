@@ -19,5 +19,7 @@
     "Latissimus_Dorsi-SMR/0.jpg",
     "Latissimus_Dorsi-SMR/1.jpg"
   ],
-  "id": "Latissimus_Dorsi-SMR"
+  "id": "Latissimus_Dorsi-SMR",
+  "baseXP": 6,
+  "popularity": 0.7
 }

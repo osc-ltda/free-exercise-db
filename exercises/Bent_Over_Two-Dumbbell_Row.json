@@ -1,5 +1,5 @@
 {
-  "name": "Bent Over Two-Dumbbell Row",
+  "name": "Bent Over Row (Two-Dumbbell)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Bent_Over_Two-Dumbbell_Row/0.jpg",
     "Bent_Over_Two-Dumbbell_Row/1.jpg"
   ],
-  "id": "Bent_Over_Two-Dumbbell_Row"
+  "id": "Bent_Over_Two-Dumbbell_Row",
+  "baseXP": 23,
+  "popularity": 4.5
 }

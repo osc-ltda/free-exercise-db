@@ -1,5 +1,5 @@
 {
-  "name": "Seated One-Arm Dumbbell Palms-Down Wrist Curl",
+  "name": "Wrist Curl (Seated One-Arm Dumbbell Palms-Down)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl/0.jpg",
     "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl/1.jpg"
   ],
-  "id": "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl"
+  "id": "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl",
+  "baseXP": 25,
+  "popularity": 2.5
 }

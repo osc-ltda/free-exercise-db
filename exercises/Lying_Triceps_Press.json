@@ -1,5 +1,5 @@
 {
-  "name": "Lying Triceps Press",
+  "name": "Press (Lying Triceps)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Lying_Triceps_Press/0.jpg",
     "Lying_Triceps_Press/1.jpg"
   ],
-  "id": "Lying_Triceps_Press"
+  "id": "Lying_Triceps_Press",
+  "baseXP": 25,
+  "popularity": 3.5
 }

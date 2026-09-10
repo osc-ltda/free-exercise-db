@@ -1,5 +1,5 @@
 {
-  "name": "Double Kettlebell Snatch",
+  "name": "Snatch (Double Kettlebell)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Double_Kettlebell_Snatch/0.jpg",
     "Double_Kettlebell_Snatch/1.jpg"
   ],
-  "id": "Double_Kettlebell_Snatch"
+  "id": "Double_Kettlebell_Snatch",
+  "baseXP": 48,
+  "popularity": 1.9
 }

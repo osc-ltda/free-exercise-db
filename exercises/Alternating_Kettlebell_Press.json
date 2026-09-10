@@ -1,5 +1,5 @@
 {
-  "name": "Alternating Kettlebell Press",
+  "name": "Kettlebell Press (Alternating)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -20,5 +20,7 @@
     "Alternating_Kettlebell_Press/0.jpg",
     "Alternating_Kettlebell_Press/1.jpg"
   ],
-  "id": "Alternating_Kettlebell_Press"
+  "id": "Alternating_Kettlebell_Press",
+  "baseXP": 36,
+  "popularity": 2.1
 }

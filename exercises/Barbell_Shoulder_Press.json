@@ -1,5 +1,5 @@
 {
-  "name": "Barbell Shoulder Press",
+  "name": "Shoulder Press (Barbell)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Barbell_Shoulder_Press/0.jpg",
     "Barbell_Shoulder_Press/1.jpg"
   ],
-  "id": "Barbell_Shoulder_Press"
+  "id": "Barbell_Shoulder_Press",
+  "baseXP": 34,
+  "popularity": 5
 }

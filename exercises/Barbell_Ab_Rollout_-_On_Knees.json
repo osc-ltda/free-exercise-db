@@ -1,5 +1,5 @@
 {
-  "name": "Barbell Ab Rollout - On Knees",
+  "name": "Barbell Ab Rollout (On Knees)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Barbell_Ab_Rollout_-_On_Knees/0.jpg",
     "Barbell_Ab_Rollout_-_On_Knees/1.jpg"
   ],
-  "id": "Barbell_Ab_Rollout_-_On_Knees"
+  "id": "Barbell_Ab_Rollout_-_On_Knees",
+  "baseXP": 50,
+  "popularity": 2.4
 }

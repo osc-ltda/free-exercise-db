@@ -1,5 +1,5 @@
 {
-  "name": "One-Arm Kettlebell Clean and Jerk",
+  "name": "Clean and Jerk (One-Arm Kettlebell)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "One-Arm_Kettlebell_Clean_and_Jerk/0.jpg",
     "One-Arm_Kettlebell_Clean_and_Jerk/1.jpg"
   ],
-  "id": "One-Arm_Kettlebell_Clean_and_Jerk"
+  "id": "One-Arm_Kettlebell_Clean_and_Jerk",
+  "baseXP": 36,
+  "popularity": 2.1
 }

@@ -19,5 +19,7 @@
     "Neck-SMR/0.jpg",
     "Neck-SMR/1.jpg"
   ],
-  "id": "Neck-SMR"
+  "id": "Neck-SMR",
+  "baseXP": 10,
+  "popularity": 0.3
 }

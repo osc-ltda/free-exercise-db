@@ -1,5 +1,5 @@
 {
-  "name": "Barbell Walking Lunge",
+  "name": "Lunge (Barbell Walking)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Barbell_Walking_Lunge/0.jpg",
     "Barbell_Walking_Lunge/1.jpg"
   ],
-  "id": "Barbell_Walking_Lunge"
+  "id": "Barbell_Walking_Lunge",
+  "baseXP": 24,
+  "popularity": 2.8
 }

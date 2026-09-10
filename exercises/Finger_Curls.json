@@ -21,5 +21,7 @@
     "Finger_Curls/0.jpg",
     "Finger_Curls/1.jpg"
   ],
-  "id": "Finger_Curls"
+  "id": "Finger_Curls",
+  "baseXP": 15,
+  "popularity": 2.7
 }

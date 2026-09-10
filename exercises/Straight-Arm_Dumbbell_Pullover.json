@@ -1,5 +1,5 @@
 {
-  "name": "Straight-Arm Dumbbell Pullover",
+  "name": "Pullover (Straight-Arm Dumbbell)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Straight-Arm_Dumbbell_Pullover/0.jpg",
     "Straight-Arm_Dumbbell_Pullover/1.jpg"
   ],
-  "id": "Straight-Arm_Dumbbell_Pullover"
+  "id": "Straight-Arm_Dumbbell_Pullover",
+  "baseXP": 32,
+  "popularity": 2.6
 }

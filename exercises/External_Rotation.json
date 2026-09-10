@@ -23,5 +23,7 @@
     "External_Rotation/0.jpg",
     "External_Rotation/1.jpg"
   ],
-  "id": "External_Rotation"
+  "id": "External_Rotation",
+  "baseXP": 15,
+  "popularity": 2.7
 }

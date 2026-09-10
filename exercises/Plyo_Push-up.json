@@ -1,5 +1,5 @@
 {
-  "name": "Plyo Push-up",
+  "name": "Push-Up (Plyo)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -24,5 +24,7 @@
     "Plyo_Push-up/0.jpg",
     "Plyo_Push-up/1.jpg"
   ],
-  "id": "Plyo_Push-up"
+  "id": "Plyo_Push-up",
+  "baseXP": 18,
+  "popularity": 1.4
 }

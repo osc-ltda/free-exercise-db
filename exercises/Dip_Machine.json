@@ -1,5 +1,5 @@
 {
-  "name": "Dip Machine",
+  "name": "Dip (Machine)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Dip_Machine/0.jpg",
     "Dip_Machine/1.jpg"
   ],
-  "id": "Dip_Machine"
+  "id": "Dip_Machine",
+  "baseXP": 18,
+  "popularity": 2.7
 }

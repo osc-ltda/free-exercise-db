@@ -1,5 +1,5 @@
 {
-  "name": "Cable Shrugs",
+  "name": "Shrugs (Cable)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Cable_Shrugs/0.jpg",
     "Cable_Shrugs/1.jpg"
   ],
-  "id": "Cable_Shrugs"
+  "id": "Cable_Shrugs",
+  "baseXP": 13,
+  "popularity": 2.6
 }

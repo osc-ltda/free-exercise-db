@@ -1,5 +1,5 @@
 {
-  "name": "Smith Machine Stiff-Legged Deadlift",
+  "name": "Deadlift (Smith Machine Stiff-Legged)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Smith_Machine_Stiff-Legged_Deadlift/0.jpg",
     "Smith_Machine_Stiff-Legged_Deadlift/1.jpg"
   ],
-  "id": "Smith_Machine_Stiff-Legged_Deadlift"
+  "id": "Smith_Machine_Stiff-Legged_Deadlift",
+  "baseXP": 21,
+  "popularity": 2.7
 }

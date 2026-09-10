@@ -1,5 +1,5 @@
 {
-  "name": "Leverage Shoulder Press",
+  "name": "Shoulder Press (Leverage)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,5 +20,7 @@
     "Leverage_Shoulder_Press/0.jpg",
     "Leverage_Shoulder_Press/1.jpg"
   ],
-  "id": "Leverage_Shoulder_Press"
+  "id": "Leverage_Shoulder_Press",
+  "baseXP": 18,
+  "popularity": 2.7
 }

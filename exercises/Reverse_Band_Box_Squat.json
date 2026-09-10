@@ -1,5 +1,5 @@
 {
-  "name": "Reverse Band Box Squat",
+  "name": "Squat (Reverse Band Box)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -27,5 +27,7 @@
     "Reverse_Band_Box_Squat/0.jpg",
     "Reverse_Band_Box_Squat/1.jpg"
   ],
-  "id": "Reverse_Band_Box_Squat"
+  "id": "Reverse_Band_Box_Squat",
+  "baseXP": 32,
+  "popularity": 2
 }

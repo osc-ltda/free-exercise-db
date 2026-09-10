@@ -1,5 +1,5 @@
 {
-  "name": "Kettlebell Hang Clean",
+  "name": "Clean (Kettlebell Hang)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -24,5 +24,7 @@
     "Kettlebell_Hang_Clean/0.jpg",
     "Kettlebell_Hang_Clean/1.jpg"
   ],
-  "id": "Kettlebell_Hang_Clean"
+  "id": "Kettlebell_Hang_Clean",
+  "baseXP": 35,
+  "popularity": 2.1
 }

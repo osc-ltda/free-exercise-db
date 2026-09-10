@@ -1,5 +1,5 @@
 {
-  "name": "Lunge Sprint",
+  "name": "Lunge (Sprint)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Lunge_Sprint/0.jpg",
     "Lunge_Sprint/1.jpg"
   ],
-  "id": "Lunge_Sprint"
+  "id": "Lunge_Sprint",
+  "baseXP": 32,
+  "popularity": 2.5
 }

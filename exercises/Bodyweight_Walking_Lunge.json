@@ -1,5 +1,5 @@
 {
-  "name": "Bodyweight Walking Lunge",
+  "name": "Lunge (Bodyweight Walking)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Bodyweight_Walking_Lunge/0.jpg",
     "Bodyweight_Walking_Lunge/1.jpg"
   ],
-  "id": "Bodyweight_Walking_Lunge"
+  "id": "Bodyweight_Walking_Lunge",
+  "baseXP": 19,
+  "popularity": 2
 }

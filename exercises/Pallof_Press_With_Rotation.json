@@ -1,5 +1,5 @@
 {
-  "name": "Pallof Press With Rotation",
+  "name": "Pallof Press (With Rotation)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -28,5 +28,7 @@
     "Pallof_Press_With_Rotation/0.jpg",
     "Pallof_Press_With_Rotation/1.jpg"
   ],
-  "id": "Pallof_Press_With_Rotation"
+  "id": "Pallof_Press_With_Rotation",
+  "baseXP": 21,
+  "popularity": 2.7
 }

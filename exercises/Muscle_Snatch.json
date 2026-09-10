@@ -1,5 +1,5 @@
 {
-  "name": "Muscle Snatch",
+  "name": "Snatch (Muscle)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -24,5 +24,7 @@
     "Muscle_Snatch/0.jpg",
     "Muscle_Snatch/1.jpg"
   ],
-  "id": "Muscle_Snatch"
+  "id": "Muscle_Snatch",
+  "baseXP": 35,
+  "popularity": 1.7
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Back Flyes - With Bands",
+  "name": "Back Flyes (With Bands)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -24,5 +24,7 @@
     "Back_Flyes_-_With_Bands/0.jpg",
     "Back_Flyes_-_With_Bands/1.jpg"
   ],
-  "id": "Back_Flyes_-_With_Bands"
+  "id": "Back_Flyes_-_With_Bands",
+  "baseXP": 19,
+  "popularity": 2.1
 }

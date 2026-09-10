@@ -20,5 +20,7 @@
     "Hamstring_Stretch/0.jpg",
     "Hamstring_Stretch/1.jpg"
   ],
-  "id": "Hamstring_Stretch"
+  "id": "Hamstring_Stretch",
+  "baseXP": 6,
+  "popularity": 0.7
 }

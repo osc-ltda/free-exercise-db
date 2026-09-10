@@ -1,5 +1,5 @@
 {
-  "name": "One-Arm Dumbbell Row",
+  "name": "Row (One-Arm Dumbbell)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -26,5 +26,7 @@
     "One-Arm_Dumbbell_Row/0.jpg",
     "One-Arm_Dumbbell_Row/1.jpg"
   ],
-  "id": "One-Arm_Dumbbell_Row"
+  "id": "One-Arm_Dumbbell_Row",
+  "baseXP": 20,
+  "popularity": 5
 }

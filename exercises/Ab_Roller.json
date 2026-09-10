@@ -21,5 +21,7 @@
     "Ab_Roller/0.jpg",
     "Ab_Roller/1.jpg"
   ],
-  "id": "Ab_Roller"
+  "id": "Ab_Roller",
+  "baseXP": 33,
+  "popularity": 1.9
 }

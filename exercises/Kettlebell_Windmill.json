@@ -23,5 +23,7 @@
     "Kettlebell_Windmill/0.jpg",
     "Kettlebell_Windmill/1.jpg"
   ],
-  "id": "Kettlebell_Windmill"
+  "id": "Kettlebell_Windmill",
+  "baseXP": 33,
+  "popularity": 2.1
 }

@@ -19,5 +19,7 @@
     "Peroneals_Stretch/0.jpg",
     "Peroneals_Stretch/1.jpg"
   ],
-  "id": "Peroneals_Stretch"
+  "id": "Peroneals_Stretch",
+  "baseXP": 10,
+  "popularity": 0.3
 }

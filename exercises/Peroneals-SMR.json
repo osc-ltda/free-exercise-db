@@ -19,5 +19,7 @@
     "Peroneals-SMR/0.jpg",
     "Peroneals-SMR/1.jpg"
   ],
-  "id": "Peroneals-SMR"
+  "id": "Peroneals-SMR",
+  "baseXP": 10,
+  "popularity": 0.2
 }

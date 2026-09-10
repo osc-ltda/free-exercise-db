@@ -23,5 +23,7 @@
     "Iron_Cross/0.jpg",
     "Iron_Cross/1.jpg"
   ],
-  "id": "Iron_Cross"
+  "id": "Iron_Cross",
+  "baseXP": 33,
+  "popularity": 2.6
 }

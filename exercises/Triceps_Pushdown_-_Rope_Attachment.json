@@ -1,5 +1,5 @@
 {
-  "name": "Triceps Pushdown - Rope Attachment",
+  "name": "Triceps Pushdown (Rope Attachment)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Triceps_Pushdown_-_Rope_Attachment/0.jpg",
     "Triceps_Pushdown_-_Rope_Attachment/1.jpg"
   ],
-  "id": "Triceps_Pushdown_-_Rope_Attachment"
+  "id": "Triceps_Pushdown_-_Rope_Attachment",
+  "baseXP": 14,
+  "popularity": 4.5
 }

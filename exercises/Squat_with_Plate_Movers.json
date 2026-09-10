@@ -1,5 +1,5 @@
 {
-  "name": "Squat with Plate Movers",
+  "name": "Squat (with Plate Movers)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -29,5 +29,7 @@
     "Squat_with_Plate_Movers/0.jpg",
     "Squat_with_Plate_Movers/1.jpg"
   ],
-  "id": "Squat_with_Plate_Movers"
+  "id": "Squat_with_Plate_Movers",
+  "baseXP": 35,
+  "popularity": 2.6
 }

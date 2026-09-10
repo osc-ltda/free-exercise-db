@@ -21,5 +21,7 @@
     "On-Your-Back_Quad_Stretch/0.jpg",
     "On-Your-Back_Quad_Stretch/1.jpg"
   ],
-  "id": "On-Your-Back_Quad_Stretch"
+  "id": "On-Your-Back_Quad_Stretch",
+  "baseXP": 6,
+  "popularity": 0.8
 }

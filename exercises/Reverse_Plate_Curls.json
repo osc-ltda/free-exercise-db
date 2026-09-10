@@ -1,5 +1,5 @@
 {
-  "name": "Reverse Plate Curls",
+  "name": "Reverse Curls (Plate)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Reverse_Plate_Curls/0.jpg",
     "Reverse_Plate_Curls/1.jpg"
   ],
-  "id": "Reverse_Plate_Curls"
+  "id": "Reverse_Plate_Curls",
+  "baseXP": 12,
+  "popularity": 2
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Kettlebell Pistol Squat",
+  "name": "Pistol Squat (Kettlebell)",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -24,5 +24,7 @@
     "Kettlebell_Pistol_Squat/0.jpg",
     "Kettlebell_Pistol_Squat/1.jpg"
   ],
-  "id": "Kettlebell_Pistol_Squat"
+  "id": "Kettlebell_Pistol_Squat",
+  "baseXP": 50,
+  "popularity": 1.9
 }

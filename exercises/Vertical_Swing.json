@@ -1,5 +1,5 @@
 {
-  "name": "Vertical Swing",
+  "name": "Swing (Vertical)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Vertical_Swing/0.jpg",
     "Vertical_Swing/1.jpg"
   ],
-  "id": "Vertical_Swing"
+  "id": "Vertical_Swing",
+  "baseXP": 21,
+  "popularity": 1.7
 }

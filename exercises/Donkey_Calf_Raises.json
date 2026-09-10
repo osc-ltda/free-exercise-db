@@ -1,5 +1,5 @@
 {
-  "name": "Donkey Calf Raises",
+  "name": "Calf Raises (Donkey)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Donkey_Calf_Raises/0.jpg",
     "Donkey_Calf_Raises/1.jpg"
   ],
-  "id": "Donkey_Calf_Raises"
+  "id": "Donkey_Calf_Raises",
+  "baseXP": 24,
+  "popularity": 1.8
 }

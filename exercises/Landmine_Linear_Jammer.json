@@ -27,5 +27,7 @@
     "Landmine_Linear_Jammer/0.jpg",
     "Landmine_Linear_Jammer/1.jpg"
   ],
-  "id": "Landmine_Linear_Jammer"
+  "id": "Landmine_Linear_Jammer",
+  "baseXP": 35,
+  "popularity": 2.6
 }

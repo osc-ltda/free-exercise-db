@@ -1,5 +1,5 @@
 {
-  "name": "Cable Deadlifts",
+  "name": "Deadlifts (Cable)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -24,5 +24,7 @@
     "Cable_Deadlifts/0.jpg",
     "Cable_Deadlifts/1.jpg"
   ],
-  "id": "Cable_Deadlifts"
+  "id": "Cable_Deadlifts",
+  "baseXP": 22,
+  "popularity": 2.7
 }

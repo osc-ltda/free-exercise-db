@@ -26,5 +26,7 @@
     "Box_Skip/0.jpg",
     "Box_Skip/1.jpg"
   ],
-  "id": "Box_Skip"
+  "id": "Box_Skip",
+  "baseXP": 22,
+  "popularity": 1
 }

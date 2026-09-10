@@ -1,5 +1,5 @@
 {
-  "name": "Cable Crunch",
+  "name": "Crunch (Cable)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Cable_Crunch/0.jpg",
     "Cable_Crunch/1.jpg"
   ],
-  "id": "Cable_Crunch"
+  "id": "Cable_Crunch",
+  "baseXP": 15,
+  "popularity": 4
 }

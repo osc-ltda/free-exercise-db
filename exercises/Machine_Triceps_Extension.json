@@ -1,5 +1,5 @@
 {
-  "name": "Machine Triceps Extension",
+  "name": "Triceps Extension (Machine)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -21,5 +21,7 @@
     "Machine_Triceps_Extension/0.jpg",
     "Machine_Triceps_Extension/1.jpg"
   ],
-  "id": "Machine_Triceps_Extension"
+  "id": "Machine_Triceps_Extension",
+  "baseXP": 13,
+  "popularity": 2.6
 }

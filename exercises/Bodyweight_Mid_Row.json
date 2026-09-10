@@ -1,5 +1,5 @@
 {
-  "name": "Bodyweight Mid Row",
+  "name": "Row (Bodyweight Mid)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -21,5 +21,7 @@
     "Bodyweight_Mid_Row/0.jpg",
     "Bodyweight_Mid_Row/1.jpg"
   ],
-  "id": "Bodyweight_Mid_Row"
+  "id": "Bodyweight_Mid_Row",
+  "baseXP": 32,
+  "popularity": 1.9
 }

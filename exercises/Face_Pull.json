@@ -1,5 +1,5 @@
 {
-  "name": "Face Pull",
+  "name": "Pull (Face)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,5 +18,7 @@
     "Face_Pull/0.jpg",
     "Face_Pull/1.jpg"
   ],
-  "id": "Face_Pull"
+  "id": "Face_Pull",
+  "baseXP": 34,
+  "popularity": 2.5
 }

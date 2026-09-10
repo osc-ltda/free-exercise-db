@@ -1,5 +1,5 @@
 {
-  "name": "Zottman Curl",
+  "name": "Curl (Zottman)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -25,5 +25,7 @@
     "Zottman_Curl/0.jpg",
     "Zottman_Curl/1.jpg"
   ],
-  "id": "Zottman_Curl"
+  "id": "Zottman_Curl",
+  "baseXP": 27,
+  "popularity": 2.5
 }

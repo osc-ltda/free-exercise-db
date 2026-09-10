@@ -1,5 +1,5 @@
 {
-  "name": "Side Leg Raises",
+  "name": "Leg Raises (Side)",
   "force": "pull",
   "level": "beginner",
   "mechanic": null,
@@ -20,5 +20,7 @@
     "Side_Leg_Raises/0.jpg",
     "Side_Leg_Raises/1.jpg"
   ],
-  "id": "Side_Leg_Raises"
+  "id": "Side_Leg_Raises",
+  "baseXP": 6,
+  "popularity": 0.9
 }

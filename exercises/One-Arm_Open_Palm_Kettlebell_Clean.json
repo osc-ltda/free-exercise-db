@@ -1,5 +1,5 @@
 {
-  "name": "One-Arm Open Palm Kettlebell Clean",
+  "name": "Clean (One-Arm Open Palm Kettlebell)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "One-Arm_Open_Palm_Kettlebell_Clean/0.jpg",
     "One-Arm_Open_Palm_Kettlebell_Clean/1.jpg"
   ],
-  "id": "One-Arm_Open_Palm_Kettlebell_Clean"
+  "id": "One-Arm_Open_Palm_Kettlebell_Clean",
+  "baseXP": 36,
+  "popularity": 2.1
 }

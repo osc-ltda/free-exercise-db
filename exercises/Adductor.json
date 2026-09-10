@@ -20,5 +20,7 @@
     "Adductor/0.jpg",
     "Adductor/1.jpg"
   ],
-  "id": "Adductor"
+  "id": "Adductor",
+  "baseXP": 10,
+  "popularity": 0.5
 }

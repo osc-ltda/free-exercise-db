@@ -1,5 +1,5 @@
 {
-  "name": "Suspended Split Squat",
+  "name": "Squat (Suspended Split)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Suspended_Split_Squat/0.jpg",
     "Suspended_Split_Squat/1.jpg"
   ],
-  "id": "Suspended_Split_Squat"
+  "id": "Suspended_Split_Squat",
+  "baseXP": 30,
+  "popularity": 1.9
 }

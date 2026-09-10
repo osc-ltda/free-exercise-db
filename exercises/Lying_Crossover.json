@@ -21,5 +21,7 @@
     "Lying_Crossover/0.jpg",
     "Lying_Crossover/1.jpg"
   ],
-  "id": "Lying_Crossover"
+  "id": "Lying_Crossover",
+  "baseXP": 13,
+  "popularity": 0.5
 }

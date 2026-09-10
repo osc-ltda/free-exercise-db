@@ -1,5 +1,5 @@
 {
-  "name": "Bent Over Dumbbell Rear Delt Raise With Head On Bench",
+  "name": "Rear Delt Raise (Bent Over Dumbbell With Head On Bench)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench/0.jpg",
     "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench/1.jpg"
   ],
-  "id": "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench"
+  "id": "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench",
+  "baseXP": 15,
+  "popularity": 2.7
 }

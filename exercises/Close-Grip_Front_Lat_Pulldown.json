@@ -1,5 +1,5 @@
 {
-  "name": "Close-Grip Front Lat Pulldown",
+  "name": "Lat Pulldown (Close-Grip Front)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Close-Grip_Front_Lat_Pulldown/0.jpg",
     "Close-Grip_Front_Lat_Pulldown/1.jpg"
   ],
-  "id": "Close-Grip_Front_Lat_Pulldown"
+  "id": "Close-Grip_Front_Lat_Pulldown",
+  "baseXP": 20,
+  "popularity": 3.5
 }

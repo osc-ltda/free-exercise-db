@@ -1,5 +1,5 @@
 {
-  "name": "Close-Grip EZ-Bar Curl with Band",
+  "name": "Curl (Close-Grip EZ-Bar with Band)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Close-Grip_EZ-Bar_Curl_with_Band/0.jpg",
     "Close-Grip_EZ-Bar_Curl_with_Band/1.jpg"
   ],
-  "id": "Close-Grip_EZ-Bar_Curl_with_Band"
+  "id": "Close-Grip_EZ-Bar_Curl_with_Band",
+  "baseXP": 15,
+  "popularity": 2.3
 }

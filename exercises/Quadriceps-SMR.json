@@ -19,5 +19,7 @@
     "Quadriceps-SMR/0.jpg",
     "Quadriceps-SMR/1.jpg"
   ],
-  "id": "Quadriceps-SMR"
+  "id": "Quadriceps-SMR",
+  "baseXP": 10,
+  "popularity": 0.5
 }

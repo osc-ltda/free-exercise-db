@@ -1,5 +1,5 @@
 {
-  "name": "Close-Grip Barbell Bench Press",
+  "name": "Bench Press (Close-Grip Barbell)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Close-Grip_Barbell_Bench_Press/0.jpg",
     "Close-Grip_Barbell_Bench_Press/1.jpg"
   ],
-  "id": "Close-Grip_Barbell_Bench_Press"
+  "id": "Close-Grip_Barbell_Bench_Press",
+  "baseXP": 22,
+  "popularity": 3.5
 }

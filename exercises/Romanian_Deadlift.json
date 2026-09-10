@@ -1,5 +1,5 @@
 {
-  "name": "Romanian Deadlift",
+  "name": "Deadlift (Romanian)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -24,5 +24,7 @@
     "Romanian_Deadlift/0.jpg",
     "Romanian_Deadlift/1.jpg"
   ],
-  "id": "Romanian_Deadlift"
+  "id": "Romanian_Deadlift",
+  "baseXP": 34,
+  "popularity": 5
 }

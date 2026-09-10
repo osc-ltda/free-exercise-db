@@ -22,5 +22,7 @@
     "Stomach_Vacuum/0.jpg",
     "Stomach_Vacuum/1.jpg"
   ],
-  "id": "Stomach_Vacuum"
+  "id": "Stomach_Vacuum",
+  "baseXP": 6,
+  "popularity": 1.2
 }

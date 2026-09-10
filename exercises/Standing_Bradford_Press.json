@@ -1,5 +1,5 @@
 {
-  "name": "Standing Bradford Press",
+  "name": "Press (Standing Bradford)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Standing_Bradford_Press/0.jpg",
     "Standing_Bradford_Press/1.jpg"
   ],
-  "id": "Standing_Bradford_Press"
+  "id": "Standing_Bradford_Press",
+  "baseXP": 22,
+  "popularity": 2.8
 }

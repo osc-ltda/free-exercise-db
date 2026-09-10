@@ -1,5 +1,5 @@
 {
-  "name": "Flat Bench Leg Pull-In",
+  "name": "Leg Pull-In (Flat Bench)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Flat_Bench_Leg_Pull-In/0.jpg",
     "Flat_Bench_Leg_Pull-In/1.jpg"
   ],
-  "id": "Flat_Bench_Leg_Pull-In"
+  "id": "Flat_Bench_Leg_Pull-In",
+  "baseXP": 20,
+  "popularity": 2.5
 }

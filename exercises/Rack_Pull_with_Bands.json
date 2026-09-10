@@ -1,5 +1,5 @@
 {
-  "name": "Rack Pull with Bands",
+  "name": "Pull (Rack with Bands)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -24,5 +24,7 @@
     "Rack_Pull_with_Bands/0.jpg",
     "Rack_Pull_with_Bands/1.jpg"
   ],
-  "id": "Rack_Pull_with_Bands"
+  "id": "Rack_Pull_with_Bands",
+  "baseXP": 32,
+  "popularity": 2
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Squat with Bands",
+  "name": "Squat (with Bands)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Squat_with_Bands/0.jpg",
     "Squat_with_Bands/1.jpg"
   ],
-  "id": "Squat_with_Bands"
+  "id": "Squat_with_Bands",
+  "baseXP": 35,
+  "popularity": 2
 }

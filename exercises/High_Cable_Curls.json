@@ -1,5 +1,5 @@
 {
-  "name": "High Cable Curls",
+  "name": "Curls (High Cable)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -21,5 +21,7 @@
     "High_Cable_Curls/0.jpg",
     "High_Cable_Curls/1.jpg"
   ],
-  "id": "High_Cable_Curls"
+  "id": "High_Cable_Curls",
+  "baseXP": 35,
+  "popularity": 2.5
 }

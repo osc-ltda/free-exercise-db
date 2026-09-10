@@ -1,5 +1,5 @@
 {
-  "name": "Ball Leg Curl",
+  "name": "Leg Curl (Ball)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Ball_Leg_Curl/0.jpg",
     "Ball_Leg_Curl/1.jpg"
   ],
-  "id": "Ball_Leg_Curl"
+  "id": "Ball_Leg_Curl",
+  "baseXP": 16,
+  "popularity": 2
 }

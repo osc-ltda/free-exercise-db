@@ -1,5 +1,5 @@
 {
-  "name": "Rear Leg Raises",
+  "name": "Leg Raises (Rear)",
   "force": "push",
   "level": "beginner",
   "mechanic": null,
@@ -19,5 +19,7 @@
     "Rear_Leg_Raises/0.jpg",
     "Rear_Leg_Raises/1.jpg"
   ],
-  "id": "Rear_Leg_Raises"
+  "id": "Rear_Leg_Raises",
+  "baseXP": 6,
+  "popularity": 0.9
 }

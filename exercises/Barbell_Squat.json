@@ -1,5 +1,5 @@
 {
-  "name": "Barbell Squat",
+  "name": "Squat (Barbell)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -26,5 +26,7 @@
     "Barbell_Squat/0.jpg",
     "Barbell_Squat/1.jpg"
   ],
-  "id": "Barbell_Squat"
+  "id": "Barbell_Squat",
+  "baseXP": 24,
+  "popularity": 6
 }

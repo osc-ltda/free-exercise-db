@@ -1,5 +1,5 @@
 {
-  "name": "Kneeling Squat",
+  "name": "Squat (Kneeling)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Kneeling_Squat/0.jpg",
     "Kneeling_Squat/1.jpg"
   ],
-  "id": "Kneeling_Squat"
+  "id": "Kneeling_Squat",
+  "baseXP": 34,
+  "popularity": 2
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Standing Bent-Over One-Arm Dumbbell Triceps Extension",
+  "name": "Triceps Extension (Standing Bent-Over One-Arm Dumbbell)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension/0.jpg",
     "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension/1.jpg"
   ],
-  "id": "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension"
+  "id": "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension",
+  "baseXP": 18,
+  "popularity": 2.7
 }

@@ -21,5 +21,7 @@
     "Wind_Sprints/0.jpg",
     "Wind_Sprints/1.jpg"
   ],
-  "id": "Wind_Sprints"
+  "id": "Wind_Sprints",
+  "baseXP": 18,
+  "popularity": 2.5
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Seated Cable Rows",
+  "name": "Rows (Seated Cable)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -24,5 +24,7 @@
     "Seated_Cable_Rows/0.jpg",
     "Seated_Cable_Rows/1.jpg"
   ],
-  "id": "Seated_Cable_Rows"
+  "id": "Seated_Cable_Rows",
+  "baseXP": 20,
+  "popularity": 5
 }

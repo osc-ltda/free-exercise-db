@@ -1,5 +1,5 @@
 {
-  "name": "Clean Pull",
+  "name": "Clean (Pull)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -24,5 +24,7 @@
     "Clean_Pull/0.jpg",
     "Clean_Pull/1.jpg"
   ],
-  "id": "Clean_Pull"
+  "id": "Clean_Pull",
+  "baseXP": 32,
+  "popularity": 1.7
 }

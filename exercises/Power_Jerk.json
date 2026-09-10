@@ -1,5 +1,5 @@
 {
-  "name": "Power Jerk",
+  "name": "Jerk (Power)",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -27,5 +27,7 @@
     "Power_Jerk/0.jpg",
     "Power_Jerk/1.jpg"
   ],
-  "id": "Power_Jerk"
+  "id": "Power_Jerk",
+  "baseXP": 50,
+  "popularity": 1.5
 }

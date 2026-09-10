@@ -1,5 +1,5 @@
 {
-  "name": "Preacher Hammer Dumbbell Curl",
+  "name": "Preacher Hammer Curl (Dumbbell)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -21,5 +21,7 @@
     "Preacher_Hammer_Dumbbell_Curl/0.jpg",
     "Preacher_Hammer_Dumbbell_Curl/1.jpg"
   ],
-  "id": "Preacher_Hammer_Dumbbell_Curl"
+  "id": "Preacher_Hammer_Dumbbell_Curl",
+  "baseXP": 17,
+  "popularity": 2.7
 }

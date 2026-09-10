@@ -1,5 +1,5 @@
 {
-  "name": "Kettlebell Turkish Get-Up (Lunge style)",
+  "name": "Lunge (Kettlebell Turkish Get-Up style)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Kettlebell_Turkish_Get-Up_Lunge_style/0.jpg",
     "Kettlebell_Turkish_Get-Up_Lunge_style/1.jpg"
   ],
-  "id": "Kettlebell_Turkish_Get-Up_Lunge_style"
+  "id": "Kettlebell_Turkish_Get-Up_Lunge_style",
+  "baseXP": 34,
+  "popularity": 2.1
 }

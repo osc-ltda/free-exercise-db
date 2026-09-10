@@ -1,5 +1,5 @@
 {
-  "name": "Band Assisted Pull-Up",
+  "name": "Pull-Up (Band Assisted)",
   "force": null,
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Band_Assisted_Pull-Up/0.jpg",
     "Band_Assisted_Pull-Up/1.jpg"
   ],
-  "id": "Band_Assisted_Pull-Up"
+  "id": "Band_Assisted_Pull-Up",
+  "baseXP": 22,
+  "popularity": 2.1
 }

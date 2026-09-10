@@ -1,5 +1,5 @@
 {
-  "name": "Snatch Balance",
+  "name": "Snatch (Balance)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Snatch_Balance/0.jpg",
     "Snatch_Balance/1.jpg"
   ],
-  "id": "Snatch_Balance"
+  "id": "Snatch_Balance",
+  "baseXP": 35,
+  "popularity": 1.7
 }

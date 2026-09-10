@@ -21,5 +21,7 @@
     "Glute_Ham_Raise/0.jpg",
     "Glute_Ham_Raise/1.jpg"
   ],
-  "id": "Glute_Ham_Raise"
+  "id": "Glute_Ham_Raise",
+  "baseXP": 32,
+  "popularity": 1.9
 }

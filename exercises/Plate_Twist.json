@@ -1,5 +1,5 @@
 {
-  "name": "Plate Twist",
+  "name": "Twist (Plate)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Plate_Twist/0.jpg",
     "Plate_Twist/1.jpg"
   ],
-  "id": "Plate_Twist"
+  "id": "Plate_Twist",
+  "baseXP": 33,
+  "popularity": 1.9
 }

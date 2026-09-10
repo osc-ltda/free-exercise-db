@@ -1,5 +1,5 @@
 {
-  "name": "Elevated Back Lunge",
+  "name": "Lunge (Elevated Back)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Elevated_Back_Lunge/0.jpg",
     "Elevated_Back_Lunge/1.jpg"
   ],
-  "id": "Elevated_Back_Lunge"
+  "id": "Elevated_Back_Lunge",
+  "baseXP": 33,
+  "popularity": 2.6
 }

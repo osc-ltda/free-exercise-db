@@ -1,5 +1,5 @@
 {
-  "name": "Hang Clean",
+  "name": "Clean (Hang)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -26,5 +26,7 @@
     "Hang_Clean/0.jpg",
     "Hang_Clean/1.jpg"
   ],
-  "id": "Hang_Clean"
+  "id": "Hang_Clean",
+  "baseXP": 35,
+  "popularity": 1.7
 }

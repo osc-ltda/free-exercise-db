@@ -1,5 +1,5 @@
 {
-  "name": "Seated Palm-Up Barbell Wrist Curl",
+  "name": "Wrist Curl (Seated Palm-Up Barbell)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Seated_Palm-Up_Barbell_Wrist_Curl/0.jpg",
     "Seated_Palm-Up_Barbell_Wrist_Curl/1.jpg"
   ],
-  "id": "Seated_Palm-Up_Barbell_Wrist_Curl"
+  "id": "Seated_Palm-Up_Barbell_Wrist_Curl",
+  "baseXP": 16,
+  "popularity": 2.7
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Lunge Pass Through",
+  "name": "Lunge (Pass Through)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -24,5 +24,7 @@
     "Lunge_Pass_Through/0.jpg",
     "Lunge_Pass_Through/1.jpg"
   ],
-  "id": "Lunge_Pass_Through"
+  "id": "Lunge_Pass_Through",
+  "baseXP": 33,
+  "popularity": 2.1
 }

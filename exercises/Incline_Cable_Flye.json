@@ -1,5 +1,5 @@
 {
-  "name": "Incline Cable Flye",
+  "name": "Fly (Incline Cable)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Incline_Cable_Flye/0.jpg",
     "Incline_Cable_Flye/1.jpg"
   ],
-  "id": "Incline_Cable_Flye"
+  "id": "Incline_Cable_Flye",
+  "baseXP": 23,
+  "popularity": 2.4
 }

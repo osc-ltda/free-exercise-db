@@ -19,5 +19,7 @@
     "Lower_Back-SMR/0.jpg",
     "Lower_Back-SMR/1.jpg"
   ],
-  "id": "Lower_Back-SMR"
+  "id": "Lower_Back-SMR",
+  "baseXP": 6,
+  "popularity": 0.4
 }

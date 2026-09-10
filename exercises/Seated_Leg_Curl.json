@@ -1,5 +1,5 @@
 {
-  "name": "Seated Leg Curl",
+  "name": "Leg Curl (Seated)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Seated_Leg_Curl/0.jpg",
     "Seated_Leg_Curl/1.jpg"
   ],
-  "id": "Seated_Leg_Curl"
+  "id": "Seated_Leg_Curl",
+  "baseXP": 14,
+  "popularity": 4.5
 }

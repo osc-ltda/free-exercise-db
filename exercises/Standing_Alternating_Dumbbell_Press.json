@@ -1,5 +1,5 @@
 {
-  "name": "Standing Alternating Dumbbell Press",
+  "name": "Press (Standing Alternating Dumbbell)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -21,5 +21,7 @@
     "Standing_Alternating_Dumbbell_Press/0.jpg",
     "Standing_Alternating_Dumbbell_Press/1.jpg"
   ],
-  "id": "Standing_Alternating_Dumbbell_Press"
+  "id": "Standing_Alternating_Dumbbell_Press",
+  "baseXP": 21,
+  "popularity": 2.8
 }

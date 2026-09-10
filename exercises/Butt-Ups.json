@@ -22,5 +22,7 @@
     "Butt-Ups/0.jpg",
     "Butt-Ups/1.jpg"
   ],
-  "id": "Butt-Ups"
+  "id": "Butt-Ups",
+  "baseXP": 18,
+  "popularity": 2.5
 }

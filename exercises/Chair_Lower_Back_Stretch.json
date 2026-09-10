@@ -20,5 +20,7 @@
     "Chair_Lower_Back_Stretch/0.jpg",
     "Chair_Lower_Back_Stretch/1.jpg"
   ],
-  "id": "Chair_Lower_Back_Stretch"
+  "id": "Chair_Lower_Back_Stretch",
+  "baseXP": 6,
+  "popularity": 0.7
 }

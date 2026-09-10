@@ -1,5 +1,5 @@
 {
-  "name": "Incline Bench Pull",
+  "name": "Pull (Incline Bench)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -25,5 +25,7 @@
     "Incline_Bench_Pull/0.jpg",
     "Incline_Bench_Pull/1.jpg"
   ],
-  "id": "Incline_Bench_Pull"
+  "id": "Incline_Bench_Pull",
+  "baseXP": 16,
+  "popularity": 2.7
 }

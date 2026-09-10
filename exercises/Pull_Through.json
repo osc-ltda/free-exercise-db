@@ -1,5 +1,5 @@
 {
-  "name": "Pull Through",
+  "name": "Pull (Through)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,5 +20,7 @@
     "Pull_Through/0.jpg",
     "Pull_Through/1.jpg"
   ],
-  "id": "Pull_Through"
+  "id": "Pull_Through",
+  "baseXP": 22,
+  "popularity": 2.7
 }

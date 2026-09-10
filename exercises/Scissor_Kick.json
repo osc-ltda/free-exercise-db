@@ -22,5 +22,7 @@
     "Scissor_Kick/0.jpg",
     "Scissor_Kick/1.jpg"
   ],
-  "id": "Scissor_Kick"
+  "id": "Scissor_Kick",
+  "baseXP": 6,
+  "popularity": 1.2
 }

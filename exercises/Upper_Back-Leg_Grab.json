@@ -20,5 +20,7 @@
     "Upper_Back-Leg_Grab/0.jpg",
     "Upper_Back-Leg_Grab/1.jpg"
   ],
-  "id": "Upper_Back-Leg_Grab"
+  "id": "Upper_Back-Leg_Grab",
+  "baseXP": 6,
+  "popularity": 0.4
 }

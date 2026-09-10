@@ -1,5 +1,5 @@
 {
-  "name": "V-Bar Pulldown",
+  "name": "Pulldown (V-Bar)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "V-Bar_Pulldown/0.jpg",
     "V-Bar_Pulldown/1.jpg"
   ],
-  "id": "V-Bar_Pulldown"
+  "id": "V-Bar_Pulldown",
+  "baseXP": 34,
+  "popularity": 2.5
 }

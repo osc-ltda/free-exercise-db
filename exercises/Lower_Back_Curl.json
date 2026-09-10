@@ -1,5 +1,5 @@
 {
-  "name": "Lower Back Curl",
+  "name": "Curl (Lower Back)",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -19,5 +19,7 @@
     "Lower_Back_Curl/0.jpg",
     "Lower_Back_Curl/1.jpg"
   ],
-  "id": "Lower_Back_Curl"
+  "id": "Lower_Back_Curl",
+  "baseXP": 6,
+  "popularity": 0.9
 }

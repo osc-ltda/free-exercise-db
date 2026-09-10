@@ -21,5 +21,7 @@
     "Speed_Band_Overhead_Triceps/0.jpg",
     "Speed_Band_Overhead_Triceps/1.jpg"
   ],
-  "id": "Speed_Band_Overhead_Triceps"
+  "id": "Speed_Band_Overhead_Triceps",
+  "baseXP": 14,
+  "popularity": 2
 }

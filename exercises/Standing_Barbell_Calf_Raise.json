@@ -1,5 +1,5 @@
 {
-  "name": "Standing Barbell Calf Raise",
+  "name": "Calf Raise (Standing Barbell)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Standing_Barbell_Calf_Raise/0.jpg",
     "Standing_Barbell_Calf_Raise/1.jpg"
   ],
-  "id": "Standing_Barbell_Calf_Raise"
+  "id": "Standing_Barbell_Calf_Raise",
+  "baseXP": 18,
+  "popularity": 2.7
 }

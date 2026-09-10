@@ -1,5 +1,5 @@
 {
-  "name": "Low Pulley Row To Neck",
+  "name": "Row (Low Pulley To Neck)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -24,5 +24,7 @@
     "Low_Pulley_Row_To_Neck/0.jpg",
     "Low_Pulley_Row_To_Neck/1.jpg"
   ],
-  "id": "Low_Pulley_Row_To_Neck"
+  "id": "Low_Pulley_Row_To_Neck",
+  "baseXP": 23,
+  "popularity": 2.7
 }

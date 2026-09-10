@@ -1,5 +1,5 @@
 {
-  "name": "3/4 Sit-Up",
+  "name": "Sit-Up (3/4)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "3_4_Sit-Up/0.jpg",
     "3_4_Sit-Up/1.jpg"
   ],
-  "id": "3_4_Sit-Up"
+  "id": "3_4_Sit-Up",
+  "baseXP": 19,
+  "popularity": 2.5
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Stiff-Legged Dumbbell Deadlift",
+  "name": "Deadlift (Stiff-Legged Dumbbell)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Stiff-Legged_Dumbbell_Deadlift/0.jpg",
     "Stiff-Legged_Dumbbell_Deadlift/1.jpg"
   ],
-  "id": "Stiff-Legged_Dumbbell_Deadlift"
+  "id": "Stiff-Legged_Dumbbell_Deadlift",
+  "baseXP": 23,
+  "popularity": 2.8
 }

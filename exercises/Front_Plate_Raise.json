@@ -1,5 +1,5 @@
 {
-  "name": "Front Plate Raise",
+  "name": "Front Raise (Plate)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -21,5 +21,7 @@
     "Front_Plate_Raise/0.jpg",
     "Front_Plate_Raise/1.jpg"
   ],
-  "id": "Front_Plate_Raise"
+  "id": "Front_Plate_Raise",
+  "baseXP": 23,
+  "popularity": 1.8
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Hammer Grip Incline DB Bench Press",
+  "name": "Bench Press (Hammer Grip Incline DB)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Hammer_Grip_Incline_DB_Bench_Press/0.jpg",
     "Hammer_Grip_Incline_DB_Bench_Press/1.jpg"
   ],
-  "id": "Hammer_Grip_Incline_DB_Bench_Press"
+  "id": "Hammer_Grip_Incline_DB_Bench_Press",
+  "baseXP": 23,
+  "popularity": 2.8
 }

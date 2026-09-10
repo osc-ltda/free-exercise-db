@@ -1,5 +1,5 @@
 {
-  "name": "Car Deadlift",
+  "name": "Deadlift (Car)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Car_Deadlift/0.jpg",
     "Car_Deadlift/1.jpg"
   ],
-  "id": "Car_Deadlift"
+  "id": "Car_Deadlift",
+  "baseXP": 34,
+  "popularity": 0.8
 }

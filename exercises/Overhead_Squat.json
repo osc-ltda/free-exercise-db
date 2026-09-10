@@ -1,5 +1,5 @@
 {
-  "name": "Overhead Squat",
+  "name": "Squat (Overhead)",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -29,5 +29,7 @@
     "Overhead_Squat/0.jpg",
     "Overhead_Squat/1.jpg"
   ],
-  "id": "Overhead_Squat"
+  "id": "Overhead_Squat",
+  "baseXP": 48,
+  "popularity": 1.5
 }

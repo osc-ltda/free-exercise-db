@@ -1,5 +1,5 @@
 {
-  "name": "Bottoms-Up Clean From The Hang Position",
+  "name": "Clean (Bottoms-Up From The Hang Position)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -20,5 +20,7 @@
     "Bottoms-Up_Clean_From_The_Hang_Position/0.jpg",
     "Bottoms-Up_Clean_From_The_Hang_Position/1.jpg"
   ],
-  "id": "Bottoms-Up_Clean_From_The_Hang_Position"
+  "id": "Bottoms-Up_Clean_From_The_Hang_Position",
+  "baseXP": 35,
+  "popularity": 2.1
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Barbell Deadlift",
+  "name": "Deadlift (Barbell)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -29,5 +29,7 @@
     "Barbell_Deadlift/0.jpg",
     "Barbell_Deadlift/1.jpg"
   ],
-  "id": "Barbell_Deadlift"
+  "id": "Barbell_Deadlift",
+  "baseXP": 34,
+  "popularity": 6
 }

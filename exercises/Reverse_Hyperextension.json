@@ -23,5 +23,7 @@
     "Reverse_Hyperextension/0.jpg",
     "Reverse_Hyperextension/1.jpg"
   ],
-  "id": "Reverse_Hyperextension"
+  "id": "Reverse_Hyperextension",
+  "baseXP": 25,
+  "popularity": 2.1
 }

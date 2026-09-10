@@ -1,5 +1,5 @@
 {
-  "name": "Weighted Crunches",
+  "name": "Crunch (Weighted)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Weighted_Crunches/0.jpg",
     "Weighted_Crunches/1.jpg"
   ],
-  "id": "Weighted_Crunches"
+  "id": "Weighted_Crunches",
+  "baseXP": 13,
+  "popularity": 2
 }

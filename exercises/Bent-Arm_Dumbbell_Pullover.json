@@ -1,5 +1,5 @@
 {
-  "name": "Bent-Arm Dumbbell Pullover",
+  "name": "Pullover (Bent-Arm Dumbbell)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Bent-Arm_Dumbbell_Pullover/0.jpg",
     "Bent-Arm_Dumbbell_Pullover/1.jpg"
   ],
-  "id": "Bent-Arm_Dumbbell_Pullover"
+  "id": "Bent-Arm_Dumbbell_Pullover",
+  "baseXP": 36,
+  "popularity": 2.6
 }

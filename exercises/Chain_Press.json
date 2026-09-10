@@ -1,5 +1,5 @@
 {
-  "name": "Chain Press",
+  "name": "Press (Chain)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -21,5 +21,7 @@
     "Chain_Press/0.jpg",
     "Chain_Press/1.jpg"
   ],
-  "id": "Chain_Press"
+  "id": "Chain_Press",
+  "baseXP": 32,
+  "popularity": 1.3
 }

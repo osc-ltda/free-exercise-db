@@ -1,5 +1,5 @@
 {
-  "name": "Alternate Hammer Curl",
+  "name": "Curl (Alternate Hammer)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Alternate_Hammer_Curl/0.jpg",
     "Alternate_Hammer_Curl/1.jpg"
   ],
-  "id": "Alternate_Hammer_Curl"
+  "id": "Alternate_Hammer_Curl",
+  "baseXP": 17,
+  "popularity": 2.7
 }

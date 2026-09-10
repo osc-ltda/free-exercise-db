@@ -1,5 +1,5 @@
 {
-  "name": "Dumbbell Seated One-Leg Calf Raise",
+  "name": "Calf Raise (Dumbbell Seated One-Leg)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Dumbbell_Seated_One-Leg_Calf_Raise/0.jpg",
     "Dumbbell_Seated_One-Leg_Calf_Raise/1.jpg"
   ],
-  "id": "Dumbbell_Seated_One-Leg_Calf_Raise"
+  "id": "Dumbbell_Seated_One-Leg_Calf_Raise",
+  "baseXP": 15,
+  "popularity": 2.7
 }

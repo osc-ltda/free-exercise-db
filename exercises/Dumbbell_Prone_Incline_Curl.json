@@ -1,5 +1,5 @@
 {
-  "name": "Dumbbell Prone Incline Curl",
+  "name": "Curl (Dumbbell Prone Incline)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Dumbbell_Prone_Incline_Curl/0.jpg",
     "Dumbbell_Prone_Incline_Curl/1.jpg"
   ],
-  "id": "Dumbbell_Prone_Incline_Curl"
+  "id": "Dumbbell_Prone_Incline_Curl",
+  "baseXP": 24,
+  "popularity": 2.5
 }

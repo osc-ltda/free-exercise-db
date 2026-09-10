@@ -1,5 +1,5 @@
 {
-  "name": "Barbell Lunge",
+  "name": "Lunge (Barbell)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -24,5 +24,7 @@
     "Barbell_Lunge/0.jpg",
     "Barbell_Lunge/1.jpg"
   ],
-  "id": "Barbell_Lunge"
+  "id": "Barbell_Lunge",
+  "baseXP": 35,
+  "popularity": 3.5
 }

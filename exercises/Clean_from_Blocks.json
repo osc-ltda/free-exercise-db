@@ -1,5 +1,5 @@
 {
-  "name": "Clean from Blocks",
+  "name": "Clean (from Blocks)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Clean_from_Blocks/0.jpg",
     "Clean_from_Blocks/1.jpg"
   ],
-  "id": "Clean_from_Blocks"
+  "id": "Clean_from_Blocks",
+  "baseXP": 36,
+  "popularity": 1.7
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Two-Arm Kettlebell Jerk",
+  "name": "Jerk (Two-Arm Kettlebell)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -20,5 +20,7 @@
     "Two-Arm_Kettlebell_Jerk/0.jpg",
     "Two-Arm_Kettlebell_Jerk/1.jpg"
   ],
-  "id": "Two-Arm_Kettlebell_Jerk"
+  "id": "Two-Arm_Kettlebell_Jerk",
+  "baseXP": 34,
+  "popularity": 2.1
 }

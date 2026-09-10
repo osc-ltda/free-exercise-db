@@ -1,5 +1,5 @@
 {
-  "name": "Push Press - Behind the Neck",
+  "name": "Push Press (Behind the Neck)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Push_Press_-_Behind_the_Neck/0.jpg",
     "Push_Press_-_Behind_the_Neck/1.jpg"
   ],
-  "id": "Push_Press_-_Behind_the_Neck"
+  "id": "Push_Press_-_Behind_the_Neck",
+  "baseXP": 35,
+  "popularity": 1.7
 }

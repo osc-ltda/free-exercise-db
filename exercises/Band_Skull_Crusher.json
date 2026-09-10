@@ -20,5 +20,7 @@
     "Band_Skull_Crusher/0.jpg",
     "Band_Skull_Crusher/1.jpg"
   ],
-  "id": "Band_Skull_Crusher"
+  "id": "Band_Skull_Crusher",
+  "baseXP": 13,
+  "popularity": 2
 }

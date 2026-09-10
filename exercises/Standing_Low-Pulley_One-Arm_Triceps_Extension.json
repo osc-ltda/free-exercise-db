@@ -1,5 +1,5 @@
 {
-  "name": "Standing Low-Pulley One-Arm Triceps Extension",
+  "name": "Triceps Extension (Standing Low-Pulley One-Arm)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Standing_Low-Pulley_One-Arm_Triceps_Extension/0.jpg",
     "Standing_Low-Pulley_One-Arm_Triceps_Extension/1.jpg"
   ],
-  "id": "Standing_Low-Pulley_One-Arm_Triceps_Extension"
+  "id": "Standing_Low-Pulley_One-Arm_Triceps_Extension",
+  "baseXP": 24,
+  "popularity": 2.4
 }

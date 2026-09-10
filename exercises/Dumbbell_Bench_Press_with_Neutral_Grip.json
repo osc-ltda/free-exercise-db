@@ -1,5 +1,5 @@
 {
-  "name": "Dumbbell Bench Press with Neutral Grip",
+  "name": "Bench Press (Dumbbell with Neutral Grip)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Dumbbell_Bench_Press_with_Neutral_Grip/0.jpg",
     "Dumbbell_Bench_Press_with_Neutral_Grip/1.jpg"
   ],
-  "id": "Dumbbell_Bench_Press_with_Neutral_Grip"
+  "id": "Dumbbell_Bench_Press_with_Neutral_Grip",
+  "baseXP": 23,
+  "popularity": 2.8
 }

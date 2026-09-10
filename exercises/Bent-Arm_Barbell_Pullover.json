@@ -1,5 +1,5 @@
 {
-  "name": "Bent-Arm Barbell Pullover",
+  "name": "Pullover (Bent-Arm Barbell)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Bent-Arm_Barbell_Pullover/0.jpg",
     "Bent-Arm_Barbell_Pullover/1.jpg"
   ],
-  "id": "Bent-Arm_Barbell_Pullover"
+  "id": "Bent-Arm_Barbell_Pullover",
+  "baseXP": 33,
+  "popularity": 2.6
 }

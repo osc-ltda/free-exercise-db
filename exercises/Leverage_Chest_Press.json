@@ -1,5 +1,5 @@
 {
-  "name": "Leverage Chest Press",
+  "name": "Press (Leverage Chest)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Leverage_Chest_Press/0.jpg",
     "Leverage_Chest_Press/1.jpg"
   ],
-  "id": "Leverage_Chest_Press"
+  "id": "Leverage_Chest_Press",
+  "baseXP": 18,
+  "popularity": 2.7
 }

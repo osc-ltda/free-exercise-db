@@ -1,5 +1,5 @@
 {
-  "name": "Smith Machine Hang Power Clean",
+  "name": "Clean (Smith Machine Hang Power)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -27,5 +27,7 @@
     "Smith_Machine_Hang_Power_Clean/0.jpg",
     "Smith_Machine_Hang_Power_Clean/1.jpg"
   ],
-  "id": "Smith_Machine_Hang_Power_Clean"
+  "id": "Smith_Machine_Hang_Power_Clean",
+  "baseXP": 33,
+  "popularity": 2.5
 }

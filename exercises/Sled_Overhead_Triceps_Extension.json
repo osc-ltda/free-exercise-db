@@ -1,5 +1,5 @@
 {
-  "name": "Sled Overhead Triceps Extension",
+  "name": "Triceps Extension (Sled Overhead)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -21,5 +21,7 @@
     "Sled_Overhead_Triceps_Extension/0.jpg",
     "Sled_Overhead_Triceps_Extension/1.jpg"
   ],
-  "id": "Sled_Overhead_Triceps_Extension"
+  "id": "Sled_Overhead_Triceps_Extension",
+  "baseXP": 13,
+  "popularity": 2
 }

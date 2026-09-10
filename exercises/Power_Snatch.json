@@ -1,5 +1,5 @@
 {
-  "name": "Power Snatch",
+  "name": "Snatch (Power)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -28,5 +28,7 @@
     "Power_Snatch/0.jpg",
     "Power_Snatch/1.jpg"
   ],
-  "id": "Power_Snatch"
+  "id": "Power_Snatch",
+  "baseXP": 50,
+  "popularity": 1.5
 }

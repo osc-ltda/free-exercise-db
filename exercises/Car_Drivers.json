@@ -21,5 +21,7 @@
     "Car_Drivers/0.jpg",
     "Car_Drivers/1.jpg"
   ],
-  "id": "Car_Drivers"
+  "id": "Car_Drivers",
+  "baseXP": 15,
+  "popularity": 2.7
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Close-Grip Dumbbell Press",
+  "name": "Press (Close-Grip Dumbbell)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Close-Grip_Dumbbell_Press/0.jpg",
     "Close-Grip_Dumbbell_Press/1.jpg"
   ],
-  "id": "Close-Grip_Dumbbell_Press"
+  "id": "Close-Grip_Dumbbell_Press",
+  "baseXP": 22,
+  "popularity": 2.8
 }

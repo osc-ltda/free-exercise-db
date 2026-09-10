@@ -23,5 +23,7 @@
     "Reverse_Flyes/0.jpg",
     "Reverse_Flyes/1.jpg"
   ],
-  "id": "Reverse_Flyes"
+  "id": "Reverse_Flyes",
+  "baseXP": 18,
+  "popularity": 3.5
 }

@@ -22,5 +22,7 @@
     "Scissors_Jump/0.jpg",
     "Scissors_Jump/1.jpg"
   ],
-  "id": "Scissors_Jump"
+  "id": "Scissors_Jump",
+  "baseXP": 18,
+  "popularity": 1.4
 }

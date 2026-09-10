@@ -1,5 +1,5 @@
 {
-  "name": "Cable Seated Lateral Raise",
+  "name": "Seated Lateral Raise (Cable)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -25,5 +25,7 @@
     "Cable_Seated_Lateral_Raise/0.jpg",
     "Cable_Seated_Lateral_Raise/1.jpg"
   ],
-  "id": "Cable_Seated_Lateral_Raise"
+  "id": "Cable_Seated_Lateral_Raise",
+  "baseXP": 13,
+  "popularity": 2.6
 }

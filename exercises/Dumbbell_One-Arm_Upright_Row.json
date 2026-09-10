@@ -1,5 +1,5 @@
 {
-  "name": "Dumbbell One-Arm Upright Row",
+  "name": "Upright Row (Dumbbell One-Arm)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Dumbbell_One-Arm_Upright_Row/0.jpg",
     "Dumbbell_One-Arm_Upright_Row/1.jpg"
   ],
-  "id": "Dumbbell_One-Arm_Upright_Row"
+  "id": "Dumbbell_One-Arm_Upright_Row",
+  "baseXP": 35,
+  "popularity": 2.6
 }

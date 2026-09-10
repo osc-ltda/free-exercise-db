@@ -23,5 +23,7 @@
     "Isometric_Wipers/0.jpg",
     "Isometric_Wipers/1.jpg"
   ],
-  "id": "Isometric_Wipers"
+  "id": "Isometric_Wipers",
+  "baseXP": 20,
+  "popularity": 2.5
 }

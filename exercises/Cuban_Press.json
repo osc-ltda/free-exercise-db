@@ -1,5 +1,5 @@
 {
-  "name": "Cuban Press",
+  "name": "Press (Cuban)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Cuban_Press/0.jpg",
     "Cuban_Press/1.jpg"
   ],
-  "id": "Cuban_Press"
+  "id": "Cuban_Press",
+  "baseXP": 36,
+  "popularity": 2.6
 }

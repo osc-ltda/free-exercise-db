@@ -19,5 +19,7 @@
     "Calves-SMR/0.jpg",
     "Calves-SMR/1.jpg"
   ],
-  "id": "Calves-SMR"
+  "id": "Calves-SMR",
+  "baseXP": 10,
+  "popularity": 0.2
 }

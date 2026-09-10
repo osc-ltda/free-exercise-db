@@ -1,5 +1,5 @@
 {
-  "name": "Seated Close-Grip Concentration Barbell Curl",
+  "name": "Concentration Curl (Seated Close-Grip Barbell)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Seated_Close-Grip_Concentration_Barbell_Curl/0.jpg",
     "Seated_Close-Grip_Concentration_Barbell_Curl/1.jpg"
   ],
-  "id": "Seated_Close-Grip_Concentration_Barbell_Curl"
+  "id": "Seated_Close-Grip_Concentration_Barbell_Curl",
+  "baseXP": 25,
+  "popularity": 2.5
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Cross-Body Crunch",
+  "name": "Crunch (Cross-Body)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Cross-Body_Crunch/0.jpg",
     "Cross-Body_Crunch/1.jpg"
   ],
-  "id": "Cross-Body_Crunch"
+  "id": "Cross-Body_Crunch",
+  "baseXP": 19,
+  "popularity": 3
 }

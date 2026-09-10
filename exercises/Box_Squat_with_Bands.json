@@ -1,5 +1,5 @@
 {
-  "name": "Box Squat with Bands",
+  "name": "Squat (Box with Bands)",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -26,5 +26,7 @@
     "Box_Squat_with_Bands/0.jpg",
     "Box_Squat_with_Bands/1.jpg"
   ],
-  "id": "Box_Squat_with_Bands"
+  "id": "Box_Squat_with_Bands",
+  "baseXP": 47,
+  "popularity": 1.8
 }

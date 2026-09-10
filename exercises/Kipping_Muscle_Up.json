@@ -28,5 +28,7 @@
     "Kipping_Muscle_Up/0.jpg",
     "Kipping_Muscle_Up/1.jpg"
   ],
-  "id": "Kipping_Muscle_Up"
+  "id": "Kipping_Muscle_Up",
+  "baseXP": 31,
+  "popularity": 1.9
 }

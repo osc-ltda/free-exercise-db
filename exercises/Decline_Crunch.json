@@ -1,5 +1,5 @@
 {
-  "name": "Decline Crunch",
+  "name": "Crunch (Decline)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Decline_Crunch/0.jpg",
     "Decline_Crunch/1.jpg"
   ],
-  "id": "Decline_Crunch"
+  "id": "Decline_Crunch",
+  "baseXP": 25,
+  "popularity": 3
 }

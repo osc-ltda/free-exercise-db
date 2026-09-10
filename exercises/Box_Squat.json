@@ -1,5 +1,5 @@
 {
-  "name": "Box Squat",
+  "name": "Squat (Box)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Box_Squat/0.jpg",
     "Box_Squat/1.jpg"
   ],
-  "id": "Box_Squat"
+  "id": "Box_Squat",
+  "baseXP": 35,
+  "popularity": 2
 }

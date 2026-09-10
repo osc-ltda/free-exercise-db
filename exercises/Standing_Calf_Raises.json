@@ -1,5 +1,5 @@
 {
-  "name": "Standing Calf Raises",
+  "name": "Calf Raises (Standing)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Standing_Calf_Raises/0.jpg",
     "Standing_Calf_Raises/1.jpg"
   ],
-  "id": "Standing_Calf_Raises"
+  "id": "Standing_Calf_Raises",
+  "baseXP": 13,
+  "popularity": 4.5
 }

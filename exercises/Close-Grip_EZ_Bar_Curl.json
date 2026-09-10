@@ -1,5 +1,5 @@
 {
-  "name": "Close-Grip EZ Bar Curl",
+  "name": "Curl (Close-Grip EZ Bar)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Close-Grip_EZ_Bar_Curl/0.jpg",
     "Close-Grip_EZ_Bar_Curl/1.jpg"
   ],
-  "id": "Close-Grip_EZ_Bar_Curl"
+  "id": "Close-Grip_EZ_Bar_Curl",
+  "baseXP": 18,
+  "popularity": 2.7
 }

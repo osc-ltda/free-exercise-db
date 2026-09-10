@@ -21,5 +21,7 @@
     "Leg_Extensions/0.jpg",
     "Leg_Extensions/1.jpg"
   ],
-  "id": "Leg_Extensions"
+  "id": "Leg_Extensions",
+  "baseXP": 13,
+  "popularity": 5
 }

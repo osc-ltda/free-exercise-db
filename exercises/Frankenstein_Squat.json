@@ -1,5 +1,5 @@
 {
-  "name": "Frankenstein Squat",
+  "name": "Squat (Frankenstein)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -24,5 +24,7 @@
     "Frankenstein_Squat/0.jpg",
     "Frankenstein_Squat/1.jpg"
   ],
-  "id": "Frankenstein_Squat"
+  "id": "Frankenstein_Squat",
+  "baseXP": 35,
+  "popularity": 1.7
 }

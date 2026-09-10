@@ -19,5 +19,7 @@
     "Quad_Stretch/0.jpg",
     "Quad_Stretch/1.jpg"
   ],
-  "id": "Quad_Stretch"
+  "id": "Quad_Stretch",
+  "baseXP": 10,
+  "popularity": 0.3
 }

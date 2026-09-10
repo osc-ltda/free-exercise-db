@@ -1,5 +1,5 @@
 {
-  "name": "Medicine Ball Full Twist",
+  "name": "Twist (Medicine Ball Full)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -21,5 +21,7 @@
     "Medicine_Ball_Full_Twist/0.jpg",
     "Medicine_Ball_Full_Twist/1.jpg"
   ],
-  "id": "Medicine_Ball_Full_Twist"
+  "id": "Medicine_Ball_Full_Twist",
+  "baseXP": 19,
+  "popularity": 1
 }

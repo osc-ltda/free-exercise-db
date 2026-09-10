@@ -1,5 +1,5 @@
 {
-  "name": "Squat with Chains",
+  "name": "Squat (with Chains)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Squat_with_Chains/0.jpg",
     "Squat_with_Chains/1.jpg"
   ],
-  "id": "Squat_with_Chains"
+  "id": "Squat_with_Chains",
+  "baseXP": 32,
+  "popularity": 2
 }

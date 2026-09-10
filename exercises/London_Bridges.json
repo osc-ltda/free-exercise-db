@@ -1,5 +1,5 @@
 {
-  "name": "London Bridges",
+  "name": "Bridges (London)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "London_Bridges/0.jpg",
     "London_Bridges/1.jpg"
   ],
-  "id": "London_Bridges"
+  "id": "London_Bridges",
+  "baseXP": 32,
+  "popularity": 1.9
 }

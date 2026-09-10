@@ -1,5 +1,5 @@
 {
-  "name": "Jerk Balance",
+  "name": "Jerk (Balance)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Jerk_Balance/0.jpg",
     "Jerk_Balance/1.jpg"
   ],
-  "id": "Jerk_Balance"
+  "id": "Jerk_Balance",
+  "baseXP": 36,
+  "popularity": 1.7
 }

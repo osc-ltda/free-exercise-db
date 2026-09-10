@@ -1,5 +1,5 @@
 {
-  "name": "Svend Press",
+  "name": "Press (Svend)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Svend_Press/0.jpg",
     "Svend_Press/1.jpg"
   ],
-  "id": "Svend_Press"
+  "id": "Svend_Press",
+  "baseXP": 22,
+  "popularity": 2.1
 }

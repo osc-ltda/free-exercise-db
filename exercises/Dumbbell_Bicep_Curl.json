@@ -1,5 +1,5 @@
 {
-  "name": "Dumbbell Bicep Curl",
+  "name": "Bicep Curl (Dumbbell)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -21,5 +21,7 @@
     "Dumbbell_Bicep_Curl/0.jpg",
     "Dumbbell_Bicep_Curl/1.jpg"
   ],
-  "id": "Dumbbell_Bicep_Curl"
+  "id": "Dumbbell_Bicep_Curl",
+  "baseXP": 14,
+  "popularity": 5
 }

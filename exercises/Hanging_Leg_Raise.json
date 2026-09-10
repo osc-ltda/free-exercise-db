@@ -21,5 +21,7 @@
     "Hanging_Leg_Raise/0.jpg",
     "Hanging_Leg_Raise/1.jpg"
   ],
-  "id": "Hanging_Leg_Raise"
+  "id": "Hanging_Leg_Raise",
+  "baseXP": 38,
+  "popularity": 4
 }

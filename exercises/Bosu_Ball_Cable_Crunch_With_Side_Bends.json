@@ -1,5 +1,5 @@
 {
-  "name": "Bosu Ball Cable Crunch With Side Bends",
+  "name": "Crunch (Bosu Ball Cable With Side Bends)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -27,5 +27,7 @@
     "Bosu_Ball_Cable_Crunch_With_Side_Bends/0.jpg",
     "Bosu_Ball_Cable_Crunch_With_Side_Bends/1.jpg"
   ],
-  "id": "Bosu_Ball_Cable_Crunch_With_Side_Bends"
+  "id": "Bosu_Ball_Cable_Crunch_With_Side_Bends",
+  "baseXP": 15,
+  "popularity": 2.6
 }

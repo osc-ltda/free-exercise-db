@@ -20,5 +20,7 @@
     "Hip_Circles_prone/0.jpg",
     "Hip_Circles_prone/1.jpg"
   ],
-  "id": "Hip_Circles_prone"
+  "id": "Hip_Circles_prone",
+  "baseXP": 6,
+  "popularity": 1.2
 }

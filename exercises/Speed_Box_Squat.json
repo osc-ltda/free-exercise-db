@@ -1,5 +1,5 @@
 {
-  "name": "Speed Box Squat",
+  "name": "Squat (Speed Box)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -24,5 +24,7 @@
     "Speed_Box_Squat/0.jpg",
     "Speed_Box_Squat/1.jpg"
   ],
-  "id": "Speed_Box_Squat"
+  "id": "Speed_Box_Squat",
+  "baseXP": 32,
+  "popularity": 2
 }

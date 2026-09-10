@@ -1,5 +1,5 @@
 {
-  "name": "Machine Bench Press",
+  "name": "Bench Press (Machine)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Machine_Bench_Press/0.jpg",
     "Machine_Bench_Press/1.jpg"
   ],
-  "id": "Machine_Bench_Press"
+  "id": "Machine_Bench_Press",
+  "baseXP": 19,
+  "popularity": 4
 }

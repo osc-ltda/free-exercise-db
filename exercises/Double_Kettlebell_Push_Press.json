@@ -1,5 +1,5 @@
 {
-  "name": "Double Kettlebell Push Press",
+  "name": "Press (Double Kettlebell Push)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Double_Kettlebell_Push_Press/0.jpg",
     "Double_Kettlebell_Push_Press/1.jpg"
   ],
-  "id": "Double_Kettlebell_Push_Press"
+  "id": "Double_Kettlebell_Push_Press",
+  "baseXP": 33,
+  "popularity": 2.1
 }

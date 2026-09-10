@@ -1,5 +1,5 @@
 {
-  "name": "Wide-Grip Pulldown Behind The Neck",
+  "name": "Pull (Wide-Grip down Behind The Neck)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Wide-Grip_Pulldown_Behind_The_Neck/0.jpg",
     "Wide-Grip_Pulldown_Behind_The_Neck/1.jpg"
   ],
-  "id": "Wide-Grip_Pulldown_Behind_The_Neck"
+  "id": "Wide-Grip_Pulldown_Behind_The_Neck",
+  "baseXP": 33,
+  "popularity": 2.5
 }

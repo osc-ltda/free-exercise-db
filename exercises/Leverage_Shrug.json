@@ -1,5 +1,5 @@
 {
-  "name": "Leverage Shrug",
+  "name": "Shrug (Leverage)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Leverage_Shrug/0.jpg",
     "Leverage_Shrug/1.jpg"
   ],
-  "id": "Leverage_Shrug"
+  "id": "Leverage_Shrug",
+  "baseXP": 13,
+  "popularity": 2.6
 }

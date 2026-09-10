@@ -1,5 +1,5 @@
 {
-  "name": "Barbell Curls Lying Against An Incline",
+  "name": "Curls (Barbell Lying Against An Incline)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -21,5 +21,7 @@
     "Barbell_Curls_Lying_Against_An_Incline/0.jpg",
     "Barbell_Curls_Lying_Against_An_Incline/1.jpg"
   ],
-  "id": "Barbell_Curls_Lying_Against_An_Incline"
+  "id": "Barbell_Curls_Lying_Against_An_Incline",
+  "baseXP": 18,
+  "popularity": 2.7
 }

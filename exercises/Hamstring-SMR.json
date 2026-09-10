@@ -20,5 +20,7 @@
     "Hamstring-SMR/0.jpg",
     "Hamstring-SMR/1.jpg"
   ],
-  "id": "Hamstring-SMR"
+  "id": "Hamstring-SMR",
+  "baseXP": 6,
+  "popularity": 0.7
 }

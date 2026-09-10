@@ -1,5 +1,5 @@
 {
-  "name": "Dips - Chest Version",
+  "name": "Chest Dips",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Dips_-_Chest_Version/0.jpg",
     "Dips_-_Chest_Version/1.jpg"
   ],
-  "id": "Dips_-_Chest_Version"
+  "id": "Dips_-_Chest_Version",
+  "baseXP": 30,
+  "popularity": 4
 }

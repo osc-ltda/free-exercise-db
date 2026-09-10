@@ -1,5 +1,5 @@
 {
-  "name": "Decline Oblique Crunch",
+  "name": "Crunch (Decline Oblique)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Decline_Oblique_Crunch/0.jpg",
     "Decline_Oblique_Crunch/1.jpg"
   ],
-  "id": "Decline_Oblique_Crunch"
+  "id": "Decline_Oblique_Crunch",
+  "baseXP": 22,
+  "popularity": 2.5
 }

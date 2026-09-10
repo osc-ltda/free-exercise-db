@@ -1,5 +1,5 @@
 {
-  "name": "Close-Grip Push-Up off of a Dumbbell",
+  "name": "Push-Up (Close-Grip off of a Dumbbell)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Close-Grip_Push-Up_off_of_a_Dumbbell/0.jpg",
     "Close-Grip_Push-Up_off_of_a_Dumbbell/1.jpg"
   ],
-  "id": "Close-Grip_Push-Up_off_of_a_Dumbbell"
+  "id": "Close-Grip_Push-Up_off_of_a_Dumbbell",
+  "baseXP": 32,
+  "popularity": 2.3
 }

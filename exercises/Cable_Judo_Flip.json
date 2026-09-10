@@ -22,5 +22,7 @@
     "Cable_Judo_Flip/0.jpg",
     "Cable_Judo_Flip/1.jpg"
   ],
-  "id": "Cable_Judo_Flip"
+  "id": "Cable_Judo_Flip",
+  "baseXP": 19,
+  "popularity": 2.7
 }

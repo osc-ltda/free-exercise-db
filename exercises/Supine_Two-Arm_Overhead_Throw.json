@@ -1,5 +1,5 @@
 {
-  "name": "Supine Two-Arm Overhead Throw",
+  "name": "Throw (Supine Two-Arm Overhead)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Supine_Two-Arm_Overhead_Throw/0.jpg",
     "Supine_Two-Arm_Overhead_Throw/1.jpg"
   ],
-  "id": "Supine_Two-Arm_Overhead_Throw"
+  "id": "Supine_Two-Arm_Overhead_Throw",
+  "baseXP": 22,
+  "popularity": 1
 }

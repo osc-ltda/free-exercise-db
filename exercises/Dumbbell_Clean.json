@@ -1,5 +1,5 @@
 {
-  "name": "Dumbbell Clean",
+  "name": "Clean (Dumbbell)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -28,5 +28,7 @@
     "Dumbbell_Clean/0.jpg",
     "Dumbbell_Clean/1.jpg"
   ],
-  "id": "Dumbbell_Clean"
+  "id": "Dumbbell_Clean",
+  "baseXP": 36,
+  "popularity": 2.6
 }

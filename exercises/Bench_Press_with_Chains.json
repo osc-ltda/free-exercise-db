@@ -1,5 +1,5 @@
 {
-  "name": "Bench Press with Chains",
+  "name": "Bench Press (with Chains)",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Bench_Press_with_Chains/0.jpg",
     "Bench_Press_with_Chains/1.jpg"
   ],
-  "id": "Bench_Press_with_Chains"
+  "id": "Bench_Press_with_Chains",
+  "baseXP": 47,
+  "popularity": 1.8
 }

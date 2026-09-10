@@ -20,5 +20,7 @@
     "Chain_Handle_Extension/0.jpg",
     "Chain_Handle_Extension/1.jpg"
   ],
-  "id": "Chain_Handle_Extension"
+  "id": "Chain_Handle_Extension",
+  "baseXP": 25,
+  "popularity": 1.2
 }

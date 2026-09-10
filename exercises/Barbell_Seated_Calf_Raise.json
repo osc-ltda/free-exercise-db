@@ -1,5 +1,5 @@
 {
-  "name": "Barbell Seated Calf Raise",
+  "name": "Calf Raise (Barbell Seated)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Barbell_Seated_Calf_Raise/0.jpg",
     "Barbell_Seated_Calf_Raise/1.jpg"
   ],
-  "id": "Barbell_Seated_Calf_Raise"
+  "id": "Barbell_Seated_Calf_Raise",
+  "baseXP": 17,
+  "popularity": 2.7
 }

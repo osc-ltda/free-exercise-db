@@ -1,5 +1,5 @@
 {
-  "name": "Physioball Hip Bridge",
+  "name": "Bridge (Physioball Hip)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,5 +20,7 @@
     "Physioball_Hip_Bridge/0.jpg",
     "Physioball_Hip_Bridge/1.jpg"
   ],
-  "id": "Physioball_Hip_Bridge"
+  "id": "Physioball_Hip_Bridge",
+  "baseXP": 22,
+  "popularity": 2.1
 }

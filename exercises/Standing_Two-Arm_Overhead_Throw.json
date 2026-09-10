@@ -1,5 +1,5 @@
 {
-  "name": "Standing Two-Arm Overhead Throw",
+  "name": "Throw (Standing Two-Arm Overhead)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -21,5 +21,7 @@
     "Standing_Two-Arm_Overhead_Throw/0.jpg",
     "Standing_Two-Arm_Overhead_Throw/1.jpg"
   ],
-  "id": "Standing_Two-Arm_Overhead_Throw"
+  "id": "Standing_Two-Arm_Overhead_Throw",
+  "baseXP": 20,
+  "popularity": 1
 }

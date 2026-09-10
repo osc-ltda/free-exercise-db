@@ -23,5 +23,7 @@
     "Dumbbell_Lying_Pronation/0.jpg",
     "Dumbbell_Lying_Pronation/1.jpg"
   ],
-  "id": "Dumbbell_Lying_Pronation"
+  "id": "Dumbbell_Lying_Pronation",
+  "baseXP": 28,
+  "popularity": 2.5
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Preacher Curl",
+  "name": "Preacher Curl (E-Z Bar)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Preacher_Curl/0.jpg",
     "Preacher_Curl/1.jpg"
   ],
-  "id": "Preacher_Curl"
+  "id": "Preacher_Curl",
+  "baseXP": 18,
+  "popularity": 4
 }

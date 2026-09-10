@@ -1,5 +1,5 @@
 {
-  "name": "Decline Reverse Crunch",
+  "name": "Reverse Crunch (Decline)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Decline_Reverse_Crunch/0.jpg",
     "Decline_Reverse_Crunch/1.jpg"
   ],
-  "id": "Decline_Reverse_Crunch"
+  "id": "Decline_Reverse_Crunch",
+  "baseXP": 22,
+  "popularity": 2.5
 }

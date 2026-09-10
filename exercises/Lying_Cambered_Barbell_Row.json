@@ -1,5 +1,5 @@
 {
-  "name": "Lying Cambered Barbell Row",
+  "name": "Row (Lying Cambered Barbell)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Lying_Cambered_Barbell_Row/0.jpg",
     "Lying_Cambered_Barbell_Row/1.jpg"
   ],
-  "id": "Lying_Cambered_Barbell_Row"
+  "id": "Lying_Cambered_Barbell_Row",
+  "baseXP": 16,
+  "popularity": 2.7
 }

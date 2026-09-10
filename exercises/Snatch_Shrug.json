@@ -1,5 +1,5 @@
 {
-  "name": "Snatch Shrug",
+  "name": "Shrug (Snatch)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -20,5 +20,7 @@
     "Snatch_Shrug/0.jpg",
     "Snatch_Shrug/1.jpg"
   ],
-  "id": "Snatch_Shrug"
+  "id": "Snatch_Shrug",
+  "baseXP": 34,
+  "popularity": 1.7
 }

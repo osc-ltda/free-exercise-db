@@ -1,5 +1,5 @@
 {
-  "name": "Leg-Over Floor Press",
+  "name": "Press (Leg-Over Floor)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -21,5 +21,7 @@
     "Leg-Over_Floor_Press/0.jpg",
     "Leg-Over_Floor_Press/1.jpg"
   ],
-  "id": "Leg-Over_Floor_Press"
+  "id": "Leg-Over_Floor_Press",
+  "baseXP": 35,
+  "popularity": 2.1
 }

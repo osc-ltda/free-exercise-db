@@ -19,5 +19,7 @@
     "Standing_Hip_Flexors/0.jpg",
     "Standing_Hip_Flexors/1.jpg"
   ],
-  "id": "Standing_Hip_Flexors"
+  "id": "Standing_Hip_Flexors",
+  "baseXP": 6,
+  "popularity": 0.7
 }

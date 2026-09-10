@@ -19,5 +19,7 @@
     "Torso_Rotation/0.jpg",
     "Torso_Rotation/1.jpg"
   ],
-  "id": "Torso_Rotation"
+  "id": "Torso_Rotation",
+  "baseXP": 6,
+  "popularity": 0.5
 }

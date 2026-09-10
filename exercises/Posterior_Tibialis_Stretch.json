@@ -19,5 +19,7 @@
     "Posterior_Tibialis_Stretch/0.jpg",
     "Posterior_Tibialis_Stretch/1.jpg"
   ],
-  "id": "Posterior_Tibialis_Stretch"
+  "id": "Posterior_Tibialis_Stretch",
+  "baseXP": 10,
+  "popularity": 0.3
 }

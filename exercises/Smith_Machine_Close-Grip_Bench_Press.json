@@ -1,5 +1,5 @@
 {
-  "name": "Smith Machine Close-Grip Bench Press",
+  "name": "Bench Press (Smith Machine Close-Grip)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Smith_Machine_Close-Grip_Bench_Press/0.jpg",
     "Smith_Machine_Close-Grip_Bench_Press/1.jpg"
   ],
-  "id": "Smith_Machine_Close-Grip_Bench_Press"
+  "id": "Smith_Machine_Close-Grip_Bench_Press",
+  "baseXP": 20,
+  "popularity": 2.7
 }

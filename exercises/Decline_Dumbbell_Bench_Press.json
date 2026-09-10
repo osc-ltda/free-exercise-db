@@ -1,5 +1,5 @@
 {
-  "name": "Decline Dumbbell Bench Press",
+  "name": "Bench Press (Decline Dumbbell)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -24,5 +24,7 @@
     "Decline_Dumbbell_Bench_Press/0.jpg",
     "Decline_Dumbbell_Bench_Press/1.jpg"
   ],
-  "id": "Decline_Dumbbell_Bench_Press"
+  "id": "Decline_Dumbbell_Bench_Press",
+  "baseXP": 21,
+  "popularity": 3.5
 }

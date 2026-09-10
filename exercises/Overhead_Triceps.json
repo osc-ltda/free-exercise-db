@@ -20,5 +20,7 @@
     "Overhead_Triceps/0.jpg",
     "Overhead_Triceps/1.jpg"
   ],
-  "id": "Overhead_Triceps"
+  "id": "Overhead_Triceps",
+  "baseXP": 13,
+  "popularity": 0.5
 }

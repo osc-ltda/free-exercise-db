@@ -18,5 +18,7 @@
     "Side_Jackknife/0.jpg",
     "Side_Jackknife/1.jpg"
   ],
-  "id": "Side_Jackknife"
+  "id": "Side_Jackknife",
+  "baseXP": 18,
+  "popularity": 2.5
 }

@@ -21,5 +21,7 @@
     "Standing_Hip_Circles/0.jpg",
     "Standing_Hip_Circles/1.jpg"
   ],
-  "id": "Standing_Hip_Circles"
+  "id": "Standing_Hip_Circles",
+  "baseXP": 6,
+  "popularity": 1.2
 }

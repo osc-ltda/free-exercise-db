@@ -20,5 +20,7 @@
     "Cocoons/0.jpg",
     "Cocoons/1.jpg"
   ],
-  "id": "Cocoons"
+  "id": "Cocoons",
+  "baseXP": 20,
+  "popularity": 2.5
 }

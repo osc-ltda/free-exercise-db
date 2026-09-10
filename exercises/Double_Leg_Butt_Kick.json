@@ -25,5 +25,7 @@
     "Double_Leg_Butt_Kick/0.jpg",
     "Double_Leg_Butt_Kick/1.jpg"
   ],
-  "id": "Double_Leg_Butt_Kick"
+  "id": "Double_Leg_Butt_Kick",
+  "baseXP": 21,
+  "popularity": 1.4
 }

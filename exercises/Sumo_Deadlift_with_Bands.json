@@ -1,5 +1,5 @@
 {
-  "name": "Sumo Deadlift with Bands",
+  "name": "Deadlift (Sumo with Bands)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -28,5 +28,7 @@
     "Sumo_Deadlift_with_Bands/0.jpg",
     "Sumo_Deadlift_with_Bands/1.jpg"
   ],
-  "id": "Sumo_Deadlift_with_Bands"
+  "id": "Sumo_Deadlift_with_Bands",
+  "baseXP": 35,
+  "popularity": 2
 }

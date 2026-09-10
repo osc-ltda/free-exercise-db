@@ -21,5 +21,7 @@
     "Seated_Biceps/0.jpg",
     "Seated_Biceps/1.jpg"
   ],
-  "id": "Seated_Biceps"
+  "id": "Seated_Biceps",
+  "baseXP": 13,
+  "popularity": 0.8
 }

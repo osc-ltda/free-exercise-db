@@ -1,5 +1,5 @@
 {
-  "name": "Cable Lying Triceps Extension",
+  "name": "Triceps Extension (Cable Lying)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Cable_Lying_Triceps_Extension/0.jpg",
     "Cable_Lying_Triceps_Extension/1.jpg"
   ],
-  "id": "Cable_Lying_Triceps_Extension"
+  "id": "Cable_Lying_Triceps_Extension",
+  "baseXP": 13,
+  "popularity": 2.6
 }

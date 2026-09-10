@@ -1,5 +1,5 @@
 {
-  "name": "Rickshaw Deadlift",
+  "name": "Deadlift (Rickshaw)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -24,5 +24,7 @@
     "Rickshaw_Deadlift/0.jpg",
     "Rickshaw_Deadlift/1.jpg"
   ],
-  "id": "Rickshaw_Deadlift"
+  "id": "Rickshaw_Deadlift",
+  "baseXP": 34,
+  "popularity": 0.8
 }

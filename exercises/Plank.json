@@ -19,5 +19,7 @@
     "Plank/0.jpg",
     "Plank/1.jpg"
   ],
-  "id": "Plank"
+  "id": "Plank",
+  "baseXP": 15,
+  "popularity": 4.5
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Sumo Deadlift",
+  "name": "Deadlift (Sumo)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -27,5 +27,7 @@
     "Sumo_Deadlift/0.jpg",
     "Sumo_Deadlift/1.jpg"
   ],
-  "id": "Sumo_Deadlift"
+  "id": "Sumo_Deadlift",
+  "baseXP": 32,
+  "popularity": 2
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Snatch Pull",
+  "name": "Snatch (Pull)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Snatch_Pull/0.jpg",
     "Snatch_Pull/1.jpg"
   ],
-  "id": "Snatch_Pull"
+  "id": "Snatch_Pull",
+  "baseXP": 33,
+  "popularity": 2.6
 }

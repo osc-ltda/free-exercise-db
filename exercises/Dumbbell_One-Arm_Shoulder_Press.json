@@ -1,5 +1,5 @@
 {
-  "name": "Dumbbell One-Arm Shoulder Press",
+  "name": "Shoulder Press (Dumbbell One-Arm)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Dumbbell_One-Arm_Shoulder_Press/0.jpg",
     "Dumbbell_One-Arm_Shoulder_Press/1.jpg"
   ],
-  "id": "Dumbbell_One-Arm_Shoulder_Press"
+  "id": "Dumbbell_One-Arm_Shoulder_Press",
+  "baseXP": 35,
+  "popularity": 2.6
 }

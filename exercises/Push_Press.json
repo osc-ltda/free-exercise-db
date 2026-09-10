@@ -1,5 +1,5 @@
 {
-  "name": "Push Press",
+  "name": "Press (Push)",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -19,5 +19,7 @@
     "Push_Press/0.jpg",
     "Push_Press/1.jpg"
   ],
-  "id": "Push_Press"
+  "id": "Push_Press",
+  "baseXP": 49,
+  "popularity": 1.5
 }

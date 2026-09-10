@@ -1,5 +1,5 @@
 {
-  "name": "Barbell Bench Press - Medium Grip",
+  "name": "Bench Press (Barbell - Medium Grip)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Barbell_Bench_Press_-_Medium_Grip/0.jpg",
     "Barbell_Bench_Press_-_Medium_Grip/1.jpg"
   ],
-  "id": "Barbell_Bench_Press_-_Medium_Grip"
+  "id": "Barbell_Bench_Press_-_Medium_Grip",
+  "baseXP": 20,
+  "popularity": 6
 }

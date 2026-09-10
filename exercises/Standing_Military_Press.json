@@ -1,5 +1,5 @@
 {
-  "name": "Standing Military Press",
+  "name": "Military Press (Standing)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Standing_Military_Press/0.jpg",
     "Standing_Military_Press/1.jpg"
   ],
-  "id": "Standing_Military_Press"
+  "id": "Standing_Military_Press",
+  "baseXP": 24,
+  "popularity": 2.8
 }

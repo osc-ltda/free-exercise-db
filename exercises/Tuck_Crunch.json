@@ -1,5 +1,5 @@
 {
-  "name": "Tuck Crunch",
+  "name": "Crunch (Tuck)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Tuck_Crunch/0.jpg",
     "Tuck_Crunch/1.jpg"
   ],
-  "id": "Tuck_Crunch"
+  "id": "Tuck_Crunch",
+  "baseXP": 13,
+  "popularity": 2.4
 }

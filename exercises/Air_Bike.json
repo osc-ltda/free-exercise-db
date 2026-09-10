@@ -23,5 +23,7 @@
     "Air_Bike/0.jpg",
     "Air_Bike/1.jpg"
   ],
-  "id": "Air_Bike"
+  "id": "Air_Bike",
+  "baseXP": 19,
+  "popularity": 2.5
 }

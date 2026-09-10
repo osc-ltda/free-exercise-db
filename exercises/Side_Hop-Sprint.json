@@ -23,5 +23,7 @@
     "Side_Hop-Sprint/0.jpg",
     "Side_Hop-Sprint/1.jpg"
   ],
-  "id": "Side_Hop-Sprint"
+  "id": "Side_Hop-Sprint",
+  "baseXP": 22,
+  "popularity": 1
 }

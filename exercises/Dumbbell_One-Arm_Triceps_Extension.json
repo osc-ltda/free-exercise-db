@@ -1,5 +1,5 @@
 {
-  "name": "Dumbbell One-Arm Triceps Extension",
+  "name": "Triceps Extension (Dumbbell One-Arm)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Dumbbell_One-Arm_Triceps_Extension/0.jpg",
     "Dumbbell_One-Arm_Triceps_Extension/1.jpg"
   ],
-  "id": "Dumbbell_One-Arm_Triceps_Extension"
+  "id": "Dumbbell_One-Arm_Triceps_Extension",
+  "baseXP": 27,
+  "popularity": 3
 }

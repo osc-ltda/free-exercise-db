@@ -1,5 +1,5 @@
 {
-  "name": "Side Bridge",
+  "name": "Bridge (Side)",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -18,5 +18,7 @@
     "Side_Bridge/0.jpg",
     "Side_Bridge/1.jpg"
   ],
-  "id": "Side_Bridge"
+  "id": "Side_Bridge",
+  "baseXP": 17,
+  "popularity": 2.1
 }

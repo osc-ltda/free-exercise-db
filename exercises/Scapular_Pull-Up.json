@@ -1,5 +1,5 @@
 {
-  "name": "Scapular Pull-Up",
+  "name": "Pull-Up (Scapular)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -21,5 +21,7 @@
     "Scapular_Pull-Up/0.jpg",
     "Scapular_Pull-Up/1.jpg"
   ],
-  "id": "Scapular_Pull-Up"
+  "id": "Scapular_Pull-Up",
+  "baseXP": 13,
+  "popularity": 1.9
 }

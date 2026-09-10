@@ -1,5 +1,5 @@
 {
-  "name": "Split Snatch",
+  "name": "Snatch (Split)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -31,5 +31,7 @@
     "Split_Snatch/0.jpg",
     "Split_Snatch/1.jpg"
   ],
-  "id": "Split_Snatch"
+  "id": "Split_Snatch",
+  "baseXP": 49,
+  "popularity": 1.5
 }

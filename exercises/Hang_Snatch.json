@@ -1,5 +1,5 @@
 {
-  "name": "Hang Snatch",
+  "name": "Snatch (Hang)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -28,5 +28,7 @@
     "Hang_Snatch/0.jpg",
     "Hang_Snatch/1.jpg"
   ],
-  "id": "Hang_Snatch"
+  "id": "Hang_Snatch",
+  "baseXP": 50,
+  "popularity": 1.5
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Alternating Floor Press",
+  "name": "Floor Press (Alternating)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Alternating_Floor_Press/0.jpg",
     "Alternating_Floor_Press/1.jpg"
   ],
-  "id": "Alternating_Floor_Press"
+  "id": "Alternating_Floor_Press",
+  "baseXP": 23,
+  "popularity": 2.3
 }

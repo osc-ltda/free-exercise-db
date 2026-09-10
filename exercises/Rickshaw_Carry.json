@@ -1,5 +1,5 @@
 {
-  "name": "Rickshaw Carry",
+  "name": "Carry (Rickshaw)",
   "force": null,
   "level": "intermediate",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Rickshaw_Carry/0.jpg",
     "Rickshaw_Carry/1.jpg"
   ],
-  "id": "Rickshaw_Carry"
+  "id": "Rickshaw_Carry",
+  "baseXP": 33,
+  "popularity": 0.8
 }

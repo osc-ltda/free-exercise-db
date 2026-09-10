@@ -1,5 +1,5 @@
 {
-  "name": "Parallel Bar Dip",
+  "name": "Dip (Parallel Bar)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Parallel_Bar_Dip/0.jpg",
     "Parallel_Bar_Dip/1.jpg"
   ],
-  "id": "Parallel_Bar_Dip"
+  "id": "Parallel_Bar_Dip",
+  "baseXP": 19,
+  "popularity": 2.1
 }

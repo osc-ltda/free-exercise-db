@@ -1,5 +1,5 @@
 {
-  "name": "Box Squat with Chains",
+  "name": "Squat (Box with Chains)",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -27,5 +27,7 @@
     "Box_Squat_with_Chains/0.jpg",
     "Box_Squat_with_Chains/1.jpg"
   ],
-  "id": "Box_Squat_with_Chains"
+  "id": "Box_Squat_with_Chains",
+  "baseXP": 48,
+  "popularity": 2.4
 }

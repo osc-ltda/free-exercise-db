@@ -20,5 +20,7 @@
     "Runners_Stretch/0.jpg",
     "Runners_Stretch/1.jpg"
   ],
-  "id": "Runners_Stretch"
+  "id": "Runners_Stretch",
+  "baseXP": 6,
+  "popularity": 0.4
 }

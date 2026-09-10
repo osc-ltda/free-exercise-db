@@ -25,5 +25,7 @@
     "Lateral_Cone_Hops/0.jpg",
     "Lateral_Cone_Hops/1.jpg"
   ],
-  "id": "Lateral_Cone_Hops"
+  "id": "Lateral_Cone_Hops",
+  "baseXP": 21,
+  "popularity": 1
 }

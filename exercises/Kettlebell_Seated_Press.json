@@ -1,5 +1,5 @@
 {
-  "name": "Kettlebell Seated Press",
+  "name": "Press (Kettlebell Seated)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -20,5 +20,7 @@
     "Kettlebell_Seated_Press/0.jpg",
     "Kettlebell_Seated_Press/1.jpg"
   ],
-  "id": "Kettlebell_Seated_Press"
+  "id": "Kettlebell_Seated_Press",
+  "baseXP": 36,
+  "popularity": 2.1
 }

@@ -24,5 +24,7 @@
     "Spinal_Stretch/0.jpg",
     "Spinal_Stretch/1.jpg"
   ],
-  "id": "Spinal_Stretch"
+  "id": "Spinal_Stretch",
+  "baseXP": 6,
+  "popularity": 0.7
 }

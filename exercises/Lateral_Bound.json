@@ -26,5 +26,7 @@
     "Lateral_Bound/0.jpg",
     "Lateral_Bound/1.jpg"
   ],
-  "id": "Lateral_Bound"
+  "id": "Lateral_Bound",
+  "baseXP": 22,
+  "popularity": 1.4
 }

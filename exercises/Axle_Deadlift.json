@@ -1,5 +1,5 @@
 {
-  "name": "Axle Deadlift",
+  "name": "Deadlift (Axle)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -26,5 +26,7 @@
     "Axle_Deadlift/0.jpg",
     "Axle_Deadlift/1.jpg"
   ],
-  "id": "Axle_Deadlift"
+  "id": "Axle_Deadlift",
+  "baseXP": 31,
+  "popularity": 0.8
 }

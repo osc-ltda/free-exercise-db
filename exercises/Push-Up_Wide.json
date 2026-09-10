@@ -1,5 +1,5 @@
 {
-  "name": "Push-Up Wide",
+  "name": "Push-Up (Wide)",
   "force": null,
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Push-Up_Wide/0.jpg",
     "Push-Up_Wide/1.jpg"
   ],
-  "id": "Push-Up_Wide"
+  "id": "Push-Up_Wide",
+  "baseXP": 19,
+  "popularity": 2.5
 }

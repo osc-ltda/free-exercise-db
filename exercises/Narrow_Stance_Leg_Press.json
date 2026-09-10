@@ -1,5 +1,5 @@
 {
-  "name": "Narrow Stance Leg Press",
+  "name": "Leg Press (Narrow Stance)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -24,5 +24,7 @@
     "Narrow_Stance_Leg_Press/0.jpg",
     "Narrow_Stance_Leg_Press/1.jpg"
   ],
-  "id": "Narrow_Stance_Leg_Press"
+  "id": "Narrow_Stance_Leg_Press",
+  "baseXP": 32,
+  "popularity": 2.5
 }

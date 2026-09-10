@@ -1,5 +1,5 @@
 {
-  "name": "Alternating Renegade Row",
+  "name": "Renegade Row (Alternating)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -24,5 +24,7 @@
     "Alternating_Renegade_Row/0.jpg",
     "Alternating_Renegade_Row/1.jpg"
   ],
-  "id": "Alternating_Renegade_Row"
+  "id": "Alternating_Renegade_Row",
+  "baseXP": 47,
+  "popularity": 1.9
 }

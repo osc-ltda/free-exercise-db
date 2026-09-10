@@ -20,5 +20,7 @@
     "Knee_Across_The_Body/0.jpg",
     "Knee_Across_The_Body/1.jpg"
   ],
-  "id": "Knee_Across_The_Body"
+  "id": "Knee_Across_The_Body",
+  "baseXP": 6,
+  "popularity": 0.4
 }

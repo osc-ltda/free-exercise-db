@@ -1,5 +1,5 @@
 {
-  "name": "Monster Walk",
+  "name": "Walk (Monster)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,5 +20,7 @@
     "Monster_Walk/0.jpg",
     "Monster_Walk/1.jpg"
   ],
-  "id": "Monster_Walk"
+  "id": "Monster_Walk",
+  "baseXP": 21,
+  "popularity": 2.1
 }

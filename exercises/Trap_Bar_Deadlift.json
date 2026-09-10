@@ -1,5 +1,5 @@
 {
-  "name": "Trap Bar Deadlift",
+  "name": "Deadlift (Trap Bar)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Trap_Bar_Deadlift/0.jpg",
     "Trap_Bar_Deadlift/1.jpg"
   ],
-  "id": "Trap_Bar_Deadlift"
+  "id": "Trap_Bar_Deadlift",
+  "baseXP": 21,
+  "popularity": 2.1
 }

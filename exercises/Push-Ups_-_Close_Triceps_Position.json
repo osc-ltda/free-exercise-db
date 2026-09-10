@@ -1,5 +1,5 @@
 {
-  "name": "Push-Ups - Close Triceps Position",
+  "name": "Push-Ups (Close Triceps Position)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Push-Ups_-_Close_Triceps_Position/0.jpg",
     "Push-Ups_-_Close_Triceps_Position/1.jpg"
   ],
-  "id": "Push-Ups_-_Close_Triceps_Position"
+  "id": "Push-Ups_-_Close_Triceps_Position",
+  "baseXP": 30,
+  "popularity": 2.3
 }

@@ -27,5 +27,7 @@
     "Muscle_Up/0.jpg",
     "Muscle_Up/1.jpg"
   ],
-  "id": "Muscle_Up"
+  "id": "Muscle_Up",
+  "baseXP": 32,
+  "popularity": 1.9
 }

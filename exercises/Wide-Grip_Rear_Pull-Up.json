@@ -1,5 +1,5 @@
 {
-  "name": "Wide-Grip Rear Pull-Up",
+  "name": "Pull-Up (Wide-Grip Rear)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -24,5 +24,7 @@
     "Wide-Grip_Rear_Pull-Up/0.jpg",
     "Wide-Grip_Rear_Pull-Up/1.jpg"
   ],
-  "id": "Wide-Grip_Rear_Pull-Up"
+  "id": "Wide-Grip_Rear_Pull-Up",
+  "baseXP": 34,
+  "popularity": 2.3
 }

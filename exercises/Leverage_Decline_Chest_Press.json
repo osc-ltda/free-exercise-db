@@ -1,5 +1,5 @@
 {
-  "name": "Leverage Decline Chest Press",
+  "name": "Press (Leverage Decline Chest)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -21,5 +21,7 @@
     "Leverage_Decline_Chest_Press/0.jpg",
     "Leverage_Decline_Chest_Press/1.jpg"
   ],
-  "id": "Leverage_Decline_Chest_Press"
+  "id": "Leverage_Decline_Chest_Press",
+  "baseXP": 21,
+  "popularity": 2.7
 }

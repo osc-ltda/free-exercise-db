@@ -23,5 +23,7 @@
     "Skating/0.jpg",
     "Skating/1.jpg"
   ],
-  "id": "Skating"
+  "id": "Skating",
+  "baseXP": 26,
+  "popularity": 0.4
 }

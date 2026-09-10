@@ -22,5 +22,7 @@
     "Recumbent_Bike/0.jpg",
     "Recumbent_Bike/1.jpg"
   ],
-  "id": "Recumbent_Bike"
+  "id": "Recumbent_Bike",
+  "baseXP": 17,
+  "popularity": 1.2
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Snatch Deadlift",
+  "name": "Deadlift (Snatch)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Snatch_Deadlift/0.jpg",
     "Snatch_Deadlift/1.jpg"
   ],
-  "id": "Snatch_Deadlift"
+  "id": "Snatch_Deadlift",
+  "baseXP": 35,
+  "popularity": 1.7
 }

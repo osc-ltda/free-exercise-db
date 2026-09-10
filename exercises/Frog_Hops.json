@@ -21,5 +21,7 @@
     "Frog_Hops/0.jpg",
     "Frog_Hops/1.jpg"
   ],
-  "id": "Frog_Hops"
+  "id": "Frog_Hops",
+  "baseXP": 10,
+  "popularity": 0.6
 }

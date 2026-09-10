@@ -1,5 +1,5 @@
 {
-  "name": "One-Arm High-Pulley Cable Side Bends",
+  "name": "Side Bend (One-Arm High-Pulley Cable)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -25,5 +25,7 @@
     "One-Arm_High-Pulley_Cable_Side_Bends/0.jpg",
     "One-Arm_High-Pulley_Cable_Side_Bends/1.jpg"
   ],
-  "id": "One-Arm_High-Pulley_Cable_Side_Bends"
+  "id": "One-Arm_High-Pulley_Cable_Side_Bends",
+  "baseXP": 13,
+  "popularity": 2.6
 }

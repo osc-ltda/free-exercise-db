@@ -1,5 +1,5 @@
 {
-  "name": "Smith Machine Calf Raise",
+  "name": "Calf Raise (Smith Machine)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Smith_Machine_Calf_Raise/0.jpg",
     "Smith_Machine_Calf_Raise/1.jpg"
   ],
-  "id": "Smith_Machine_Calf_Raise"
+  "id": "Smith_Machine_Calf_Raise",
+  "baseXP": 11,
+  "popularity": 3
 }

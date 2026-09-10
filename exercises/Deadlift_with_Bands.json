@@ -1,5 +1,5 @@
 {
-  "name": "Deadlift with Bands",
+  "name": "Deadlift (with Bands)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Deadlift_with_Bands/0.jpg",
     "Deadlift_with_Bands/1.jpg"
   ],
-  "id": "Deadlift_with_Bands"
+  "id": "Deadlift_with_Bands",
+  "baseXP": 50,
+  "popularity": 1.8
 }

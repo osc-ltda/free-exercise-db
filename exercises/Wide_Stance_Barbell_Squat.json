@@ -1,5 +1,5 @@
 {
-  "name": "Wide Stance Barbell Squat",
+  "name": "Squat (Wide Stance Barbell)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -26,5 +26,7 @@
     "Wide_Stance_Barbell_Squat/0.jpg",
     "Wide_Stance_Barbell_Squat/1.jpg"
   ],
-  "id": "Wide_Stance_Barbell_Squat"
+  "id": "Wide_Stance_Barbell_Squat",
+  "baseXP": 34,
+  "popularity": 2.6
 }

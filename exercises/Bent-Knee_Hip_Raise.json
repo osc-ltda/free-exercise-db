@@ -1,5 +1,5 @@
 {
-  "name": "Bent-Knee Hip Raise",
+  "name": "Hip Raise (Bent-Knee)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Bent-Knee_Hip_Raise/0.jpg",
     "Bent-Knee_Hip_Raise/1.jpg"
   ],
-  "id": "Bent-Knee_Hip_Raise"
+  "id": "Bent-Knee_Hip_Raise",
+  "baseXP": 19,
+  "popularity": 2.5
 }

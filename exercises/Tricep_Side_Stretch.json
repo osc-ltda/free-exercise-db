@@ -18,5 +18,7 @@
     "Tricep_Side_Stretch/0.jpg",
     "Tricep_Side_Stretch/1.jpg"
   ],
-  "id": "Tricep_Side_Stretch"
+  "id": "Tricep_Side_Stretch",
+  "baseXP": 6,
+  "popularity": 0.4
 }

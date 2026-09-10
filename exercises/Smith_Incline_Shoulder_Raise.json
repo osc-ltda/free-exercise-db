@@ -1,5 +1,5 @@
 {
-  "name": "Smith Incline Shoulder Raise",
+  "name": "Shoulder Raise (Smith Incline)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Smith_Incline_Shoulder_Raise/0.jpg",
     "Smith_Incline_Shoulder_Raise/1.jpg"
   ],
-  "id": "Smith_Incline_Shoulder_Raise"
+  "id": "Smith_Incline_Shoulder_Raise",
+  "baseXP": 18,
+  "popularity": 2.7
 }

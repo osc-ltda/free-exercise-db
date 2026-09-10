@@ -21,5 +21,7 @@
     "Step_Mill/0.jpg",
     "Step_Mill/1.jpg"
   ],
-  "id": "Step_Mill"
+  "id": "Step_Mill",
+  "baseXP": 25,
+  "popularity": 1
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Kettlebell Arnold Press",
+  "name": "Press (Kettlebell Arnold)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -20,5 +20,7 @@
     "Kettlebell_Arnold_Press/0.jpg",
     "Kettlebell_Arnold_Press/1.jpg"
   ],
-  "id": "Kettlebell_Arnold_Press"
+  "id": "Kettlebell_Arnold_Press",
+  "baseXP": 33,
+  "popularity": 2.1
 }

@@ -19,5 +19,7 @@
     "Brachialis-SMR/0.jpg",
     "Brachialis-SMR/1.jpg"
   ],
-  "id": "Brachialis-SMR"
+  "id": "Brachialis-SMR",
+  "baseXP": 10,
+  "popularity": 0.2
 }

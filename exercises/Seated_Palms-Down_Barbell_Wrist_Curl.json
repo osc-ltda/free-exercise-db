@@ -1,5 +1,5 @@
 {
-  "name": "Seated Palms-Down Barbell Wrist Curl",
+  "name": "Wrist Curl (Seated Palms-Down Barbell)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Seated_Palms-Down_Barbell_Wrist_Curl/0.jpg",
     "Seated_Palms-Down_Barbell_Wrist_Curl/1.jpg"
   ],
-  "id": "Seated_Palms-Down_Barbell_Wrist_Curl"
+  "id": "Seated_Palms-Down_Barbell_Wrist_Curl",
+  "baseXP": 18,
+  "popularity": 2.7
 }

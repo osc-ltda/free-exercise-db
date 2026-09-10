@@ -1,5 +1,5 @@
 {
-  "name": "Seated Dumbbell Press",
+  "name": "Press (Seated Dumbbell)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Seated_Dumbbell_Press/0.jpg",
     "Seated_Dumbbell_Press/1.jpg"
   ],
-  "id": "Seated_Dumbbell_Press"
+  "id": "Seated_Dumbbell_Press",
+  "baseXP": 23,
+  "popularity": 4.5
 }

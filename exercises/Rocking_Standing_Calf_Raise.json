@@ -1,5 +1,5 @@
 {
-  "name": "Rocking Standing Calf Raise",
+  "name": "Calf Raise (Rocking Standing)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -25,5 +25,7 @@
     "Rocking_Standing_Calf_Raise/0.jpg",
     "Rocking_Standing_Calf_Raise/1.jpg"
   ],
-  "id": "Rocking_Standing_Calf_Raise"
+  "id": "Rocking_Standing_Calf_Raise",
+  "baseXP": 16,
+  "popularity": 2.7
 }

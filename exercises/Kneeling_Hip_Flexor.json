@@ -19,5 +19,7 @@
     "Kneeling_Hip_Flexor/0.jpg",
     "Kneeling_Hip_Flexor/1.jpg"
   ],
-  "id": "Kneeling_Hip_Flexor"
+  "id": "Kneeling_Hip_Flexor",
+  "baseXP": 6,
+  "popularity": 0.7
 }

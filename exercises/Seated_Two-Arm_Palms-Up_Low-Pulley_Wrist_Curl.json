@@ -1,5 +1,5 @@
 {
-  "name": "Seated Two-Arm Palms-Up Low-Pulley Wrist Curl",
+  "name": "Wrist Curl (Seated Two-Arm Palms-Up Low-Pulley)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -26,5 +26,7 @@
     "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl/0.jpg",
     "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl/1.jpg"
   ],
-  "id": "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl"
+  "id": "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl",
+  "baseXP": 17,
+  "popularity": 2.6
 }

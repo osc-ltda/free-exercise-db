@@ -29,5 +29,7 @@
     "Clean/0.jpg",
     "Clean/1.jpg"
   ],
-  "id": "Clean"
+  "id": "Clean",
+  "baseXP": 34,
+  "popularity": 1.7
 }

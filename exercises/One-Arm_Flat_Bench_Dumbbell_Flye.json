@@ -1,5 +1,5 @@
 {
-  "name": "One-Arm Flat Bench Dumbbell Flye",
+  "name": "Fly (One-Arm Flat Bench Dumbbell)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "One-Arm_Flat_Bench_Dumbbell_Flye/0.jpg",
     "One-Arm_Flat_Bench_Dumbbell_Flye/1.jpg"
   ],
-  "id": "One-Arm_Flat_Bench_Dumbbell_Flye"
+  "id": "One-Arm_Flat_Bench_Dumbbell_Flye",
+  "baseXP": 15,
+  "popularity": 2.7
 }

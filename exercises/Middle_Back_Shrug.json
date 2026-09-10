@@ -1,5 +1,5 @@
 {
-  "name": "Middle Back Shrug",
+  "name": "Shrug (Middle Back)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -21,5 +21,7 @@
     "Middle_Back_Shrug/0.jpg",
     "Middle_Back_Shrug/1.jpg"
   ],
-  "id": "Middle_Back_Shrug"
+  "id": "Middle_Back_Shrug",
+  "baseXP": 28,
+  "popularity": 2.5
 }

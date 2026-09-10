@@ -1,5 +1,5 @@
 {
-  "name": "Zottman Preacher Curl",
+  "name": "Preacher Curl (Zottman)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Zottman_Preacher_Curl/0.jpg",
     "Zottman_Preacher_Curl/1.jpg"
   ],
-  "id": "Zottman_Preacher_Curl"
+  "id": "Zottman_Preacher_Curl",
+  "baseXP": 24,
+  "popularity": 2.5
 }

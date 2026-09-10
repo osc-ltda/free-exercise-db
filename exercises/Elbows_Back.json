@@ -20,5 +20,7 @@
     "Elbows_Back/0.jpg",
     "Elbows_Back/1.jpg"
   ],
-  "id": "Elbows_Back"
+  "id": "Elbows_Back",
+  "baseXP": 6,
+  "popularity": 0.7
 }

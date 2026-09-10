@@ -1,5 +1,5 @@
 {
-  "name": "Side Wrist Pull",
+  "name": "Pull (Side Wrist)",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -20,5 +20,7 @@
     "Side_Wrist_Pull/0.jpg",
     "Side_Wrist_Pull/1.jpg"
   ],
-  "id": "Side_Wrist_Pull"
+  "id": "Side_Wrist_Pull",
+  "baseXP": 6,
+  "popularity": 0.7
 }

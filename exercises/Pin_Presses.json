@@ -1,5 +1,5 @@
 {
-  "name": "Pin Presses",
+  "name": "Press (Pin)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -27,5 +27,7 @@
     "Pin_Presses/0.jpg",
     "Pin_Presses/1.jpg"
   ],
-  "id": "Pin_Presses"
+  "id": "Pin_Presses",
+  "baseXP": 34,
+  "popularity": 2
 }

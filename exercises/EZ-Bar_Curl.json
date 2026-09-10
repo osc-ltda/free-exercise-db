@@ -1,5 +1,5 @@
 {
-  "name": "EZ-Bar Curl",
+  "name": "Curl (EZ-Bar)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "EZ-Bar_Curl/0.jpg",
     "EZ-Bar_Curl/1.jpg"
   ],
-  "id": "EZ-Bar_Curl"
+  "id": "EZ-Bar_Curl",
+  "baseXP": 17,
+  "popularity": 3.5
 }

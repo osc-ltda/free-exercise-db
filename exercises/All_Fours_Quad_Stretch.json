@@ -20,5 +20,7 @@
     "All_Fours_Quad_Stretch/0.jpg",
     "All_Fours_Quad_Stretch/1.jpg"
   ],
-  "id": "All_Fours_Quad_Stretch"
+  "id": "All_Fours_Quad_Stretch",
+  "baseXP": 10,
+  "popularity": 0.7
 }

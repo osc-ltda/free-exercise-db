@@ -1,5 +1,5 @@
 {
-  "name": "Rope Straight-Arm Pulldown",
+  "name": "Pulldown (Rope Straight-Arm)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -21,5 +21,7 @@
     "Rope_Straight-Arm_Pulldown/0.jpg",
     "Rope_Straight-Arm_Pulldown/1.jpg"
   ],
-  "id": "Rope_Straight-Arm_Pulldown"
+  "id": "Rope_Straight-Arm_Pulldown",
+  "baseXP": 15,
+  "popularity": 2.6
 }

@@ -23,5 +23,7 @@
     "Toe_Touchers/0.jpg",
     "Toe_Touchers/1.jpg"
   ],
-  "id": "Toe_Touchers"
+  "id": "Toe_Touchers",
+  "baseXP": 6,
+  "popularity": 1.2
 }

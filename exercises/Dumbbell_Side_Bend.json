@@ -21,5 +21,7 @@
     "Dumbbell_Side_Bend/0.jpg",
     "Dumbbell_Side_Bend/1.jpg"
   ],
-  "id": "Dumbbell_Side_Bend"
+  "id": "Dumbbell_Side_Bend",
+  "baseXP": 14,
+  "popularity": 2.7
 }

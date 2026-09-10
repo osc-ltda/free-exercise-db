@@ -20,5 +20,7 @@
     "Lying_Hamstring/0.jpg",
     "Lying_Hamstring/1.jpg"
   ],
-  "id": "Lying_Hamstring"
+  "id": "Lying_Hamstring",
+  "baseXP": 13,
+  "popularity": 0.1
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Frog Sit-Ups",
+  "name": "Sit-Ups (Frog)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -24,5 +24,7 @@
     "Frog_Sit-Ups/0.jpg",
     "Frog_Sit-Ups/1.jpg"
   ],
-  "id": "Frog_Sit-Ups"
+  "id": "Frog_Sit-Ups",
+  "baseXP": 24,
+  "popularity": 2.2
 }

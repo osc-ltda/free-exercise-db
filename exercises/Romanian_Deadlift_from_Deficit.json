@@ -1,5 +1,5 @@
 {
-  "name": "Romanian Deadlift from Deficit",
+  "name": "Deadlift (Romanian from Deficit)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Romanian_Deadlift_from_Deficit/0.jpg",
     "Romanian_Deadlift_from_Deficit/1.jpg"
   ],
-  "id": "Romanian_Deadlift_from_Deficit"
+  "id": "Romanian_Deadlift_from_Deficit",
+  "baseXP": 36,
+  "popularity": 1.7
 }

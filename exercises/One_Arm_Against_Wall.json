@@ -19,5 +19,7 @@
     "One_Arm_Against_Wall/0.jpg",
     "One_Arm_Against_Wall/1.jpg"
   ],
-  "id": "One_Arm_Against_Wall"
+  "id": "One_Arm_Against_Wall",
+  "baseXP": 6,
+  "popularity": 0.7
 }

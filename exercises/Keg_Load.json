@@ -30,5 +30,7 @@
     "Keg_Load/0.jpg",
     "Keg_Load/1.jpg"
   ],
-  "id": "Keg_Load"
+  "id": "Keg_Load",
+  "baseXP": 31,
+  "popularity": 0.8
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Standing Palms-Up Barbell Behind The Back Wrist Curl",
+  "name": "Curl (Standing Palms-Up Barbell Behind The Back Wrist)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl/0.jpg",
     "Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl/1.jpg"
   ],
-  "id": "Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl"
+  "id": "Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl",
+  "baseXP": 16,
+  "popularity": 2.7
 }

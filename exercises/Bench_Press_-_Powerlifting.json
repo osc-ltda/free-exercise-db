@@ -1,5 +1,5 @@
 {
-  "name": "Bench Press - Powerlifting",
+  "name": "Bench Press (Powerlifting)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -24,5 +24,7 @@
     "Bench_Press_-_Powerlifting/0.jpg",
     "Bench_Press_-_Powerlifting/1.jpg"
   ],
-  "id": "Bench_Press_-_Powerlifting"
+  "id": "Bench_Press_-_Powerlifting",
+  "baseXP": 36,
+  "popularity": 2
 }

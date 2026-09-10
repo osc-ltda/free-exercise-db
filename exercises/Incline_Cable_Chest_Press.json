@@ -1,5 +1,5 @@
 {
-  "name": "Incline Cable Chest Press",
+  "name": "Press (Incline Cable Chest)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -21,5 +21,7 @@
     "Incline_Cable_Chest_Press/0.jpg",
     "Incline_Cable_Chest_Press/1.jpg"
   ],
-  "id": "Incline_Cable_Chest_Press"
+  "id": "Incline_Cable_Chest_Press",
+  "baseXP": 21,
+  "popularity": 2.7
 }

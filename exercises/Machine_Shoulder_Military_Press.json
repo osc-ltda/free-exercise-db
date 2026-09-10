@@ -1,5 +1,5 @@
 {
-  "name": "Machine Shoulder (Military) Press",
+  "name": "Press (Machine Shoulder Military)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Machine_Shoulder_Military_Press/0.jpg",
     "Machine_Shoulder_Military_Press/1.jpg"
   ],
-  "id": "Machine_Shoulder_Military_Press"
+  "id": "Machine_Shoulder_Military_Press",
+  "baseXP": 21,
+  "popularity": 3
 }

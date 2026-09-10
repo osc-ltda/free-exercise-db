@@ -1,5 +1,5 @@
 {
-  "name": "Forward Drag with Press",
+  "name": "Press (Forward Drag with)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -24,5 +24,7 @@
     "Forward_Drag_with_Press/0.jpg",
     "Forward_Drag_with_Press/1.jpg"
   ],
-  "id": "Forward_Drag_with_Press"
+  "id": "Forward_Drag_with_Press",
+  "baseXP": 32,
+  "popularity": 0.8
 }

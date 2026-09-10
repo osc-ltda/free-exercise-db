@@ -1,5 +1,5 @@
 {
-  "name": "Front Barbell Squat",
+  "name": "Squat (Front Barbell)",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Front_Barbell_Squat/0.jpg",
     "Front_Barbell_Squat/1.jpg"
   ],
-  "id": "Front_Barbell_Squat"
+  "id": "Front_Barbell_Squat",
+  "baseXP": 47,
+  "popularity": 4
 }

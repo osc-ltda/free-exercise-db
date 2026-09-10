@@ -1,5 +1,5 @@
 {
-  "name": "One Arm Lat Pulldown",
+  "name": "Lat Pulldown (One Arm)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "One_Arm_Lat_Pulldown/0.jpg",
     "One_Arm_Lat_Pulldown/1.jpg"
   ],
-  "id": "One_Arm_Lat_Pulldown"
+  "id": "One_Arm_Lat_Pulldown",
+  "baseXP": 23,
+  "popularity": 2.7
 }

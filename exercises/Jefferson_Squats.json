@@ -1,5 +1,5 @@
 {
-  "name": "Jefferson Squats",
+  "name": "Squats (Jefferson)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -28,5 +28,7 @@
     "Jefferson_Squats/0.jpg",
     "Jefferson_Squats/1.jpg"
   ],
-  "id": "Jefferson_Squats"
+  "id": "Jefferson_Squats",
+  "baseXP": 32,
+  "popularity": 2.6
 }

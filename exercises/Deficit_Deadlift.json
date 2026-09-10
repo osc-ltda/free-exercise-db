@@ -1,5 +1,5 @@
 {
-  "name": "Deficit Deadlift",
+  "name": "Deadlift (Deficit)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Deficit_Deadlift/0.jpg",
     "Deficit_Deadlift/1.jpg"
   ],
-  "id": "Deficit_Deadlift"
+  "id": "Deficit_Deadlift",
+  "baseXP": 35,
+  "popularity": 2
 }

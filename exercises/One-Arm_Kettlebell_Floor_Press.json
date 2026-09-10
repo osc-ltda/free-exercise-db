@@ -1,5 +1,5 @@
 {
-  "name": "One-Arm Kettlebell Floor Press",
+  "name": "Press (One-Arm Kettlebell Floor)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -20,5 +20,7 @@
     "One-Arm_Kettlebell_Floor_Press/0.jpg",
     "One-Arm_Kettlebell_Floor_Press/1.jpg"
   ],
-  "id": "One-Arm_Kettlebell_Floor_Press"
+  "id": "One-Arm_Kettlebell_Floor_Press",
+  "baseXP": 33,
+  "popularity": 2.1
 }

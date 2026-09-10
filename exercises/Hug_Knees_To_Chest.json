@@ -20,5 +20,7 @@
     "Hug_Knees_To_Chest/0.jpg",
     "Hug_Knees_To_Chest/1.jpg"
   ],
-  "id": "Hug_Knees_To_Chest"
+  "id": "Hug_Knees_To_Chest",
+  "baseXP": 6,
+  "popularity": 0.4
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Two-Arm Kettlebell Military Press",
+  "name": "Military Press (Two-Arm Kettlebell)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,5 +19,7 @@
     "Two-Arm_Kettlebell_Military_Press/0.jpg",
     "Two-Arm_Kettlebell_Military_Press/1.jpg"
   ],
-  "id": "Two-Arm_Kettlebell_Military_Press"
+  "id": "Two-Arm_Kettlebell_Military_Press",
+  "baseXP": 33,
+  "popularity": 2.1
 }

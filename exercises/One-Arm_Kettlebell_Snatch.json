@@ -1,5 +1,5 @@
 {
-  "name": "One-Arm Kettlebell Snatch",
+  "name": "Snatch (One-Arm Kettlebell)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "One-Arm_Kettlebell_Snatch/0.jpg",
     "One-Arm_Kettlebell_Snatch/1.jpg"
   ],
-  "id": "One-Arm_Kettlebell_Snatch"
+  "id": "One-Arm_Kettlebell_Snatch",
+  "baseXP": 50,
+  "popularity": 1.9
 }

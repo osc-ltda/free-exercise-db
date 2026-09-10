@@ -1,5 +1,5 @@
 {
-  "name": "Cable Wrist Curl",
+  "name": "Wrist Curl (Cable)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Cable_Wrist_Curl/0.jpg",
     "Cable_Wrist_Curl/1.jpg"
   ],
-  "id": "Cable_Wrist_Curl"
+  "id": "Cable_Wrist_Curl",
+  "baseXP": 17,
+  "popularity": 2.6
 }

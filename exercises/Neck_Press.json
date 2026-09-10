@@ -1,5 +1,5 @@
 {
-  "name": "Neck Press",
+  "name": "Press (Neck)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Neck_Press/0.jpg",
     "Neck_Press/1.jpg"
   ],
-  "id": "Neck_Press"
+  "id": "Neck_Press",
+  "baseXP": 33,
+  "popularity": 2.6
 }

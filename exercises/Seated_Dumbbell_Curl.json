@@ -1,5 +1,5 @@
 {
-  "name": "Seated Dumbbell Curl",
+  "name": "Curl (Seated Dumbbell)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Seated_Dumbbell_Curl/0.jpg",
     "Seated_Dumbbell_Curl/1.jpg"
   ],
-  "id": "Seated_Dumbbell_Curl"
+  "id": "Seated_Dumbbell_Curl",
+  "baseXP": 15,
+  "popularity": 2.7
 }

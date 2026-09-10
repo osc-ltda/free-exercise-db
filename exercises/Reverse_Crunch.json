@@ -1,5 +1,5 @@
 {
-  "name": "Reverse Crunch",
+  "name": "Crunch (Reverse)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Reverse_Crunch/0.jpg",
     "Reverse_Crunch/1.jpg"
   ],
-  "id": "Reverse_Crunch"
+  "id": "Reverse_Crunch",
+  "baseXP": 12,
+  "popularity": 2.4
 }

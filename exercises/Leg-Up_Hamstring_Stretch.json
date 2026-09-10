@@ -20,5 +20,7 @@
     "Leg-Up_Hamstring_Stretch/0.jpg",
     "Leg-Up_Hamstring_Stretch/1.jpg"
   ],
-  "id": "Leg-Up_Hamstring_Stretch"
+  "id": "Leg-Up_Hamstring_Stretch",
+  "baseXP": 6,
+  "popularity": 0.7
 }

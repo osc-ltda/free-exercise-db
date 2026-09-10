@@ -1,5 +1,5 @@
 {
-  "name": "Smith Machine Decline Press",
+  "name": "Press (Smith Machine Decline)",
   "force": null,
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Smith_Machine_Decline_Press/0.jpg",
     "Smith_Machine_Decline_Press/1.jpg"
   ],
-  "id": "Smith_Machine_Decline_Press"
+  "id": "Smith_Machine_Decline_Press",
+  "baseXP": 17,
+  "popularity": 2.7
 }

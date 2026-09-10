@@ -21,5 +21,7 @@
     "Kneeling_Arm_Drill/0.jpg",
     "Kneeling_Arm_Drill/1.jpg"
   ],
-  "id": "Kneeling_Arm_Drill"
+  "id": "Kneeling_Arm_Drill",
+  "baseXP": 15,
+  "popularity": 0.5
 }

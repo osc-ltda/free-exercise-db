@@ -1,5 +1,5 @@
 {
-  "name": "Incline Push-Up Reverse Grip",
+  "name": "Push-Up (Incline Reverse Grip)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -24,5 +24,7 @@
     "Incline_Push-Up_Reverse_Grip/0.jpg",
     "Incline_Push-Up_Reverse_Grip/1.jpg"
   ],
-  "id": "Incline_Push-Up_Reverse_Grip"
+  "id": "Incline_Push-Up_Reverse_Grip",
+  "baseXP": 21,
+  "popularity": 2.5
 }

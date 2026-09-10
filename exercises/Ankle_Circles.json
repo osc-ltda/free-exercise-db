@@ -20,5 +20,7 @@
     "Ankle_Circles/0.jpg",
     "Ankle_Circles/1.jpg"
   ],
-  "id": "Ankle_Circles"
+  "id": "Ankle_Circles",
+  "baseXP": 6,
+  "popularity": 0.7
 }

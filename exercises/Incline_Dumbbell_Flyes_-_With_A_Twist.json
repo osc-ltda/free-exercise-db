@@ -1,5 +1,5 @@
 {
-  "name": "Incline Dumbbell Flyes - With A Twist",
+  "name": "Flyes (Incline Dumbbell - With A Twist)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Incline_Dumbbell_Flyes_-_With_A_Twist/0.jpg",
     "Incline_Dumbbell_Flyes_-_With_A_Twist/1.jpg"
   ],
-  "id": "Incline_Dumbbell_Flyes_-_With_A_Twist"
+  "id": "Incline_Dumbbell_Flyes_-_With_A_Twist",
+  "baseXP": 21,
+  "popularity": 2.8
 }

@@ -22,5 +22,7 @@
     "Hanging_Pike/0.jpg",
     "Hanging_Pike/1.jpg"
   ],
-  "id": "Hanging_Pike"
+  "id": "Hanging_Pike",
+  "baseXP": 48,
+  "popularity": 2.1
 }

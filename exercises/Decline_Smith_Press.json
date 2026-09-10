@@ -1,5 +1,5 @@
 {
-  "name": "Decline Smith Press",
+  "name": "Press (Decline Smith)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Decline_Smith_Press/0.jpg",
     "Decline_Smith_Press/1.jpg"
   ],
-  "id": "Decline_Smith_Press"
+  "id": "Decline_Smith_Press",
+  "baseXP": 18,
+  "popularity": 2.7
 }

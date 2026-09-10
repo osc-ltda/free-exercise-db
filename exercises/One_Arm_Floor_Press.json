@@ -1,5 +1,5 @@
 {
-  "name": "One Arm Floor Press",
+  "name": "Press (One Arm Floor)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "One_Arm_Floor_Press/0.jpg",
     "One_Arm_Floor_Press/1.jpg"
   ],
-  "id": "One_Arm_Floor_Press"
+  "id": "One_Arm_Floor_Press",
+  "baseXP": 35,
+  "popularity": 2.6
 }

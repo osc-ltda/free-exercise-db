@@ -1,5 +1,5 @@
 {
-  "name": "Pullups",
+  "name": "Pull-Up",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Pullups/0.jpg",
     "Pullups/1.jpg"
   ],
-  "id": "Pullups"
+  "id": "Pullups",
+  "baseXP": 18,
+  "popularity": 5
 }

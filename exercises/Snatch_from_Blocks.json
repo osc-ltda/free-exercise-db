@@ -1,5 +1,5 @@
 {
-  "name": "Snatch from Blocks",
+  "name": "Snatch (from Blocks)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -29,5 +29,7 @@
     "Snatch_from_Blocks/0.jpg",
     "Snatch_from_Blocks/1.jpg"
   ],
-  "id": "Snatch_from_Blocks"
+  "id": "Snatch_from_Blocks",
+  "baseXP": 50,
+  "popularity": 1.5
 }

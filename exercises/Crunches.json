@@ -1,5 +1,5 @@
 {
-  "name": "Crunches",
+  "name": "Crunch",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Crunches/0.jpg",
     "Crunches/1.jpg"
   ],
-  "id": "Crunches"
+  "id": "Crunches",
+  "baseXP": 13,
+  "popularity": 4.5
 }

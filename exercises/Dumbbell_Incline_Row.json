@@ -1,5 +1,5 @@
 {
-  "name": "Dumbbell Incline Row",
+  "name": "Row (Dumbbell Incline)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -24,5 +24,7 @@
     "Dumbbell_Incline_Row/0.jpg",
     "Dumbbell_Incline_Row/1.jpg"
   ],
-  "id": "Dumbbell_Incline_Row"
+  "id": "Dumbbell_Incline_Row",
+  "baseXP": 21,
+  "popularity": 2.8
 }

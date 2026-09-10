@@ -20,5 +20,7 @@
     "Around_The_Worlds/0.jpg",
     "Around_The_Worlds/1.jpg"
   ],
-  "id": "Around_The_Worlds"
+  "id": "Around_The_Worlds",
+  "baseXP": 34,
+  "popularity": 2.6
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Reverse Band Power Squat",
+  "name": "Squat (Reverse Band Power)",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -25,5 +25,7 @@
     "Reverse_Band_Power_Squat/0.jpg",
     "Reverse_Band_Power_Squat/1.jpg"
   ],
-  "id": "Reverse_Band_Power_Squat"
+  "id": "Reverse_Band_Power_Squat",
+  "baseXP": 50,
+  "popularity": 1.8
 }

@@ -22,5 +22,7 @@
     "Cable_Internal_Rotation/0.jpg",
     "Cable_Internal_Rotation/1.jpg"
   ],
-  "id": "Cable_Internal_Rotation"
+  "id": "Cable_Internal_Rotation",
+  "baseXP": 20,
+  "popularity": 2.7
 }

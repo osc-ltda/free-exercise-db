@@ -23,5 +23,7 @@
     "Anti-Gravity_Press/0.jpg",
     "Anti-Gravity_Press/1.jpg"
   ],
-  "id": "Anti-Gravity_Press"
+  "id": "Anti-Gravity_Press",
+  "baseXP": 22,
+  "popularity": 2.8
 }

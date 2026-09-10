@@ -1,5 +1,5 @@
 {
-  "name": "Hang Snatch - Below Knees",
+  "name": "Hang Snatch (Below Knees)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -28,5 +28,7 @@
     "Hang_Snatch_-_Below_Knees/0.jpg",
     "Hang_Snatch_-_Below_Knees/1.jpg"
   ],
-  "id": "Hang_Snatch_-_Below_Knees"
+  "id": "Hang_Snatch_-_Below_Knees",
+  "baseXP": 50,
+  "popularity": 1.5
 }

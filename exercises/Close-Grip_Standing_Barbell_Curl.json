@@ -1,5 +1,5 @@
 {
-  "name": "Close-Grip Standing Barbell Curl",
+  "name": "Curl (Close-Grip Standing Barbell)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Close-Grip_Standing_Barbell_Curl/0.jpg",
     "Close-Grip_Standing_Barbell_Curl/1.jpg"
   ],
-  "id": "Close-Grip_Standing_Barbell_Curl"
+  "id": "Close-Grip_Standing_Barbell_Curl",
+  "baseXP": 17,
+  "popularity": 2.7
 }

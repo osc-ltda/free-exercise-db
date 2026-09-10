@@ -22,5 +22,7 @@
     "Sit-Up/0.jpg",
     "Sit-Up/1.jpg"
   ],
-  "id": "Sit-Up"
+  "id": "Sit-Up",
+  "baseXP": 16,
+  "popularity": 2.4
 }

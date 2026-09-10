@@ -1,5 +1,5 @@
 {
-  "name": "Front Two-Dumbbell Raise",
+  "name": "Front Raise (Two-Dumbbell)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -21,5 +21,7 @@
     "Front_Two-Dumbbell_Raise/0.jpg",
     "Front_Two-Dumbbell_Raise/1.jpg"
   ],
-  "id": "Front_Two-Dumbbell_Raise"
+  "id": "Front_Two-Dumbbell_Raise",
+  "baseXP": 18,
+  "popularity": 2.7
 }

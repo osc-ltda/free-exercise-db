@@ -1,5 +1,5 @@
 {
-  "name": "One-Arm Kettlebell Split Snatch",
+  "name": "Snatch (One-Arm Kettlebell Split)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "One-Arm_Kettlebell_Split_Snatch/0.jpg",
     "One-Arm_Kettlebell_Split_Snatch/1.jpg"
   ],
-  "id": "One-Arm_Kettlebell_Split_Snatch"
+  "id": "One-Arm_Kettlebell_Split_Snatch",
+  "baseXP": 50,
+  "popularity": 1.9
 }

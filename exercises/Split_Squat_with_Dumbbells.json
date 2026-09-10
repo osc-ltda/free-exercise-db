@@ -1,5 +1,5 @@
 {
-  "name": "Split Squat with Dumbbells",
+  "name": "Split Squat (with Dumbbells)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Split_Squat_with_Dumbbells/0.jpg",
     "Split_Squat_with_Dumbbells/1.jpg"
   ],
-  "id": "Split_Squat_with_Dumbbells"
+  "id": "Split_Squat_with_Dumbbells",
+  "baseXP": 24,
+  "popularity": 3.5
 }

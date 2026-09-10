@@ -1,5 +1,5 @@
 {
-  "name": "Heavy Bag Thrust",
+  "name": "Thrust (Heavy Bag)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Heavy_Bag_Thrust/0.jpg",
     "Heavy_Bag_Thrust/1.jpg"
   ],
-  "id": "Heavy_Bag_Thrust"
+  "id": "Heavy_Bag_Thrust",
+  "baseXP": 20,
+  "popularity": 1
 }

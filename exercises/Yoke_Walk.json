@@ -1,5 +1,5 @@
 {
-  "name": "Yoke Walk",
+  "name": "Walk (Yoke)",
   "force": null,
   "level": "intermediate",
   "mechanic": "compound",
@@ -26,5 +26,7 @@
     "Yoke_Walk/0.jpg",
     "Yoke_Walk/1.jpg"
   ],
-  "id": "Yoke_Walk"
+  "id": "Yoke_Walk",
+  "baseXP": 34,
+  "popularity": 0.8
 }

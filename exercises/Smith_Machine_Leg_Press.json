@@ -1,5 +1,5 @@
 {
-  "name": "Smith Machine Leg Press",
+  "name": "Leg Press (Smith Machine)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Smith_Machine_Leg_Press/0.jpg",
     "Smith_Machine_Leg_Press/1.jpg"
   ],
-  "id": "Smith_Machine_Leg_Press"
+  "id": "Smith_Machine_Leg_Press",
+  "baseXP": 29,
+  "popularity": 2.5
 }

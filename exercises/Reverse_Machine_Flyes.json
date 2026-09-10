@@ -1,5 +1,5 @@
 {
-  "name": "Reverse Machine Flyes",
+  "name": "Fly (Reverse Machine)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -21,5 +21,7 @@
     "Reverse_Machine_Flyes/0.jpg",
     "Reverse_Machine_Flyes/1.jpg"
   ],
-  "id": "Reverse_Machine_Flyes"
+  "id": "Reverse_Machine_Flyes",
+  "baseXP": 12,
+  "popularity": 2.6
 }

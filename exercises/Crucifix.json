@@ -19,5 +19,7 @@
     "Crucifix/0.jpg",
     "Crucifix/1.jpg"
   ],
-  "id": "Crucifix"
+  "id": "Crucifix",
+  "baseXP": 12,
+  "popularity": 0.9
 }

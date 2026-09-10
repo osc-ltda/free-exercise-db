@@ -1,5 +1,5 @@
 {
-  "name": "Seated Side Lateral Raise",
+  "name": "Lateral Raise (Seated Side)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -21,5 +21,7 @@
     "Seated_Side_Lateral_Raise/0.jpg",
     "Seated_Side_Lateral_Raise/1.jpg"
   ],
-  "id": "Seated_Side_Lateral_Raise"
+  "id": "Seated_Side_Lateral_Raise",
+  "baseXP": 18,
+  "popularity": 3.5
 }

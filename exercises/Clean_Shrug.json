@@ -1,5 +1,5 @@
 {
-  "name": "Clean Shrug",
+  "name": "Shrug (Clean)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,5 +20,7 @@
     "Clean_Shrug/0.jpg",
     "Clean_Shrug/1.jpg"
   ],
-  "id": "Clean_Shrug"
+  "id": "Clean_Shrug",
+  "baseXP": 24,
+  "popularity": 1.9
 }

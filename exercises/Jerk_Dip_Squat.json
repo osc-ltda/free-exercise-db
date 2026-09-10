@@ -1,5 +1,5 @@
 {
-  "name": "Jerk Dip Squat",
+  "name": "Squat (Jerk Dip)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -20,5 +20,7 @@
     "Jerk_Dip_Squat/0.jpg",
     "Jerk_Dip_Squat/1.jpg"
   ],
-  "id": "Jerk_Dip_Squat"
+  "id": "Jerk_Dip_Squat",
+  "baseXP": 33,
+  "popularity": 1.7
 }

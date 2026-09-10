@@ -20,5 +20,7 @@
     "Groiners/0.jpg",
     "Groiners/1.jpg"
   ],
-  "id": "Groiners"
+  "id": "Groiners",
+  "baseXP": 10,
+  "popularity": 1.1
 }

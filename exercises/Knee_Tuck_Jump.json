@@ -24,5 +24,7 @@
     "Knee_Tuck_Jump/0.jpg",
     "Knee_Tuck_Jump/1.jpg"
   ],
-  "id": "Knee_Tuck_Jump"
+  "id": "Knee_Tuck_Jump",
+  "baseXP": 20,
+  "popularity": 1.4
 }

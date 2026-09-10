@@ -1,5 +1,5 @@
 {
-  "name": "Sled Overhead Backward Walk",
+  "name": "Walk (Sled Overhead Backward)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Sled_Overhead_Backward_Walk/0.jpg",
     "Sled_Overhead_Backward_Walk/1.jpg"
   ],
-  "id": "Sled_Overhead_Backward_Walk"
+  "id": "Sled_Overhead_Backward_Walk",
+  "baseXP": 19,
+  "popularity": 2.1
 }

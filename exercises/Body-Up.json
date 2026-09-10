@@ -22,5 +22,7 @@
     "Body-Up/0.jpg",
     "Body-Up/1.jpg"
   ],
-  "id": "Body-Up"
+  "id": "Body-Up",
+  "baseXP": 22,
+  "popularity": 2.2
 }

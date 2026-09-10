@@ -1,5 +1,5 @@
 {
-  "name": "Seated Bent-Over Rear Delt Raise",
+  "name": "Rear Delt Raise (Seated Bent-Over)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -23,5 +23,7 @@
     "Seated_Bent-Over_Rear_Delt_Raise/0.jpg",
     "Seated_Bent-Over_Rear_Delt_Raise/1.jpg"
   ],
-  "id": "Seated_Bent-Over_Rear_Delt_Raise"
+  "id": "Seated_Bent-Over_Rear_Delt_Raise",
+  "baseXP": 26,
+  "popularity": 2.5
 }

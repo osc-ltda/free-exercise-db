@@ -1,5 +1,5 @@
 {
-  "name": "Wide-Grip Standing Barbell Curl",
+  "name": "Curl (Wide-Grip Standing Barbell)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Wide-Grip_Standing_Barbell_Curl/0.jpg",
     "Wide-Grip_Standing_Barbell_Curl/1.jpg"
   ],
-  "id": "Wide-Grip_Standing_Barbell_Curl"
+  "id": "Wide-Grip_Standing_Barbell_Curl",
+  "baseXP": 16,
+  "popularity": 2.7
 }

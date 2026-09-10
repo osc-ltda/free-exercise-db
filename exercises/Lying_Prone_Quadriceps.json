@@ -21,5 +21,7 @@
     "Lying_Prone_Quadriceps/0.jpg",
     "Lying_Prone_Quadriceps/1.jpg"
   ],
-  "id": "Lying_Prone_Quadriceps"
+  "id": "Lying_Prone_Quadriceps",
+  "baseXP": 13,
+  "popularity": 0.5
 }

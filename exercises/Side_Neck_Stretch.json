@@ -19,5 +19,7 @@
     "Side_Neck_Stretch/0.jpg",
     "Side_Neck_Stretch/1.jpg"
   ],
-  "id": "Side_Neck_Stretch"
+  "id": "Side_Neck_Stretch",
+  "baseXP": 6,
+  "popularity": 0.7
 }

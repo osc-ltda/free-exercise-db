@@ -1,5 +1,5 @@
 {
-  "name": "Alternating Deltoid Raise",
+  "name": "Deltoid Raise (Alternating)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Alternating_Deltoid_Raise/0.jpg",
     "Alternating_Deltoid_Raise/1.jpg"
   ],
-  "id": "Alternating_Deltoid_Raise"
+  "id": "Alternating_Deltoid_Raise",
+  "baseXP": 16,
+  "popularity": 2.7
 }

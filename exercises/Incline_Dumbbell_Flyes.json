@@ -1,5 +1,5 @@
 {
-  "name": "Incline Dumbbell Flyes",
+  "name": "Fly (Incline Dumbbell)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Incline_Dumbbell_Flyes/0.jpg",
     "Incline_Dumbbell_Flyes/1.jpg"
   ],
-  "id": "Incline_Dumbbell_Flyes"
+  "id": "Incline_Dumbbell_Flyes",
+  "baseXP": 24,
+  "popularity": 4
 }

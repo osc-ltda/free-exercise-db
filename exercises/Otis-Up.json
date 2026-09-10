@@ -23,5 +23,7 @@
     "Otis-Up/0.jpg",
     "Otis-Up/1.jpg"
   ],
-  "id": "Otis-Up"
+  "id": "Otis-Up",
+  "baseXP": 19,
+  "popularity": 2.1
 }

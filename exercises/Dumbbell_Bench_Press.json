@@ -1,5 +1,5 @@
 {
-  "name": "Dumbbell Bench Press",
+  "name": "Bench Press (Dumbbell)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Dumbbell_Bench_Press/0.jpg",
     "Dumbbell_Bench_Press/1.jpg"
   ],
-  "id": "Dumbbell_Bench_Press"
+  "id": "Dumbbell_Bench_Press",
+  "baseXP": 20,
+  "popularity": 5.5
 }

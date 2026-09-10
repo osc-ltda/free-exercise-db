@@ -1,5 +1,5 @@
 {
-  "name": "Straight Bar Bench Mid Rows",
+  "name": "Rows (Straight Bar Bench Mid)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -21,5 +21,7 @@
     "Straight_Bar_Bench_Mid_Rows/0.jpg",
     "Straight_Bar_Bench_Mid_Rows/1.jpg"
   ],
-  "id": "Straight_Bar_Bench_Mid_Rows"
+  "id": "Straight_Bar_Bench_Mid_Rows",
+  "baseXP": 20,
+  "popularity": 2.8
 }

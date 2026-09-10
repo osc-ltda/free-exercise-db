@@ -1,5 +1,5 @@
 {
-  "name": "Barbell Shrug Behind The Back",
+  "name": "Shrug (Barbell Behind The Back)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Barbell_Shrug_Behind_The_Back/0.jpg",
     "Barbell_Shrug_Behind_The_Back/1.jpg"
   ],
-  "id": "Barbell_Shrug_Behind_The_Back"
+  "id": "Barbell_Shrug_Behind_The_Back",
+  "baseXP": 14,
+  "popularity": 2.7
 }

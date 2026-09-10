@@ -23,5 +23,7 @@
     "Dumbbell_Step_Ups/0.jpg",
     "Dumbbell_Step_Ups/1.jpg"
   ],
-  "id": "Dumbbell_Step_Ups"
+  "id": "Dumbbell_Step_Ups",
+  "baseXP": 33,
+  "popularity": 2.6
 }

@@ -22,5 +22,7 @@
     "Alternate_Heel_Touchers/0.jpg",
     "Alternate_Heel_Touchers/1.jpg"
   ],
-  "id": "Alternate_Heel_Touchers"
+  "id": "Alternate_Heel_Touchers",
+  "baseXP": 12,
+  "popularity": 2.4
 }

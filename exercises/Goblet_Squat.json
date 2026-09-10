@@ -1,5 +1,5 @@
 {
-  "name": "Goblet Squat",
+  "name": "Squat (Goblet)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "Goblet_Squat/0.jpg",
     "Goblet_Squat/1.jpg"
   ],
-  "id": "Goblet_Squat"
+  "id": "Goblet_Squat",
+  "baseXP": 21,
+  "popularity": 4
 }

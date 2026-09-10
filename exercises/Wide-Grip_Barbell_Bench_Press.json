@@ -1,5 +1,5 @@
 {
-  "name": "Wide-Grip Barbell Bench Press",
+  "name": "Bench Press (Wide-Grip Barbell)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Wide-Grip_Barbell_Bench_Press/0.jpg",
     "Wide-Grip_Barbell_Bench_Press/1.jpg"
   ],
-  "id": "Wide-Grip_Barbell_Bench_Press"
+  "id": "Wide-Grip_Barbell_Bench_Press",
+  "baseXP": 32,
+  "popularity": 2.6
 }

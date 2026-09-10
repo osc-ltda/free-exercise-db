@@ -1,5 +1,5 @@
 {
-  "name": "Lying One-Arm Lateral Raise",
+  "name": "Lateral Raise (Lying One-Arm)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -22,5 +22,7 @@
     "Lying_One-Arm_Lateral_Raise/0.jpg",
     "Lying_One-Arm_Lateral_Raise/1.jpg"
   ],
-  "id": "Lying_One-Arm_Lateral_Raise"
+  "id": "Lying_One-Arm_Lateral_Raise",
+  "baseXP": 28,
+  "popularity": 2.5
 }

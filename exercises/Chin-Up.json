@@ -24,5 +24,7 @@
     "Chin-Up/0.jpg",
     "Chin-Up/1.jpg"
   ],
-  "id": "Chin-Up"
+  "id": "Chin-Up",
+  "baseXP": 21,
+  "popularity": 4.5
 }

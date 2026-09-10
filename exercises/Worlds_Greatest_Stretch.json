@@ -22,5 +22,7 @@
     "Worlds_Greatest_Stretch/0.jpg",
     "Worlds_Greatest_Stretch/1.jpg"
   ],
-  "id": "Worlds_Greatest_Stretch"
+  "id": "Worlds_Greatest_Stretch",
+  "baseXP": 10,
+  "popularity": 0.2
 }

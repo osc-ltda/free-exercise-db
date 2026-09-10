@@ -20,5 +20,7 @@
     "Ankle_On_The_Knee/0.jpg",
     "Ankle_On_The_Knee/1.jpg"
   ],
-  "id": "Ankle_On_The_Knee"
+  "id": "Ankle_On_The_Knee",
+  "baseXP": 6,
+  "popularity": 0.4
 }

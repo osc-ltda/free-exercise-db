@@ -1,5 +1,5 @@
 {
-  "name": "T-Bar Row with Handle",
+  "name": "T-bar Row (with Handle)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -23,5 +23,7 @@
     "T-Bar_Row_with_Handle/0.jpg",
     "T-Bar_Row_with_Handle/1.jpg"
   ],
-  "id": "T-Bar_Row_with_Handle"
+  "id": "T-Bar_Row_with_Handle",
+  "baseXP": 22,
+  "popularity": 4
 }

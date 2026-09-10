@@ -1,5 +1,5 @@
 {
-  "name": "Pelvic Tilt Into Bridge",
+  "name": "Bridge (Pelvic Tilt Into)",
   "force": "static",
   "level": "intermediate",
   "mechanic": "compound",
@@ -20,5 +20,7 @@
     "Pelvic_Tilt_Into_Bridge/0.jpg",
     "Pelvic_Tilt_Into_Bridge/1.jpg"
   ],
-  "id": "Pelvic_Tilt_Into_Bridge"
+  "id": "Pelvic_Tilt_Into_Bridge",
+  "baseXP": 10,
+  "popularity": 0.6
 }

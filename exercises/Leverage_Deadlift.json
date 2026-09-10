@@ -1,5 +1,5 @@
 {
-  "name": "Leverage Deadlift",
+  "name": "Deadlift (Leverage)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,5 +20,7 @@
     "Leverage_Deadlift/0.jpg",
     "Leverage_Deadlift/1.jpg"
   ],
-  "id": "Leverage_Deadlift"
+  "id": "Leverage_Deadlift",
+  "baseXP": 20,
+  "popularity": 2.7
 }
