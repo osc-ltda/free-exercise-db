@@ -22,7 +22,8 @@
       "3_4_Sit-Up/1.jpg"
     ],
     "id": "3_4_Sit-Up",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 2.5
   },
   {
     "name": "90/90 Hamstring",
@@ -48,7 +49,8 @@
       "90_90_Hamstring/1.jpg"
     ],
     "id": "90_90_Hamstring",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.9
   },
   {
     "name": "Crunch (Ab Machine)",
@@ -72,7 +74,8 @@
       "Ab_Crunch_Machine/1.jpg"
     ],
     "id": "Ab_Crunch_Machine",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 3.5
   },
   {
     "name": "Ab Roller",
@@ -98,7 +101,8 @@
       "Ab_Roller/1.jpg"
     ],
     "id": "Ab_Roller",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 1.9
   },
   {
     "name": "Adductor",
@@ -121,7 +125,8 @@
       "Adductor/1.jpg"
     ],
     "id": "Adductor",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.5
   },
   {
     "name": "Adductor/Groin",
@@ -145,7 +150,8 @@
       "Adductor_Groin/1.jpg"
     ],
     "id": "Adductor_Groin",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.2
   },
   {
     "name": "Advanced Kettlebell Windmill",
@@ -173,7 +179,8 @@
       "Advanced_Kettlebell_Windmill/1.jpg"
     ],
     "id": "Advanced_Kettlebell_Windmill",
-    "baseXP": 25
+    "baseXP": 25,
+    "popularity": 2
   },
   {
     "name": "Air Bike",
@@ -199,7 +206,8 @@
       "Air_Bike/1.jpg"
     ],
     "id": "Air_Bike",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 2.5
   },
   {
     "name": "All Fours Quad Stretch",
@@ -224,7 +232,8 @@
       "All_Fours_Quad_Stretch/1.jpg"
     ],
     "id": "All_Fours_Quad_Stretch",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.7
   },
   {
     "name": "Curl (Alternate Hammer)",
@@ -252,7 +261,8 @@
       "Alternate_Hammer_Curl/1.jpg"
     ],
     "id": "Alternate_Hammer_Curl",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 2.7
   },
   {
     "name": "Alternate Heel Touchers",
@@ -277,7 +287,8 @@
       "Alternate_Heel_Touchers/1.jpg"
     ],
     "id": "Alternate_Heel_Touchers",
-    "baseXP": 12
+    "baseXP": 12,
+    "popularity": 2.4
   },
   {
     "name": "Curl (Alternate Incline Dumbbell)",
@@ -304,7 +315,8 @@
       "Alternate_Incline_Dumbbell_Curl/1.jpg"
     ],
     "id": "Alternate_Incline_Dumbbell_Curl",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.7
   },
   {
     "name": "Alternate Leg Diagonal Bound",
@@ -334,7 +346,8 @@
       "Alternate_Leg_Diagonal_Bound/1.jpg"
     ],
     "id": "Alternate_Leg_Diagonal_Bound",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 0.9
   },
   {
     "name": "Shoulder Press (Alternating Cable)",
@@ -360,7 +373,8 @@
       "Alternating_Cable_Shoulder_Press/1.jpg"
     ],
     "id": "Alternating_Cable_Shoulder_Press",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.7
   },
   {
     "name": "Deltoid Raise (Alternating)",
@@ -385,7 +399,8 @@
       "Alternating_Deltoid_Raise/1.jpg"
     ],
     "id": "Alternating_Deltoid_Raise",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.7
   },
   {
     "name": "Floor Press (Alternating)",
@@ -413,7 +428,8 @@
       "Alternating_Floor_Press/1.jpg"
     ],
     "id": "Alternating_Floor_Press",
-    "baseXP": 23
+    "baseXP": 23,
+    "popularity": 2.3
   },
   {
     "name": "Hang Clean (Alternating)",
@@ -443,7 +459,8 @@
       "Alternating_Hang_Clean/1.jpg"
     ],
     "id": "Alternating_Hang_Clean",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2.1
   },
   {
     "name": " Kettlebell Press (Alternating)",
@@ -468,7 +485,8 @@
       "Alternating_Kettlebell_Press/1.jpg"
     ],
     "id": "Alternating_Kettlebell_Press",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 2.1
   },
   {
     "name": "Kettlebell Row (Alternating)",
@@ -494,7 +512,8 @@
       "Alternating_Kettlebell_Row/1.jpg"
     ],
     "id": "Alternating_Kettlebell_Row",
-    "baseXP": 25
+    "baseXP": 25,
+    "popularity": 2
   },
   {
     "name": "Renegade Row (Alternating)",
@@ -523,7 +542,8 @@
       "Alternating_Renegade_Row/1.jpg"
     ],
     "id": "Alternating_Renegade_Row",
-    "baseXP": 47
+    "baseXP": 47,
+    "popularity": 1.9
   },
   {
     "name": "Ankle Circles",
@@ -546,7 +566,8 @@
       "Ankle_Circles/1.jpg"
     ],
     "id": "Ankle_Circles",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Ankle On The Knee",
@@ -569,7 +590,8 @@
       "Ankle_On_The_Knee/1.jpg"
     ],
     "id": "Ankle_On_The_Knee",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Anterior Tibialis-SMR",
@@ -591,7 +613,8 @@
       "Anterior_Tibialis-SMR/1.jpg"
     ],
     "id": "Anterior_Tibialis-SMR",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.3
   },
   {
     "name": "Anti-Gravity Press",
@@ -619,7 +642,8 @@
       "Anti-Gravity_Press/1.jpg"
     ],
     "id": "Anti-Gravity_Press",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.8
   },
   {
     "name": "Arm Circles",
@@ -644,7 +668,8 @@
       "Arm_Circles/1.jpg"
     ],
     "id": "Arm_Circles",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Arnold Press (Dumbbell)",
@@ -671,7 +696,8 @@
       "Arnold_Dumbbell_Press/1.jpg"
     ],
     "id": "Arnold_Dumbbell_Press",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 4
   },
   {
     "name": "Around The Worlds",
@@ -696,7 +722,8 @@
       "Around_The_Worlds/1.jpg"
     ],
     "id": "Around_The_Worlds",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 2.6
   },
   {
     "name": "Atlas Stone Trainer",
@@ -726,7 +753,8 @@
       "Atlas_Stone_Trainer/1.jpg"
     ],
     "id": "Atlas_Stone_Trainer",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 0.8
   },
   {
     "name": "Atlas Stones",
@@ -761,7 +789,8 @@
       "Atlas_Stones/1.jpg"
     ],
     "id": "Atlas_Stones",
-    "baseXP": 46
+    "baseXP": 46,
+    "popularity": 0.6
   },
   {
     "name": "Deadlift (Axle)",
@@ -792,7 +821,8 @@
       "Axle_Deadlift/1.jpg"
     ],
     "id": "Axle_Deadlift",
-    "baseXP": 31
+    "baseXP": 31,
+    "popularity": 0.8
   },
   {
     "name": "Back Flyes (With Bands)",
@@ -821,7 +851,8 @@
       "Back_Flyes_-_With_Bands/1.jpg"
     ],
     "id": "Back_Flyes_-_With_Bands",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 2.1
   },
   {
     "name": "Backward Drag",
@@ -849,7 +880,8 @@
       "Backward_Drag/1.jpg"
     ],
     "id": "Backward_Drag",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 1
   },
   {
     "name": "Throw (Backward Medicine Ball)",
@@ -873,7 +905,8 @@
       "Backward_Medicine_Ball_Throw/1.jpg"
     ],
     "id": "Backward_Medicine_Ball_Throw",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 1
   },
   {
     "name": "Balance Board",
@@ -899,7 +932,8 @@
       "Balance_Board/1.jpg"
     ],
     "id": "Balance_Board",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.1
   },
   {
     "name": "Leg Curl (Ball)",
@@ -927,7 +961,8 @@
       "Ball_Leg_Curl/1.jpg"
     ],
     "id": "Ball_Leg_Curl",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2
   },
   {
     "name": "Pull-Up (Band Assisted)",
@@ -955,7 +990,8 @@
       "Band_Assisted_Pull-Up/1.jpg"
     ],
     "id": "Band_Assisted_Pull-Up",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.1
   },
   {
     "name": "Band Good Morning",
@@ -981,7 +1017,8 @@
       "Band_Good_Morning/1.jpg"
     ],
     "id": "Band_Good_Morning",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 1.5
   },
   {
     "name": "Pull (Band Good Morning Through)",
@@ -1007,7 +1044,8 @@
       "Band_Good_Morning_Pull_Through/1.jpg"
     ],
     "id": "Band_Good_Morning_Pull_Through",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 1.5
   },
   {
     "name": "Band Hip Adductions",
@@ -1033,7 +1071,8 @@
       "Band_Hip_Adductions/1.jpg"
     ],
     "id": "Band_Hip_Adductions",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 2
   },
   {
     "name": "Pull (Band Apart)",
@@ -1060,7 +1099,8 @@
       "Band_Pull_Apart/1.jpg"
     ],
     "id": "Band_Pull_Apart",
-    "baseXP": 12
+    "baseXP": 12,
+    "popularity": 2
   },
   {
     "name": "Band Skull Crusher",
@@ -1083,7 +1123,8 @@
       "Band_Skull_Crusher/1.jpg"
     ],
     "id": "Band_Skull_Crusher",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 2
   },
   {
     "name": "Barbell Ab Rollout",
@@ -1110,7 +1151,8 @@
       "Barbell_Ab_Rollout/1.jpg"
     ],
     "id": "Barbell_Ab_Rollout",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2.6
   },
   {
     "name": "Barbell Ab Rollout (On Knees)",
@@ -1137,7 +1179,8 @@
       "Barbell_Ab_Rollout_-_On_Knees/1.jpg"
     ],
     "id": "Barbell_Ab_Rollout_-_On_Knees",
-    "baseXP": 50
+    "baseXP": 50,
+    "popularity": 2.4
   },
   {
     "name": "Bench Press (Barbell - Medium Grip)",
@@ -1165,7 +1208,8 @@
       "Barbell_Bench_Press_-_Medium_Grip/1.jpg"
     ],
     "id": "Barbell_Bench_Press_-_Medium_Grip",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 6
   },
   {
     "name": "Curl (Barbell)",
@@ -1192,7 +1236,8 @@
       "Barbell_Curl/1.jpg"
     ],
     "id": "Barbell_Curl",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 5
   },
   {
     "name": "Curls (Barbell Lying Against An Incline)",
@@ -1216,7 +1261,8 @@
       "Barbell_Curls_Lying_Against_An_Incline/1.jpg"
     ],
     "id": "Barbell_Curls_Lying_Against_An_Incline",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.7
   },
   {
     "name": "Deadlift (Barbell)",
@@ -1250,7 +1296,8 @@
       "Barbell_Deadlift/1.jpg"
     ],
     "id": "Barbell_Deadlift",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 6
   },
   {
     "name": "Squat (Barbell Full)",
@@ -1281,7 +1328,8 @@
       "Barbell_Full_Squat/1.jpg"
     ],
     "id": "Barbell_Full_Squat",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 4.5
   },
   {
     "name": "Bridge (Barbell Glute)",
@@ -1307,7 +1355,8 @@
       "Barbell_Glute_Bridge/1.jpg"
     ],
     "id": "Barbell_Glute_Bridge",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2
   },
   {
     "name": "Bench Press (Barbell Guillotine)",
@@ -1335,7 +1384,8 @@
       "Barbell_Guillotine_Bench_Press/1.jpg"
     ],
     "id": "Barbell_Guillotine_Bench_Press",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2.6
   },
   {
     "name": "Hack Squat (Barbell)",
@@ -1363,7 +1413,8 @@
       "Barbell_Hack_Squat/1.jpg"
     ],
     "id": "Barbell_Hack_Squat",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 2.6
   },
   {
     "name": "Hip Thrust (Barbell)",
@@ -1389,7 +1440,8 @@
       "Barbell_Hip_Thrust/1.jpg"
     ],
     "id": "Barbell_Hip_Thrust",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 4
   },
   {
     "name": "Bench Press (Barbell Incline - Medium Grip)",
@@ -1417,7 +1469,8 @@
       "Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
     ],
     "id": "Barbell_Incline_Bench_Press_-_Medium_Grip",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 5
   },
   {
     "name": "Shoulder Raise (Barbell Incline)",
@@ -1443,7 +1496,8 @@
       "Barbell_Incline_Shoulder_Raise/1.jpg"
     ],
     "id": "Barbell_Incline_Shoulder_Raise",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.8
   },
   {
     "name": "Lunge (Barbell)",
@@ -1472,7 +1526,8 @@
       "Barbell_Lunge/1.jpg"
     ],
     "id": "Barbell_Lunge",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 3.5
   },
   {
     "name": "Row (Barbell Rear Delt)",
@@ -1501,7 +1556,8 @@
       "Barbell_Rear_Delt_Row/1.jpg"
     ],
     "id": "Barbell_Rear_Delt_Row",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 2.8
   },
   {
     "name": "Barbell Rollout from Bench",
@@ -1529,7 +1585,8 @@
       "Barbell_Rollout_from_Bench/1.jpg"
     ],
     "id": "Barbell_Rollout_from_Bench",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.6
   },
   {
     "name": "Calf Raise (Barbell Seated)",
@@ -1555,7 +1612,8 @@
       "Barbell_Seated_Calf_Raise/1.jpg"
     ],
     "id": "Barbell_Seated_Calf_Raise",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 2.7
   },
   {
     "name": "Shoulder Press (Barbell)",
@@ -1583,7 +1641,8 @@
       "Barbell_Shoulder_Press/1.jpg"
     ],
     "id": "Barbell_Shoulder_Press",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 5
   },
   {
     "name": "Shrug (Barbell)",
@@ -1607,7 +1666,8 @@
       "Barbell_Shrug/1.jpg"
     ],
     "id": "Barbell_Shrug",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 3.5
   },
   {
     "name": "Shrug (Barbell Behind The Back)",
@@ -1634,7 +1694,8 @@
       "Barbell_Shrug_Behind_The_Back/1.jpg"
     ],
     "id": "Barbell_Shrug_Behind_The_Back",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2.7
   },
   {
     "name": "Barbell Side Bend",
@@ -1660,7 +1721,8 @@
       "Barbell_Side_Bend/1.jpg"
     ],
     "id": "Barbell_Side_Bend",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.7
   },
   {
     "name": "Squat (Barbell Side Split)",
@@ -1688,7 +1750,8 @@
       "Barbell_Side_Split_Squat/1.jpg"
     ],
     "id": "Barbell_Side_Split_Squat",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.8
   },
   {
     "name": "Squat (Barbell)",
@@ -1719,7 +1782,8 @@
       "Barbell_Squat/1.jpg"
     ],
     "id": "Barbell_Squat",
-    "baseXP": 24
+    "baseXP": 24,
+    "popularity": 6
   },
   {
     "name": "Squat (Barbell To A Bench)",
@@ -1752,7 +1816,8 @@
       "Barbell_Squat_To_A_Bench/1.jpg"
     ],
     "id": "Barbell_Squat_To_A_Bench",
-    "baseXP": 50
+    "baseXP": 50,
+    "popularity": 2.4
   },
   {
     "name": "Barbell Step Ups",
@@ -1781,7 +1846,8 @@
       "Barbell_Step_Ups/1.jpg"
     ],
     "id": "Barbell_Step_Ups",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 2.6
   },
   {
     "name": "Lunge (Barbell Walking)",
@@ -1809,7 +1875,8 @@
       "Barbell_Walking_Lunge/1.jpg"
     ],
     "id": "Barbell_Walking_Lunge",
-    "baseXP": 24
+    "baseXP": 24,
+    "popularity": 2.8
   },
   {
     "name": "Battling Ropes",
@@ -1836,7 +1903,8 @@
       "Battling_Ropes/1.jpg"
     ],
     "id": "Battling_Ropes",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 2.1
   },
   {
     "name": "Bear Crawl Sled Drags",
@@ -1862,7 +1930,8 @@
       "Bear_Crawl_Sled_Drags/1.jpg"
     ],
     "id": "Bear_Crawl_Sled_Drags",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 1
   },
   {
     "name": "Behind Head Chest Stretch",
@@ -1888,7 +1957,8 @@
       "Behind_Head_Chest_Stretch/1.jpg"
     ],
     "id": "Behind_Head_Chest_Stretch",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 0.4
   },
   {
     "name": "Dips (Bench)",
@@ -1915,7 +1985,8 @@
       "Bench_Dips/1.jpg"
     ],
     "id": "Bench_Dips",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.5
   },
   {
     "name": "Bench Jump",
@@ -1944,7 +2015,8 @@
       "Bench_Jump/1.jpg"
     ],
     "id": "Bench_Jump",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 1.2
   },
   {
     "name": "Bench Press (Powerlifting)",
@@ -1973,7 +2045,8 @@
       "Bench_Press_-_Powerlifting/1.jpg"
     ],
     "id": "Bench_Press_-_Powerlifting",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 2
   },
   {
     "name": "Bench Press (With Bands)",
@@ -2003,7 +2076,8 @@
       "Bench_Press_-_With_Bands/1.jpg"
     ],
     "id": "Bench_Press_-_With_Bands",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 2.1
   },
   {
     "name": "Bench Press (with Chains)",
@@ -2031,7 +2105,8 @@
       "Bench_Press_with_Chains/1.jpg"
     ],
     "id": "Bench_Press_with_Chains",
-    "baseXP": 47
+    "baseXP": 47,
+    "popularity": 1.8
   },
   {
     "name": "Bench Sprint",
@@ -2059,7 +2134,8 @@
       "Bench_Sprint/1.jpg"
     ],
     "id": "Bench_Sprint",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 1
   },
   {
     "name": "Pullover (Bent-Arm Barbell)",
@@ -2089,7 +2165,8 @@
       "Bent-Arm_Barbell_Pullover/1.jpg"
     ],
     "id": "Bent-Arm_Barbell_Pullover",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.6
   },
   {
     "name": "Pullover (Bent-Arm Dumbbell)",
@@ -2119,7 +2196,8 @@
       "Bent-Arm_Dumbbell_Pullover/1.jpg"
     ],
     "id": "Bent-Arm_Dumbbell_Pullover",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 2.6
   },
   {
     "name": "Hip Raise (Bent-Knee)",
@@ -2144,7 +2222,8 @@
       "Bent-Knee_Hip_Raise/1.jpg"
     ],
     "id": "Bent-Knee_Hip_Raise",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 2.5
   },
   {
     "name": "Bent Over Row (Barbell)",
@@ -2172,7 +2251,8 @@
       "Bent_Over_Barbell_Row/1.jpg"
     ],
     "id": "Bent_Over_Barbell_Row",
-    "baseXP": 23
+    "baseXP": 23,
+    "popularity": 5.5
   },
   {
     "name": "Rear Delt Raise (Bent Over Dumbbell With Head On Bench)",
@@ -2197,7 +2277,8 @@
       "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench/1.jpg"
     ],
     "id": "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.7
   },
   {
     "name": "Low-Pulley (Bent Over Side Lateral)",
@@ -2226,7 +2307,8 @@
       "Bent_Over_Low-Pulley_Side_Lateral/1.jpg"
     ],
     "id": "Bent_Over_Low-Pulley_Side_Lateral",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2.6
   },
   {
     "name": "Bent Over Row (One-Arm Long Bar)",
@@ -2257,7 +2339,8 @@
       "Bent_Over_One-Arm_Long_Bar_Row/1.jpg"
     ],
     "id": "Bent_Over_One-Arm_Long_Bar_Row",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.8
   },
   {
     "name": "Bent Over Row (Two-Arm Long Bar)",
@@ -2286,7 +2369,8 @@
       "Bent_Over_Two-Arm_Long_Bar_Row/1.jpg"
     ],
     "id": "Bent_Over_Two-Arm_Long_Bar_Row",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 2.6
   },
   {
     "name": "Bent Over Row (Two-Dumbbell)",
@@ -2314,7 +2398,8 @@
       "Bent_Over_Two-Dumbbell_Row/1.jpg"
     ],
     "id": "Bent_Over_Two-Dumbbell_Row",
-    "baseXP": 23
+    "baseXP": 23,
+    "popularity": 4.5
   },
   {
     "name": "Bent Over Row (Two-Dumbbell With Palms In)",
@@ -2341,7 +2426,8 @@
       "Bent_Over_Two-Dumbbell_Row_With_Palms_In/1.jpg"
     ],
     "id": "Bent_Over_Two-Dumbbell_Row_With_Palms_In",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.8
   },
   {
     "name": "Bent Press",
@@ -2371,7 +2457,8 @@
       "Bent_Press/1.jpg"
     ],
     "id": "Bent_Press",
-    "baseXP": 50
+    "baseXP": 50,
+    "popularity": 1.9
   },
   {
     "name": "Bicycling",
@@ -2396,7 +2483,8 @@
       "Bicycling/1.jpg"
     ],
     "id": "Bicycling",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 0.6
   },
   {
     "name": "Bicycling, Stationary",
@@ -2422,7 +2510,8 @@
       "Bicycling_Stationary/1.jpg"
     ],
     "id": "Bicycling_Stationary",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 1.2
   },
   {
     "name": "Board Press",
@@ -2451,7 +2540,8 @@
       "Board_Press/1.jpg"
     ],
     "id": "Board_Press",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2
   },
   {
     "name": "Body-Up",
@@ -2478,7 +2568,8 @@
       "Body-Up/1.jpg"
     ],
     "id": "Body-Up",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.2
   },
   {
     "name": "Tricep Press (Body)",
@@ -2503,7 +2594,8 @@
       "Body_Tricep_Press/1.jpg"
     ],
     "id": "Body_Tricep_Press",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2.4
   },
   {
     "name": "Flyes (Bodyweight)",
@@ -2532,7 +2624,8 @@
       "Bodyweight_Flyes/1.jpg"
     ],
     "id": "Bodyweight_Flyes",
-    "baseXP": 25
+    "baseXP": 25,
+    "popularity": 2.1
   },
   {
     "name": "Row (Bodyweight Mid)",
@@ -2558,7 +2651,8 @@
       "Bodyweight_Mid_Row/1.jpg"
     ],
     "id": "Bodyweight_Mid_Row",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 1.9
   },
   {
     "name": "Squat (Bodyweight)",
@@ -2584,7 +2678,8 @@
       "Bodyweight_Squat/1.jpg"
     ],
     "id": "Bodyweight_Squat",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 3.5
   },
   {
     "name": "Lunge (Bodyweight Walking)",
@@ -2612,7 +2707,8 @@
       "Bodyweight_Walking_Lunge/1.jpg"
     ],
     "id": "Bodyweight_Walking_Lunge",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 2
   },
   {
     "name": "Crunch (Bosu Ball Cable With Side Bends)",
@@ -2642,7 +2738,8 @@
       "Bosu_Ball_Cable_Crunch_With_Side_Bends/1.jpg"
     ],
     "id": "Bosu_Ball_Cable_Crunch_With_Side_Bends",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.6
   },
   {
     "name": "Clean (Bottoms-Up From The Hang Position)",
@@ -2667,7 +2764,8 @@
       "Bottoms-Up_Clean_From_The_Hang_Position/1.jpg"
     ],
     "id": "Bottoms-Up_Clean_From_The_Hang_Position",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2.1
   },
   {
     "name": "Bottoms Up",
@@ -2690,7 +2788,8 @@
       "Bottoms_Up/1.jpg"
     ],
     "id": "Bottoms_Up",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.5
   },
   {
     "name": "Box Jump (Multiple Response)",
@@ -2719,7 +2818,8 @@
       "Box_Jump_Multiple_Response/1.jpg"
     ],
     "id": "Box_Jump_Multiple_Response",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 1
   },
   {
     "name": "Box Skip",
@@ -2750,7 +2850,8 @@
       "Box_Skip/1.jpg"
     ],
     "id": "Box_Skip",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 1
   },
   {
     "name": "Squat (Box)",
@@ -2780,7 +2881,8 @@
       "Box_Squat/1.jpg"
     ],
     "id": "Box_Squat",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2
   },
   {
     "name": "Squat (Box with Bands)",
@@ -2811,7 +2913,8 @@
       "Box_Squat_with_Bands/1.jpg"
     ],
     "id": "Box_Squat_with_Bands",
-    "baseXP": 47
+    "baseXP": 47,
+    "popularity": 1.8
   },
   {
     "name": "Squat (Box with Chains)",
@@ -2843,7 +2946,8 @@
       "Box_Squat_with_Chains/1.jpg"
     ],
     "id": "Box_Squat_with_Chains",
-    "baseXP": 48
+    "baseXP": 48,
+    "popularity": 2.4
   },
   {
     "name": "Brachialis-SMR",
@@ -2865,7 +2969,8 @@
       "Brachialis-SMR/1.jpg"
     ],
     "id": "Brachialis-SMR",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.2
   },
   {
     "name": "Press (Bradford/Rocky es)",
@@ -2893,7 +2998,8 @@
       "Bradford_Rocky_Presses/1.jpg"
     ],
     "id": "Bradford_Rocky_Presses",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.8
   },
   {
     "name": "Butt-Ups",
@@ -2918,7 +3024,8 @@
       "Butt-Ups/1.jpg"
     ],
     "id": "Butt-Ups",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.5
   },
   {
     "name": "Bridge (Butt Lift)",
@@ -2943,7 +3050,8 @@
       "Butt_Lift_Bridge/1.jpg"
     ],
     "id": "Butt_Lift_Bridge",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 2.4
   },
   {
     "name": "Butterfly",
@@ -2968,7 +3076,8 @@
       "Butterfly/1.jpg"
     ],
     "id": "Butterfly",
-    "baseXP": 12
+    "baseXP": 12,
+    "popularity": 4
   },
   {
     "name": "Press (Cable Chest)",
@@ -2995,7 +3104,8 @@
       "Cable_Chest_Press/1.jpg"
     ],
     "id": "Cable_Chest_Press",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 2.7
   },
   {
     "name": "Cable Crossover",
@@ -3022,7 +3132,8 @@
       "Cable_Crossover/1.jpg"
     ],
     "id": "Cable_Crossover",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 4.5
   },
   {
     "name": "Crunch (Cable)",
@@ -3048,7 +3159,8 @@
       "Cable_Crunch/1.jpg"
     ],
     "id": "Cable_Crunch",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 4
   },
   {
     "name": "Deadlifts (Cable)",
@@ -3077,7 +3189,8 @@
       "Cable_Deadlifts/1.jpg"
     ],
     "id": "Cable_Deadlifts",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.7
   },
   {
     "name": "Hammer Curls (Cable - Rope Attachment)",
@@ -3103,7 +3216,8 @@
       "Cable_Hammer_Curls_-_Rope_Attachment/1.jpg"
     ],
     "id": "Cable_Hammer_Curls_-_Rope_Attachment",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.6
   },
   {
     "name": "Cable Hip Adduction",
@@ -3130,7 +3244,8 @@
       "Cable_Hip_Adduction/1.jpg"
     ],
     "id": "Cable_Hip_Adduction",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2.6
   },
   {
     "name": "Cable Incline Pushdown",
@@ -3155,7 +3270,8 @@
       "Cable_Incline_Pushdown/1.jpg"
     ],
     "id": "Cable_Incline_Pushdown",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.6
   },
   {
     "name": "Triceps Extension (Cable Incline)",
@@ -3180,7 +3296,8 @@
       "Cable_Incline_Triceps_Extension/1.jpg"
     ],
     "id": "Cable_Incline_Triceps_Extension",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 2.6
   },
   {
     "name": "Cable Internal Rotation",
@@ -3205,7 +3322,8 @@
       "Cable_Internal_Rotation/1.jpg"
     ],
     "id": "Cable_Internal_Rotation",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 2.7
   },
   {
     "name": "Cable Iron Cross",
@@ -3230,7 +3348,8 @@
       "Cable_Iron_Cross/1.jpg"
     ],
     "id": "Cable_Iron_Cross",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.6
   },
   {
     "name": "Cable Judo Flip",
@@ -3255,7 +3374,8 @@
       "Cable_Judo_Flip/1.jpg"
     ],
     "id": "Cable_Judo_Flip",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 2.7
   },
   {
     "name": "Triceps Extension (Cable Lying)",
@@ -3280,7 +3400,8 @@
       "Cable_Lying_Triceps_Extension/1.jpg"
     ],
     "id": "Cable_Lying_Triceps_Extension",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 2.6
   },
   {
     "name": "Cable One Arm Tricep Extension",
@@ -3306,7 +3427,8 @@
       "Cable_One_Arm_Tricep_Extension/1.jpg"
     ],
     "id": "Cable_One_Arm_Tricep_Extension",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.6
   },
   {
     "name": "Preacher Curl (Cable)",
@@ -3335,7 +3457,8 @@
       "Cable_Preacher_Curl/1.jpg"
     ],
     "id": "Cable_Preacher_Curl",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 3
   },
   {
     "name": "Fly (Cable Rear Delt)",
@@ -3359,7 +3482,8 @@
       "Cable_Rear_Delt_Fly/1.jpg"
     ],
     "id": "Cable_Rear_Delt_Fly",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 3.5
   },
   {
     "name": "Reverse Crunch (Cable)",
@@ -3385,7 +3509,8 @@
       "Cable_Reverse_Crunch/1.jpg"
     ],
     "id": "Cable_Reverse_Crunch",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.6
   },
   {
     "name": "Triceps Extension (Cable Rope Overhead)",
@@ -3410,7 +3535,8 @@
       "Cable_Rope_Overhead_Triceps_Extension/1.jpg"
     ],
     "id": "Cable_Rope_Overhead_Triceps_Extension",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 3.5
   },
   {
     "name": "Rear Delt Rows (Cable Rope)",
@@ -3439,7 +3565,8 @@
       "Cable_Rope_Rear-Delt_Rows/1.jpg"
     ],
     "id": "Cable_Rope_Rear-Delt_Rows",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.7
   },
   {
     "name": "Russian Twists (Cable)",
@@ -3466,7 +3593,8 @@
       "Cable_Russian_Twists/1.jpg"
     ],
     "id": "Cable_Russian_Twists",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 2.7
   },
   {
     "name": "Seated Crunch (Cable)",
@@ -3491,7 +3619,8 @@
       "Cable_Seated_Crunch/1.jpg"
     ],
     "id": "Cable_Seated_Crunch",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2.6
   },
   {
     "name": "Seated Lateral Raise (Cable)",
@@ -3521,7 +3650,8 @@
       "Cable_Seated_Lateral_Raise/1.jpg"
     ],
     "id": "Cable_Seated_Lateral_Raise",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 2.6
   },
   {
     "name": "Shoulder Press (Cable)",
@@ -3547,7 +3677,8 @@
       "Cable_Shoulder_Press/1.jpg"
     ],
     "id": "Cable_Shoulder_Press",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 2.7
   },
   {
     "name": "Shrugs (Cable)",
@@ -3572,7 +3703,8 @@
       "Cable_Shrugs/1.jpg"
     ],
     "id": "Cable_Shrugs",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 2.6
   },
   {
     "name": "Wrist Curl (Cable)",
@@ -3598,7 +3730,8 @@
       "Cable_Wrist_Curl/1.jpg"
     ],
     "id": "Cable_Wrist_Curl",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 2.6
   },
   {
     "name": "Shoulder Shrug (Calf-Machine)",
@@ -3622,7 +3755,8 @@
       "Calf-Machine_Shoulder_Shrug/1.jpg"
     ],
     "id": "Calf-Machine_Shoulder_Shrug",
-    "baseXP": 11
+    "baseXP": 11,
+    "popularity": 2.6
   },
   {
     "name": "Calf Press",
@@ -3646,7 +3780,8 @@
       "Calf_Press/1.jpg"
     ],
     "id": "Calf_Press",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2.6
   },
   {
     "name": "Calf Press (Leg Press Machine)",
@@ -3671,7 +3806,8 @@
       "Calf_Press_On_The_Leg_Press_Machine/1.jpg"
     ],
     "id": "Calf_Press_On_The_Leg_Press_Machine",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 3.5
   },
   {
     "name": "Calf Raise (On A Dumbbell)",
@@ -3696,7 +3832,8 @@
       "Calf_Raise_On_A_Dumbbell/1.jpg"
     ],
     "id": "Calf_Raise_On_A_Dumbbell",
-    "baseXP": 25
+    "baseXP": 25,
+    "popularity": 2.5
   },
   {
     "name": "Calf Raises (With Bands)",
@@ -3721,7 +3858,8 @@
       "Calf_Raises_-_With_Bands/1.jpg"
     ],
     "id": "Calf_Raises_-_With_Bands",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2
   },
   {
     "name": "Calf Stretch Elbows Against Wall",
@@ -3744,7 +3882,8 @@
       "Calf_Stretch_Elbows_Against_Wall/1.jpg"
     ],
     "id": "Calf_Stretch_Elbows_Against_Wall",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Calf Stretch Hands Against Wall",
@@ -3767,7 +3906,8 @@
       "Calf_Stretch_Hands_Against_Wall/1.jpg"
     ],
     "id": "Calf_Stretch_Hands_Against_Wall",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Calves-SMR",
@@ -3789,7 +3929,8 @@
       "Calves-SMR/1.jpg"
     ],
     "id": "Calves-SMR",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.2
   },
   {
     "name": "Deadlift (Car)",
@@ -3819,7 +3960,8 @@
       "Car_Deadlift/1.jpg"
     ],
     "id": "Car_Deadlift",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 0.8
   },
   {
     "name": "Car Drivers",
@@ -3845,7 +3987,8 @@
       "Car_Drivers/1.jpg"
     ],
     "id": "Car_Drivers",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.7
   },
   {
     "name": "Carioca Quick Step",
@@ -3875,7 +4018,8 @@
       "Carioca_Quick_Step/1.jpg"
     ],
     "id": "Carioca_Quick_Step",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 0.5
   },
   {
     "name": "Cat Stretch",
@@ -3901,7 +4045,8 @@
       "Cat_Stretch/1.jpg"
     ],
     "id": "Cat_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Throw (Catch and Overhead)",
@@ -3928,7 +4073,8 @@
       "Catch_and_Overhead_Throw/1.jpg"
     ],
     "id": "Catch_and_Overhead_Throw",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 1
   },
   {
     "name": "Chain Handle Extension",
@@ -3951,7 +4097,8 @@
       "Chain_Handle_Extension/1.jpg"
     ],
     "id": "Chain_Handle_Extension",
-    "baseXP": 25
+    "baseXP": 25,
+    "popularity": 1.2
   },
   {
     "name": "Press (Chain)",
@@ -3977,7 +4124,8 @@
       "Chain_Press/1.jpg"
     ],
     "id": "Chain_Press",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 1.3
   },
   {
     "name": "Chair Leg Extended Stretch",
@@ -4003,7 +4151,8 @@
       "Chair_Leg_Extended_Stretch/1.jpg"
     ],
     "id": "Chair_Leg_Extended_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.8
   },
   {
     "name": "Chair Lower Back Stretch",
@@ -4028,7 +4177,8 @@
       "Chair_Lower_Back_Stretch/1.jpg"
     ],
     "id": "Chair_Lower_Back_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Squat (Chair)",
@@ -4058,7 +4208,8 @@
       "Chair_Squat/1.jpg"
     ],
     "id": "Chair_Squat",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.7
   },
   {
     "name": "Chair Upper Body Stretch",
@@ -4083,7 +4234,8 @@
       "Chair_Upper_Body_Stretch/1.jpg"
     ],
     "id": "Chair_Upper_Body_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.5
   },
   {
     "name": "Chest And Front Of Shoulder Stretch",
@@ -4108,7 +4260,8 @@
       "Chest_And_Front_Of_Shoulder_Stretch/1.jpg"
     ],
     "id": "Chest_And_Front_Of_Shoulder_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.8
   },
   {
     "name": "Chest Push from 3 point stance",
@@ -4135,7 +4288,8 @@
       "Chest_Push_from_3_point_stance/1.jpg"
     ],
     "id": "Chest_Push_from_3_point_stance",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 1
   },
   {
     "name": "Chest Push (multiple response)",
@@ -4163,7 +4317,8 @@
       "Chest_Push_multiple_response/1.jpg"
     ],
     "id": "Chest_Push_multiple_response",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 1
   },
   {
     "name": "Chest Push (single response)",
@@ -4190,7 +4345,8 @@
       "Chest_Push_single_response/1.jpg"
     ],
     "id": "Chest_Push_single_response",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 1
   },
   {
     "name": "Chest Push with Run Release",
@@ -4217,7 +4373,8 @@
       "Chest_Push_with_Run_Release/1.jpg"
     ],
     "id": "Chest_Push_with_Run_Release",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 1
   },
   {
     "name": "Chest Stretch on Stability Ball",
@@ -4240,7 +4397,8 @@
       "Chest_Stretch_on_Stability_Ball/1.jpg"
     ],
     "id": "Chest_Stretch_on_Stability_Ball",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.8
   },
   {
     "name": "Child's Pose",
@@ -4266,7 +4424,8 @@
       "Childs_Pose/1.jpg"
     ],
     "id": "Childs_Pose",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Chin-Up",
@@ -4295,7 +4454,8 @@
       "Chin-Up/1.jpg"
     ],
     "id": "Chin-Up",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 4.5
   },
   {
     "name": "Chin To Chest Stretch",
@@ -4319,7 +4479,8 @@
       "Chin_To_Chest_Stretch/1.jpg"
     ],
     "id": "Chin_To_Chest_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Circus Bell",
@@ -4350,7 +4511,8 @@
       "Circus_Bell/1.jpg"
     ],
     "id": "Circus_Bell",
-    "baseXP": 45
+    "baseXP": 45,
+    "popularity": 0.6
   },
   {
     "name": "Clean",
@@ -4384,7 +4546,8 @@
       "Clean/1.jpg"
     ],
     "id": "Clean",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 1.7
   },
   {
     "name": "Deadlift (Clean)",
@@ -4414,7 +4577,8 @@
       "Clean_Deadlift/1.jpg"
     ],
     "id": "Clean_Deadlift",
-    "baseXP": 24
+    "baseXP": 24,
+    "popularity": 1.9
   },
   {
     "name": "Clean (Pull)",
@@ -4443,7 +4607,8 @@
       "Clean_Pull/1.jpg"
     ],
     "id": "Clean_Pull",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 1.7
   },
   {
     "name": "Shrug (Clean)",
@@ -4468,7 +4633,8 @@
       "Clean_Shrug/1.jpg"
     ],
     "id": "Clean_Shrug",
-    "baseXP": 24
+    "baseXP": 24,
+    "popularity": 1.9
   },
   {
     "name": "Clean and Jerk",
@@ -4504,7 +4670,8 @@
       "Clean_and_Jerk/1.jpg"
     ],
     "id": "Clean_and_Jerk",
-    "baseXP": 50
+    "baseXP": 50,
+    "popularity": 1.5
   },
   {
     "name": "Clean (and Press)",
@@ -4542,7 +4709,8 @@
       "Clean_and_Press/1.jpg"
     ],
     "id": "Clean_and_Press",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.6
   },
   {
     "name": "Clean (from Blocks)",
@@ -4572,7 +4740,8 @@
       "Clean_from_Blocks/1.jpg"
     ],
     "id": "Clean_from_Blocks",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 1.7
   },
   {
     "name": "Push-Up (Clock)",
@@ -4601,7 +4770,8 @@
       "Clock_Push-Up/1.jpg"
     ],
     "id": "Clock_Push-Up",
-    "baseXP": 30
+    "baseXP": 30,
+    "popularity": 2.3
   },
   {
     "name": "Bench Press (Close-Grip Barbell)",
@@ -4629,7 +4799,8 @@
       "Close-Grip_Barbell_Bench_Press/1.jpg"
     ],
     "id": "Close-Grip_Barbell_Bench_Press",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 3.5
   },
   {
     "name": "Press (Close-Grip Dumbbell)",
@@ -4657,7 +4828,8 @@
       "Close-Grip_Dumbbell_Press/1.jpg"
     ],
     "id": "Close-Grip_Dumbbell_Press",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.8
   },
   {
     "name": "Curl (Close-Grip EZ-Bar with Band)",
@@ -4684,7 +4856,8 @@
       "Close-Grip_EZ-Bar_Curl_with_Band/1.jpg"
     ],
     "id": "Close-Grip_EZ-Bar_Curl_with_Band",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.3
   },
   {
     "name": "Press (Close-Grip EZ-Bar)",
@@ -4712,7 +4885,8 @@
       "Close-Grip_EZ-Bar_Press/1.jpg"
     ],
     "id": "Close-Grip_EZ-Bar_Press",
-    "baseXP": 23
+    "baseXP": 23,
+    "popularity": 2.4
   },
   {
     "name": "Curl (Close-Grip EZ Bar)",
@@ -4739,7 +4913,8 @@
       "Close-Grip_EZ_Bar_Curl/1.jpg"
     ],
     "id": "Close-Grip_EZ_Bar_Curl",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.7
   },
   {
     "name": "Lat Pulldown (Close-Grip Front)",
@@ -4769,7 +4944,8 @@
       "Close-Grip_Front_Lat_Pulldown/1.jpg"
     ],
     "id": "Close-Grip_Front_Lat_Pulldown",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 3.5
   },
   {
     "name": "Push-Up (Close-Grip off of a Dumbbell)",
@@ -4797,7 +4973,8 @@
       "Close-Grip_Push-Up_off_of_a_Dumbbell/1.jpg"
     ],
     "id": "Close-Grip_Push-Up_off_of_a_Dumbbell",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2.3
   },
   {
     "name": "Curl (Close-Grip Standing Barbell)",
@@ -4824,7 +5001,8 @@
       "Close-Grip_Standing_Barbell_Curl/1.jpg"
     ],
     "id": "Close-Grip_Standing_Barbell_Curl",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 2.7
   },
   {
     "name": "Cocoons",
@@ -4847,7 +5025,8 @@
       "Cocoons/1.jpg"
     ],
     "id": "Cocoons",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 2.5
   },
   {
     "name": "Conan's Wheel",
@@ -4877,7 +5056,8 @@
       "Conans_Wheel/1.jpg"
     ],
     "id": "Conans_Wheel",
-    "baseXP": 30
+    "baseXP": 30,
+    "popularity": 0.8
   },
   {
     "name": "Concentration Curls",
@@ -4904,7 +5084,8 @@
       "Concentration_Curls/1.jpg"
     ],
     "id": "Concentration_Curls",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 3
   },
   {
     "name": "Crunch (Cross-Body)",
@@ -4929,7 +5110,8 @@
       "Cross-Body_Crunch/1.jpg"
     ],
     "id": "Cross-Body_Crunch",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 3
   },
   {
     "name": "Hammer Curl (Cross Body)",
@@ -4955,7 +5137,8 @@
       "Cross_Body_Hammer_Curl/1.jpg"
     ],
     "id": "Cross_Body_Hammer_Curl",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.7
   },
   {
     "name": "Cross Over (With Bands)",
@@ -4984,7 +5167,8 @@
       "Cross_Over_-_With_Bands/1.jpg"
     ],
     "id": "Cross_Over_-_With_Bands",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.1
   },
   {
     "name": "Reverse Lunge (Crossover)",
@@ -5013,7 +5197,8 @@
       "Crossover_Reverse_Lunge/1.jpg"
     ],
     "id": "Crossover_Reverse_Lunge",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.2
   },
   {
     "name": "Crucifix",
@@ -5037,7 +5222,8 @@
       "Crucifix/1.jpg"
     ],
     "id": "Crucifix",
-    "baseXP": 12
+    "baseXP": 12,
+    "popularity": 0.9
   },
   {
     "name": "Crunch (Hands Overhead)",
@@ -5062,7 +5248,8 @@
       "Crunch_-_Hands_Overhead/1.jpg"
     ],
     "id": "Crunch_-_Hands_Overhead",
-    "baseXP": 12
+    "baseXP": 12,
+    "popularity": 2.4
   },
   {
     "name": "Crunch (Legs On Exercise Ball)",
@@ -5089,7 +5276,8 @@
       "Crunch_-_Legs_On_Exercise_Ball/1.jpg"
     ],
     "id": "Crunch_-_Legs_On_Exercise_Ball",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.4
   },
   {
     "name": "Crunch (es)",
@@ -5115,7 +5303,8 @@
       "Crunches/1.jpg"
     ],
     "id": "Crunches",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 4.5
   },
   {
     "name": "Press (Cuban)",
@@ -5142,7 +5331,8 @@
       "Cuban_Press/1.jpg"
     ],
     "id": "Cuban_Press",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 2.6
   },
   {
     "name": "Dancer's Stretch",
@@ -5169,7 +5359,8 @@
       "Dancers_Stretch/1.jpg"
     ],
     "id": "Dancers_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Dead Bug",
@@ -5196,7 +5387,8 @@
       "Dead_Bug/1.jpg"
     ],
     "id": "Dead_Bug",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 2.5
   },
   {
     "name": "Deadlift (with Bands)",
@@ -5226,7 +5418,8 @@
       "Deadlift_with_Bands/1.jpg"
     ],
     "id": "Deadlift_with_Bands",
-    "baseXP": 50
+    "baseXP": 50,
+    "popularity": 1.8
   },
   {
     "name": "Deadlift (with Chains)",
@@ -5257,7 +5450,8 @@
       "Deadlift_with_Chains/1.jpg"
     ],
     "id": "Deadlift_with_Chains",
-    "baseXP": 50
+    "baseXP": 50,
+    "popularity": 1.8
   },
   {
     "name": "Bench Press (Decline Barbell)",
@@ -5286,7 +5480,8 @@
       "Decline_Barbell_Bench_Press/1.jpg"
     ],
     "id": "Decline_Barbell_Bench_Press",
-    "baseXP": 23
+    "baseXP": 23,
+    "popularity": 2.8
   },
   {
     "name": "Decline Close-Grip Bench To Skull Crusher",
@@ -5316,7 +5511,8 @@
       "Decline_Close-Grip_Bench_To_Skull_Crusher/1.jpg"
     ],
     "id": "Decline_Close-Grip_Bench_To_Skull_Crusher",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 2.6
   },
   {
     "name": "Crunch (Decline)",
@@ -5342,7 +5538,8 @@
       "Decline_Crunch/1.jpg"
     ],
     "id": "Decline_Crunch",
-    "baseXP": 25
+    "baseXP": 25,
+    "popularity": 3
   },
   {
     "name": "Bench Press (Decline Dumbbell)",
@@ -5371,7 +5568,8 @@
       "Decline_Dumbbell_Bench_Press/1.jpg"
     ],
     "id": "Decline_Dumbbell_Bench_Press",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 3.5
   },
   {
     "name": "Fly (Decline Dumbbell es)",
@@ -5396,7 +5594,8 @@
       "Decline_Dumbbell_Flyes/1.jpg"
     ],
     "id": "Decline_Dumbbell_Flyes",
-    "baseXP": 24
+    "baseXP": 24,
+    "popularity": 2.8
   },
   {
     "name": "Triceps Extension (Decline Dumbbell)",
@@ -5421,7 +5620,8 @@
       "Decline_Dumbbell_Triceps_Extension/1.jpg"
     ],
     "id": "Decline_Dumbbell_Triceps_Extension",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.7
   },
   {
     "name": "Triceps Extension (Decline EZ Bar)",
@@ -5446,7 +5646,8 @@
       "Decline_EZ_Bar_Triceps_Extension/1.jpg"
     ],
     "id": "Decline_EZ_Bar_Triceps_Extension",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.7
   },
   {
     "name": "Crunch (Decline Oblique)",
@@ -5472,7 +5673,8 @@
       "Decline_Oblique_Crunch/1.jpg"
     ],
     "id": "Decline_Oblique_Crunch",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.5
   },
   {
     "name": "Push-Up (Decline)",
@@ -5499,7 +5701,8 @@
       "Decline_Push-Up/1.jpg"
     ],
     "id": "Decline_Push-Up",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 2
   },
   {
     "name": "Reverse Crunch (Decline)",
@@ -5524,7 +5727,8 @@
       "Decline_Reverse_Crunch/1.jpg"
     ],
     "id": "Decline_Reverse_Crunch",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.5
   },
   {
     "name": "Press (Decline Smith)",
@@ -5552,7 +5756,8 @@
       "Decline_Smith_Press/1.jpg"
     ],
     "id": "Decline_Smith_Press",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.7
   },
   {
     "name": "Deadlift (Deficit)",
@@ -5582,7 +5787,8 @@
       "Deficit_Deadlift/1.jpg"
     ],
     "id": "Deficit_Deadlift",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2
   },
   {
     "name": "Depth Jump Leap",
@@ -5612,7 +5818,8 @@
       "Depth_Jump_Leap/1.jpg"
     ],
     "id": "Depth_Jump_Leap",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 1
   },
   {
     "name": "Dip (Machine)",
@@ -5640,7 +5847,8 @@
       "Dip_Machine/1.jpg"
     ],
     "id": "Dip_Machine",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.7
   },
   {
     "name": "Chest Dips",
@@ -5667,7 +5875,8 @@
       "Dips_-_Chest_Version/1.jpg"
     ],
     "id": "Dips_-_Chest_Version",
-    "baseXP": 30
+    "baseXP": 30,
+    "popularity": 4
   },
   {
     "name": "Triceps Dips",
@@ -5694,7 +5903,8 @@
       "Dips_-_Triceps_Version/1.jpg"
     ],
     "id": "Dips_-_Triceps_Version",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 4
   },
   {
     "name": "Calf Raises (Donkey)",
@@ -5719,7 +5929,8 @@
       "Donkey_Calf_Raises/1.jpg"
     ],
     "id": "Donkey_Calf_Raises",
-    "baseXP": 24
+    "baseXP": 24,
+    "popularity": 1.8
   },
   {
     "name": "Clean (Double Kettlebell Alternating Hang)",
@@ -5750,7 +5961,8 @@
       "Double_Kettlebell_Alternating_Hang_Clean/1.jpg"
     ],
     "id": "Double_Kettlebell_Alternating_Hang_Clean",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 2.1
   },
   {
     "name": "Jerk (Double Kettlebell)",
@@ -5781,7 +5993,8 @@
       "Double_Kettlebell_Jerk/1.jpg"
     ],
     "id": "Double_Kettlebell_Jerk",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.1
   },
   {
     "name": "Press (Double Kettlebell Push)",
@@ -5808,7 +6021,8 @@
       "Double_Kettlebell_Push_Press/1.jpg"
     ],
     "id": "Double_Kettlebell_Push_Press",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.1
   },
   {
     "name": "Snatch (Double Kettlebell)",
@@ -5835,7 +6049,8 @@
       "Double_Kettlebell_Snatch/1.jpg"
     ],
     "id": "Double_Kettlebell_Snatch",
-    "baseXP": 48
+    "baseXP": 48,
+    "popularity": 1.9
   },
   {
     "name": "Double Kettlebell Windmill",
@@ -5864,7 +6079,8 @@
       "Double_Kettlebell_Windmill/1.jpg"
     ],
     "id": "Double_Kettlebell_Windmill",
-    "baseXP": 29
+    "baseXP": 29,
+    "popularity": 1.7
   },
   {
     "name": "Double Leg Butt Kick",
@@ -5894,7 +6110,8 @@
       "Double_Leg_Butt_Kick/1.jpg"
     ],
     "id": "Double_Leg_Butt_Kick",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 1.4
   },
   {
     "name": "Downward Facing Balance",
@@ -5919,7 +6136,8 @@
       "Downward_Facing_Balance/1.jpg"
     ],
     "id": "Downward_Facing_Balance",
-    "baseXP": 26
+    "baseXP": 26,
+    "popularity": 1.8
   },
   {
     "name": "Drag Curl",
@@ -5945,7 +6163,8 @@
       "Drag_Curl/1.jpg"
     ],
     "id": "Drag_Curl",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2.6
   },
   {
     "name": "Drop Push",
@@ -5971,7 +6190,8 @@
       "Drop_Push/1.jpg"
     ],
     "id": "Drop_Push",
-    "baseXP": 31
+    "baseXP": 31,
+    "popularity": 0.8
   },
   {
     "name": "Bicep Curl (Dumbbell Alternate)",
@@ -5998,7 +6218,8 @@
       "Dumbbell_Alternate_Bicep_Curl/1.jpg"
     ],
     "id": "Dumbbell_Alternate_Bicep_Curl",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 4
   },
   {
     "name": "Bench Press (Dumbbell)",
@@ -6026,7 +6247,8 @@
       "Dumbbell_Bench_Press/1.jpg"
     ],
     "id": "Dumbbell_Bench_Press",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 5.5
   },
   {
     "name": "Bench Press (Dumbbell with Neutral Grip)",
@@ -6053,7 +6275,8 @@
       "Dumbbell_Bench_Press_with_Neutral_Grip/1.jpg"
     ],
     "id": "Dumbbell_Bench_Press_with_Neutral_Grip",
-    "baseXP": 23
+    "baseXP": 23,
+    "popularity": 2.8
   },
   {
     "name": "Bicep Curl (Dumbbell)",
@@ -6079,7 +6302,8 @@
       "Dumbbell_Bicep_Curl/1.jpg"
     ],
     "id": "Dumbbell_Bicep_Curl",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 5
   },
   {
     "name": "Clean (Dumbbell)",
@@ -6112,7 +6336,8 @@
       "Dumbbell_Clean/1.jpg"
     ],
     "id": "Dumbbell_Clean",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 2.6
   },
   {
     "name": "Press (Dumbbell Floor)",
@@ -6138,7 +6363,8 @@
       "Dumbbell_Floor_Press/1.jpg"
     ],
     "id": "Dumbbell_Floor_Press",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2
   },
   {
     "name": "Fly (Dumbbell es)",
@@ -6163,7 +6389,8 @@
       "Dumbbell_Flyes/1.jpg"
     ],
     "id": "Dumbbell_Flyes",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 4.5
   },
   {
     "name": "Row (Dumbbell Incline)",
@@ -6192,7 +6419,8 @@
       "Dumbbell_Incline_Row/1.jpg"
     ],
     "id": "Dumbbell_Incline_Row",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.8
   },
   {
     "name": "Shoulder Raise (Dumbbell Incline)",
@@ -6219,7 +6447,8 @@
       "Dumbbell_Incline_Shoulder_Raise/1.jpg"
     ],
     "id": "Dumbbell_Incline_Shoulder_Raise",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.7
   },
   {
     "name": "Lunges (Dumbbell)",
@@ -6247,7 +6476,8 @@
       "Dumbbell_Lunges/1.jpg"
     ],
     "id": "Dumbbell_Lunges",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 4.5
   },
   {
     "name": "Lateral Raise (Dumbbell Lying One-Arm Rear)",
@@ -6274,7 +6504,8 @@
       "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise/1.jpg"
     ],
     "id": "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise",
-    "baseXP": 27
+    "baseXP": 27,
+    "popularity": 2.5
   },
   {
     "name": "Dumbbell Lying Pronation",
@@ -6300,7 +6531,8 @@
       "Dumbbell_Lying_Pronation/1.jpg"
     ],
     "id": "Dumbbell_Lying_Pronation",
-    "baseXP": 28
+    "baseXP": 28,
+    "popularity": 2.5
   },
   {
     "name": "Lateral Raise (Dumbbell Lying Rear)",
@@ -6325,7 +6557,8 @@
       "Dumbbell_Lying_Rear_Lateral_Raise/1.jpg"
     ],
     "id": "Dumbbell_Lying_Rear_Lateral_Raise",
-    "baseXP": 28
+    "baseXP": 28,
+    "popularity": 2.5
   },
   {
     "name": "Dumbbell Lying Supination",
@@ -6351,7 +6584,8 @@
       "Dumbbell_Lying_Supination/1.jpg"
     ],
     "id": "Dumbbell_Lying_Supination",
-    "baseXP": 25
+    "baseXP": 25,
+    "popularity": 2.5
   },
   {
     "name": "Shoulder Press (Dumbbell One-Arm)",
@@ -6379,7 +6613,8 @@
       "Dumbbell_One-Arm_Shoulder_Press/1.jpg"
     ],
     "id": "Dumbbell_One-Arm_Shoulder_Press",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2.6
   },
   {
     "name": "Triceps Extension (Dumbbell One-Arm)",
@@ -6405,7 +6640,8 @@
       "Dumbbell_One-Arm_Triceps_Extension/1.jpg"
     ],
     "id": "Dumbbell_One-Arm_Triceps_Extension",
-    "baseXP": 27
+    "baseXP": 27,
+    "popularity": 3
   },
   {
     "name": "Upright Row (Dumbbell One-Arm)",
@@ -6433,7 +6669,8 @@
       "Dumbbell_One-Arm_Upright_Row/1.jpg"
     ],
     "id": "Dumbbell_One-Arm_Upright_Row",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2.6
   },
   {
     "name": "Curl (Dumbbell Prone Incline)",
@@ -6459,7 +6696,8 @@
       "Dumbbell_Prone_Incline_Curl/1.jpg"
     ],
     "id": "Dumbbell_Prone_Incline_Curl",
-    "baseXP": 24
+    "baseXP": 24,
+    "popularity": 2.5
   },
   {
     "name": "Dumbbell Raise",
@@ -6485,7 +6723,8 @@
       "Dumbbell_Raise/1.jpg"
     ],
     "id": "Dumbbell_Raise",
-    "baseXP": 23
+    "baseXP": 23,
+    "popularity": 2.8
   },
   {
     "name": "Lunge (Dumbbell Rear)",
@@ -6513,7 +6752,8 @@
       "Dumbbell_Rear_Lunge/1.jpg"
     ],
     "id": "Dumbbell_Rear_Lunge",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2.6
   },
   {
     "name": "Dumbbell Scaption",
@@ -6538,7 +6778,8 @@
       "Dumbbell_Scaption/1.jpg"
     ],
     "id": "Dumbbell_Scaption",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.7
   },
   {
     "name": "Dumbbell Seated Box Jump",
@@ -6566,7 +6807,8 @@
       "Dumbbell_Seated_Box_Jump/1.jpg"
     ],
     "id": "Dumbbell_Seated_Box_Jump",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 1.5
   },
   {
     "name": "Calf Raise (Dumbbell Seated One-Leg)",
@@ -6592,7 +6834,8 @@
       "Dumbbell_Seated_One-Leg_Calf_Raise/1.jpg"
     ],
     "id": "Dumbbell_Seated_One-Leg_Calf_Raise",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.7
   },
   {
     "name": "Shoulder Press (Dumbbell)",
@@ -6620,7 +6863,8 @@
       "Dumbbell_Shoulder_Press/1.jpg"
     ],
     "id": "Dumbbell_Shoulder_Press",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 5
   },
   {
     "name": "Shrug (Dumbbell)",
@@ -6644,7 +6888,8 @@
       "Dumbbell_Shrug/1.jpg"
     ],
     "id": "Dumbbell_Shrug",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 3.5
   },
   {
     "name": "Dumbbell Side Bend",
@@ -6668,7 +6913,8 @@
       "Dumbbell_Side_Bend/1.jpg"
     ],
     "id": "Dumbbell_Side_Bend",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2.7
   },
   {
     "name": "Squat (Dumbbell)",
@@ -6698,7 +6944,8 @@
       "Dumbbell_Squat/1.jpg"
     ],
     "id": "Dumbbell_Squat",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 3.5
   },
   {
     "name": "Squat (Dumbbell To A Bench)",
@@ -6728,7 +6975,8 @@
       "Dumbbell_Squat_To_A_Bench/1.jpg"
     ],
     "id": "Dumbbell_Squat_To_A_Bench",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2.6
   },
   {
     "name": "Dumbbell Step Ups",
@@ -6756,7 +7004,8 @@
       "Dumbbell_Step_Ups/1.jpg"
     ],
     "id": "Dumbbell_Step_Ups",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.6
   },
   {
     "name": "Dumbbell Tricep Extension -Pronated Grip",
@@ -6780,7 +7029,8 @@
       "Dumbbell_Tricep_Extension_-Pronated_Grip/1.jpg"
     ],
     "id": "Dumbbell_Tricep_Extension_-Pronated_Grip",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 2.7
   },
   {
     "name": "Dynamic Back Stretch",
@@ -6802,7 +7052,8 @@
       "Dynamic_Back_Stretch/1.jpg"
     ],
     "id": "Dynamic_Back_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Dynamic Chest Stretch",
@@ -6826,7 +7077,8 @@
       "Dynamic_Chest_Stretch/1.jpg"
     ],
     "id": "Dynamic_Chest_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Curl (EZ-Bar)",
@@ -6851,7 +7103,8 @@
       "EZ-Bar_Curl/1.jpg"
     ],
     "id": "EZ-Bar_Curl",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 3.5
   },
   {
     "name": "EZ-Bar Skullcrusher",
@@ -6877,7 +7130,8 @@
       "EZ-Bar_Skullcrusher/1.jpg"
     ],
     "id": "EZ-Bar_Skullcrusher",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 4
   },
   {
     "name": "Elbow Circles",
@@ -6902,7 +7156,8 @@
       "Elbow_Circles/1.jpg"
     ],
     "id": "Elbow_Circles",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Elbow to Knee",
@@ -6925,7 +7180,8 @@
       "Elbow_to_Knee/1.jpg"
     ],
     "id": "Elbow_to_Knee",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 2.5
   },
   {
     "name": "Elbows Back",
@@ -6950,7 +7206,8 @@
       "Elbows_Back/1.jpg"
     ],
     "id": "Elbows_Back",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Lunge (Elevated Back)",
@@ -6977,7 +7234,8 @@
       "Elevated_Back_Lunge/1.jpg"
     ],
     "id": "Elevated_Back_Lunge",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.6
   },
   {
     "name": "Elevated Rows (Cable)",
@@ -7007,7 +7265,8 @@
       "Elevated_Cable_Rows/1.jpg"
     ],
     "id": "Elevated_Cable_Rows",
-    "baseXP": 31
+    "baseXP": 31,
+    "popularity": 2.5
   },
   {
     "name": "Elliptical Trainer",
@@ -7033,7 +7292,8 @@
       "Elliptical_Trainer/1.jpg"
     ],
     "id": "Elliptical_Trainer",
-    "baseXP": 28
+    "baseXP": 28,
+    "popularity": 1
   },
   {
     "name": "Crunch (Exercise Ball)",
@@ -7058,7 +7318,8 @@
       "Exercise_Ball_Crunch/1.jpg"
     ],
     "id": "Exercise_Ball_Crunch",
-    "baseXP": 12
+    "baseXP": 12,
+    "popularity": 2
   },
   {
     "name": "Pull (Exercise Ball -In)",
@@ -7083,7 +7344,8 @@
       "Exercise_Ball_Pull-In/1.jpg"
     ],
     "id": "Exercise_Ball_Pull-In",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.1
   },
   {
     "name": "Press (Extended Range One-Arm Kettlebell Floor)",
@@ -7108,7 +7370,8 @@
       "Extended_Range_One-Arm_Kettlebell_Floor_Press/1.jpg"
     ],
     "id": "Extended_Range_One-Arm_Kettlebell_Floor_Press",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.3
   },
   {
     "name": "External Rotation",
@@ -7134,7 +7397,8 @@
       "External_Rotation/1.jpg"
     ],
     "id": "External_Rotation",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.7
   },
   {
     "name": "External Rotation with Band",
@@ -7159,7 +7423,8 @@
       "External_Rotation_with_Band/1.jpg"
     ],
     "id": "External_Rotation_with_Band",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 2.1
   },
   {
     "name": "External Rotation with Cable",
@@ -7183,7 +7448,8 @@
       "External_Rotation_with_Cable/1.jpg"
     ],
     "id": "External_Rotation_with_Cable",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2.6
   },
   {
     "name": "Pull (Face)",
@@ -7206,7 +7472,8 @@
       "Face_Pull/1.jpg"
     ],
     "id": "Face_Pull",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 2.5
   },
   {
     "name": "Walk (Farmer's)",
@@ -7236,7 +7503,8 @@
       "Farmers_Walk/1.jpg"
     ],
     "id": "Farmers_Walk",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 0.8
   },
   {
     "name": "Fast Skipping",
@@ -7265,7 +7533,8 @@
       "Fast_Skipping/1.jpg"
     ],
     "id": "Fast_Skipping",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 1.4
   },
   {
     "name": "Finger Curls",
@@ -7289,7 +7558,8 @@
       "Finger_Curls/1.jpg"
     ],
     "id": "Finger_Curls",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.7
   },
   {
     "name": "Fly (Flat Bench Cable es)",
@@ -7316,7 +7586,8 @@
       "Flat_Bench_Cable_Flyes/1.jpg"
     ],
     "id": "Flat_Bench_Cable_Flyes",
-    "baseXP": 24
+    "baseXP": 24,
+    "popularity": 2.4
   },
   {
     "name": "Pull (Flat Bench Leg -In)",
@@ -7341,7 +7612,8 @@
       "Flat_Bench_Leg_Pull-In/1.jpg"
     ],
     "id": "Flat_Bench_Leg_Pull-In",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 2.5
   },
   {
     "name": "Leg Raise (Flat Bench Lying)",
@@ -7365,7 +7637,8 @@
       "Flat_Bench_Lying_Leg_Raise/1.jpg"
     ],
     "id": "Flat_Bench_Lying_Leg_Raise",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 2.4
   },
   {
     "name": "Flexor Curls (Incline Dumbbell)",
@@ -7391,7 +7664,8 @@
       "Flexor_Incline_Dumbbell_Curls/1.jpg"
     ],
     "id": "Flexor_Incline_Dumbbell_Curls",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.7
   },
   {
     "name": "Glute-Ham Raise (Floor)",
@@ -7418,7 +7692,8 @@
       "Floor_Glute-Ham_Raise/1.jpg"
     ],
     "id": "Floor_Glute-Ham_Raise",
-    "baseXP": 24
+    "baseXP": 24,
+    "popularity": 1.7
   },
   {
     "name": "Press (Floor)",
@@ -7444,7 +7719,8 @@
       "Floor_Press/1.jpg"
     ],
     "id": "Floor_Press",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2
   },
   {
     "name": "Press (Floor with Chains)",
@@ -7471,7 +7747,8 @@
       "Floor_Press_with_Chains/1.jpg"
     ],
     "id": "Floor_Press_with_Chains",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2
   },
   {
     "name": "Flutter Kicks",
@@ -7498,7 +7775,8 @@
       "Flutter_Kicks/1.jpg"
     ],
     "id": "Flutter_Kicks",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 2.5
   },
   {
     "name": "Foot-SMR",
@@ -7520,7 +7798,8 @@
       "Foot-SMR/1.jpg"
     ],
     "id": "Foot-SMR",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.3
   },
   {
     "name": "Press (Forward Drag with)",
@@ -7549,7 +7828,8 @@
       "Forward_Drag_with_Press/1.jpg"
     ],
     "id": "Forward_Drag_with_Press",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 0.8
   },
   {
     "name": "Squat (Frankenstein)",
@@ -7578,7 +7858,8 @@
       "Frankenstein_Squat/1.jpg"
     ],
     "id": "Frankenstein_Squat",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 1.7
   },
   {
     "name": "Squat (Freehand Jump)",
@@ -7608,7 +7889,8 @@
       "Freehand_Jump_Squat/1.jpg"
     ],
     "id": "Freehand_Jump_Squat",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2.3
   },
   {
     "name": "Frog Hops",
@@ -7634,7 +7916,8 @@
       "Frog_Hops/1.jpg"
     ],
     "id": "Frog_Hops",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.6
   },
   {
     "name": "Sit-Ups (Frog)",
@@ -7661,7 +7944,8 @@
       "Frog_Sit-Ups/1.jpg"
     ],
     "id": "Frog_Sit-Ups",
-    "baseXP": 24
+    "baseXP": 24,
+    "popularity": 2.2
   },
   {
     "name": "Squat (Front Barbell)",
@@ -7691,7 +7975,8 @@
       "Front_Barbell_Squat/1.jpg"
     ],
     "id": "Front_Barbell_Squat",
-    "baseXP": 47
+    "baseXP": 47,
+    "popularity": 4
   },
   {
     "name": "Squat (Front Barbell To A Bench)",
@@ -7721,7 +8006,8 @@
       "Front_Barbell_Squat_To_A_Bench/1.jpg"
     ],
     "id": "Front_Barbell_Squat_To_A_Bench",
-    "baseXP": 50
+    "baseXP": 50,
+    "popularity": 2.4
   },
   {
     "name": "Front Box Jump",
@@ -7751,7 +8037,8 @@
       "Front_Box_Jump/1.jpg"
     ],
     "id": "Front_Box_Jump",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 1
   },
   {
     "name": "Front Raise (Cable)",
@@ -7776,7 +8063,8 @@
       "Front_Cable_Raise/1.jpg"
     ],
     "id": "Front_Cable_Raise",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.6
   },
   {
     "name": "Front Cone Hops (or hurdle hops)",
@@ -7807,7 +8095,8 @@
       "Front_Cone_Hops_or_hurdle_hops/1.jpg"
     ],
     "id": "Front_Cone_Hops_or_hurdle_hops",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 1
   },
   {
     "name": "Front Raise (Dumbbell)",
@@ -7831,7 +8120,8 @@
       "Front_Dumbbell_Raise/1.jpg"
     ],
     "id": "Front_Dumbbell_Raise",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 4
   },
   {
     "name": "Front Raise (Incline Dumbbell)",
@@ -7856,7 +8146,8 @@
       "Front_Incline_Dumbbell_Raise/1.jpg"
     ],
     "id": "Front_Incline_Dumbbell_Raise",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.7
   },
   {
     "name": "Leg Raises (Front)",
@@ -7878,7 +8169,8 @@
       "Front_Leg_Raises/1.jpg"
     ],
     "id": "Front_Leg_Raises",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.9
   },
   {
     "name": "Front Raise (Plate)",
@@ -7902,7 +8194,8 @@
       "Front_Plate_Raise/1.jpg"
     ],
     "id": "Front_Plate_Raise",
-    "baseXP": 23
+    "baseXP": 23,
+    "popularity": 1.8
   },
   {
     "name": "Front Raise And Pullover",
@@ -7931,7 +8224,8 @@
       "Front_Raise_And_Pullover/1.jpg"
     ],
     "id": "Front_Raise_And_Pullover",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 2.8
   },
   {
     "name": "Squat (Front Clean Grip)",
@@ -7959,7 +8253,8 @@
       "Front_Squat_Clean_Grip/1.jpg"
     ],
     "id": "Front_Squat_Clean_Grip",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2.6
   },
   {
     "name": "Front Squats (With Two Kettlebells)",
@@ -7985,7 +8280,8 @@
       "Front_Squats_With_Two_Kettlebells/1.jpg"
     ],
     "id": "Front_Squats_With_Two_Kettlebells",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2.1
   },
   {
     "name": "Front Raise (Two-Dumbbell)",
@@ -8009,7 +8305,8 @@
       "Front_Two-Dumbbell_Raise/1.jpg"
     ],
     "id": "Front_Two-Dumbbell_Raise",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.7
   },
   {
     "name": "Lat Pulldown (Full Range-Of-Motion)",
@@ -8035,7 +8332,8 @@
       "Full_Range-Of-Motion_Lat_Pulldown/1.jpg"
     ],
     "id": "Full_Range-Of-Motion_Lat_Pulldown",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2.5
   },
   {
     "name": "Gironda Sternum Chins",
@@ -8064,7 +8362,8 @@
       "Gironda_Sternum_Chins/1.jpg"
     ],
     "id": "Gironda_Sternum_Chins",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 1.9
   },
   {
     "name": "Glute Ham Raise",
@@ -8090,7 +8389,8 @@
       "Glute_Ham_Raise/1.jpg"
     ],
     "id": "Glute_Ham_Raise",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 1.9
   },
   {
     "name": "Glute Kickback",
@@ -8116,7 +8416,8 @@
       "Glute_Kickback/1.jpg"
     ],
     "id": "Glute_Kickback",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 3
   },
   {
     "name": "Squat (Goblet)",
@@ -8144,7 +8445,8 @@
       "Goblet_Squat/1.jpg"
     ],
     "id": "Goblet_Squat",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 4
   },
   {
     "name": "Good Morning",
@@ -8171,7 +8473,8 @@
       "Good_Morning/1.jpg"
     ],
     "id": "Good_Morning",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 3
   },
   {
     "name": "Good Morning off Pins",
@@ -8197,7 +8500,8 @@
       "Good_Morning_off_Pins/1.jpg"
     ],
     "id": "Good_Morning_off_Pins",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2
   },
   {
     "name": "Crunch (Gorilla Chin/)",
@@ -8225,7 +8529,8 @@
       "Gorilla_Chin_Crunch/1.jpg"
     ],
     "id": "Gorilla_Chin_Crunch",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.3
   },
   {
     "name": "Groin and Back Stretch",
@@ -8248,7 +8553,8 @@
       "Groin_and_Back_Stretch/1.jpg"
     ],
     "id": "Groin_and_Back_Stretch",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.6
   },
   {
     "name": "Groiners",
@@ -8271,7 +8577,8 @@
       "Groiners/1.jpg"
     ],
     "id": "Groiners",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 1.1
   },
   {
     "name": "Hack Squat",
@@ -8302,7 +8609,8 @@
       "Hack_Squat/1.jpg"
     ],
     "id": "Hack_Squat",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 4
   },
   {
     "name": "Hammer Curl (Dumbbell)",
@@ -8327,7 +8635,8 @@
       "Hammer_Curls/1.jpg"
     ],
     "id": "Hammer_Curls",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 4.5
   },
   {
     "name": "Bench Press (Hammer Grip Incline DB)",
@@ -8357,7 +8666,8 @@
       "Hammer_Grip_Incline_DB_Bench_Press/1.jpg"
     ],
     "id": "Hammer_Grip_Incline_DB_Bench_Press",
-    "baseXP": 23
+    "baseXP": 23,
+    "popularity": 2.8
   },
   {
     "name": "Hamstring-SMR",
@@ -8380,7 +8690,8 @@
       "Hamstring-SMR/1.jpg"
     ],
     "id": "Hamstring-SMR",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Hamstring Stretch",
@@ -8403,7 +8714,8 @@
       "Hamstring_Stretch/1.jpg"
     ],
     "id": "Hamstring_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Push-Ups (Handstand)",
@@ -8430,7 +8742,8 @@
       "Handstand_Push-Ups/1.jpg"
     ],
     "id": "Handstand_Push-Ups",
-    "baseXP": 45
+    "baseXP": 45,
+    "popularity": 2.1
   },
   {
     "name": "Clean (Hang)",
@@ -8461,7 +8774,8 @@
       "Hang_Clean/1.jpg"
     ],
     "id": "Hang_Clean",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 1.7
   },
   {
     "name": "Hang Clean (Below the Knees)",
@@ -8493,7 +8807,8 @@
       "Hang_Clean_-_Below_the_Knees/1.jpg"
     ],
     "id": "Hang_Clean_-_Below_the_Knees",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 1.7
   },
   {
     "name": "Snatch (Hang)",
@@ -8526,7 +8841,8 @@
       "Hang_Snatch/1.jpg"
     ],
     "id": "Hang_Snatch",
-    "baseXP": 50
+    "baseXP": 50,
+    "popularity": 1.5
   },
   {
     "name": "Hang Snatch (Below Knees)",
@@ -8559,7 +8875,8 @@
       "Hang_Snatch_-_Below_Knees/1.jpg"
     ],
     "id": "Hang_Snatch_-_Below_Knees",
-    "baseXP": 50
+    "baseXP": 50,
+    "popularity": 1.5
   },
   {
     "name": "Hanging Bar Good Morning",
@@ -8587,7 +8904,8 @@
       "Hanging_Bar_Good_Morning/1.jpg"
     ],
     "id": "Hanging_Bar_Good_Morning",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2
   },
   {
     "name": "Hanging Leg Raise",
@@ -8611,7 +8929,8 @@
       "Hanging_Leg_Raise/1.jpg"
     ],
     "id": "Hanging_Leg_Raise",
-    "baseXP": 38
+    "baseXP": 38,
+    "popularity": 4
   },
   {
     "name": "Hanging Pike",
@@ -8636,7 +8955,8 @@
       "Hanging_Pike/1.jpg"
     ],
     "id": "Hanging_Pike",
-    "baseXP": 48
+    "baseXP": 48,
+    "popularity": 2.1
   },
   {
     "name": "Snatch (Heaving Balance)",
@@ -8666,7 +8986,8 @@
       "Heaving_Snatch_Balance/1.jpg"
     ],
     "id": "Heaving_Snatch_Balance",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 1.7
   },
   {
     "name": "Thrust (Heavy Bag)",
@@ -8693,7 +9014,8 @@
       "Heavy_Bag_Thrust/1.jpg"
     ],
     "id": "Heavy_Bag_Thrust",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 1
   },
   {
     "name": "Curls (High Cable)",
@@ -8717,7 +9039,8 @@
       "High_Cable_Curls/1.jpg"
     ],
     "id": "High_Cable_Curls",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2.5
   },
   {
     "name": "Hip Circles (prone)",
@@ -8742,7 +9065,8 @@
       "Hip_Circles_prone/1.jpg"
     ],
     "id": "Hip_Circles_prone",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 1.2
   },
   {
     "name": "Hip Extension with Bands",
@@ -8768,7 +9092,8 @@
       "Hip_Extension_with_Bands/1.jpg"
     ],
     "id": "Hip_Extension_with_Bands",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 2.1
   },
   {
     "name": "Hip Flexion with Band",
@@ -8792,7 +9117,8 @@
       "Hip_Flexion_with_Band/1.jpg"
     ],
     "id": "Hip_Flexion_with_Band",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.1
   },
   {
     "name": "Hip Lift with Band",
@@ -8819,7 +9145,8 @@
       "Hip_Lift_with_Band/1.jpg"
     ],
     "id": "Hip_Lift_with_Band",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 1.5
   },
   {
     "name": "Hug A Ball",
@@ -8845,7 +9172,8 @@
       "Hug_A_Ball/1.jpg"
     ],
     "id": "Hug_A_Ball",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.8
   },
   {
     "name": "Hug Knees To Chest",
@@ -8870,7 +9198,8 @@
       "Hug_Knees_To_Chest/1.jpg"
     ],
     "id": "Hug_Knees_To_Chest",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Hurdle Hops",
@@ -8900,7 +9229,8 @@
       "Hurdle_Hops/1.jpg"
     ],
     "id": "Hurdle_Hops",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 1
   },
   {
     "name": "Back Extensions (Hyperextensions)",
@@ -8929,7 +9259,8 @@
       "Hyperextensions_Back_Extensions/1.jpg"
     ],
     "id": "Hyperextensions_Back_Extensions",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 2
   },
   {
     "name": "Hyperextensions With No Hyperextension Bench",
@@ -8957,7 +9288,8 @@
       "Hyperextensions_With_No_Hyperextension_Bench/1.jpg"
     ],
     "id": "Hyperextensions_With_No_Hyperextension_Bench",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 2.3
   },
   {
     "name": "IT Band and Glute Stretch",
@@ -8979,7 +9311,8 @@
       "IT_Band_and_Glute_Stretch/1.jpg"
     ],
     "id": "IT_Band_and_Glute_Stretch",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.3
   },
   {
     "name": "Iliotibial Tract-SMR",
@@ -9002,7 +9335,8 @@
       "Iliotibial_Tract-SMR/1.jpg"
     ],
     "id": "Iliotibial_Tract-SMR",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.5
   },
   {
     "name": "Inchworm",
@@ -9027,7 +9361,8 @@
       "Inchworm/1.jpg"
     ],
     "id": "Inchworm",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 1.3
   },
   {
     "name": "Triceps Extension (Incline Barbell)",
@@ -9055,7 +9390,8 @@
       "Incline_Barbell_Triceps_Extension/1.jpg"
     ],
     "id": "Incline_Barbell_Triceps_Extension",
-    "baseXP": 28
+    "baseXP": 28,
+    "popularity": 2.5
   },
   {
     "name": "Pull (Incline Bench)",
@@ -9085,7 +9421,8 @@
       "Incline_Bench_Pull/1.jpg"
     ],
     "id": "Incline_Bench_Pull",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.7
   },
   {
     "name": "Press (Incline Cable Chest)",
@@ -9111,7 +9448,8 @@
       "Incline_Cable_Chest_Press/1.jpg"
     ],
     "id": "Incline_Cable_Chest_Press",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.7
   },
   {
     "name": "Fly (Incline Cable e)",
@@ -9139,7 +9477,8 @@
       "Incline_Cable_Flye/1.jpg"
     ],
     "id": "Incline_Cable_Flye",
-    "baseXP": 23
+    "baseXP": 23,
+    "popularity": 2.4
   },
   {
     "name": "Incline Dumbbell Bench With Palms Facing In",
@@ -9169,7 +9508,8 @@
       "Incline_Dumbbell_Bench_With_Palms_Facing_In/1.jpg"
     ],
     "id": "Incline_Dumbbell_Bench_With_Palms_Facing_In",
-    "baseXP": 24
+    "baseXP": 24,
+    "popularity": 2.8
   },
   {
     "name": "Curl (Incline Dumbbell)",
@@ -9193,7 +9533,8 @@
       "Incline_Dumbbell_Curl/1.jpg"
     ],
     "id": "Incline_Dumbbell_Curl",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2.7
   },
   {
     "name": "Fly (Incline Dumbbell es)",
@@ -9221,7 +9562,8 @@
       "Incline_Dumbbell_Flyes/1.jpg"
     ],
     "id": "Incline_Dumbbell_Flyes",
-    "baseXP": 24
+    "baseXP": 24,
+    "popularity": 4
   },
   {
     "name": "Flyes (Incline Dumbbell - With A Twist)",
@@ -9249,7 +9591,8 @@
       "Incline_Dumbbell_Flyes_-_With_A_Twist/1.jpg"
     ],
     "id": "Incline_Dumbbell_Flyes_-_With_A_Twist",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.8
   },
   {
     "name": "Press (Incline Dumbbell)",
@@ -9279,7 +9622,8 @@
       "Incline_Dumbbell_Press/1.jpg"
     ],
     "id": "Incline_Dumbbell_Press",
-    "baseXP": 24
+    "baseXP": 24,
+    "popularity": 5
   },
   {
     "name": "Hammer Curls (Incline)",
@@ -9302,7 +9646,8 @@
       "Incline_Hammer_Curls/1.jpg"
     ],
     "id": "Incline_Hammer_Curls",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.7
   },
   {
     "name": "Biceps Curl (Incline Inner)",
@@ -9327,7 +9672,8 @@
       "Incline_Inner_Biceps_Curl/1.jpg"
     ],
     "id": "Incline_Inner_Biceps_Curl",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.7
   },
   {
     "name": "Push-Up (Incline)",
@@ -9353,7 +9699,8 @@
       "Incline_Push-Up/1.jpg"
     ],
     "id": "Incline_Push-Up",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 2.5
   },
   {
     "name": "Push-Up (Incline Close-Grip)",
@@ -9381,7 +9728,8 @@
       "Incline_Push-Up_Close-Grip/1.jpg"
     ],
     "id": "Incline_Push-Up_Close-Grip",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 2.5
   },
   {
     "name": "Push-Up (Incline Depth Jump)",
@@ -9408,7 +9756,8 @@
       "Incline_Push-Up_Depth_Jump/1.jpg"
     ],
     "id": "Incline_Push-Up_Depth_Jump",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 1
   },
   {
     "name": "Push-Up (Incline Medium)",
@@ -9437,7 +9786,8 @@
       "Incline_Push-Up_Medium/1.jpg"
     ],
     "id": "Incline_Push-Up_Medium",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.5
   },
   {
     "name": "Push-Up (Incline Reverse Grip)",
@@ -9466,7 +9816,8 @@
       "Incline_Push-Up_Reverse_Grip/1.jpg"
     ],
     "id": "Incline_Push-Up_Reverse_Grip",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.5
   },
   {
     "name": "Push-Up (Incline Wide)",
@@ -9495,7 +9846,8 @@
       "Incline_Push-Up_Wide/1.jpg"
     ],
     "id": "Incline_Push-Up_Wide",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.5
   },
   {
     "name": "Intermediate Groin Stretch",
@@ -9517,7 +9869,8 @@
       "Intermediate_Groin_Stretch/1.jpg"
     ],
     "id": "Intermediate_Groin_Stretch",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.6
   },
   {
     "name": "Intermediate Hip Flexor and Quad Stretch",
@@ -9539,7 +9892,8 @@
       "Intermediate_Hip_Flexor_and_Quad_Stretch/1.jpg"
     ],
     "id": "Intermediate_Hip_Flexor_and_Quad_Stretch",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.7
   },
   {
     "name": "Internal Rotation with Band",
@@ -9564,7 +9918,8 @@
       "Internal_Rotation_with_Band/1.jpg"
     ],
     "id": "Internal_Rotation_with_Band",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2
   },
   {
     "name": "Row (Inverted)",
@@ -9591,7 +9946,8 @@
       "Inverted_Row/1.jpg"
     ],
     "id": "Inverted_Row",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2
   },
   {
     "name": "Row (Inverted with Straps)",
@@ -9618,7 +9974,8 @@
       "Inverted_Row_with_Straps/1.jpg"
     ],
     "id": "Inverted_Row_with_Straps",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.1
   },
   {
     "name": "Iron Cross",
@@ -9644,7 +10001,8 @@
       "Iron_Cross/1.jpg"
     ],
     "id": "Iron_Cross",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.6
   },
   {
     "name": "Iron Crosses (stretch)",
@@ -9667,7 +10025,8 @@
       "Iron_Crosses_stretch/1.jpg"
     ],
     "id": "Iron_Crosses_stretch",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.6
   },
   {
     "name": "Isometric Chest Squeezes",
@@ -9695,7 +10054,8 @@
       "Isometric_Chest_Squeezes/1.jpg"
     ],
     "id": "Isometric_Chest_Squeezes",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 1.4
   },
   {
     "name": "Isometric Neck Exercise - Front And Back",
@@ -9720,7 +10080,8 @@
       "Isometric_Neck_Exercise_-_Front_And_Back/1.jpg"
     ],
     "id": "Isometric_Neck_Exercise_-_Front_And_Back",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2.4
   },
   {
     "name": "Isometric Neck Exercise - Sides",
@@ -9745,7 +10106,8 @@
       "Isometric_Neck_Exercise_-_Sides/1.jpg"
     ],
     "id": "Isometric_Neck_Exercise_-_Sides",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 2.4
   },
   {
     "name": "Isometric Wipers",
@@ -9773,7 +10135,8 @@
       "Isometric_Wipers/1.jpg"
     ],
     "id": "Isometric_Wipers",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 2.5
   },
   {
     "name": "Press (JM)",
@@ -9801,7 +10164,8 @@
       "JM_Press/1.jpg"
     ],
     "id": "JM_Press",
-    "baseXP": 24
+    "baseXP": 24,
+    "popularity": 2.8
   },
   {
     "name": "Sit-Up (Jackknife)",
@@ -9825,7 +10189,8 @@
       "Jackknife_Sit-Up/1.jpg"
     ],
     "id": "Jackknife_Sit-Up",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.5
   },
   {
     "name": "Sit-Up (Janda)",
@@ -9849,7 +10214,8 @@
       "Janda_Sit-Up/1.jpg"
     ],
     "id": "Janda_Sit-Up",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.4
   },
   {
     "name": "Squats (Jefferson)",
@@ -9882,7 +10248,8 @@
       "Jefferson_Squats/1.jpg"
     ],
     "id": "Jefferson_Squats",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2.6
   },
   {
     "name": "Jerk (Balance)",
@@ -9910,7 +10277,8 @@
       "Jerk_Balance/1.jpg"
     ],
     "id": "Jerk_Balance",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 1.7
   },
   {
     "name": "Squat (Jerk Dip)",
@@ -9935,7 +10303,8 @@
       "Jerk_Dip_Squat/1.jpg"
     ],
     "id": "Jerk_Dip_Squat",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 1.7
   },
   {
     "name": "Jogging, Treadmill",
@@ -9960,7 +10329,8 @@
       "Jogging_Treadmill/1.jpg"
     ],
     "id": "Jogging_Treadmill",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 1.2
   },
   {
     "name": "Keg Load",
@@ -9995,7 +10365,8 @@
       "Keg_Load/1.jpg"
     ],
     "id": "Keg_Load",
-    "baseXP": 31
+    "baseXP": 31,
+    "popularity": 0.8
   },
   {
     "name": "Press (Kettlebell Arnold)",
@@ -10020,7 +10391,8 @@
       "Kettlebell_Arnold_Press/1.jpg"
     ],
     "id": "Kettlebell_Arnold_Press",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.1
   },
   {
     "name": "Clean (Kettlebell Dead)",
@@ -10049,7 +10421,8 @@
       "Kettlebell_Dead_Clean/1.jpg"
     ],
     "id": "Kettlebell_Dead_Clean",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.1
   },
   {
     "name": "Kettlebell Figure 8",
@@ -10074,7 +10447,8 @@
       "Kettlebell_Figure_8/1.jpg"
     ],
     "id": "Kettlebell_Figure_8",
-    "baseXP": 30
+    "baseXP": 30,
+    "popularity": 1.7
   },
   {
     "name": "Clean (Kettlebell Hang)",
@@ -10103,7 +10477,8 @@
       "Kettlebell_Hang_Clean/1.jpg"
     ],
     "id": "Kettlebell_Hang_Clean",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2.1
   },
   {
     "name": "Deadlift (Kettlebell One-Legged)",
@@ -10129,7 +10504,8 @@
       "Kettlebell_One-Legged_Deadlift/1.jpg"
     ],
     "id": "Kettlebell_One-Legged_Deadlift",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 2.1
   },
   {
     "name": "Kettlebell Pass Between The Legs",
@@ -10155,7 +10531,8 @@
       "Kettlebell_Pass_Between_The_Legs/1.jpg"
     ],
     "id": "Kettlebell_Pass_Between_The_Legs",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 2.1
   },
   {
     "name": "Kettlebell Pirate Ships",
@@ -10181,7 +10558,8 @@
       "Kettlebell_Pirate_Ships/1.jpg"
     ],
     "id": "Kettlebell_Pirate_Ships",
-    "baseXP": 24
+    "baseXP": 24,
+    "popularity": 2.3
   },
   {
     "name": "Pistol Squat (Kettlebell)",
@@ -10210,7 +10588,8 @@
       "Kettlebell_Pistol_Squat/1.jpg"
     ],
     "id": "Kettlebell_Pistol_Squat",
-    "baseXP": 50
+    "baseXP": 50,
+    "popularity": 1.9
   },
   {
     "name": "Press (Kettlebell Seated)",
@@ -10235,7 +10614,8 @@
       "Kettlebell_Seated_Press/1.jpg"
     ],
     "id": "Kettlebell_Seated_Press",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 2.1
   },
   {
     "name": "Press (Kettlebell Seesaw)",
@@ -10260,7 +10640,8 @@
       "Kettlebell_Seesaw_Press/1.jpg"
     ],
     "id": "Kettlebell_Seesaw_Press",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2.1
   },
   {
     "name": "Pull (Kettlebell Sumo High)",
@@ -10288,7 +10669,8 @@
       "Kettlebell_Sumo_High_Pull/1.jpg"
     ],
     "id": "Kettlebell_Sumo_High_Pull",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.1
   },
   {
     "name": "Thruster (Kettlebell)",
@@ -10315,7 +10697,8 @@
       "Kettlebell_Thruster/1.jpg"
     ],
     "id": "Kettlebell_Thruster",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2.1
   },
   {
     "name": "Lunge (Kettlebell Turkish Get-Up style)",
@@ -10343,7 +10726,8 @@
       "Kettlebell_Turkish_Get-Up_Lunge_style/1.jpg"
     ],
     "id": "Kettlebell_Turkish_Get-Up_Lunge_style",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 2.1
   },
   {
     "name": "Squat (Kettlebell Turkish Get-Up style)",
@@ -10372,7 +10756,8 @@
       "Kettlebell_Turkish_Get-Up_Squat_style/1.jpg"
     ],
     "id": "Kettlebell_Turkish_Get-Up_Squat_style",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2.1
   },
   {
     "name": "Kettlebell Windmill",
@@ -10400,7 +10785,8 @@
       "Kettlebell_Windmill/1.jpg"
     ],
     "id": "Kettlebell_Windmill",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.1
   },
   {
     "name": "Kipping Muscle Up",
@@ -10433,7 +10819,8 @@
       "Kipping_Muscle_Up/1.jpg"
     ],
     "id": "Kipping_Muscle_Up",
-    "baseXP": 31
+    "baseXP": 31,
+    "popularity": 1.9
   },
   {
     "name": "Knee Across The Body",
@@ -10458,7 +10845,8 @@
       "Knee_Across_The_Body/1.jpg"
     ],
     "id": "Knee_Across_The_Body",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Knee Circles",
@@ -10484,7 +10872,8 @@
       "Knee_Circles/1.jpg"
     ],
     "id": "Knee_Circles",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 1.3
   },
   {
     "name": "Knee/Hip Raise (On Parallel Bars)",
@@ -10509,7 +10898,8 @@
       "Knee_Hip_Raise_On_Parallel_Bars/1.jpg"
     ],
     "id": "Knee_Hip_Raise_On_Parallel_Bars",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2
   },
   {
     "name": "Knee Tuck Jump",
@@ -10538,7 +10928,8 @@
       "Knee_Tuck_Jump/1.jpg"
     ],
     "id": "Knee_Tuck_Jump",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 1.4
   },
   {
     "name": "Kneeling Arm Drill",
@@ -10564,7 +10955,8 @@
       "Kneeling_Arm_Drill/1.jpg"
     ],
     "id": "Kneeling_Arm_Drill",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 0.5
   },
   {
     "name": "Crunch (Kneeling Cable With Alternating Oblique Twists)",
@@ -10593,7 +10985,8 @@
       "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists/1.jpg"
     ],
     "id": "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.6
   },
   {
     "name": "Triceps Extension (Kneeling Cable)",
@@ -10620,7 +11013,8 @@
       "Kneeling_Cable_Triceps_Extension/1.jpg"
     ],
     "id": "Kneeling_Cable_Triceps_Extension",
-    "baseXP": 26
+    "baseXP": 26,
+    "popularity": 2.4
   },
   {
     "name": "Kneeling Forearm Stretch",
@@ -10642,7 +11036,8 @@
       "Kneeling_Forearm_Stretch/1.jpg"
     ],
     "id": "Kneeling_Forearm_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Row (Kneeling High Pulley)",
@@ -10668,7 +11063,8 @@
       "Kneeling_High_Pulley_Row/1.jpg"
     ],
     "id": "Kneeling_High_Pulley_Row",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.7
   },
   {
     "name": "Kneeling Hip Flexor",
@@ -10692,7 +11088,8 @@
       "Kneeling_Hip_Flexor/1.jpg"
     ],
     "id": "Kneeling_Hip_Flexor",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Squat (Kneeling Jump)",
@@ -10720,7 +11117,8 @@
       "Kneeling_Jump_Squat/1.jpg"
     ],
     "id": "Kneeling_Jump_Squat",
-    "baseXP": 50
+    "baseXP": 50,
+    "popularity": 1.5
   },
   {
     "name": "Row (Kneeling Single-Arm High Pulley)",
@@ -10747,7 +11145,8 @@
       "Kneeling_Single-Arm_High_Pulley_Row/1.jpg"
     ],
     "id": "Kneeling_Single-Arm_High_Pulley_Row",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.7
   },
   {
     "name": "Squat (Kneeling)",
@@ -10774,7 +11173,8 @@
       "Kneeling_Squat/1.jpg"
     ],
     "id": "Kneeling_Squat",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 2
   },
   {
     "name": "Landmine 180's",
@@ -10803,7 +11203,8 @@
       "Landmine_180s/1.jpg"
     ],
     "id": "Landmine_180s",
-    "baseXP": 24
+    "baseXP": 24,
+    "popularity": 2.8
   },
   {
     "name": "Landmine Linear Jammer",
@@ -10835,7 +11236,8 @@
       "Landmine_Linear_Jammer/1.jpg"
     ],
     "id": "Landmine_Linear_Jammer",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2.6
   },
   {
     "name": "Lateral Bound",
@@ -10866,7 +11268,8 @@
       "Lateral_Bound/1.jpg"
     ],
     "id": "Lateral_Bound",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 1.4
   },
   {
     "name": "Lateral Box Jump",
@@ -10897,7 +11300,8 @@
       "Lateral_Box_Jump/1.jpg"
     ],
     "id": "Lateral_Box_Jump",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 1
   },
   {
     "name": "Lateral Cone Hops",
@@ -10927,7 +11331,8 @@
       "Lateral_Cone_Hops/1.jpg"
     ],
     "id": "Lateral_Cone_Hops",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 1
   },
   {
     "name": "Lateral Raise (With Bands)",
@@ -10951,7 +11356,8 @@
       "Lateral_Raise_-_With_Bands/1.jpg"
     ],
     "id": "Lateral_Raise_-_With_Bands",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2
   },
   {
     "name": "Latissimus Dorsi-SMR",
@@ -10973,7 +11379,8 @@
       "Latissimus_Dorsi-SMR/1.jpg"
     ],
     "id": "Latissimus_Dorsi-SMR",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Press (Leg-Over Floor)",
@@ -10999,7 +11406,8 @@
       "Leg-Over_Floor_Press/1.jpg"
     ],
     "id": "Leg-Over_Floor_Press",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2.1
   },
   {
     "name": "Leg-Up Hamstring Stretch",
@@ -11022,7 +11430,8 @@
       "Leg-Up_Hamstring_Stretch/1.jpg"
     ],
     "id": "Leg-Up_Hamstring_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Leg Extensions",
@@ -11046,7 +11455,8 @@
       "Leg_Extensions/1.jpg"
     ],
     "id": "Leg_Extensions",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 5
   },
   {
     "name": "Leg Lift",
@@ -11073,7 +11483,8 @@
       "Leg_Lift/1.jpg"
     ],
     "id": "Leg_Lift",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2.4
   },
   {
     "name": "Leg Press",
@@ -11102,7 +11513,8 @@
       "Leg_Press/1.jpg"
     ],
     "id": "Leg_Press",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 5.5
   },
   {
     "name": "Pull (Leg -In)",
@@ -11126,7 +11538,8 @@
       "Leg_Pull-In/1.jpg"
     ],
     "id": "Leg_Pull-In",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 2.5
   },
   {
     "name": "Press (Leverage Chest)",
@@ -11153,7 +11566,8 @@
       "Leverage_Chest_Press/1.jpg"
     ],
     "id": "Leverage_Chest_Press",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.7
   },
   {
     "name": "Deadlift (Leverage)",
@@ -11178,7 +11592,8 @@
       "Leverage_Deadlift/1.jpg"
     ],
     "id": "Leverage_Deadlift",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 2.7
   },
   {
     "name": "Press (Leverage Decline Chest)",
@@ -11204,7 +11619,8 @@
       "Leverage_Decline_Chest_Press/1.jpg"
     ],
     "id": "Leverage_Decline_Chest_Press",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.7
   },
   {
     "name": "High Row (Leverage)",
@@ -11230,7 +11646,8 @@
       "Leverage_High_Row/1.jpg"
     ],
     "id": "Leverage_High_Row",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 2.7
   },
   {
     "name": "Press (Leverage Incline Chest)",
@@ -11256,7 +11673,8 @@
       "Leverage_Incline_Chest_Press/1.jpg"
     ],
     "id": "Leverage_Incline_Chest_Press",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 2.7
   },
   {
     "name": "Row (Leverage Iso)",
@@ -11282,7 +11700,8 @@
       "Leverage_Iso_Row/1.jpg"
     ],
     "id": "Leverage_Iso_Row",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.7
   },
   {
     "name": "Shoulder Press (Leverage)",
@@ -11307,7 +11726,8 @@
       "Leverage_Shoulder_Press/1.jpg"
     ],
     "id": "Leverage_Shoulder_Press",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.7
   },
   {
     "name": "Shrug (Leverage)",
@@ -11334,7 +11754,8 @@
       "Leverage_Shrug/1.jpg"
     ],
     "id": "Leverage_Shrug",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 2.6
   },
   {
     "name": "Linear 3-Part Start Technique",
@@ -11361,7 +11782,8 @@
       "Linear_3-Part_Start_Technique/1.jpg"
     ],
     "id": "Linear_3-Part_Start_Technique",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 0.9
   },
   {
     "name": "Linear Acceleration Wall Drill",
@@ -11389,7 +11811,8 @@
       "Linear_Acceleration_Wall_Drill/1.jpg"
     ],
     "id": "Linear_Acceleration_Wall_Drill",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 0.9
   },
   {
     "name": "Linear Depth Jump",
@@ -11417,7 +11840,8 @@
       "Linear_Depth_Jump/1.jpg"
     ],
     "id": "Linear_Depth_Jump",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 0.8
   },
   {
     "name": "Log Lift",
@@ -11450,7 +11874,8 @@
       "Log_Lift/1.jpg"
     ],
     "id": "Log_Lift",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 0.8
   },
   {
     "name": "Bridges (London)",
@@ -11478,7 +11903,8 @@
       "London_Bridges/1.jpg"
     ],
     "id": "London_Bridges",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 1.9
   },
   {
     "name": "Looking At Ceiling",
@@ -11500,7 +11926,8 @@
       "Looking_At_Ceiling/1.jpg"
     ],
     "id": "Looking_At_Ceiling",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Low Cable Crossover",
@@ -11526,7 +11953,8 @@
       "Low_Cable_Crossover/1.jpg"
     ],
     "id": "Low_Cable_Crossover",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 3.5
   },
   {
     "name": "Triceps Extension (Low Cable)",
@@ -11552,7 +11980,8 @@
       "Low_Cable_Triceps_Extension/1.jpg"
     ],
     "id": "Low_Cable_Triceps_Extension",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2.6
   },
   {
     "name": "Row (Low Pulley To Neck)",
@@ -11581,7 +12010,8 @@
       "Low_Pulley_Row_To_Neck/1.jpg"
     ],
     "id": "Low_Pulley_Row_To_Neck",
-    "baseXP": 23
+    "baseXP": 23,
+    "popularity": 2.7
   },
   {
     "name": "Lower Back-SMR",
@@ -11603,7 +12033,8 @@
       "Lower_Back-SMR/1.jpg"
     ],
     "id": "Lower_Back-SMR",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Curl (Lower Back)",
@@ -11625,7 +12056,8 @@
       "Lower_Back_Curl/1.jpg"
     ],
     "id": "Lower_Back_Curl",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.9
   },
   {
     "name": "Lunge (Pass Through)",
@@ -11654,7 +12086,8 @@
       "Lunge_Pass_Through/1.jpg"
     ],
     "id": "Lunge_Pass_Through",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.1
   },
   {
     "name": "Lunge (Sprint)",
@@ -11682,7 +12115,8 @@
       "Lunge_Sprint/1.jpg"
     ],
     "id": "Lunge_Sprint",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2.5
   },
   {
     "name": "Lying Bent Leg Groin",
@@ -11705,7 +12139,8 @@
       "Lying_Bent_Leg_Groin/1.jpg"
     ],
     "id": "Lying_Bent_Leg_Groin",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 0.1
   },
   {
     "name": "Curl (Lying Cable)",
@@ -11731,7 +12166,8 @@
       "Lying_Cable_Curl/1.jpg"
     ],
     "id": "Lying_Cable_Curl",
-    "baseXP": 26
+    "baseXP": 26,
+    "popularity": 2.4
   },
   {
     "name": "Row (Lying Cambered Barbell)",
@@ -11759,7 +12195,8 @@
       "Lying_Cambered_Barbell_Row/1.jpg"
     ],
     "id": "Lying_Cambered_Barbell_Row",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.7
   },
   {
     "name": "Curl (Lying Close-Grip Bar On High Pulley)",
@@ -11786,7 +12223,8 @@
       "Lying_Close-Grip_Bar_Curl_On_High_Pulley/1.jpg"
     ],
     "id": "Lying_Close-Grip_Bar_Curl_On_High_Pulley",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.6
   },
   {
     "name": "Triceps Extension (Lying Close-Grip Barbell Behind The Head)",
@@ -11811,7 +12249,8 @@
       "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head/1.jpg"
     ],
     "id": "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head",
-    "baseXP": 28
+    "baseXP": 28,
+    "popularity": 2.5
   },
   {
     "name": "Press (Lying Close-Grip Barbell Triceps To Chin)",
@@ -11836,7 +12275,8 @@
       "Lying_Close-Grip_Barbell_Triceps_Press_To_Chin/1.jpg"
     ],
     "id": "Lying_Close-Grip_Barbell_Triceps_Press_To_Chin",
-    "baseXP": 28
+    "baseXP": 28,
+    "popularity": 2.1
   },
   {
     "name": "Lying Crossover",
@@ -11860,7 +12300,8 @@
       "Lying_Crossover/1.jpg"
     ],
     "id": "Lying_Crossover",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 0.5
   },
   {
     "name": "Lying Dumbbell Tricep Extension",
@@ -11887,7 +12328,8 @@
       "Lying_Dumbbell_Tricep_Extension/1.jpg"
     ],
     "id": "Lying_Dumbbell_Tricep_Extension",
-    "baseXP": 28
+    "baseXP": 28,
+    "popularity": 2.5
   },
   {
     "name": "Lying Face Down Plate Neck Resistance",
@@ -11911,7 +12353,8 @@
       "Lying_Face_Down_Plate_Neck_Resistance/1.jpg"
     ],
     "id": "Lying_Face_Down_Plate_Neck_Resistance",
-    "baseXP": 23
+    "baseXP": 23,
+    "popularity": 1.8
   },
   {
     "name": "Lying Face Up Plate Neck Resistance",
@@ -11935,7 +12378,8 @@
       "Lying_Face_Up_Plate_Neck_Resistance/1.jpg"
     ],
     "id": "Lying_Face_Up_Plate_Neck_Resistance",
-    "baseXP": 26
+    "baseXP": 26,
+    "popularity": 1.8
   },
   {
     "name": "Lying Glute",
@@ -11961,7 +12405,8 @@
       "Lying_Glute/1.jpg"
     ],
     "id": "Lying_Glute",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 0.5
   },
   {
     "name": "Lying Hamstring",
@@ -11986,7 +12431,8 @@
       "Lying_Hamstring/1.jpg"
     ],
     "id": "Lying_Hamstring",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 0.1
   },
   {
     "name": "Curl (Lying High Bench Barbell)",
@@ -12010,7 +12456,8 @@
       "Lying_High_Bench_Barbell_Curl/1.jpg"
     ],
     "id": "Lying_High_Bench_Barbell_Curl",
-    "baseXP": 25
+    "baseXP": 25,
+    "popularity": 2.5
   },
   {
     "name": "Leg Curls (Lying)",
@@ -12034,7 +12481,8 @@
       "Lying_Leg_Curls/1.jpg"
     ],
     "id": "Lying_Leg_Curls",
-    "baseXP": 11
+    "baseXP": 11,
+    "popularity": 5
   },
   {
     "name": "Squat (Lying Machine)",
@@ -12064,7 +12512,8 @@
       "Lying_Machine_Squat/1.jpg"
     ],
     "id": "Lying_Machine_Squat",
-    "baseXP": 31
+    "baseXP": 31,
+    "popularity": 2.5
   },
   {
     "name": "Lateral Raise (Lying One-Arm)",
@@ -12089,7 +12538,8 @@
       "Lying_One-Arm_Lateral_Raise/1.jpg"
     ],
     "id": "Lying_One-Arm_Lateral_Raise",
-    "baseXP": 28
+    "baseXP": 28,
+    "popularity": 2.5
   },
   {
     "name": "Lying Prone Quadriceps",
@@ -12113,7 +12563,8 @@
       "Lying_Prone_Quadriceps/1.jpg"
     ],
     "id": "Lying_Prone_Quadriceps",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 0.5
   },
   {
     "name": "Rear Delt Raise (Lying)",
@@ -12138,7 +12589,8 @@
       "Lying_Rear_Delt_Raise/1.jpg"
     ],
     "id": "Lying_Rear_Delt_Raise",
-    "baseXP": 24
+    "baseXP": 24,
+    "popularity": 2.5
   },
   {
     "name": "Curl (Lying Supine Dumbbell)",
@@ -12163,7 +12615,8 @@
       "Lying_Supine_Dumbbell_Curl/1.jpg"
     ],
     "id": "Lying_Supine_Dumbbell_Curl",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 2.7
   },
   {
     "name": "T-bar Row (Lying)",
@@ -12192,7 +12645,8 @@
       "Lying_T-Bar_Row/1.jpg"
     ],
     "id": "Lying_T-Bar_Row",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 3.5
   },
   {
     "name": "Press (Lying Triceps)",
@@ -12217,7 +12671,8 @@
       "Lying_Triceps_Press/1.jpg"
     ],
     "id": "Lying_Triceps_Press",
-    "baseXP": 25
+    "baseXP": 25,
+    "popularity": 3.5
   },
   {
     "name": "Bench Press (Machine)",
@@ -12247,7 +12702,8 @@
       "Machine_Bench_Press/1.jpg"
     ],
     "id": "Machine_Bench_Press",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 4
   },
   {
     "name": "Bicep Curl (Machine)",
@@ -12271,7 +12727,8 @@
       "Machine_Bicep_Curl/1.jpg"
     ],
     "id": "Machine_Bicep_Curl",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2.6
   },
   {
     "name": "Preacher Curl (Machine)",
@@ -12296,7 +12753,8 @@
       "Machine_Preacher_Curls/1.jpg"
     ],
     "id": "Machine_Preacher_Curls",
-    "baseXP": 12
+    "baseXP": 12,
+    "popularity": 2.6
   },
   {
     "name": "Press (Machine Shoulder Military)",
@@ -12323,7 +12781,8 @@
       "Machine_Shoulder_Military_Press/1.jpg"
     ],
     "id": "Machine_Shoulder_Military_Press",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 3
   },
   {
     "name": "Triceps Extension (Machine)",
@@ -12347,7 +12806,8 @@
       "Machine_Triceps_Extension/1.jpg"
     ],
     "id": "Machine_Triceps_Extension",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 2.6
   },
   {
     "name": "Medicine Ball Chest Pass",
@@ -12375,7 +12835,8 @@
       "Medicine_Ball_Chest_Pass/1.jpg"
     ],
     "id": "Medicine_Ball_Chest_Pass",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 1
   },
   {
     "name": "Twist (Medicine Ball Full)",
@@ -12401,7 +12862,8 @@
       "Medicine_Ball_Full_Twist/1.jpg"
     ],
     "id": "Medicine_Ball_Full_Twist",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 1
   },
   {
     "name": "Throw (Medicine Ball Scoop)",
@@ -12428,7 +12890,8 @@
       "Medicine_Ball_Scoop_Throw/1.jpg"
     ],
     "id": "Medicine_Ball_Scoop_Throw",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 1
   },
   {
     "name": "Shrug (Middle Back)",
@@ -12452,7 +12915,8 @@
       "Middle_Back_Shrug/1.jpg"
     ],
     "id": "Middle_Back_Shrug",
-    "baseXP": 28
+    "baseXP": 28,
+    "popularity": 2.5
   },
   {
     "name": "Middle Back Stretch",
@@ -12478,7 +12942,8 @@
       "Middle_Back_Stretch/1.jpg"
     ],
     "id": "Middle_Back_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Mixed Grip Chin",
@@ -12506,7 +12971,8 @@
       "Mixed_Grip_Chin/1.jpg"
     ],
     "id": "Mixed_Grip_Chin",
-    "baseXP": 47
+    "baseXP": 47,
+    "popularity": 1.7
   },
   {
     "name": "Walk (Monster)",
@@ -12529,7 +12995,8 @@
       "Monster_Walk/1.jpg"
     ],
     "id": "Monster_Walk",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.1
   },
   {
     "name": "Mountain Climbers",
@@ -12555,7 +13022,8 @@
       "Mountain_Climbers/1.jpg"
     ],
     "id": "Mountain_Climbers",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 3
   },
   {
     "name": "Moving Claw Series",
@@ -12581,7 +13049,8 @@
       "Moving_Claw_Series/1.jpg"
     ],
     "id": "Moving_Claw_Series",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 0.9
   },
   {
     "name": "Snatch (Muscle)",
@@ -12610,7 +13079,8 @@
       "Muscle_Snatch/1.jpg"
     ],
     "id": "Muscle_Snatch",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 1.7
   },
   {
     "name": "Muscle Up",
@@ -12642,7 +13112,8 @@
       "Muscle_Up/1.jpg"
     ],
     "id": "Muscle_Up",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 1.9
   },
   {
     "name": "Hack Squats (Narrow Stance)",
@@ -12673,7 +13144,8 @@
       "Narrow_Stance_Hack_Squats/1.jpg"
     ],
     "id": "Narrow_Stance_Hack_Squats",
-    "baseXP": 31
+    "baseXP": 31,
+    "popularity": 2.5
   },
   {
     "name": "Leg Press (Narrow Stance)",
@@ -12702,7 +13174,8 @@
       "Narrow_Stance_Leg_Press/1.jpg"
     ],
     "id": "Narrow_Stance_Leg_Press",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2.5
   },
   {
     "name": "Squats (Narrow Stance)",
@@ -12733,7 +13206,8 @@
       "Narrow_Stance_Squats/1.jpg"
     ],
     "id": "Narrow_Stance_Squats",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2.6
   },
   {
     "name": "Glute Ham Raise (Natural)",
@@ -12761,7 +13235,8 @@
       "Natural_Glute_Ham_Raise/1.jpg"
     ],
     "id": "Natural_Glute_Ham_Raise",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.3
   },
   {
     "name": "Neck-SMR",
@@ -12783,7 +13258,8 @@
       "Neck-SMR/1.jpg"
     ],
     "id": "Neck-SMR",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.3
   },
   {
     "name": "Press (Neck)",
@@ -12811,7 +13287,8 @@
       "Neck_Press/1.jpg"
     ],
     "id": "Neck_Press",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.6
   },
   {
     "name": "Crunch (Oblique es)",
@@ -12838,7 +13315,8 @@
       "Oblique_Crunches/1.jpg"
     ],
     "id": "Oblique_Crunches",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.4
   },
   {
     "name": "Oblique Crunches (On The Floor)",
@@ -12863,7 +13341,8 @@
       "Oblique_Crunches_-_On_The_Floor/1.jpg"
     ],
     "id": "Oblique_Crunches_-_On_The_Floor",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2.4
   },
   {
     "name": "Squat (Olympic)",
@@ -12890,7 +13369,8 @@
       "Olympic_Squat/1.jpg"
     ],
     "id": "Olympic_Squat",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 1.7
   },
   {
     "name": "On-Your-Back Quad Stretch",
@@ -12914,7 +13394,8 @@
       "On-Your-Back_Quad_Stretch/1.jpg"
     ],
     "id": "On-Your-Back_Quad_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.8
   },
   {
     "name": "On Your Side Quad Stretch",
@@ -12936,7 +13417,8 @@
       "On_Your_Side_Quad_Stretch/1.jpg"
     ],
     "id": "On_Your_Side_Quad_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Row (One-Arm Dumbbell)",
@@ -12967,7 +13449,8 @@
       "One-Arm_Dumbbell_Row/1.jpg"
     ],
     "id": "One-Arm_Dumbbell_Row",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 5
   },
   {
     "name": "Fly (One-Arm Flat Bench Dumbbell e)",
@@ -12993,7 +13476,8 @@
       "One-Arm_Flat_Bench_Dumbbell_Flye/1.jpg"
     ],
     "id": "One-Arm_Flat_Bench_Dumbbell_Flye",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.7
   },
   {
     "name": "Pull (One-Arm High-ey Cable Side Bends)",
@@ -13021,7 +13505,8 @@
       "One-Arm_High-Pulley_Cable_Side_Bends/1.jpg"
     ],
     "id": "One-Arm_High-Pulley_Cable_Side_Bends",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 2.6
   },
   {
     "name": "Lateral Raise (One-Arm Incline)",
@@ -13047,7 +13532,8 @@
       "One-Arm_Incline_Lateral_Raise/1.jpg"
     ],
     "id": "One-Arm_Incline_Lateral_Raise",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.7
   },
   {
     "name": "Clean (One-Arm Kettlebell)",
@@ -13075,7 +13561,8 @@
       "One-Arm_Kettlebell_Clean/1.jpg"
     ],
     "id": "One-Arm_Kettlebell_Clean",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2.1
   },
   {
     "name": "Clean and Jerk (One-Arm Kettlebell)",
@@ -13101,7 +13588,8 @@
       "One-Arm_Kettlebell_Clean_and_Jerk/1.jpg"
     ],
     "id": "One-Arm_Kettlebell_Clean_and_Jerk",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 2.1
   },
   {
     "name": "Press (One-Arm Kettlebell Floor)",
@@ -13126,7 +13614,8 @@
       "One-Arm_Kettlebell_Floor_Press/1.jpg"
     ],
     "id": "One-Arm_Kettlebell_Floor_Press",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.1
   },
   {
     "name": "Jerk (One-Arm Kettlebell)",
@@ -13154,7 +13643,8 @@
       "One-Arm_Kettlebell_Jerk/1.jpg"
     ],
     "id": "One-Arm_Kettlebell_Jerk",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.1
   },
   {
     "name": "Military Press (One-Arm Kettlebell To The Side)",
@@ -13179,7 +13669,8 @@
       "One-Arm_Kettlebell_Military_Press_To_The_Side/1.jpg"
     ],
     "id": "One-Arm_Kettlebell_Military_Press_To_The_Side",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2.1
   },
   {
     "name": "Press (One-Arm Kettlebell Para)",
@@ -13204,7 +13695,8 @@
       "One-Arm_Kettlebell_Para_Press/1.jpg"
     ],
     "id": "One-Arm_Kettlebell_Para_Press",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 2.1
   },
   {
     "name": "Press (One-Arm Kettlebell Push)",
@@ -13231,7 +13723,8 @@
       "One-Arm_Kettlebell_Push_Press/1.jpg"
     ],
     "id": "One-Arm_Kettlebell_Push_Press",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.1
   },
   {
     "name": "Row (One-Arm Kettlebell)",
@@ -13255,7 +13748,8 @@
       "One-Arm_Kettlebell_Row/1.jpg"
     ],
     "id": "One-Arm_Kettlebell_Row",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2.1
   },
   {
     "name": "Snatch (One-Arm Kettlebell)",
@@ -13285,7 +13779,8 @@
       "One-Arm_Kettlebell_Snatch/1.jpg"
     ],
     "id": "One-Arm_Kettlebell_Snatch",
-    "baseXP": 50
+    "baseXP": 50,
+    "popularity": 1.9
   },
   {
     "name": "Jerk (One-Arm Kettlebell Split)",
@@ -13315,7 +13810,8 @@
       "One-Arm_Kettlebell_Split_Jerk/1.jpg"
     ],
     "id": "One-Arm_Kettlebell_Split_Jerk",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 2.1
   },
   {
     "name": "Snatch (One-Arm Kettlebell Split)",
@@ -13342,7 +13838,8 @@
       "One-Arm_Kettlebell_Split_Snatch/1.jpg"
     ],
     "id": "One-Arm_Kettlebell_Split_Snatch",
-    "baseXP": 50
+    "baseXP": 50,
+    "popularity": 1.9
   },
   {
     "name": "Swings (One-Arm Kettlebell)",
@@ -13366,7 +13863,8 @@
       "One-Arm_Kettlebell_Swings/1.jpg"
     ],
     "id": "One-Arm_Kettlebell_Swings",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 2.1
   },
   {
     "name": "Row (One-Arm Long Bar)",
@@ -13394,7 +13892,8 @@
       "One-Arm_Long_Bar_Row/1.jpg"
     ],
     "id": "One-Arm_Long_Bar_Row",
-    "baseXP": 24
+    "baseXP": 24,
+    "popularity": 2.8
   },
   {
     "name": "One-Arm Medicine Ball Slam",
@@ -13421,7 +13920,8 @@
       "One-Arm_Medicine_Ball_Slam/1.jpg"
     ],
     "id": "One-Arm_Medicine_Ball_Slam",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.1
   },
   {
     "name": "Clean (One-Arm Open Palm Kettlebell)",
@@ -13451,7 +13951,8 @@
       "One-Arm_Open_Palm_Kettlebell_Clean/1.jpg"
     ],
     "id": "One-Arm_Open_Palm_Kettlebell_Clean",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 2.1
   },
   {
     "name": "Squats (One-Arm Overhead Kettlebell)",
@@ -13479,7 +13980,8 @@
       "One-Arm_Overhead_Kettlebell_Squats/1.jpg"
     ],
     "id": "One-Arm_Overhead_Kettlebell_Squats",
-    "baseXP": 49
+    "baseXP": 49,
+    "popularity": 1.9
   },
   {
     "name": "Deadlift (One-Arm Side)",
@@ -13512,7 +14014,8 @@
       "One-Arm_Side_Deadlift/1.jpg"
     ],
     "id": "One-Arm_Side_Deadlift",
-    "baseXP": 48
+    "baseXP": 48,
+    "popularity": 2.4
   },
   {
     "name": "One-Arm Side Laterals",
@@ -13538,7 +14041,8 @@
       "One-Arm_Side_Laterals/1.jpg"
     ],
     "id": "One-Arm_Side_Laterals",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.7
   },
   {
     "name": "One-Legged Cable Kickback",
@@ -13566,7 +14070,8 @@
       "One-Legged_Cable_Kickback/1.jpg"
     ],
     "id": "One-Legged_Cable_Kickback",
-    "baseXP": 25
+    "baseXP": 25,
+    "popularity": 2.4
   },
   {
     "name": "One Arm Against Wall",
@@ -13588,7 +14093,8 @@
       "One_Arm_Against_Wall/1.jpg"
     ],
     "id": "One_Arm_Against_Wall",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Chin-Up (One Arm)",
@@ -13619,7 +14125,8 @@
       "One_Arm_Chin-Up/1.jpg"
     ],
     "id": "One_Arm_Chin-Up",
-    "baseXP": 45
+    "baseXP": 45,
+    "popularity": 1.7
   },
   {
     "name": "Bench Press (One Arm Dumbbell)",
@@ -13649,7 +14156,8 @@
       "One_Arm_Dumbbell_Bench_Press/1.jpg"
     ],
     "id": "One_Arm_Dumbbell_Bench_Press",
-    "baseXP": 23
+    "baseXP": 23,
+    "popularity": 2.8
   },
   {
     "name": "Preacher Curl (One Arm Dumbbell)",
@@ -13674,7 +14182,8 @@
       "One_Arm_Dumbbell_Preacher_Curl/1.jpg"
     ],
     "id": "One_Arm_Dumbbell_Preacher_Curl",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2.7
   },
   {
     "name": "Press (One Arm Floor)",
@@ -13704,7 +14213,8 @@
       "One_Arm_Floor_Press/1.jpg"
     ],
     "id": "One_Arm_Floor_Press",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2.6
   },
   {
     "name": "Lat Pulldown (One Arm)",
@@ -13731,7 +14241,8 @@
       "One_Arm_Lat_Pulldown/1.jpg"
     ],
     "id": "One_Arm_Lat_Pulldown",
-    "baseXP": 23
+    "baseXP": 23,
+    "popularity": 2.7
   },
   {
     "name": "Triceps Extension (One Arm Pronated Dumbbell)",
@@ -13757,7 +14268,8 @@
       "One_Arm_Pronated_Dumbbell_Triceps_Extension/1.jpg"
     ],
     "id": "One_Arm_Pronated_Dumbbell_Triceps_Extension",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.7
   },
   {
     "name": "Triceps Extension (One Arm Supinated Dumbbell)",
@@ -13784,7 +14296,8 @@
       "One_Arm_Supinated_Dumbbell_Triceps_Extension/1.jpg"
     ],
     "id": "One_Arm_Supinated_Dumbbell_Triceps_Extension",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.7
   },
   {
     "name": "One Half Locust",
@@ -13812,7 +14325,8 @@
       "One_Half_Locust/1.jpg"
     ],
     "id": "One_Half_Locust",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "One Handed Hang",
@@ -13835,7 +14349,8 @@
       "One_Handed_Hang/1.jpg"
     ],
     "id": "One_Handed_Hang",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.5
   },
   {
     "name": "One Knee To Chest",
@@ -13862,7 +14377,8 @@
       "One_Knee_To_Chest/1.jpg"
     ],
     "id": "One_Knee_To_Chest",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.8
   },
   {
     "name": "Squat (One Leg Barbell)",
@@ -13893,7 +14409,8 @@
       "One_Leg_Barbell_Squat/1.jpg"
     ],
     "id": "One_Leg_Barbell_Squat",
-    "baseXP": 50
+    "baseXP": 50,
+    "popularity": 2.4
   },
   {
     "name": "Clean (Open Palm Kettlebell)",
@@ -13921,7 +14438,8 @@
       "Open_Palm_Kettlebell_Clean/1.jpg"
     ],
     "id": "Open_Palm_Kettlebell_Clean",
-    "baseXP": 48
+    "baseXP": 48,
+    "popularity": 1.9
   },
   {
     "name": "Otis-Up",
@@ -13949,7 +14467,8 @@
       "Otis-Up/1.jpg"
     ],
     "id": "Otis-Up",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 2.1
   },
   {
     "name": "Curl (Overhead Cable)",
@@ -13975,7 +14494,8 @@
       "Overhead_Cable_Curl/1.jpg"
     ],
     "id": "Overhead_Cable_Curl",
-    "baseXP": 25
+    "baseXP": 25,
+    "popularity": 2.4
   },
   {
     "name": "Overhead Lat",
@@ -14000,7 +14520,8 @@
       "Overhead_Lat/1.jpg"
     ],
     "id": "Overhead_Lat",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 0.1
   },
   {
     "name": "Overhead Slam",
@@ -14024,7 +14545,8 @@
       "Overhead_Slam/1.jpg"
     ],
     "id": "Overhead_Slam",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 1
   },
   {
     "name": "Squat (Overhead)",
@@ -14058,7 +14580,8 @@
       "Overhead_Squat/1.jpg"
     ],
     "id": "Overhead_Squat",
-    "baseXP": 48
+    "baseXP": 48,
+    "popularity": 1.5
   },
   {
     "name": "Overhead Stretch",
@@ -14085,7 +14608,8 @@
       "Overhead_Stretch/1.jpg"
     ],
     "id": "Overhead_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.8
   },
   {
     "name": "Overhead Triceps",
@@ -14110,7 +14634,8 @@
       "Overhead_Triceps/1.jpg"
     ],
     "id": "Overhead_Triceps",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 0.5
   },
   {
     "name": "Pallof Press",
@@ -14140,7 +14665,8 @@
       "Pallof_Press/1.jpg"
     ],
     "id": "Pallof_Press",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 2.6
   },
   {
     "name": "Pallof Press (With Rotation)",
@@ -14173,7 +14699,8 @@
       "Pallof_Press_With_Rotation/1.jpg"
     ],
     "id": "Pallof_Press_With_Rotation",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.7
   },
   {
     "name": "Wrist Curl (Palms-Down Dumbbell Over A Bench)",
@@ -14200,7 +14727,8 @@
       "Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench/1.jpg"
     ],
     "id": "Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.7
   },
   {
     "name": "Wrist Curl (Palms-Down Over A Bench)",
@@ -14227,7 +14755,8 @@
       "Palms-Down_Wrist_Curl_Over_A_Bench/1.jpg"
     ],
     "id": "Palms-Down_Wrist_Curl_Over_A_Bench",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.7
   },
   {
     "name": "Wrist Curl (Palms-Up Barbell Over A Bench)",
@@ -14254,7 +14783,8 @@
       "Palms-Up_Barbell_Wrist_Curl_Over_A_Bench/1.jpg"
     ],
     "id": "Palms-Up_Barbell_Wrist_Curl_Over_A_Bench",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.7
   },
   {
     "name": "Wrist Curl (Palms-Up Dumbbell Over A Bench)",
@@ -14281,7 +14811,8 @@
       "Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench/1.jpg"
     ],
     "id": "Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.7
   },
   {
     "name": "Dip (Parallel Bar)",
@@ -14308,7 +14839,8 @@
       "Parallel_Bar_Dip/1.jpg"
     ],
     "id": "Parallel_Bar_Dip",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 2.1
   },
   {
     "name": "Bridge (Pelvic Tilt Into)",
@@ -14331,7 +14863,8 @@
       "Pelvic_Tilt_Into_Bridge/1.jpg"
     ],
     "id": "Pelvic_Tilt_Into_Bridge",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.6
   },
   {
     "name": "Peroneals-SMR",
@@ -14353,7 +14886,8 @@
       "Peroneals-SMR/1.jpg"
     ],
     "id": "Peroneals-SMR",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.2
   },
   {
     "name": "Peroneals Stretch",
@@ -14375,7 +14909,8 @@
       "Peroneals_Stretch/1.jpg"
     ],
     "id": "Peroneals_Stretch",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.3
   },
   {
     "name": "Bridge (Physioball Hip)",
@@ -14400,7 +14935,8 @@
       "Physioball_Hip_Bridge/1.jpg"
     ],
     "id": "Physioball_Hip_Bridge",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.1
   },
   {
     "name": "Press (Pin es)",
@@ -14432,7 +14968,8 @@
       "Pin_Presses/1.jpg"
     ],
     "id": "Pin_Presses",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 2
   },
   {
     "name": "Piriformis-SMR",
@@ -14454,7 +14991,8 @@
       "Piriformis-SMR/1.jpg"
     ],
     "id": "Piriformis-SMR",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.5
   },
   {
     "name": "Plank",
@@ -14476,7 +15014,8 @@
       "Plank/1.jpg"
     ],
     "id": "Plank",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 4.5
   },
   {
     "name": "Plate Pinch",
@@ -14501,7 +15040,8 @@
       "Plate_Pinch/1.jpg"
     ],
     "id": "Plate_Pinch",
-    "baseXP": 25
+    "baseXP": 25,
+    "popularity": 1.8
   },
   {
     "name": "Twist (Plate)",
@@ -14526,7 +15066,8 @@
       "Plate_Twist/1.jpg"
     ],
     "id": "Plate_Twist",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 1.9
   },
   {
     "name": "Platform Hamstring Slides",
@@ -14552,7 +15093,8 @@
       "Platform_Hamstring_Slides/1.jpg"
     ],
     "id": "Platform_Hamstring_Slides",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2
   },
   {
     "name": "Squat (Plie Dumbbell)",
@@ -14582,7 +15124,8 @@
       "Plie_Dumbbell_Squat/1.jpg"
     ],
     "id": "Plie_Dumbbell_Squat",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.8
   },
   {
     "name": "Plyo Kettlebell Pushups",
@@ -14608,7 +15151,8 @@
       "Plyo_Kettlebell_Pushups/1.jpg"
     ],
     "id": "Plyo_Kettlebell_Pushups",
-    "baseXP": 47
+    "baseXP": 47,
+    "popularity": 1.9
   },
   {
     "name": "Push-Up (Plyo)",
@@ -14637,7 +15181,8 @@
       "Plyo_Push-up/1.jpg"
     ],
     "id": "Plyo_Push-up",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 1.4
   },
   {
     "name": "Posterior Tibialis Stretch",
@@ -14659,7 +15204,8 @@
       "Posterior_Tibialis_Stretch/1.jpg"
     ],
     "id": "Posterior_Tibialis_Stretch",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.3
   },
   {
     "name": "Clean (Power)",
@@ -14713,7 +15259,8 @@
       "Power_Clean/1.jpg"
     ],
     "id": "Power_Clean",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 2.6
   },
   {
     "name": "Clean (Power from Blocks)",
@@ -14740,7 +15287,8 @@
       "Power_Clean_from_Blocks/1.jpg"
     ],
     "id": "Power_Clean_from_Blocks",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 1.7
   },
   {
     "name": "Jerk (Power)",
@@ -14772,7 +15320,8 @@
       "Power_Jerk/1.jpg"
     ],
     "id": "Power_Jerk",
-    "baseXP": 50
+    "baseXP": 50,
+    "popularity": 1.5
   },
   {
     "name": "Power Partials",
@@ -14797,7 +15346,8 @@
       "Power_Partials/1.jpg"
     ],
     "id": "Power_Partials",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.7
   },
   {
     "name": "Snatch (Power)",
@@ -14830,7 +15380,8 @@
       "Power_Snatch/1.jpg"
     ],
     "id": "Power_Snatch",
-    "baseXP": 50
+    "baseXP": 50,
+    "popularity": 1.5
   },
   {
     "name": "Snatch (Power from Blocks)",
@@ -14864,7 +15415,8 @@
       "Power_Snatch_from_Blocks/1.jpg"
     ],
     "id": "Power_Snatch_from_Blocks",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 1.7
   },
   {
     "name": "Power Stairs",
@@ -14896,7 +15448,8 @@
       "Power_Stairs/1.jpg"
     ],
     "id": "Power_Stairs",
-    "baseXP": 31
+    "baseXP": 31,
+    "popularity": 0.8
   },
   {
     "name": "Preacher Curl (E-Z Bar)",
@@ -14921,7 +15474,8 @@
       "Preacher_Curl/1.jpg"
     ],
     "id": "Preacher_Curl",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 4
   },
   {
     "name": "Preacher Hammer Curl (Dumbbell)",
@@ -14947,7 +15501,8 @@
       "Preacher_Hammer_Dumbbell_Curl/1.jpg"
     ],
     "id": "Preacher_Hammer_Dumbbell_Curl",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 2.7
   },
   {
     "name": "Sit-Up (Press)",
@@ -14975,7 +15530,8 @@
       "Press_Sit-Up/1.jpg"
     ],
     "id": "Press_Sit-Up",
-    "baseXP": 50
+    "baseXP": 50,
+    "popularity": 2.4
   },
   {
     "name": "Prone Manual Hamstring",
@@ -14998,7 +15554,8 @@
       "Prone_Manual_Hamstring/1.jpg"
     ],
     "id": "Prone_Manual_Hamstring",
-    "baseXP": 12
+    "baseXP": 12,
+    "popularity": 1.9
   },
   {
     "name": "Row (Pler Sprint)",
@@ -15027,7 +15584,8 @@
       "Prowler_Sprint/1.jpg"
     ],
     "id": "Prowler_Sprint",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 1
   },
   {
     "name": "Pull (Through)",
@@ -15052,7 +15610,8 @@
       "Pull_Through/1.jpg"
     ],
     "id": "Pull_Through",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.7
   },
   {
     "name": "Pull (ups)",
@@ -15080,7 +15639,8 @@
       "Pullups/1.jpg"
     ],
     "id": "Pullups",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 5
   },
   {
     "name": "Push-Up (Wide)",
@@ -15108,7 +15668,8 @@
       "Push-Up_Wide/1.jpg"
     ],
     "id": "Push-Up_Wide",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 2.5
   },
   {
     "name": "Push-Ups (Close Triceps Position)",
@@ -15135,7 +15696,8 @@
       "Push-Ups_-_Close_Triceps_Position/1.jpg"
     ],
     "id": "Push-Ups_-_Close_Triceps_Position",
-    "baseXP": 30
+    "baseXP": 30,
+    "popularity": 2.3
   },
   {
     "name": "Push-Up (s With Feet Elevated)",
@@ -15163,7 +15725,8 @@
       "Push-Ups_With_Feet_Elevated/1.jpg"
     ],
     "id": "Push-Ups_With_Feet_Elevated",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 2.5
   },
   {
     "name": "Push-Up (s With Feet On An Exercise Ball)",
@@ -15191,7 +15754,8 @@
       "Push-Ups_With_Feet_On_An_Exercise_Ball/1.jpg"
     ],
     "id": "Push-Ups_With_Feet_On_An_Exercise_Ball",
-    "baseXP": 31
+    "baseXP": 31,
+    "popularity": 1.9
   },
   {
     "name": "Press (Push)",
@@ -15213,7 +15777,8 @@
       "Push_Press/1.jpg"
     ],
     "id": "Push_Press",
-    "baseXP": 49
+    "baseXP": 49,
+    "popularity": 1.5
   },
   {
     "name": "Push Press (Behind the Neck)",
@@ -15240,7 +15805,8 @@
       "Push_Press_-_Behind_the_Neck/1.jpg"
     ],
     "id": "Push_Press_-_Behind_the_Neck",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 1.7
   },
   {
     "name": "Push Up (to Side Plank)",
@@ -15269,7 +15835,8 @@
       "Push_Up_to_Side_Plank/1.jpg"
     ],
     "id": "Push_Up_to_Side_Plank",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.5
   },
   {
     "name": "Pushups",
@@ -15296,7 +15863,8 @@
       "Pushups/1.jpg"
     ],
     "id": "Pushups",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 4.5
   },
   {
     "name": "Pushups (Close and Wide Hand Positions)",
@@ -15323,7 +15891,8 @@
       "Pushups_Close_and_Wide_Hand_Positions/1.jpg"
     ],
     "id": "Pushups_Close_and_Wide_Hand_Positions",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.5
   },
   {
     "name": "Pyramid",
@@ -15347,7 +15916,8 @@
       "Pyramid/1.jpg"
     ],
     "id": "Pyramid",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.5
   },
   {
     "name": "Quad Stretch",
@@ -15369,7 +15939,8 @@
       "Quad_Stretch/1.jpg"
     ],
     "id": "Quad_Stretch",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.3
   },
   {
     "name": "Quadriceps-SMR",
@@ -15391,7 +15962,8 @@
       "Quadriceps-SMR/1.jpg"
     ],
     "id": "Quadriceps-SMR",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.5
   },
   {
     "name": "Quick Leap",
@@ -15418,7 +15990,8 @@
       "Quick_Leap/1.jpg"
     ],
     "id": "Quick_Leap",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 1
   },
   {
     "name": "Rack Delivery",
@@ -15444,7 +16017,8 @@
       "Rack_Delivery/1.jpg"
     ],
     "id": "Rack_Delivery",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 1.7
   },
   {
     "name": "Pull (Rack with Bands)",
@@ -15473,7 +16047,8 @@
       "Rack_Pull_with_Bands/1.jpg"
     ],
     "id": "Rack_Pull_with_Bands",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2
   },
   {
     "name": "Rack Pulls",
@@ -15501,7 +16076,8 @@
       "Rack_Pulls/1.jpg"
     ],
     "id": "Rack_Pulls",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2
   },
   {
     "name": "Leg Raises (Rear)",
@@ -15523,7 +16099,8 @@
       "Rear_Leg_Raises/1.jpg"
     ],
     "id": "Rear_Leg_Raises",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.9
   },
   {
     "name": "Recumbent Bike",
@@ -15550,7 +16127,8 @@
       "Recumbent_Bike/1.jpg"
     ],
     "id": "Recumbent_Bike",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 1.2
   },
   {
     "name": "Return Push from Stance",
@@ -15578,7 +16156,8 @@
       "Return_Push_from_Stance/1.jpg"
     ],
     "id": "Return_Push_from_Stance",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 1
   },
   {
     "name": "Bench Press (Reverse Band)",
@@ -15608,7 +16187,8 @@
       "Reverse_Band_Bench_Press/1.jpg"
     ],
     "id": "Reverse_Band_Bench_Press",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 2
   },
   {
     "name": "Squat (Reverse Band Box)",
@@ -15640,7 +16220,8 @@
       "Reverse_Band_Box_Squat/1.jpg"
     ],
     "id": "Reverse_Band_Box_Squat",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2
   },
   {
     "name": "Deadlift (Reverse Band)",
@@ -15672,7 +16253,8 @@
       "Reverse_Band_Deadlift/1.jpg"
     ],
     "id": "Reverse_Band_Deadlift",
-    "baseXP": 50
+    "baseXP": 50,
+    "popularity": 1.8
   },
   {
     "name": "Squat (Reverse Band Power)",
@@ -15702,7 +16284,8 @@
       "Reverse_Band_Power_Squat/1.jpg"
     ],
     "id": "Reverse_Band_Power_Squat",
-    "baseXP": 50
+    "baseXP": 50,
+    "popularity": 1.8
   },
   {
     "name": "Deadlift (Reverse Band Sumo)",
@@ -15736,7 +16319,8 @@
       "Reverse_Band_Sumo_Deadlift/1.jpg"
     ],
     "id": "Reverse_Band_Sumo_Deadlift",
-    "baseXP": 50
+    "baseXP": 50,
+    "popularity": 1.8
   },
   {
     "name": "Reverse Curl (Barbell)",
@@ -15762,7 +16346,8 @@
       "Reverse_Barbell_Curl/1.jpg"
     ],
     "id": "Reverse_Barbell_Curl",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.7
   },
   {
     "name": "Reverse Preacher Curl (Barbell)",
@@ -15789,7 +16374,8 @@
       "Reverse_Barbell_Preacher_Curls/1.jpg"
     ],
     "id": "Reverse_Barbell_Preacher_Curls",
-    "baseXP": 26
+    "baseXP": 26,
+    "popularity": 2.1
   },
   {
     "name": "Reverse Curl (Cable)",
@@ -15815,7 +16401,8 @@
       "Reverse_Cable_Curl/1.jpg"
     ],
     "id": "Reverse_Cable_Curl",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 2.6
   },
   {
     "name": "Crunch (Reverse)",
@@ -15840,7 +16427,8 @@
       "Reverse_Crunch/1.jpg"
     ],
     "id": "Reverse_Crunch",
-    "baseXP": 12
+    "baseXP": 12,
+    "popularity": 2.4
   },
   {
     "name": "Reverse Flyes",
@@ -15866,7 +16454,8 @@
       "Reverse_Flyes/1.jpg"
     ],
     "id": "Reverse_Flyes",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 3.5
   },
   {
     "name": "Reverse Flyes (With External Rotation)",
@@ -15893,7 +16482,8 @@
       "Reverse_Flyes_With_External_Rotation/1.jpg"
     ],
     "id": "Reverse_Flyes_With_External_Rotation",
-    "baseXP": 25
+    "baseXP": 25,
+    "popularity": 2.5
   },
   {
     "name": "Bent-Over Rows (Reverse Grip)",
@@ -15922,7 +16512,8 @@
       "Reverse_Grip_Bent-Over_Rows/1.jpg"
     ],
     "id": "Reverse_Grip_Bent-Over_Rows",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2.6
   },
   {
     "name": "Triceps Pushdown (Reverse Grip)",
@@ -15947,7 +16538,8 @@
       "Reverse_Grip_Triceps_Pushdown/1.jpg"
     ],
     "id": "Reverse_Grip_Triceps_Pushdown",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.6
   },
   {
     "name": "Reverse Hyperextension",
@@ -15975,7 +16567,8 @@
       "Reverse_Hyperextension/1.jpg"
     ],
     "id": "Reverse_Hyperextension",
-    "baseXP": 25
+    "baseXP": 25,
+    "popularity": 2.1
   },
   {
     "name": "Fly (Reverse Machine es)",
@@ -15999,7 +16592,8 @@
       "Reverse_Machine_Flyes/1.jpg"
     ],
     "id": "Reverse_Machine_Flyes",
-    "baseXP": 12
+    "baseXP": 12,
+    "popularity": 2.6
   },
   {
     "name": "Reverse Curls (Plate)",
@@ -16026,7 +16620,8 @@
       "Reverse_Plate_Curls/1.jpg"
     ],
     "id": "Reverse_Plate_Curls",
-    "baseXP": 12
+    "baseXP": 12,
+    "popularity": 2
   },
   {
     "name": "Bench Press (Reverse Triceps)",
@@ -16054,7 +16649,8 @@
       "Reverse_Triceps_Bench_Press/1.jpg"
     ],
     "id": "Reverse_Triceps_Bench_Press",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 2.6
   },
   {
     "name": "Rhomboids-SMR",
@@ -16078,7 +16674,8 @@
       "Rhomboids-SMR/1.jpg"
     ],
     "id": "Rhomboids-SMR",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.2
   },
   {
     "name": "Carry (Rickshaw)",
@@ -16108,7 +16705,8 @@
       "Rickshaw_Carry/1.jpg"
     ],
     "id": "Rickshaw_Carry",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 0.8
   },
   {
     "name": "Deadlift (Rickshaw)",
@@ -16137,7 +16735,8 @@
       "Rickshaw_Deadlift/1.jpg"
     ],
     "id": "Rickshaw_Deadlift",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 0.8
   },
   {
     "name": "Dips (Ring)",
@@ -16164,7 +16763,8 @@
       "Ring_Dips/1.jpg"
     ],
     "id": "Ring_Dips",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 1.9
   },
   {
     "name": "Rocket Jump",
@@ -16190,7 +16790,8 @@
       "Rocket_Jump/1.jpg"
     ],
     "id": "Rocket_Jump",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 1.4
   },
   {
     "name": "Calf Raise (Rocking Standing)",
@@ -16218,7 +16819,8 @@
       "Rocking_Standing_Calf_Raise/1.jpg"
     ],
     "id": "Rocking_Standing_Calf_Raise",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.7
   },
   {
     "name": "Pull-Up (Rocky s/Pulldowns)",
@@ -16248,7 +16850,8 @@
       "Rocky_Pull-Ups_Pulldowns/1.jpg"
     ],
     "id": "Rocky_Pull-Ups_Pulldowns",
-    "baseXP": 31
+    "baseXP": 31,
+    "popularity": 1.9
   },
   {
     "name": "Deadlift (Romanian)",
@@ -16277,7 +16880,8 @@
       "Romanian_Deadlift/1.jpg"
     ],
     "id": "Romanian_Deadlift",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 5
   },
   {
     "name": "Deadlift (Romanian from Deficit)",
@@ -16305,7 +16909,8 @@
       "Romanian_Deadlift_from_Deficit/1.jpg"
     ],
     "id": "Romanian_Deadlift_from_Deficit",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 1.7
   },
   {
     "name": "Rope Climb",
@@ -16335,7 +16940,8 @@
       "Rope_Climb/1.jpg"
     ],
     "id": "Rope_Climb",
-    "baseXP": 30
+    "baseXP": 30,
+    "popularity": 1.9
   },
   {
     "name": "Crunch (Rope)",
@@ -16360,7 +16966,8 @@
       "Rope_Crunch/1.jpg"
     ],
     "id": "Rope_Crunch",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.6
   },
   {
     "name": "Rope Jumping",
@@ -16385,7 +16992,8 @@
       "Rope_Jumping/1.jpg"
     ],
     "id": "Rope_Jumping",
-    "baseXP": 29
+    "baseXP": 29,
+    "popularity": 0.4
   },
   {
     "name": "Pull (Rope Straight-Arm down)",
@@ -16409,7 +17017,8 @@
       "Rope_Straight-Arm_Pulldown/1.jpg"
     ],
     "id": "Rope_Straight-Arm_Pulldown",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.6
   },
   {
     "name": "Round The World Shoulder Stretch",
@@ -16435,7 +17044,8 @@
       "Round_The_World_Shoulder_Stretch/1.jpg"
     ],
     "id": "Round_The_World_Shoulder_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.5
   },
   {
     "name": "Row (ing, Stationary)",
@@ -16465,7 +17075,8 @@
       "Rowing_Stationary/1.jpg"
     ],
     "id": "Rowing_Stationary",
-    "baseXP": 25
+    "baseXP": 25,
+    "popularity": 1
   },
   {
     "name": "Runner's Stretch",
@@ -16490,7 +17101,8 @@
       "Runners_Stretch/1.jpg"
     ],
     "id": "Runners_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Running, Treadmill",
@@ -16516,7 +17128,8 @@
       "Running_Treadmill/1.jpg"
     ],
     "id": "Running_Treadmill",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 1.2
   },
   {
     "name": "Twist (Russian)",
@@ -16543,7 +17156,8 @@
       "Russian_Twist/1.jpg"
     ],
     "id": "Russian_Twist",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2.3
   },
   {
     "name": "Sandbag Load",
@@ -16578,7 +17192,8 @@
       "Sandbag_Load/1.jpg"
     ],
     "id": "Sandbag_Load",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 1
   },
   {
     "name": "Pull-Up (Scapular)",
@@ -16604,7 +17219,8 @@
       "Scapular_Pull-Up/1.jpg"
     ],
     "id": "Scapular_Pull-Up",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 1.9
   },
   {
     "name": "Scissor Kick",
@@ -16629,7 +17245,8 @@
       "Scissor_Kick/1.jpg"
     ],
     "id": "Scissor_Kick",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 1.2
   },
   {
     "name": "Scissors Jump",
@@ -16656,7 +17273,8 @@
       "Scissors_Jump/1.jpg"
     ],
     "id": "Scissors_Jump",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 1.4
   },
   {
     "name": "Hamstring Curl (Seated Band)",
@@ -16680,7 +17298,8 @@
       "Seated_Band_Hamstring_Curl/1.jpg"
     ],
     "id": "Seated_Band_Hamstring_Curl",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2
   },
   {
     "name": "Military Press (Seated Barbell)",
@@ -16707,7 +17326,8 @@
       "Seated_Barbell_Military_Press/1.jpg"
     ],
     "id": "Seated_Barbell_Military_Press",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2.6
   },
   {
     "name": "Twist (Seated Barbell)",
@@ -16733,7 +17353,8 @@
       "Seated_Barbell_Twist/1.jpg"
     ],
     "id": "Seated_Barbell_Twist",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.7
   },
   {
     "name": "Triceps Extension (Seated Bent-Over One-Arm Dumbbell)",
@@ -16760,7 +17381,8 @@
       "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension/1.jpg"
     ],
     "id": "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.7
   },
   {
     "name": "Rear Delt Raise (Seated Bent-Over)",
@@ -16786,7 +17408,8 @@
       "Seated_Bent-Over_Rear_Delt_Raise/1.jpg"
     ],
     "id": "Seated_Bent-Over_Rear_Delt_Raise",
-    "baseXP": 26
+    "baseXP": 26,
+    "popularity": 2.5
   },
   {
     "name": "Triceps Extension (Seated Bent-Over Two-Arm Dumbbell)",
@@ -16812,7 +17435,8 @@
       "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension/1.jpg"
     ],
     "id": "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension",
-    "baseXP": 27
+    "baseXP": 27,
+    "popularity": 2.5
   },
   {
     "name": "Seated Biceps",
@@ -16838,7 +17462,8 @@
       "Seated_Biceps/1.jpg"
     ],
     "id": "Seated_Biceps",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 0.8
   },
   {
     "name": "Rows (Seated Cable)",
@@ -16867,7 +17492,8 @@
       "Seated_Cable_Rows/1.jpg"
     ],
     "id": "Seated_Cable_Rows",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 5
   },
   {
     "name": "Shoulder Press (Seated Cable)",
@@ -16893,7 +17519,8 @@
       "Seated_Cable_Shoulder_Press/1.jpg"
     ],
     "id": "Seated_Cable_Shoulder_Press",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.7
   },
   {
     "name": "Calf Raise (Seated)",
@@ -16919,7 +17546,8 @@
       "Seated_Calf_Raise/1.jpg"
     ],
     "id": "Seated_Calf_Raise",
-    "baseXP": 11
+    "baseXP": 11,
+    "popularity": 4
   },
   {
     "name": "Seated Calf Stretch",
@@ -16946,7 +17574,8 @@
       "Seated_Calf_Stretch/1.jpg"
     ],
     "id": "Seated_Calf_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Concentration Curl (Seated Close-Grip Barbell)",
@@ -16971,7 +17600,8 @@
       "Seated_Close-Grip_Concentration_Barbell_Curl/1.jpg"
     ],
     "id": "Seated_Close-Grip_Concentration_Barbell_Curl",
-    "baseXP": 25
+    "baseXP": 25,
+    "popularity": 2.5
   },
   {
     "name": "Curl (Seated Dumbbell)",
@@ -16996,7 +17626,8 @@
       "Seated_Dumbbell_Curl/1.jpg"
     ],
     "id": "Seated_Dumbbell_Curl",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.7
   },
   {
     "name": "Biceps Curl (Seated Dumbbell Inner)",
@@ -17022,7 +17653,8 @@
       "Seated_Dumbbell_Inner_Biceps_Curl/1.jpg"
     ],
     "id": "Seated_Dumbbell_Inner_Biceps_Curl",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.7
   },
   {
     "name": "Wrist Curl (Seated Dumbbell Palms-Down)",
@@ -17049,7 +17681,8 @@
       "Seated_Dumbbell_Palms-Down_Wrist_Curl/1.jpg"
     ],
     "id": "Seated_Dumbbell_Palms-Down_Wrist_Curl",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.7
   },
   {
     "name": "Wrist Curl (Seated Dumbbell Palms-Up)",
@@ -17076,7 +17709,8 @@
       "Seated_Dumbbell_Palms-Up_Wrist_Curl/1.jpg"
     ],
     "id": "Seated_Dumbbell_Palms-Up_Wrist_Curl",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2.7
   },
   {
     "name": "Press (Seated Dumbbell)",
@@ -17104,7 +17738,8 @@
       "Seated_Dumbbell_Press/1.jpg"
     ],
     "id": "Seated_Dumbbell_Press",
-    "baseXP": 23
+    "baseXP": 23,
+    "popularity": 4.5
   },
   {
     "name": "Pull (Seated Flat Bench Leg -In)",
@@ -17128,7 +17763,8 @@
       "Seated_Flat_Bench_Leg_Pull-In/1.jpg"
     ],
     "id": "Seated_Flat_Bench_Leg_Pull-In",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.5
   },
   {
     "name": "Seated Floor Hamstring Stretch",
@@ -17152,7 +17788,8 @@
       "Seated_Floor_Hamstring_Stretch/1.jpg"
     ],
     "id": "Seated_Floor_Hamstring_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Seated Front Deltoid",
@@ -17177,7 +17814,8 @@
       "Seated_Front_Deltoid/1.jpg"
     ],
     "id": "Seated_Front_Deltoid",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 0.5
   },
   {
     "name": "Seated Glute",
@@ -17202,7 +17840,8 @@
       "Seated_Glute/1.jpg"
     ],
     "id": "Seated_Glute",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 0.5
   },
   {
     "name": "Seated Good Mornings",
@@ -17228,7 +17867,8 @@
       "Seated_Good_Mornings/1.jpg"
     ],
     "id": "Seated_Good_Mornings",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2
   },
   {
     "name": "Seated Hamstring",
@@ -17253,7 +17893,8 @@
       "Seated_Hamstring/1.jpg"
     ],
     "id": "Seated_Hamstring",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 0
   },
   {
     "name": "Seated Hamstring and Calf Stretch",
@@ -17277,7 +17918,8 @@
       "Seated_Hamstring_and_Calf_Stretch/1.jpg"
     ],
     "id": "Seated_Hamstring_and_Calf_Stretch",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.3
   },
   {
     "name": "Seated Head Harness Neck Resistance",
@@ -17303,7 +17945,8 @@
       "Seated_Head_Harness_Neck_Resistance/1.jpg"
     ],
     "id": "Seated_Head_Harness_Neck_Resistance",
-    "baseXP": 26
+    "baseXP": 26,
+    "popularity": 1.8
   },
   {
     "name": "Leg Curl (Seated)",
@@ -17328,7 +17971,8 @@
       "Seated_Leg_Curl/1.jpg"
     ],
     "id": "Seated_Leg_Curl",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 4.5
   },
   {
     "name": "Seated Leg Tucks",
@@ -17352,7 +17996,8 @@
       "Seated_Leg_Tucks/1.jpg"
     ],
     "id": "Seated_Leg_Tucks",
-    "baseXP": 12
+    "baseXP": 12,
+    "popularity": 2.4
   },
   {
     "name": "Wrist Curl (Seated One-Arm Dumbbell Palms-Down)",
@@ -17378,7 +18023,8 @@
       "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl/1.jpg"
     ],
     "id": "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl",
-    "baseXP": 25
+    "baseXP": 25,
+    "popularity": 2.5
   },
   {
     "name": "Wrist Curl (Seated One-Arm Dumbbell Palms-Up)",
@@ -17404,7 +18050,8 @@
       "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl/1.jpg"
     ],
     "id": "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2.7
   },
   {
     "name": "Rows (Seated One-arm Cable Pulley)",
@@ -17434,7 +18081,8 @@
       "Seated_One-arm_Cable_Pulley_Rows/1.jpg"
     ],
     "id": "Seated_One-arm_Cable_Pulley_Rows",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.5
   },
   {
     "name": "Seated Overhead Stretch",
@@ -17458,7 +18106,8 @@
       "Seated_Overhead_Stretch/1.jpg"
     ],
     "id": "Seated_Overhead_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Wrist Curl (Seated Palm-Up Barbell)",
@@ -17483,7 +18132,8 @@
       "Seated_Palm-Up_Barbell_Wrist_Curl/1.jpg"
     ],
     "id": "Seated_Palm-Up_Barbell_Wrist_Curl",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.7
   },
   {
     "name": "Wrist Curl (Seated Palms-Down Barbell)",
@@ -17508,7 +18158,8 @@
       "Seated_Palms-Down_Barbell_Wrist_Curl/1.jpg"
     ],
     "id": "Seated_Palms-Down_Barbell_Wrist_Curl",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.7
   },
   {
     "name": "Lateral Raise (Seated Side)",
@@ -17532,7 +18183,8 @@
       "Seated_Side_Lateral_Raise/1.jpg"
     ],
     "id": "Seated_Side_Lateral_Raise",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 3.5
   },
   {
     "name": "Press (Seated Triceps)",
@@ -17556,7 +18208,8 @@
       "Seated_Triceps_Press/1.jpg"
     ],
     "id": "Seated_Triceps_Press",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2.7
   },
   {
     "name": "Wrist Curl (Seated Two-Arm Palms-Up Low-Pulley)",
@@ -17585,7 +18238,8 @@
       "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl/1.jpg"
     ],
     "id": "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 2.6
   },
   {
     "name": "Press (See-Saw Alternating Side)",
@@ -17613,7 +18267,8 @@
       "See-Saw_Press_Alternating_Side_Press/1.jpg"
     ],
     "id": "See-Saw_Press_Alternating_Side_Press",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 2.6
   },
   {
     "name": "Row (Shotgun)",
@@ -17640,7 +18295,8 @@
       "Shotgun_Row/1.jpg"
     ],
     "id": "Shotgun_Row",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 2.7
   },
   {
     "name": "Shoulder Circles",
@@ -17664,7 +18320,8 @@
       "Shoulder_Circles/1.jpg"
     ],
     "id": "Shoulder_Circles",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Shoulder Press (With Bands)",
@@ -17689,7 +18346,8 @@
       "Shoulder_Press_-_With_Bands/1.jpg"
     ],
     "id": "Shoulder_Press_-_With_Bands",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 2.1
   },
   {
     "name": "Shoulder Raise",
@@ -17712,7 +18370,8 @@
       "Shoulder_Raise/1.jpg"
     ],
     "id": "Shoulder_Raise",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Shoulder Stretch",
@@ -17733,7 +18392,8 @@
       "Shoulder_Stretch/1.jpg"
     ],
     "id": "Shoulder_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Side-Lying Floor Stretch",
@@ -17755,7 +18415,8 @@
       "Side-Lying_Floor_Stretch/1.jpg"
     ],
     "id": "Side-Lying_Floor_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Bridge (Side)",
@@ -17776,7 +18437,8 @@
       "Side_Bridge/1.jpg"
     ],
     "id": "Side_Bridge",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 2.1
   },
   {
     "name": "Side Hop-Sprint",
@@ -17804,7 +18466,8 @@
       "Side_Hop-Sprint/1.jpg"
     ],
     "id": "Side_Hop-Sprint",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 1
   },
   {
     "name": "Side Jackknife",
@@ -17823,7 +18486,8 @@
       "Side_Jackknife/1.jpg"
     ],
     "id": "Side_Jackknife",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.5
   },
   {
     "name": "Lateral Raise (Dumbbells)",
@@ -17847,7 +18511,8 @@
       "Side_Lateral_Raise/1.jpg"
     ],
     "id": "Side_Lateral_Raise",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 5
   },
   {
     "name": "Side Laterals to Front Raise",
@@ -17875,7 +18540,8 @@
       "Side_Laterals_to_Front_Raise/1.jpg"
     ],
     "id": "Side_Laterals_to_Front_Raise",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 2.7
   },
   {
     "name": "Leg Raises (Side)",
@@ -17898,7 +18564,8 @@
       "Side_Leg_Raises/1.jpg"
     ],
     "id": "Side_Leg_Raises",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.9
   },
   {
     "name": "Side Lying Groin Stretch",
@@ -17923,7 +18590,8 @@
       "Side_Lying_Groin_Stretch/1.jpg"
     ],
     "id": "Side_Lying_Groin_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Side Neck Stretch",
@@ -17945,7 +18613,8 @@
       "Side_Neck_Stretch/1.jpg"
     ],
     "id": "Side_Neck_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Side Standing Long Jump",
@@ -17972,7 +18641,8 @@
       "Side_Standing_Long_Jump/1.jpg"
     ],
     "id": "Side_Standing_Long_Jump",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 0.9
   },
   {
     "name": "Side To Side Chins",
@@ -18004,7 +18674,8 @@
       "Side_To_Side_Chins/1.jpg"
     ],
     "id": "Side_To_Side_Chins",
-    "baseXP": 30
+    "baseXP": 30,
+    "popularity": 1.9
   },
   {
     "name": "Pull (Side Wrist)",
@@ -18029,7 +18700,8 @@
       "Side_Wrist_Pull/1.jpg"
     ],
     "id": "Side_Wrist_Pull",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Side to Side Box Shuffle",
@@ -18057,7 +18729,8 @@
       "Side_to_Side_Box_Shuffle/1.jpg"
     ],
     "id": "Side_to_Side_Box_Shuffle",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 1
   },
   {
     "name": "Single-Arm Cable Crossover",
@@ -18082,7 +18755,8 @@
       "Single-Arm_Cable_Crossover/1.jpg"
     ],
     "id": "Single-Arm_Cable_Crossover",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 2.6
   },
   {
     "name": "Single-Arm Linear Jammer",
@@ -18109,7 +18783,8 @@
       "Single-Arm_Linear_Jammer/1.jpg"
     ],
     "id": "Single-Arm_Linear_Jammer",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2.6
   },
   {
     "name": "Push-Up (Single-Arm)",
@@ -18136,7 +18811,8 @@
       "Single-Arm_Push-Up/1.jpg"
     ],
     "id": "Single-Arm_Push-Up",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.3
   },
   {
     "name": "Single-Cone Sprint Drill",
@@ -18163,7 +18839,8 @@
       "Single-Cone_Sprint_Drill/1.jpg"
     ],
     "id": "Single-Cone_Sprint_Drill",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 0.6
   },
   {
     "name": "Squat (Single-Leg High Box)",
@@ -18189,7 +18866,8 @@
       "Single-Leg_High_Box_Squat/1.jpg"
     ],
     "id": "Single-Leg_High_Box_Squat",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 2.1
   },
   {
     "name": "Single-Leg Hop Progression",
@@ -18218,7 +18896,8 @@
       "Single-Leg_Hop_Progression/1.jpg"
     ],
     "id": "Single-Leg_Hop_Progression",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 1
   },
   {
     "name": "Single-Leg Lateral Hop",
@@ -18247,7 +18926,8 @@
       "Single-Leg_Lateral_Hop/1.jpg"
     ],
     "id": "Single-Leg_Lateral_Hop",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 1
   },
   {
     "name": "Leg Extension (Single-Leg)",
@@ -18271,7 +18951,8 @@
       "Single-Leg_Leg_Extension/1.jpg"
     ],
     "id": "Single-Leg_Leg_Extension",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2.6
   },
   {
     "name": "Single-Leg Stride Jump",
@@ -18299,7 +18980,8 @@
       "Single-Leg_Stride_Jump/1.jpg"
     ],
     "id": "Single-Leg_Stride_Jump",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 1
   },
   {
     "name": "Dumbbell Raise (Single)",
@@ -18325,7 +19007,8 @@
       "Single_Dumbbell_Raise/1.jpg"
     ],
     "id": "Single_Dumbbell_Raise",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 2.7
   },
   {
     "name": "Single Leg Butt Kick",
@@ -18352,7 +19035,8 @@
       "Single_Leg_Butt_Kick/1.jpg"
     ],
     "id": "Single_Leg_Butt_Kick",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 1.4
   },
   {
     "name": "Bridge (Single Leg Glute)",
@@ -18378,7 +19062,8 @@
       "Single_Leg_Glute_Bridge/1.jpg"
     ],
     "id": "Single_Leg_Glute_Bridge",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.4
   },
   {
     "name": "Single Leg Push-off",
@@ -18404,7 +19089,8 @@
       "Single_Leg_Push-off/1.jpg"
     ],
     "id": "Single_Leg_Push-off",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 1
   },
   {
     "name": "Sit-Up",
@@ -18429,7 +19115,8 @@
       "Sit-Up/1.jpg"
     ],
     "id": "Sit-Up",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.4
   },
   {
     "name": "Squats (Sit)",
@@ -18456,7 +19143,8 @@
       "Sit_Squats/1.jpg"
     ],
     "id": "Sit_Squats",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Skating",
@@ -18484,7 +19172,8 @@
       "Skating/1.jpg"
     ],
     "id": "Skating",
-    "baseXP": 26
+    "baseXP": 26,
+    "popularity": 0.4
   },
   {
     "name": "Sled Drag - Harness",
@@ -18510,7 +19199,8 @@
       "Sled_Drag_-_Harness/1.jpg"
     ],
     "id": "Sled_Drag_-_Harness",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 1
   },
   {
     "name": "Walk (Sled Overhead Backward)",
@@ -18537,7 +19227,8 @@
       "Sled_Overhead_Backward_Walk/1.jpg"
     ],
     "id": "Sled_Overhead_Backward_Walk",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 2.1
   },
   {
     "name": "Triceps Extension (Sled Overhead)",
@@ -18561,7 +19252,8 @@
       "Sled_Overhead_Triceps_Extension/1.jpg"
     ],
     "id": "Sled_Overhead_Triceps_Extension",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 2
   },
   {
     "name": "Sled Push",
@@ -18589,7 +19281,8 @@
       "Sled_Push/1.jpg"
     ],
     "id": "Sled_Push",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 1
   },
   {
     "name": "Reverse Flye (Sled)",
@@ -18613,7 +19306,8 @@
       "Sled_Reverse_Flye/1.jpg"
     ],
     "id": "Sled_Reverse_Flye",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2
   },
   {
     "name": "Row (Sled)",
@@ -18640,7 +19334,8 @@
       "Sled_Row/1.jpg"
     ],
     "id": "Sled_Row",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 2.1
   },
   {
     "name": "Sledgehammer Swings",
@@ -18670,7 +19365,8 @@
       "Sledgehammer_Swings/1.jpg"
     ],
     "id": "Sledgehammer_Swings",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 1
   },
   {
     "name": "Shoulder Raise (Smith Incline)",
@@ -18698,7 +19394,8 @@
       "Smith_Incline_Shoulder_Raise/1.jpg"
     ],
     "id": "Smith_Incline_Shoulder_Raise",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.7
   },
   {
     "name": "Shrug (Smith Machine Behind the Back)",
@@ -18725,7 +19422,8 @@
       "Smith_Machine_Behind_the_Back_Shrug/1.jpg"
     ],
     "id": "Smith_Machine_Behind_the_Back_Shrug",
-    "baseXP": 12
+    "baseXP": 12,
+    "popularity": 2.6
   },
   {
     "name": "Bench Press (Smith Machine)",
@@ -18753,7 +19451,8 @@
       "Smith_Machine_Bench_Press/1.jpg"
     ],
     "id": "Smith_Machine_Bench_Press",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 3
   },
   {
     "name": "Row (Smith Machine Bent Over)",
@@ -18783,7 +19482,8 @@
       "Smith_Machine_Bent_Over_Row/1.jpg"
     ],
     "id": "Smith_Machine_Bent_Over_Row",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 2.7
   },
   {
     "name": "Calf Raise (Smith Machine)",
@@ -18808,7 +19508,8 @@
       "Smith_Machine_Calf_Raise/1.jpg"
     ],
     "id": "Smith_Machine_Calf_Raise",
-    "baseXP": 11
+    "baseXP": 11,
+    "popularity": 3
   },
   {
     "name": "Bench Press (Smith Machine Close-Grip)",
@@ -18836,7 +19537,8 @@
       "Smith_Machine_Close-Grip_Bench_Press/1.jpg"
     ],
     "id": "Smith_Machine_Close-Grip_Bench_Press",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 2.7
   },
   {
     "name": "Press (Smith Machine Decline)",
@@ -18864,7 +19566,8 @@
       "Smith_Machine_Decline_Press/1.jpg"
     ],
     "id": "Smith_Machine_Decline_Press",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 2.7
   },
   {
     "name": "Clean (Smith Machine Hang Power)",
@@ -18896,7 +19599,8 @@
       "Smith_Machine_Hang_Power_Clean/1.jpg"
     ],
     "id": "Smith_Machine_Hang_Power_Clean",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.5
   },
   {
     "name": "Hip Raise (Smith Machine)",
@@ -18920,7 +19624,8 @@
       "Smith_Machine_Hip_Raise/1.jpg"
     ],
     "id": "Smith_Machine_Hip_Raise",
-    "baseXP": 12
+    "baseXP": 12,
+    "popularity": 2.6
   },
   {
     "name": "Bench Press (Smith Machine Incline)",
@@ -18948,7 +19653,8 @@
       "Smith_Machine_Incline_Bench_Press/1.jpg"
     ],
     "id": "Smith_Machine_Incline_Bench_Press",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 2.7
   },
   {
     "name": "Leg Press (Smith Machine)",
@@ -18975,7 +19681,8 @@
       "Smith_Machine_Leg_Press/1.jpg"
     ],
     "id": "Smith_Machine_Leg_Press",
-    "baseXP": 29
+    "baseXP": 29,
+    "popularity": 2.5
   },
   {
     "name": "Upright Row (Smith Machine One-Arm)",
@@ -19003,7 +19710,8 @@
       "Smith_Machine_One-Arm_Upright_Row/1.jpg"
     ],
     "id": "Smith_Machine_One-Arm_Upright_Row",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 2.7
   },
   {
     "name": "Shoulder Press (Smith Machine Overhead)",
@@ -19030,7 +19738,8 @@
       "Smith_Machine_Overhead_Shoulder_Press/1.jpg"
     ],
     "id": "Smith_Machine_Overhead_Shoulder_Press",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.7
   },
   {
     "name": "Pistol Squat (Smith Machine)",
@@ -19059,7 +19768,8 @@
       "Smith_Machine_Pistol_Squat/1.jpg"
     ],
     "id": "Smith_Machine_Pistol_Squat",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.5
   },
   {
     "name": "Calf Raises (Smith Machine Reverse)",
@@ -19085,7 +19795,8 @@
       "Smith_Machine_Reverse_Calf_Raises/1.jpg"
     ],
     "id": "Smith_Machine_Reverse_Calf_Raises",
-    "baseXP": 12
+    "baseXP": 12,
+    "popularity": 2.6
   },
   {
     "name": "Squat (Smith Machine)",
@@ -19116,7 +19827,8 @@
       "Smith_Machine_Squat/1.jpg"
     ],
     "id": "Smith_Machine_Squat",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.7
   },
   {
     "name": "Deadlift (Smith Machine Stiff-Legged)",
@@ -19144,7 +19856,8 @@
       "Smith_Machine_Stiff-Legged_Deadlift/1.jpg"
     ],
     "id": "Smith_Machine_Stiff-Legged_Deadlift",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.7
   },
   {
     "name": "Upright Row (Smith Machine)",
@@ -19173,7 +19886,8 @@
       "Smith_Machine_Upright_Row/1.jpg"
     ],
     "id": "Smith_Machine_Upright_Row",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 2.7
   },
   {
     "name": "Squat (Smith Single-Leg Split)",
@@ -19204,7 +19918,8 @@
       "Smith_Single-Leg_Split_Squat/1.jpg"
     ],
     "id": "Smith_Single-Leg_Split_Squat",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.7
   },
   {
     "name": "Snatch",
@@ -19239,7 +19954,8 @@
       "Snatch/1.jpg"
     ],
     "id": "Snatch",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 1.7
   },
   {
     "name": "Snatch (Balance)",
@@ -19269,7 +19985,8 @@
       "Snatch_Balance/1.jpg"
     ],
     "id": "Snatch_Balance",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 1.7
   },
   {
     "name": "Deadlift (Snatch)",
@@ -19299,7 +20016,8 @@
       "Snatch_Deadlift/1.jpg"
     ],
     "id": "Snatch_Deadlift",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 1.7
   },
   {
     "name": "Snatch (Pull)",
@@ -19329,7 +20047,8 @@
       "Snatch_Pull/1.jpg"
     ],
     "id": "Snatch_Pull",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.6
   },
   {
     "name": "Shrug (Snatch)",
@@ -19354,7 +20073,8 @@
       "Snatch_Shrug/1.jpg"
     ],
     "id": "Snatch_Shrug",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 1.7
   },
   {
     "name": "Snatch (from Blocks)",
@@ -19388,7 +20108,8 @@
       "Snatch_from_Blocks/1.jpg"
     ],
     "id": "Snatch_from_Blocks",
-    "baseXP": 50
+    "baseXP": 50,
+    "popularity": 1.5
   },
   {
     "name": "Speed Band Overhead Triceps",
@@ -19412,7 +20133,8 @@
       "Speed_Band_Overhead_Triceps/1.jpg"
     ],
     "id": "Speed_Band_Overhead_Triceps",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2
   },
   {
     "name": "Squat (Speed Box)",
@@ -19441,7 +20163,8 @@
       "Speed_Box_Squat/1.jpg"
     ],
     "id": "Speed_Box_Squat",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2
   },
   {
     "name": "Squats (Speed)",
@@ -19472,7 +20195,8 @@
       "Speed_Squats/1.jpg"
     ],
     "id": "Speed_Squats",
-    "baseXP": 47
+    "baseXP": 47,
+    "popularity": 2.4
   },
   {
     "name": "Spell Caster",
@@ -19499,7 +20223,8 @@
       "Spell_Caster/1.jpg"
     ],
     "id": "Spell_Caster",
-    "baseXP": 24
+    "baseXP": 24,
+    "popularity": 2.8
   },
   {
     "name": "Spider Crawl",
@@ -19526,7 +20251,8 @@
       "Spider_Crawl/1.jpg"
     ],
     "id": "Spider_Crawl",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 2.5
   },
   {
     "name": "Spider Curl",
@@ -19553,7 +20279,8 @@
       "Spider_Curl/1.jpg"
     ],
     "id": "Spider_Curl",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.3
   },
   {
     "name": "Spinal Stretch",
@@ -19582,7 +20309,8 @@
       "Spinal_Stretch/1.jpg"
     ],
     "id": "Spinal_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Clean (Split)",
@@ -19616,7 +20344,8 @@
       "Split_Clean/1.jpg"
     ],
     "id": "Split_Clean",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 1.7
   },
   {
     "name": "Jerk (Split)",
@@ -19645,7 +20374,8 @@
       "Split_Jerk/1.jpg"
     ],
     "id": "Split_Jerk",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 1.7
   },
   {
     "name": "Split Jump",
@@ -19674,7 +20404,8 @@
       "Split_Jump/1.jpg"
     ],
     "id": "Split_Jump",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 1.4
   },
   {
     "name": "Snatch (Split)",
@@ -19710,7 +20441,8 @@
       "Split_Snatch/1.jpg"
     ],
     "id": "Split_Snatch",
-    "baseXP": 49
+    "baseXP": 49,
+    "popularity": 1.5
   },
   {
     "name": "Split Squat (with Dumbbells)",
@@ -19737,7 +20469,8 @@
       "Split_Squat_with_Dumbbells/1.jpg"
     ],
     "id": "Split_Squat_with_Dumbbells",
-    "baseXP": 24
+    "baseXP": 24,
+    "popularity": 3.5
   },
   {
     "name": "Squats (Split)",
@@ -19763,7 +20496,8 @@
       "Split_Squats/1.jpg"
     ],
     "id": "Split_Squats",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.2
   },
   {
     "name": "Squat (Jerk)",
@@ -19792,7 +20526,8 @@
       "Squat_Jerk/1.jpg"
     ],
     "id": "Squat_Jerk",
-    "baseXP": 48
+    "baseXP": 48,
+    "popularity": 2.4
   },
   {
     "name": "Squat (with Bands)",
@@ -19822,7 +20557,8 @@
       "Squat_with_Bands/1.jpg"
     ],
     "id": "Squat_with_Bands",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2
   },
   {
     "name": "Squat (with Chains)",
@@ -19852,7 +20588,8 @@
       "Squat_with_Chains/1.jpg"
     ],
     "id": "Squat_with_Chains",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2
   },
   {
     "name": "Squat (with Plate Movers)",
@@ -19886,7 +20623,8 @@
       "Squat_with_Plate_Movers/1.jpg"
     ],
     "id": "Squat_with_Plate_Movers",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2.6
   },
   {
     "name": "Squat (With Bands)",
@@ -19916,7 +20654,8 @@
       "Squats_-_With_Bands/1.jpg"
     ],
     "id": "Squats_-_With_Bands",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.1
   },
   {
     "name": "Stairmaster",
@@ -19943,7 +20682,8 @@
       "Stairmaster/1.jpg"
     ],
     "id": "Stairmaster",
-    "baseXP": 29
+    "baseXP": 29,
+    "popularity": 1
   },
   {
     "name": "Press (Standing Alternating Dumbbell)",
@@ -19969,7 +20709,8 @@
       "Standing_Alternating_Dumbbell_Press/1.jpg"
     ],
     "id": "Standing_Alternating_Dumbbell_Press",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.8
   },
   {
     "name": "Calf Raise (Standing Barbell)",
@@ -19995,7 +20736,8 @@
       "Standing_Barbell_Calf_Raise/1.jpg"
     ],
     "id": "Standing_Barbell_Calf_Raise",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.7
   },
   {
     "name": "Press (Standing Barbell Behind Neck)",
@@ -20023,7 +20765,8 @@
       "Standing_Barbell_Press_Behind_Neck/1.jpg"
     ],
     "id": "Standing_Barbell_Press_Behind_Neck",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2.6
   },
   {
     "name": "Triceps Extension (Standing Bent-Over One-Arm Dumbbell)",
@@ -20051,7 +20794,8 @@
       "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension/1.jpg"
     ],
     "id": "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.7
   },
   {
     "name": "Triceps Extension (Standing Bent-Over Two-Arm Dumbbell)",
@@ -20075,7 +20819,8 @@
       "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension/1.jpg"
     ],
     "id": "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 2.7
   },
   {
     "name": "Biceps Curl (Standing Cable)",
@@ -20099,7 +20844,8 @@
       "Standing_Biceps_Cable_Curl/1.jpg"
     ],
     "id": "Standing_Biceps_Cable_Curl",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.6
   },
   {
     "name": "Standing Biceps Stretch",
@@ -20124,7 +20870,8 @@
       "Standing_Biceps_Stretch/1.jpg"
     ],
     "id": "Standing_Biceps_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.8
   },
   {
     "name": "Press (Standing Bradford)",
@@ -20152,7 +20899,8 @@
       "Standing_Bradford_Press/1.jpg"
     ],
     "id": "Standing_Bradford_Press",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.8
   },
   {
     "name": "Press (Standing Cable Chest)",
@@ -20179,7 +20927,8 @@
       "Standing_Cable_Chest_Press/1.jpg"
     ],
     "id": "Standing_Cable_Chest_Press",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.7
   },
   {
     "name": "Standing Cable Lift",
@@ -20209,7 +20958,8 @@
       "Standing_Cable_Lift/1.jpg"
     ],
     "id": "Standing_Cable_Lift",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.7
   },
   {
     "name": "Standing Cable Wood Chop",
@@ -20239,7 +20989,8 @@
       "Standing_Cable_Wood_Chop/1.jpg"
     ],
     "id": "Standing_Cable_Wood_Chop",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.7
   },
   {
     "name": "Calf Raises (Standing)",
@@ -20264,7 +21015,8 @@
       "Standing_Calf_Raises/1.jpg"
     ],
     "id": "Standing_Calf_Raises",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 4.5
   },
   {
     "name": "Concentration Curl (Standing)",
@@ -20290,7 +21042,8 @@
       "Standing_Concentration_Curl/1.jpg"
     ],
     "id": "Standing_Concentration_Curl",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.7
   },
   {
     "name": "Calf Raise (Standing Dumbbell)",
@@ -20314,7 +21067,8 @@
       "Standing_Dumbbell_Calf_Raise/1.jpg"
     ],
     "id": "Standing_Dumbbell_Calf_Raise",
-    "baseXP": 25
+    "baseXP": 25,
+    "popularity": 2.5
   },
   {
     "name": "Press (Standing Dumbbell)",
@@ -20339,7 +21093,8 @@
       "Standing_Dumbbell_Press/1.jpg"
     ],
     "id": "Standing_Dumbbell_Press",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.8
   },
   {
     "name": "Reverse Curl (Standing Dumbbell)",
@@ -20365,7 +21120,8 @@
       "Standing_Dumbbell_Reverse_Curl/1.jpg"
     ],
     "id": "Standing_Dumbbell_Reverse_Curl",
-    "baseXP": 27
+    "baseXP": 27,
+    "popularity": 2.5
   },
   {
     "name": "Front Delt Raise (Standing Dumbbell Straight-Arm Above Head)",
@@ -20390,7 +21146,8 @@
       "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head/1.jpg"
     ],
     "id": "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head",
-    "baseXP": 26
+    "baseXP": 26,
+    "popularity": 2.5
   },
   {
     "name": "Triceps Extension (Standing Dumbbell)",
@@ -20415,7 +21172,8 @@
       "Standing_Dumbbell_Triceps_Extension/1.jpg"
     ],
     "id": "Standing_Dumbbell_Triceps_Extension",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.7
   },
   {
     "name": "Upright Row (Standing Dumbbell)",
@@ -20442,7 +21200,8 @@
       "Standing_Dumbbell_Upright_Row/1.jpg"
     ],
     "id": "Standing_Dumbbell_Upright_Row",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.8
   },
   {
     "name": "Standing Elevated Quad Stretch",
@@ -20465,7 +21224,8 @@
       "Standing_Elevated_Quad_Stretch/1.jpg"
     ],
     "id": "Standing_Elevated_Quad_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.5
   },
   {
     "name": "Front Raise (Standing Barbell Over Head)",
@@ -20490,7 +21250,8 @@
       "Standing_Front_Barbell_Raise_Over_Head/1.jpg"
     ],
     "id": "Standing_Front_Barbell_Raise_Over_Head",
-    "baseXP": 28
+    "baseXP": 28,
+    "popularity": 2.5
   },
   {
     "name": "Standing Gastrocnemius Calf Stretch",
@@ -20515,7 +21276,8 @@
       "Standing_Gastrocnemius_Calf_Stretch/1.jpg"
     ],
     "id": "Standing_Gastrocnemius_Calf_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Standing Hamstring and Calf Stretch",
@@ -20538,7 +21300,8 @@
       "Standing_Hamstring_and_Calf_Stretch/1.jpg"
     ],
     "id": "Standing_Hamstring_and_Calf_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.5
   },
   {
     "name": "Standing Hip Circles",
@@ -20564,7 +21327,8 @@
       "Standing_Hip_Circles/1.jpg"
     ],
     "id": "Standing_Hip_Circles",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 1.2
   },
   {
     "name": "Standing Hip Flexors",
@@ -20586,7 +21350,8 @@
       "Standing_Hip_Flexors/1.jpg"
     ],
     "id": "Standing_Hip_Flexors",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Biceps Curl (Standing Inner)",
@@ -20613,7 +21378,8 @@
       "Standing_Inner-Biceps_Curl/1.jpg"
     ],
     "id": "Standing_Inner-Biceps_Curl",
-    "baseXP": 27
+    "baseXP": 27,
+    "popularity": 2.5
   },
   {
     "name": "Standing Lateral Stretch",
@@ -20637,7 +21403,8 @@
       "Standing_Lateral_Stretch/1.jpg"
     ],
     "id": "Standing_Lateral_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Leg Curl (Standing)",
@@ -20662,7 +21429,8 @@
       "Standing_Leg_Curl/1.jpg"
     ],
     "id": "Standing_Leg_Curl",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 2.6
   },
   {
     "name": "Standing Long Jump",
@@ -20690,7 +21458,8 @@
       "Standing_Long_Jump/1.jpg"
     ],
     "id": "Standing_Long_Jump",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 1.4
   },
   {
     "name": "Deltoid Raise (Standing Low-Pulley)",
@@ -20718,7 +21487,8 @@
       "Standing_Low-Pulley_Deltoid_Raise/1.jpg"
     ],
     "id": "Standing_Low-Pulley_Deltoid_Raise",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.6
   },
   {
     "name": "Triceps Extension (Standing Low-Pulley One-Arm)",
@@ -20746,7 +21516,8 @@
       "Standing_Low-Pulley_One-Arm_Triceps_Extension/1.jpg"
     ],
     "id": "Standing_Low-Pulley_One-Arm_Triceps_Extension",
-    "baseXP": 24
+    "baseXP": 24,
+    "popularity": 2.4
   },
   {
     "name": "Military Press (Standing)",
@@ -20774,7 +21545,8 @@
       "Standing_Military_Press/1.jpg"
     ],
     "id": "Standing_Military_Press",
-    "baseXP": 24
+    "baseXP": 24,
+    "popularity": 2.8
   },
   {
     "name": "Standing Olympic Plate Hand Squeeze",
@@ -20800,7 +21572,8 @@
       "Standing_Olympic_Plate_Hand_Squeeze/1.jpg"
     ],
     "id": "Standing_Olympic_Plate_Hand_Squeeze",
-    "baseXP": 12
+    "baseXP": 12,
+    "popularity": 2
   },
   {
     "name": "Curl (Standing One-Arm Cable)",
@@ -20826,7 +21599,8 @@
       "Standing_One-Arm_Cable_Curl/1.jpg"
     ],
     "id": "Standing_One-Arm_Cable_Curl",
-    "baseXP": 23
+    "baseXP": 23,
+    "popularity": 2.4
   },
   {
     "name": "Curl (Standing One-Arm Dumbbell Over Incline Bench)",
@@ -20852,7 +21626,8 @@
       "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench/1.jpg"
     ],
     "id": "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.7
   },
   {
     "name": "Triceps Extension (Standing One-Arm Dumbbell)",
@@ -20881,7 +21656,8 @@
       "Standing_One-Arm_Dumbbell_Triceps_Extension/1.jpg"
     ],
     "id": "Standing_One-Arm_Dumbbell_Triceps_Extension",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.7
   },
   {
     "name": "Triceps Extension (Standing Overhead Barbell)",
@@ -20908,7 +21684,8 @@
       "Standing_Overhead_Barbell_Triceps_Extension/1.jpg"
     ],
     "id": "Standing_Overhead_Barbell_Triceps_Extension",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.7
   },
   {
     "name": "Press (Standing Palm-In One-Arm Dumbbell)",
@@ -20937,7 +21714,8 @@
       "Standing_Palm-In_One-Arm_Dumbbell_Press/1.jpg"
     ],
     "id": "Standing_Palm-In_One-Arm_Dumbbell_Press",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.8
   },
   {
     "name": "Press (Standing Palms-In Dumbbell)",
@@ -20963,7 +21741,8 @@
       "Standing_Palms-In_Dumbbell_Press/1.jpg"
     ],
     "id": "Standing_Palms-In_Dumbbell_Press",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2.6
   },
   {
     "name": "Curl (Standing Palms-Up Barbell Behind The Back Wrist)",
@@ -20989,7 +21768,8 @@
       "Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl/1.jpg"
     ],
     "id": "Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.7
   },
   {
     "name": "Standing Pelvic Tilt",
@@ -21014,7 +21794,8 @@
       "Standing_Pelvic_Tilt/1.jpg"
     ],
     "id": "Standing_Pelvic_Tilt",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Crunch (Standing Rope)",
@@ -21038,7 +21819,8 @@
       "Standing_Rope_Crunch/1.jpg"
     ],
     "id": "Standing_Rope_Crunch",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2.6
   },
   {
     "name": "Standing Soleus And Achilles Stretch",
@@ -21060,7 +21842,8 @@
       "Standing_Soleus_And_Achilles_Stretch/1.jpg"
     ],
     "id": "Standing_Soleus_And_Achilles_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Standing Toe Touches",
@@ -21084,7 +21867,8 @@
       "Standing_Toe_Touches/1.jpg"
     ],
     "id": "Standing_Toe_Touches",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Triceps Extension (Standing Towel)",
@@ -21108,7 +21892,8 @@
       "Standing_Towel_Triceps_Extension/1.jpg"
     ],
     "id": "Standing_Towel_Triceps_Extension",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.4
   },
   {
     "name": "Throw (Standing Two-Arm Overhead)",
@@ -21134,7 +21919,8 @@
       "Standing_Two-Arm_Overhead_Throw/1.jpg"
     ],
     "id": "Standing_Two-Arm_Overhead_Throw",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 1
   },
   {
     "name": "Star Jump",
@@ -21162,7 +21948,8 @@
       "Star_Jump/1.jpg"
     ],
     "id": "Star_Jump",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 1.4
   },
   {
     "name": "Step-up with Knee Raise",
@@ -21188,7 +21975,8 @@
       "Step-up_with_Knee_Raise/1.jpg"
     ],
     "id": "Step-up_with_Knee_Raise",
-    "baseXP": 19
+    "baseXP": 19,
+    "popularity": 2.5
   },
   {
     "name": "Step Mill",
@@ -21214,7 +22002,8 @@
       "Step_Mill/1.jpg"
     ],
     "id": "Step_Mill",
-    "baseXP": 25
+    "baseXP": 25,
+    "popularity": 1
   },
   {
     "name": "Deadlift (Stiff-Legged Barbell)",
@@ -21242,7 +22031,8 @@
       "Stiff-Legged_Barbell_Deadlift/1.jpg"
     ],
     "id": "Stiff-Legged_Barbell_Deadlift",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2.6
   },
   {
     "name": "Deadlift (Stiff-Legged Dumbbell)",
@@ -21270,7 +22060,8 @@
       "Stiff-Legged_Dumbbell_Deadlift/1.jpg"
     ],
     "id": "Stiff-Legged_Dumbbell_Deadlift",
-    "baseXP": 23
+    "baseXP": 23,
+    "popularity": 2.8
   },
   {
     "name": "Stiff Leg Barbell Good Morning",
@@ -21299,7 +22090,8 @@
       "Stiff_Leg_Barbell_Good_Morning/1.jpg"
     ],
     "id": "Stiff_Leg_Barbell_Good_Morning",
-    "baseXP": 24
+    "baseXP": 24,
+    "popularity": 2.8
   },
   {
     "name": "Stomach Vacuum",
@@ -21324,7 +22116,8 @@
       "Stomach_Vacuum/1.jpg"
     ],
     "id": "Stomach_Vacuum",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 1.2
   },
   {
     "name": "Pullover (Straight-Arm Dumbbell)",
@@ -21354,7 +22147,8 @@
       "Straight-Arm_Dumbbell_Pullover/1.jpg"
     ],
     "id": "Straight-Arm_Dumbbell_Pullover",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2.6
   },
   {
     "name": "Pull (Straight-Arm down)",
@@ -21379,7 +22173,8 @@
       "Straight-Arm_Pulldown/1.jpg"
     ],
     "id": "Straight-Arm_Pulldown",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.6
   },
   {
     "name": "Rows (Straight Bar Bench Mid)",
@@ -21405,7 +22200,8 @@
       "Straight_Bar_Bench_Mid_Rows/1.jpg"
     ],
     "id": "Straight_Bar_Bench_Mid_Rows",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 2.8
   },
   {
     "name": "Straight Raises (on Incline Bench)",
@@ -21431,7 +22227,8 @@
       "Straight_Raises_on_Incline_Bench/1.jpg"
     ],
     "id": "Straight_Raises_on_Incline_Bench",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.7
   },
   {
     "name": "Stride Jump Crossover",
@@ -21460,7 +22257,8 @@
       "Stride_Jump_Crossover/1.jpg"
     ],
     "id": "Stride_Jump_Crossover",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 1
   },
   {
     "name": "Deadlift (Sumo)",
@@ -21492,7 +22290,8 @@
       "Sumo_Deadlift/1.jpg"
     ],
     "id": "Sumo_Deadlift",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2
   },
   {
     "name": "Deadlift (Sumo with Bands)",
@@ -21525,7 +22324,8 @@
       "Sumo_Deadlift_with_Bands/1.jpg"
     ],
     "id": "Sumo_Deadlift_with_Bands",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2
   },
   {
     "name": "Deadlift (Sumo with Chains)",
@@ -21559,7 +22359,8 @@
       "Sumo_Deadlift_with_Chains/1.jpg"
     ],
     "id": "Sumo_Deadlift_with_Chains",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2
   },
   {
     "name": "Superman",
@@ -21586,7 +22387,8 @@
       "Superman/1.jpg"
     ],
     "id": "Superman",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 1.3
   },
   {
     "name": "Throw (Supine Chest)",
@@ -21613,7 +22415,8 @@
       "Supine_Chest_Throw/1.jpg"
     ],
     "id": "Supine_Chest_Throw",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 1
   },
   {
     "name": "Throw (Supine One-Arm Overhead)",
@@ -21640,7 +22443,8 @@
       "Supine_One-Arm_Overhead_Throw/1.jpg"
     ],
     "id": "Supine_One-Arm_Overhead_Throw",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 1
   },
   {
     "name": "Throw (Supine Two-Arm Overhead)",
@@ -21668,7 +22472,8 @@
       "Supine_Two-Arm_Overhead_Throw/1.jpg"
     ],
     "id": "Supine_Two-Arm_Overhead_Throw",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 1
   },
   {
     "name": "Suspended Fallout",
@@ -21697,7 +22502,8 @@
       "Suspended_Fallout/1.jpg"
     ],
     "id": "Suspended_Fallout",
-    "baseXP": 26
+    "baseXP": 26,
+    "popularity": 1.8
   },
   {
     "name": "Push-Up (Suspended)",
@@ -21724,7 +22530,8 @@
       "Suspended_Push-Up/1.jpg"
     ],
     "id": "Suspended_Push-Up",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.1
   },
   {
     "name": "Reverse Crunch (Suspended)",
@@ -21748,7 +22555,8 @@
       "Suspended_Reverse_Crunch/1.jpg"
     ],
     "id": "Suspended_Reverse_Crunch",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2
   },
   {
     "name": "Row (Suspended)",
@@ -21774,7 +22582,8 @@
       "Suspended_Row/1.jpg"
     ],
     "id": "Suspended_Row",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 2.1
   },
   {
     "name": "Squat (Suspended Split)",
@@ -21804,7 +22613,8 @@
       "Suspended_Split_Squat/1.jpg"
     ],
     "id": "Suspended_Split_Squat",
-    "baseXP": 30
+    "baseXP": 30,
+    "popularity": 1.9
   },
   {
     "name": "Press (Svend)",
@@ -21832,7 +22642,8 @@
       "Svend_Press/1.jpg"
     ],
     "id": "Svend_Press",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 2.1
   },
   {
     "name": "T-bar Row (with Handle)",
@@ -21860,7 +22671,8 @@
       "T-Bar_Row_with_Handle/1.jpg"
     ],
     "id": "T-Bar_Row_with_Handle",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 4
   },
   {
     "name": "Press (Tate)",
@@ -21888,7 +22700,8 @@
       "Tate_Press/1.jpg"
     ],
     "id": "Tate_Press",
-    "baseXP": 27
+    "baseXP": 27,
+    "popularity": 2.5
   },
   {
     "name": "The Straddle",
@@ -21913,7 +22726,8 @@
       "The_Straddle/1.jpg"
     ],
     "id": "The_Straddle",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Thigh Abductor",
@@ -21939,7 +22753,8 @@
       "Thigh_Abductor/1.jpg"
     ],
     "id": "Thigh_Abductor",
-    "baseXP": 12
+    "baseXP": 12,
+    "popularity": 2.6
   },
   {
     "name": "Thigh Adductor",
@@ -21966,7 +22781,8 @@
       "Thigh_Adductor/1.jpg"
     ],
     "id": "Thigh_Adductor",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 2.6
   },
   {
     "name": "Tire Flip",
@@ -21999,7 +22815,8 @@
       "Tire_Flip/1.jpg"
     ],
     "id": "Tire_Flip",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 0.8
   },
   {
     "name": "Toe Touchers",
@@ -22025,7 +22842,8 @@
       "Toe_Touchers/1.jpg"
     ],
     "id": "Toe_Touchers",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 1.2
   },
   {
     "name": "Torso Rotation",
@@ -22047,7 +22865,8 @@
       "Torso_Rotation/1.jpg"
     ],
     "id": "Torso_Rotation",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.5
   },
   {
     "name": "Walk (Trail Running/ing)",
@@ -22073,7 +22892,8 @@
       "Trail_Running_Walking/1.jpg"
     ],
     "id": "Trail_Running_Walking",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 0.5
   },
   {
     "name": "Deadlift (Trap Bar)",
@@ -22100,7 +22920,8 @@
       "Trap_Bar_Deadlift/1.jpg"
     ],
     "id": "Trap_Bar_Deadlift",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.1
   },
   {
     "name": "Tricep Dumbbell Kickback",
@@ -22124,7 +22945,8 @@
       "Tricep_Dumbbell_Kickback/1.jpg"
     ],
     "id": "Tricep_Dumbbell_Kickback",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2.7
   },
   {
     "name": "Tricep Side Stretch",
@@ -22147,7 +22969,8 @@
       "Tricep_Side_Stretch/1.jpg"
     ],
     "id": "Tricep_Side_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Triceps Overhead Extension with Rope",
@@ -22171,7 +22994,8 @@
       "Triceps_Overhead_Extension_with_Rope/1.jpg"
     ],
     "id": "Triceps_Overhead_Extension_with_Rope",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2.6
   },
   {
     "name": "Triceps Pushdown",
@@ -22196,7 +23020,8 @@
       "Triceps_Pushdown/1.jpg"
     ],
     "id": "Triceps_Pushdown",
-    "baseXP": 17
+    "baseXP": 17,
+    "popularity": 5
   },
   {
     "name": "Triceps Pushdown (Rope Attachment)",
@@ -22221,7 +23046,8 @@
       "Triceps_Pushdown_-_Rope_Attachment/1.jpg"
     ],
     "id": "Triceps_Pushdown_-_Rope_Attachment",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 4.5
   },
   {
     "name": "Triceps Pushdown (V-Bar Attachment)",
@@ -22246,7 +23072,8 @@
       "Triceps_Pushdown_-_V-Bar_Attachment/1.jpg"
     ],
     "id": "Triceps_Pushdown_-_V-Bar_Attachment",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.6
   },
   {
     "name": "Triceps Stretch",
@@ -22269,7 +23096,8 @@
       "Triceps_Stretch/1.jpg"
     ],
     "id": "Triceps_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.7
   },
   {
     "name": "Crunch (Tuck)",
@@ -22295,7 +23123,8 @@
       "Tuck_Crunch/1.jpg"
     ],
     "id": "Tuck_Crunch",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 2.4
   },
   {
     "name": "Preacher Curl (Two-Arm Dumbbell)",
@@ -22319,7 +23148,8 @@
       "Two-Arm_Dumbbell_Preacher_Curl/1.jpg"
     ],
     "id": "Two-Arm_Dumbbell_Preacher_Curl",
-    "baseXP": 15
+    "baseXP": 15,
+    "popularity": 2.7
   },
   {
     "name": "Clean (Two-Arm Kettlebell)",
@@ -22348,7 +23178,8 @@
       "Two-Arm_Kettlebell_Clean/1.jpg"
     ],
     "id": "Two-Arm_Kettlebell_Clean",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.1
   },
   {
     "name": "Jerk (Two-Arm Kettlebell)",
@@ -22373,7 +23204,8 @@
       "Two-Arm_Kettlebell_Jerk/1.jpg"
     ],
     "id": "Two-Arm_Kettlebell_Jerk",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 2.1
   },
   {
     "name": "Military Press (Two-Arm Kettlebell)",
@@ -22397,7 +23229,8 @@
       "Two-Arm_Kettlebell_Military_Press/1.jpg"
     ],
     "id": "Two-Arm_Kettlebell_Military_Press",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.1
   },
   {
     "name": "Row (Two-Arm Kettlebell)",
@@ -22422,7 +23255,8 @@
       "Two-Arm_Kettlebell_Row/1.jpg"
     ],
     "id": "Two-Arm_Kettlebell_Row",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2.1
   },
   {
     "name": "Pull (Underhand Cable downs)",
@@ -22452,7 +23286,8 @@
       "Underhand_Cable_Pulldowns/1.jpg"
     ],
     "id": "Underhand_Cable_Pulldowns",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 2.7
   },
   {
     "name": "Upper Back-Leg Grab",
@@ -22477,7 +23312,8 @@
       "Upper_Back-Leg_Grab/1.jpg"
     ],
     "id": "Upper_Back-Leg_Grab",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Upper Back Stretch",
@@ -22500,7 +23336,8 @@
       "Upper_Back_Stretch/1.jpg"
     ],
     "id": "Upper_Back_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Row (Upright Barbell)",
@@ -22526,7 +23363,8 @@
       "Upright_Barbell_Row/1.jpg"
     ],
     "id": "Upright_Barbell_Row",
-    "baseXP": 20
+    "baseXP": 20,
+    "popularity": 2.8
   },
   {
     "name": "Row (Upright Cable)",
@@ -22552,7 +23390,8 @@
       "Upright_Cable_Row/1.jpg"
     ],
     "id": "Upright_Cable_Row",
-    "baseXP": 35
+    "baseXP": 35,
+    "popularity": 2.5
   },
   {
     "name": "Upright Row (With Bands)",
@@ -22578,7 +23417,8 @@
       "Upright_Row_-_With_Bands/1.jpg"
     ],
     "id": "Upright_Row_-_With_Bands",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.1
   },
   {
     "name": "Upward Stretch",
@@ -22603,7 +23443,8 @@
       "Upward_Stretch/1.jpg"
     ],
     "id": "Upward_Stretch",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 0.4
   },
   {
     "name": "Pull (V-Bar down)",
@@ -22633,7 +23474,8 @@
       "V-Bar_Pulldown/1.jpg"
     ],
     "id": "V-Bar_Pulldown",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 2.5
   },
   {
     "name": "Pull (V-Bar up)",
@@ -22662,7 +23504,8 @@
       "V-Bar_Pullup/1.jpg"
     ],
     "id": "V-Bar_Pullup",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 2.5
   },
   {
     "name": "Swing (Vertical)",
@@ -22690,7 +23533,8 @@
       "Vertical_Swing/1.jpg"
     ],
     "id": "Vertical_Swing",
-    "baseXP": 21
+    "baseXP": 21,
+    "popularity": 1.7
   },
   {
     "name": "Walk (ing, Treadmill)",
@@ -22716,7 +23560,8 @@
       "Walking_Treadmill/1.jpg"
     ],
     "id": "Walking_Treadmill",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 1.2
   },
   {
     "name": "Weighted Ball Hyperextension",
@@ -22744,7 +23589,8 @@
       "Weighted_Ball_Hyperextension/1.jpg"
     ],
     "id": "Weighted_Ball_Hyperextension",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 1.9
   },
   {
     "name": "Weighted Ball Side Bend",
@@ -22771,7 +23617,8 @@
       "Weighted_Ball_Side_Bend/1.jpg"
     ],
     "id": "Weighted_Ball_Side_Bend",
-    "baseXP": 22
+    "baseXP": 22,
+    "popularity": 1.8
   },
   {
     "name": "Dip (Weighted Bench)",
@@ -22799,7 +23646,8 @@
       "Weighted_Bench_Dip/1.jpg"
     ],
     "id": "Weighted_Bench_Dip",
-    "baseXP": 31
+    "baseXP": 31,
+    "popularity": 1.9
   },
   {
     "name": "Crunch (Weighted es)",
@@ -22824,7 +23672,8 @@
       "Weighted_Crunches/1.jpg"
     ],
     "id": "Weighted_Crunches",
-    "baseXP": 13
+    "baseXP": 13,
+    "popularity": 2
   },
   {
     "name": "Squat (Weighted Jump)",
@@ -22853,7 +23702,8 @@
       "Weighted_Jump_Squat/1.jpg"
     ],
     "id": "Weighted_Jump_Squat",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2.6
   },
   {
     "name": "Pull Ups (Weighted)",
@@ -22880,7 +23730,8 @@
       "Weighted_Pull_Ups/1.jpg"
     ],
     "id": "Weighted_Pull_Ups",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 3.5
   },
   {
     "name": "Squat (Weighted Sissy)",
@@ -22908,7 +23759,8 @@
       "Weighted_Sissy_Squat/1.jpg"
     ],
     "id": "Weighted_Sissy_Squat",
-    "baseXP": 50
+    "baseXP": 50,
+    "popularity": 2.4
   },
   {
     "name": "Sit-Ups (Weighted - With Bands)",
@@ -22932,7 +23784,8 @@
       "Weighted_Sit-Ups_-_With_Bands/1.jpg"
     ],
     "id": "Weighted_Sit-Ups_-_With_Bands",
-    "baseXP": 25
+    "baseXP": 25,
+    "popularity": 1.8
   },
   {
     "name": "Squat (Weighted)",
@@ -22961,7 +23814,8 @@
       "Weighted_Squat/1.jpg"
     ],
     "id": "Weighted_Squat",
-    "baseXP": 30
+    "baseXP": 30,
+    "popularity": 1.9
   },
   {
     "name": "Bench Press (Wide-Grip Barbell)",
@@ -22988,7 +23842,8 @@
       "Wide-Grip_Barbell_Bench_Press/1.jpg"
     ],
     "id": "Wide-Grip_Barbell_Bench_Press",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 2.6
   },
   {
     "name": "Bench Press (Wide-Grip Decline Barbell)",
@@ -23015,7 +23870,8 @@
       "Wide-Grip_Decline_Barbell_Bench_Press/1.jpg"
     ],
     "id": "Wide-Grip_Decline_Barbell_Bench_Press",
-    "baseXP": 36
+    "baseXP": 36,
+    "popularity": 2.6
   },
   {
     "name": "Pullover (Wide-Grip Decline Barbell)",
@@ -23044,7 +23900,8 @@
       "Wide-Grip_Decline_Barbell_Pullover/1.jpg"
     ],
     "id": "Wide-Grip_Decline_Barbell_Pullover",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 2.6
   },
   {
     "name": "Lat Pulldown (Wide-Grip)",
@@ -23074,7 +23931,8 @@
       "Wide-Grip_Lat_Pulldown/1.jpg"
     ],
     "id": "Wide-Grip_Lat_Pulldown",
-    "baseXP": 23
+    "baseXP": 23,
+    "popularity": 5.5
   },
   {
     "name": "Pull (Wide-Grip down Behind The Neck)",
@@ -23104,7 +23962,8 @@
       "Wide-Grip_Pulldown_Behind_The_Neck/1.jpg"
     ],
     "id": "Wide-Grip_Pulldown_Behind_The_Neck",
-    "baseXP": 33
+    "baseXP": 33,
+    "popularity": 2.5
   },
   {
     "name": "Pull-Up (Wide-Grip Rear)",
@@ -23133,7 +23992,8 @@
       "Wide-Grip_Rear_Pull-Up/1.jpg"
     ],
     "id": "Wide-Grip_Rear_Pull-Up",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 2.3
   },
   {
     "name": "Curl (Wide-Grip Standing Barbell)",
@@ -23158,7 +24018,8 @@
       "Wide-Grip_Standing_Barbell_Curl/1.jpg"
     ],
     "id": "Wide-Grip_Standing_Barbell_Curl",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.7
   },
   {
     "name": "Squat (Wide Stance Barbell)",
@@ -23189,7 +24050,8 @@
       "Wide_Stance_Barbell_Squat/1.jpg"
     ],
     "id": "Wide_Stance_Barbell_Squat",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 2.6
   },
   {
     "name": "Wide Stance Stiff Legs",
@@ -23215,7 +24077,8 @@
       "Wide_Stance_Stiff_Legs/1.jpg"
     ],
     "id": "Wide_Stance_Stiff_Legs",
-    "baseXP": 32
+    "baseXP": 32,
+    "popularity": 1.7
   },
   {
     "name": "Wind Sprints",
@@ -23239,7 +24102,8 @@
       "Wind_Sprints/1.jpg"
     ],
     "id": "Wind_Sprints",
-    "baseXP": 18
+    "baseXP": 18,
+    "popularity": 2.5
   },
   {
     "name": "Windmills",
@@ -23266,7 +24130,8 @@
       "Windmills/1.jpg"
     ],
     "id": "Windmills",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.2
   },
   {
     "name": "World's Greatest Stretch",
@@ -23293,7 +24158,8 @@
       "Worlds_Greatest_Stretch/1.jpg"
     ],
     "id": "Worlds_Greatest_Stretch",
-    "baseXP": 10
+    "baseXP": 10,
+    "popularity": 0.2
   },
   {
     "name": "Wrist Circles",
@@ -23316,7 +24182,8 @@
       "Wrist_Circles/1.jpg"
     ],
     "id": "Wrist_Circles",
-    "baseXP": 6
+    "baseXP": 6,
+    "popularity": 1.2
   },
   {
     "name": "Wrist Roller",
@@ -23343,7 +24210,8 @@
       "Wrist_Roller/1.jpg"
     ],
     "id": "Wrist_Roller",
-    "baseXP": 14
+    "baseXP": 14,
+    "popularity": 2
   },
   {
     "name": "Wrist Rotations with Straight Bar",
@@ -23366,7 +24234,8 @@
       "Wrist_Rotations_with_Straight_Bar/1.jpg"
     ],
     "id": "Wrist_Rotations_with_Straight_Bar",
-    "baseXP": 16
+    "baseXP": 16,
+    "popularity": 2.7
   },
   {
     "name": "Walk (Yoke)",
@@ -23397,7 +24266,8 @@
       "Yoke_Walk/1.jpg"
     ],
     "id": "Yoke_Walk",
-    "baseXP": 34
+    "baseXP": 34,
+    "popularity": 0.8
   },
   {
     "name": "Squats (Zercher)",
@@ -23427,7 +24297,8 @@
       "Zercher_Squats/1.jpg"
     ],
     "id": "Zercher_Squats",
-    "baseXP": 49
+    "baseXP": 49,
+    "popularity": 2.4
   },
   {
     "name": "Curl (Zottman)",
@@ -23457,7 +24328,8 @@
       "Zottman_Curl/1.jpg"
     ],
     "id": "Zottman_Curl",
-    "baseXP": 27
+    "baseXP": 27,
+    "popularity": 2.5
   },
   {
     "name": "Preacher Curl (Zottman)",
@@ -23485,6 +24357,7 @@
       "Zottman_Preacher_Curl/1.jpg"
     ],
     "id": "Zottman_Preacher_Curl",
-    "baseXP": 24
+    "baseXP": 24,
+    "popularity": 2.5
   }
 ]

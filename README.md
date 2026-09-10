@@ -39,6 +39,20 @@ See [Alternate_Incline_Dumbbell_Curl.json](./exercises/Alternate_Incline_Dumbbel
 
 To further explore the data, you can use [lite.datasette.io](https://lite.datasette.io/?json=https://github.com/yuhonas/free-exercise-db/blob/main/dist/exercises.json#/data/exercises?_facet_array=primaryMuscles&_facet=force&_facet=level&_facet=equipment)
 
+### Fork-specific fields
+
+`dist/exercises.json` in this fork carries two fields the upstream dataset does
+not. They are maintained in `dist` directly, so re-running `make
+dist/exercises.json` from the `exercises/` sources would drop them.
+
+* `baseXP` — the XP awarded for completing the exercise.
+* `popularity` — how well-known the exercise is, in "pseudo-uses", from 0 to 6.
+  Consumers add a user's own (decayed) count of times they performed the
+  exercise to this number and sort by the total, so a lift somebody actually
+  trains rises above a more famous one they never touch. Roughly 85 staples are
+  ranked by hand from 3 to 6; the rest are scored below 3 by a heuristic over
+  `category`, `equipment`, `mechanic` and `level`.
+
 ### How do I use them?
 
 You can check the repo out and use the `JSON` files and images locally
