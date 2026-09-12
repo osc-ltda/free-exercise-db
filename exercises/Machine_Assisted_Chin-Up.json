@@ -20,6 +20,7 @@
   "category": "strength",
   "trackingType": "assisted_reps",
   "images": [],
+  "unassistedId": "Chin-Up",
   "id": "Machine_Assisted_Chin-Up",
   "baseXP": 21,
   "popularity": 3.2

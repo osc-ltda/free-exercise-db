@@ -20,6 +20,7 @@
   "category": "strength",
   "trackingType": "assisted_reps",
   "images": [],
+  "unassistedId": "Pullups",
   "id": "Machine_Assisted_Pull-Up",
   "baseXP": 22,
   "popularity": 3.6
