@@ -1,0 +1,25 @@
+{
+  "name": "Glute Kickback (Machine)",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Set the platform so your working leg starts with the knee under your hip.",
+    "Hold the handles, brace your abdominals and keep your lower back flat.",
+    "Drive the foot back and up with your glute until your hip is straight.",
+    "Squeeze at the top, then return under control. Finish all the reps on one leg before swapping."
+  ],
+  "category": "strength",
+  "trackingType": "weight_reps",
+  "images": [],
+  "id": "Machine_Glute_Kickback",
+  "baseXP": 16,
+  "popularity": 3.0
+}

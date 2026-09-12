@@ -5583,6 +5583,32 @@
     "popularity": 2.5
   },
   {
+    "name": "Dead Hang",
+    "force": "static",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "other",
+    "primaryMuscles": [
+      "forearms"
+    ],
+    "secondaryMuscles": [
+      "lats",
+      "shoulders"
+    ],
+    "instructions": [
+      "Take a pull-up bar with an overhand grip, hands about shoulder-width apart.",
+      "Step or jump off and let your bodyweight hang from straight arms.",
+      "Keep your shoulders active rather than shrugged up into your ears, and your ribs down.",
+      "Hold for time, then step down rather than dropping."
+    ],
+    "category": "strength",
+    "trackingType": "time",
+    "images": [],
+    "id": "Dead_Hang",
+    "baseXP": 10,
+    "popularity": 2.4
+  },
+  {
     "name": "Deadlift (with Bands)",
     "force": "pull",
     "level": "expert",
@@ -6078,7 +6104,7 @@
       "Repeat the movement for the prescribed amount of repetitions."
     ],
     "category": "strength",
-    "trackingType": "weight_reps",
+    "trackingType": "bodyweight_reps",
     "images": [
       "Dips_-_Chest_Version/0.jpg",
       "Dips_-_Chest_Version/1.jpg"
@@ -9474,6 +9500,33 @@
     "id": "Hip_Lift_with_Band",
     "baseXP": 22,
     "popularity": 1.5
+  },
+  {
+    "name": "Leg Press Horizontal (Machine)",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings",
+      "calves"
+    ],
+    "instructions": [
+      "Sit with your back flat against the pad and place your feet on the platform about hip-width apart.",
+      "Release the safeties and take the weight with your legs, knees tracking over your toes.",
+      "Bend your knees to bring the platform in until your thighs are close to your torso, without letting your hips roll off the seat.",
+      "Press back out until your legs are straight but not locked."
+    ],
+    "category": "strength",
+    "trackingType": "weight_reps",
+    "images": [],
+    "id": "Horizontal_Leg_Press",
+    "baseXP": 29,
+    "popularity": 3.5
   },
   {
     "name": "Hug A Ball",
@@ -13216,6 +13269,84 @@
     "popularity": 3.5
   },
   {
+    "name": "Chin-Up (Machine Assisted)",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "middle back"
+    ],
+    "instructions": [
+      "Set the counterweight. More weight on the pin means more help, so log what is on the stack rather than what you lifted: the number should go down as you get stronger.",
+      "Kneel or stand on the pad and take the handles with an underhand, shoulder-width grip.",
+      "Pull until your chin clears your hands, keeping your chest up and your elbows driving down.",
+      "Lower all the way to straight arms under control."
+    ],
+    "category": "strength",
+    "trackingType": "assisted_reps",
+    "images": [],
+    "id": "Machine_Assisted_Chin-Up",
+    "baseXP": 21,
+    "popularity": 3.2
+  },
+  {
+    "name": "Dips (Machine Assisted)",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "shoulders"
+    ],
+    "instructions": [
+      "Set the counterweight. More weight on the pin means more help, so log what is on the stack rather than what you lifted: the number should go down as you get stronger.",
+      "Kneel or stand on the pad and take the dip handles with your arms straight.",
+      "Lower until your upper arms are about level with the floor.",
+      "Press back up to straight arms under control."
+    ],
+    "category": "strength",
+    "trackingType": "assisted_reps",
+    "images": [],
+    "id": "Machine_Assisted_Dips",
+    "baseXP": 19,
+    "popularity": 3.0
+  },
+  {
+    "name": "Pull-Up (Machine Assisted)",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "middle back",
+      "biceps"
+    ],
+    "instructions": [
+      "Set the counterweight. More weight on the pin means more help, so log what is on the stack rather than what you lifted: the number should go down as you get stronger.",
+      "Kneel or stand on the pad and take the handles with an overhand grip, wider than your shoulders.",
+      "Pull your elbows down and back until your chin passes the bar.",
+      "Lower all the way to straight arms under control."
+    ],
+    "category": "strength",
+    "trackingType": "assisted_reps",
+    "images": [],
+    "id": "Machine_Assisted_Pull-Up",
+    "baseXP": 22,
+    "popularity": 3.6
+  },
+  {
     "name": "Bench Press (Machine)",
     "force": "push",
     "level": "beginner",
@@ -13274,6 +13405,56 @@
     "popularity": 2.6
   },
   {
+    "name": "Glute Kickback (Machine)",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "instructions": [
+      "Set the platform so your working leg starts with the knee under your hip.",
+      "Hold the handles, brace your abdominals and keep your lower back flat.",
+      "Drive the foot back and up with your glute until your hip is straight.",
+      "Squeeze at the top, then return under control. Finish all the reps on one leg before swapping."
+    ],
+    "category": "strength",
+    "trackingType": "weight_reps",
+    "images": [],
+    "id": "Machine_Glute_Kickback",
+    "baseXP": 16,
+    "popularity": 3.0
+  },
+  {
+    "name": "Lateral Raise (Machine)",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "traps"
+    ],
+    "instructions": [
+      "Set the seat so the pads sit just above your elbows and your shoulders line up with the machine's pivot.",
+      "Sit tall against the back pad, take the handles and keep a soft bend in your elbows.",
+      "Drive the pads out and up with the sides of your shoulders until your upper arms are level with the floor.",
+      "Pause at the top, then lower under control without letting the stack touch down between reps."
+    ],
+    "category": "strength",
+    "trackingType": "weight_reps",
+    "images": [],
+    "id": "Machine_Lateral_Raise",
+    "baseXP": 12,
+    "popularity": 3.0
+  },
+  {
     "name": "Preacher Curl (Machine)",
     "force": "pull",
     "level": "beginner",
@@ -13299,6 +13480,58 @@
     "id": "Machine_Preacher_Curls",
     "baseXP": 12,
     "popularity": 2.6
+  },
+  {
+    "name": "Pullover (Machine)",
+    "force": "pull",
+    "level": "intermediate",
+    "mechanic": "isolation",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "triceps"
+    ],
+    "instructions": [
+      "Set the seat so the machine's pivot lines up with your shoulders, and fasten the belt if there is one.",
+      "Take the pads or the bar overhead with your elbows fixed in place.",
+      "Pull down and forward with your lats until the bar reaches your midsection.",
+      "Let it travel back overhead under control, keeping your elbows where they are throughout."
+    ],
+    "category": "strength",
+    "trackingType": "weight_reps",
+    "images": [],
+    "id": "Machine_Pullover",
+    "baseXP": 24,
+    "popularity": 2.6
+  },
+  {
+    "name": "Seated Row (Machine)",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "middle back"
+    ],
+    "secondaryMuscles": [
+      "lats",
+      "biceps"
+    ],
+    "instructions": [
+      "Set the chest pad so you can reach the handles with your arms straight and your chest resting against it.",
+      "Take the handles, brace your midsection and keep your torso still.",
+      "Pull the elbows back past your ribs and squeeze your shoulder blades together.",
+      "Let the handles travel forward under control until your shoulder blades spread again."
+    ],
+    "category": "strength",
+    "trackingType": "weight_reps",
+    "images": [],
+    "id": "Machine_Seated_Row",
+    "baseXP": 20,
+    "popularity": 3.8
   },
   {
     "name": "Press (Machine Shoulder Military)",
@@ -15451,7 +15684,7 @@
       "Repeat for the desired number of repetitions."
     ],
     "category": "strength",
-    "trackingType": "weight_reps",
+    "trackingType": "bodyweight_reps",
     "images": [
       "Parallel_Bar_Dip/0.jpg",
       "Parallel_Bar_Dip/1.jpg"
@@ -15484,6 +15717,32 @@
     "id": "Pelvic_Tilt_Into_Bridge",
     "baseXP": 10,
     "popularity": 0.6
+  },
+  {
+    "name": "Pendulum Squat (Machine)",
+    "force": "push",
+    "level": "intermediate",
+    "mechanic": "compound",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Set the platform and shoulder pads so you stand tall with your back flat against the pad.",
+      "Place your feet on the platform, release the handles and take the weight.",
+      "Sit down into the arc, letting the machine carry your hips back as your knees bend deep.",
+      "Drive through your whole foot to come back up, keeping your back against the pad the whole way."
+    ],
+    "category": "strength",
+    "trackingType": "weight_reps",
+    "images": [],
+    "id": "Pendulum_Squat",
+    "baseXP": 33,
+    "popularity": 2.8
   },
   {
     "name": "Peroneals-SMR",
@@ -17443,7 +17702,7 @@
       "Repeat for the desired number of repetitions."
     ],
     "category": "strength",
-    "trackingType": "weight_reps",
+    "trackingType": "bodyweight_reps",
     "images": [
       "Ring_Dips/0.jpg",
       "Ring_Dips/1.jpg"
@@ -23114,6 +23373,31 @@
     "popularity": 2.7
   },
   {
+    "name": "Bicep Curl (Strict)",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "barbell",
+    "primaryMuscles": [
+      "biceps"
+    ],
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "instructions": [
+      "Stand with your back flat against a wall or post, feet a little way out in front of you.",
+      "Hold the bar at arm's length with an underhand grip, elbows pinned to your sides.",
+      "Curl the bar up without letting your elbows drift forward or your back leave the wall.",
+      "Lower all the way down under control. No swing: if your back comes off the wall, the weight is too heavy."
+    ],
+    "category": "strength",
+    "trackingType": "weight_reps",
+    "images": [],
+    "id": "Strict_Bicep_Curl",
+    "baseXP": 15,
+    "popularity": 2.4
+  },
+  {
     "name": "Stride Jump Crossover",
     "force": "push",
     "level": "beginner",
@@ -24609,6 +24893,32 @@
     "id": "Weighted_Crunches",
     "baseXP": 13,
     "popularity": 2
+  },
+  {
+    "name": "Weighted Dips",
+    "force": "push",
+    "level": "intermediate",
+    "mechanic": "compound",
+    "equipment": "other",
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "shoulders"
+    ],
+    "instructions": [
+      "Hang the weight from a dip belt, or hold a dumbbell between your feet.",
+      "Take the parallel bars and press up to straight arms.",
+      "Lower until your upper arms are about level with the floor, leaning forward to favour the chest or staying upright to favour the triceps.",
+      "Press back up to the top under control. Log the weight you added, not your bodyweight."
+    ],
+    "category": "strength",
+    "trackingType": "weight_reps",
+    "images": [],
+    "id": "Weighted_Dips",
+    "baseXP": 34,
+    "popularity": 3.4
   },
   {
     "name": "Squat (Weighted Jump)",

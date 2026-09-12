@@ -1,0 +1,26 @@
+{
+  "name": "Pendulum Squat (Machine)",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Set the platform and shoulder pads so you stand tall with your back flat against the pad.",
+    "Place your feet on the platform, release the handles and take the weight.",
+    "Sit down into the arc, letting the machine carry your hips back as your knees bend deep.",
+    "Drive through your whole foot to come back up, keeping your back against the pad the whole way."
+  ],
+  "category": "strength",
+  "trackingType": "weight_reps",
+  "images": [],
+  "id": "Pendulum_Squat",
+  "baseXP": 33,
+  "popularity": 2.8
+}

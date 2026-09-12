@@ -131,6 +131,7 @@
       "enum": [
         "weight_reps",
         "bodyweight_reps",
+        "assisted_reps",
         "time"
       ]
     },

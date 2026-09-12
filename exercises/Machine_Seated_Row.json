@@ -1,0 +1,26 @@
+{
+  "name": "Seated Row (Machine)",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "biceps"
+  ],
+  "instructions": [
+    "Set the chest pad so you can reach the handles with your arms straight and your chest resting against it.",
+    "Take the handles, brace your midsection and keep your torso still.",
+    "Pull the elbows back past your ribs and squeeze your shoulder blades together.",
+    "Let the handles travel forward under control until your shoulder blades spread again."
+  ],
+  "category": "strength",
+  "trackingType": "weight_reps",
+  "images": [],
+  "id": "Machine_Seated_Row",
+  "baseXP": 20,
+  "popularity": 3.8
+}

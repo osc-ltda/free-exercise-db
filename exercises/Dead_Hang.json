@@ -1,0 +1,26 @@
+{
+  "name": "Dead Hang",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "shoulders"
+  ],
+  "instructions": [
+    "Take a pull-up bar with an overhand grip, hands about shoulder-width apart.",
+    "Step or jump off and let your bodyweight hang from straight arms.",
+    "Keep your shoulders active rather than shrugged up into your ears, and your ribs down.",
+    "Hold for time, then step down rather than dropping."
+  ],
+  "category": "strength",
+  "trackingType": "time",
+  "images": [],
+  "id": "Dead_Hang",
+  "baseXP": 10,
+  "popularity": 2.4
+}

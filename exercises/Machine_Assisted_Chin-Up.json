@@ -1,0 +1,26 @@
+{
+  "name": "Chin-Up (Machine Assisted)",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back"
+  ],
+  "instructions": [
+    "Set the counterweight. More weight on the pin means more help, so log what is on the stack rather than what you lifted: the number should go down as you get stronger.",
+    "Kneel or stand on the pad and take the handles with an underhand, shoulder-width grip.",
+    "Pull until your chin clears your hands, keeping your chest up and your elbows driving down.",
+    "Lower all the way to straight arms under control."
+  ],
+  "category": "strength",
+  "trackingType": "assisted_reps",
+  "images": [],
+  "id": "Machine_Assisted_Chin-Up",
+  "baseXP": 21,
+  "popularity": 3.2
+}

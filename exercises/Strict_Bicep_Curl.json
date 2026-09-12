@@ -1,0 +1,25 @@
+{
+  "name": "Bicep Curl (Strict)",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Stand with your back flat against a wall or post, feet a little way out in front of you.",
+    "Hold the bar at arm's length with an underhand grip, elbows pinned to your sides.",
+    "Curl the bar up without letting your elbows drift forward or your back leave the wall.",
+    "Lower all the way down under control. No swing: if your back comes off the wall, the weight is too heavy."
+  ],
+  "category": "strength",
+  "trackingType": "weight_reps",
+  "images": [],
+  "id": "Strict_Bicep_Curl",
+  "baseXP": 15,
+  "popularity": 2.4
+}

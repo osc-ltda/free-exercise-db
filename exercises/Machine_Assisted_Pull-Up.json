@@ -1,0 +1,26 @@
+{
+  "name": "Pull-Up (Machine Assisted)",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "middle back",
+    "biceps"
+  ],
+  "instructions": [
+    "Set the counterweight. More weight on the pin means more help, so log what is on the stack rather than what you lifted: the number should go down as you get stronger.",
+    "Kneel or stand on the pad and take the handles with an overhand grip, wider than your shoulders.",
+    "Pull your elbows down and back until your chin passes the bar.",
+    "Lower all the way to straight arms under control."
+  ],
+  "category": "strength",
+  "trackingType": "assisted_reps",
+  "images": [],
+  "id": "Machine_Assisted_Pull-Up",
+  "baseXP": 22,
+  "popularity": 3.6
+}

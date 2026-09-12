@@ -1,0 +1,26 @@
+{
+  "name": "Pullover (Machine)",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "triceps"
+  ],
+  "instructions": [
+    "Set the seat so the machine's pivot lines up with your shoulders, and fasten the belt if there is one.",
+    "Take the pads or the bar overhead with your elbows fixed in place.",
+    "Pull down and forward with your lats until the bar reaches your midsection.",
+    "Let it travel back overhead under control, keeping your elbows where they are throughout."
+  ],
+  "category": "strength",
+  "trackingType": "weight_reps",
+  "images": [],
+  "id": "Machine_Pullover",
+  "baseXP": 24,
+  "popularity": 2.6
+}

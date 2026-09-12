@@ -1,0 +1,26 @@
+{
+  "name": "Dips (Machine Assisted)",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Set the counterweight. More weight on the pin means more help, so log what is on the stack rather than what you lifted: the number should go down as you get stronger.",
+    "Kneel or stand on the pad and take the dip handles with your arms straight.",
+    "Lower until your upper arms are about level with the floor.",
+    "Press back up to straight arms under control."
+  ],
+  "category": "strength",
+  "trackingType": "assisted_reps",
+  "images": [],
+  "id": "Machine_Assisted_Dips",
+  "baseXP": 19,
+  "popularity": 3.0
+}

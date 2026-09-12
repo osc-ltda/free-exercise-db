@@ -1,0 +1,27 @@
+{
+  "name": "Leg Press Horizontal (Machine)",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Sit with your back flat against the pad and place your feet on the platform about hip-width apart.",
+    "Release the safeties and take the weight with your legs, knees tracking over your toes.",
+    "Bend your knees to bring the platform in until your thighs are close to your torso, without letting your hips roll off the seat.",
+    "Press back out until your legs are straight but not locked."
+  ],
+  "category": "strength",
+  "trackingType": "weight_reps",
+  "images": [],
+  "id": "Horizontal_Leg_Press",
+  "baseXP": 29,
+  "popularity": 3.5
+}

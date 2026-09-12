@@ -1,0 +1,26 @@
+{
+  "name": "Weighted Dips",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Hang the weight from a dip belt, or hold a dumbbell between your feet.",
+    "Take the parallel bars and press up to straight arms.",
+    "Lower until your upper arms are about level with the floor, leaning forward to favour the chest or staying upright to favour the triceps.",
+    "Press back up to the top under control. Log the weight you added, not your bodyweight."
+  ],
+  "category": "strength",
+  "trackingType": "weight_reps",
+  "images": [],
+  "id": "Weighted_Dips",
+  "baseXP": 34,
+  "popularity": 3.4
+}

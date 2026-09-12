@@ -1,0 +1,25 @@
+{
+  "name": "Lateral Raise (Machine)",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Set the seat so the pads sit just above your elbows and your shoulders line up with the machine's pivot.",
+    "Sit tall against the back pad, take the handles and keep a soft bend in your elbows.",
+    "Drive the pads out and up with the sides of your shoulders until your upper arms are level with the floor.",
+    "Pause at the top, then lower under control without letting the stack touch down between reps."
+  ],
+  "category": "strength",
+  "trackingType": "weight_reps",
+  "images": [],
+  "id": "Machine_Lateral_Raise",
+  "baseXP": 12,
+  "popularity": 3.0
+}
