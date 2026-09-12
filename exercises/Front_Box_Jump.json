@@ -21,6 +21,7 @@
     "Land on the box with the knees bent, absorbing the impact through the legs. You can jump from the box back to the ground, or preferably step down one leg at a time."
   ],
   "category": "plyometrics",
+  "trackingType": "weight_reps",
   "images": [
     "Front_Box_Jump/0.jpg",
     "Front_Box_Jump/1.jpg"

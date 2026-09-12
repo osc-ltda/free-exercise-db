@@ -17,6 +17,7 @@
     "Pause at the completion of the movement, and then slowly return to the starting position before performing more repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Scapular_Pull-Up/0.jpg",
     "Scapular_Pull-Up/1.jpg"

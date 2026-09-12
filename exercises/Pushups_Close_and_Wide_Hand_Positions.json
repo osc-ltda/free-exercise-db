@@ -18,6 +18,7 @@
     "After a second pause at the contracted position, repeat the movement for the prescribed amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Pushups_Close_and_Wide_Hand_Positions/0.jpg",
     "Pushups_Close_and_Wide_Hand_Positions/1.jpg"

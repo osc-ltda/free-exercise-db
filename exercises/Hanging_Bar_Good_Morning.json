@@ -19,6 +19,7 @@
     "Slowly lower the weight back to the starting position, where it is supported by the chains."
   ],
   "category": "powerlifting",
+  "trackingType": "weight_reps",
   "images": [
     "Hanging_Bar_Good_Morning/0.jpg",
     "Hanging_Bar_Good_Morning/1.jpg"

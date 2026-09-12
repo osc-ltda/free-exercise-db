@@ -19,6 +19,7 @@
     "When the set is complete, lock the bar back in the rack."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Decline_Smith_Press/0.jpg",
     "Decline_Smith_Press/1.jpg"

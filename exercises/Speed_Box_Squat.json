@@ -20,6 +20,7 @@
     "Pause briefly, and explode off of the box, extending through the hips and knees."
   ],
   "category": "powerlifting",
+  "trackingType": "weight_reps",
   "images": [
     "Speed_Box_Squat/0.jpg",
     "Speed_Box_Squat/1.jpg"

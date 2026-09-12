@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Connect a standard handle to each arm of a cable machine, and position them in the most downward position.",
     "Grab a Bosu Ball and position it in front and center of the cable machine.",
@@ -23,6 +21,7 @@
     "Lower your arms down to your side; keep them straight. Start doing alternating side bends; reach for your heels! This finishing movement will focus on your obliques."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Bosu_Ball_Cable_Crunch_With_Side_Bends/0.jpg",
     "Bosu_Ball_Cable_Crunch_With_Side_Bends/1.jpg"

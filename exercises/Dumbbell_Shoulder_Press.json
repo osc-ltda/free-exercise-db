@@ -19,6 +19,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Dumbbell_Shoulder_Press/0.jpg",
     "Dumbbell_Shoulder_Press/1.jpg"

@@ -18,6 +18,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Standing_Dumbbell_Upright_Row/0.jpg",
     "Standing_Dumbbell_Upright_Row/1.jpg"

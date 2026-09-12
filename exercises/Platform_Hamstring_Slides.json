@@ -17,6 +17,7 @@
     "At full knee flexion, reverse the movement to return to the starting position."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Platform_Hamstring_Slides/0.jpg",
     "Platform_Hamstring_Slides/1.jpg"

@@ -21,6 +21,7 @@
     "At the bottom of the movement, reverse the motion, extending through the hip and knee to return to the starting position."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Suspended_Split_Squat/0.jpg",
     "Suspended_Split_Squat/1.jpg"

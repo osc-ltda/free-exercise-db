@@ -17,6 +17,7 @@
     "Perform this movement slowly for a number of repetitions, and repeat on the other side."
   ],
   "category": "stretching",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Standing_Hip_Circles/0.jpg",
     "Standing_Hip_Circles/1.jpg"

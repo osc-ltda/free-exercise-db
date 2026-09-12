@@ -17,6 +17,7 @@
     "Reverse this motion to step down off the box, and then repeat the sequence on the opposite leg."
   ],
   "category": "strength",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Step-up_with_Knee_Raise/0.jpg",
     "Step-up_with_Knee_Raise/1.jpg"

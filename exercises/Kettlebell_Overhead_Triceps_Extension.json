@@ -19,9 +19,8 @@
     "Keep your ribcage down and avoid arching your lower back as you extend."
   ],
   "category": "strength",
-  "images": [
-
-  ],
+  "trackingType": "weight_reps",
+  "images": [],
   "id": "Kettlebell_Overhead_Triceps_Extension",
   "baseXP": 17,
   "popularity": 2.2

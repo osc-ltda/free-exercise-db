@@ -19,6 +19,7 @@
     "Begin the exercise by moving backwards for a given distance. Leaning back, extend through the legs for short steps to move as quickly as possible."
   ],
   "category": "strongman",
+  "trackingType": "weight_reps",
   "images": [
     "Backward_Drag/0.jpg",
     "Backward_Drag/1.jpg"

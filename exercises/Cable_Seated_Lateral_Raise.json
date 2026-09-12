@@ -21,6 +21,7 @@
     "Repeat for the recommended amount of repetitions. Tip: Maintain upper arms perpendicular to torso and a fixed elbow position (10 degree to 30 degree angle) throughout exercise."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Cable_Seated_Lateral_Raise/0.jpg",
     "Cable_Seated_Lateral_Raise/1.jpg"

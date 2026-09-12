@@ -19,6 +19,7 @@
     "Measure the distance from your landing point to the starting point and track results."
   ],
   "category": "plyometrics",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Standing_Long_Jump/0.jpg",
     "Standing_Long_Jump/1.jpg"

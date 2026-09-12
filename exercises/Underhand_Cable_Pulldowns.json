@@ -21,6 +21,7 @@
     "Repeat this motion for the prescribed amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Underhand_Cable_Pulldowns/0.jpg",
     "Underhand_Cable_Pulldowns/1.jpg"

@@ -20,6 +20,7 @@
     "Continue hopping back and forth."
   ],
   "category": "plyometrics",
+  "trackingType": "weight_reps",
   "images": [
     "Single-Leg_Lateral_Hop/0.jpg",
     "Single-Leg_Lateral_Hop/1.jpg"

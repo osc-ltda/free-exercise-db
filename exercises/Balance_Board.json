@@ -17,6 +17,7 @@
     "Hold the balance for as long as desired."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Balance_Board/0.jpg",
     "Balance_Board/1.jpg"

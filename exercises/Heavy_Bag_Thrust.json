@@ -18,6 +18,7 @@
     "Receive the bag as it swings back by reversing these steps."
   ],
   "category": "plyometrics",
+  "trackingType": "weight_reps",
   "images": [
     "Heavy_Bag_Thrust/0.jpg",
     "Heavy_Bag_Thrust/1.jpg"

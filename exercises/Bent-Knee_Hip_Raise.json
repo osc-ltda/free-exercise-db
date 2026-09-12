@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lay flat on the floor with your arms next to your sides.",
     "Now bend your knees at around a 75 degree angle and lift your feet off the floor by around 2 inches.",
@@ -18,6 +16,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Bent-Knee_Hip_Raise/0.jpg",
     "Bent-Knee_Hip_Raise/1.jpg"

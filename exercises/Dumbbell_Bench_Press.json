@@ -19,6 +19,7 @@
     "Repeat the movement for the prescribed amount of repetitions of your training program."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Dumbbell_Bench_Press/0.jpg",
     "Dumbbell_Bench_Press/1.jpg"

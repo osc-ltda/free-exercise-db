@@ -19,6 +19,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Zottman_Preacher_Curl/0.jpg",
     "Zottman_Preacher_Curl/1.jpg"

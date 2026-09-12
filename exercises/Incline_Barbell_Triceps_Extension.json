@@ -19,6 +19,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Incline_Barbell_Triceps_Extension/0.jpg",
     "Incline_Barbell_Triceps_Extension/1.jpg"

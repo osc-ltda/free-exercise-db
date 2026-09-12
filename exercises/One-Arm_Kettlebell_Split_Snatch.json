@@ -18,6 +18,7 @@
     "Return to a standing position, holding the weight overhead, and bring the feet together. Lower the weight to return to the starting position."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "One-Arm_Kettlebell_Split_Snatch/0.jpg",
     "One-Arm_Kettlebell_Split_Snatch/1.jpg"

@@ -7,15 +7,14 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Stand facing a wall from a couple feet away.",
     "Lean against the wall, placing your weight on your forearms.",
     "Attempt to keep your heels on the ground. Hold for 10-20 seconds. You may move further or closer the wall, making it more or less difficult, respectively."
   ],
   "category": "stretching",
+  "trackingType": "time",
   "images": [
     "Calf_Stretch_Elbows_Against_Wall/0.jpg",
     "Calf_Stretch_Elbows_Against_Wall/1.jpg"

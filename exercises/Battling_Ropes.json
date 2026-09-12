@@ -18,6 +18,7 @@
     "Continue alternating your left and right arms, whipping the ropes up and down as fast as you can."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Battling_Ropes/0.jpg",
     "Battling_Ropes/1.jpg"

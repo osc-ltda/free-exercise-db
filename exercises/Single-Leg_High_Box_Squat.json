@@ -17,6 +17,7 @@
     ". Continue stepping up and down on the same leg before switching to the opposite side."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Single-Leg_High_Box_Squat/0.jpg",
     "Single-Leg_High_Box_Squat/1.jpg"

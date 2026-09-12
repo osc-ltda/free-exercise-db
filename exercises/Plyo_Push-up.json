@@ -20,6 +20,7 @@
     "For added difficulty, add claps into the movement while you are air borne."
   ],
   "category": "plyometrics",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Plyo_Push-up/0.jpg",
     "Plyo_Push-up/1.jpg"

@@ -19,6 +19,7 @@
     "The ball can be thrown to a partner or bounced off of a wall."
   ],
   "category": "plyometrics",
+  "trackingType": "weight_reps",
   "images": [
     "Supine_Two-Arm_Overhead_Throw/0.jpg",
     "Supine_Two-Arm_Overhead_Throw/1.jpg"

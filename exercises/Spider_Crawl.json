@@ -18,6 +18,7 @@
     "Return this leg to the starting position and repeat on the opposite side."
   ],
   "category": "strength",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Spider_Crawl/0.jpg",
     "Spider_Crawl/1.jpg"

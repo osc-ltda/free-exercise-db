@@ -22,6 +22,7 @@
     "Continue until you have jumped over all of the cones."
   ],
   "category": "plyometrics",
+  "trackingType": "weight_reps",
   "images": [
     "Front_Cone_Hops_or_hurdle_hops/0.jpg",
     "Front_Cone_Hops_or_hurdle_hops/1.jpg"

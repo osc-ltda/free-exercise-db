@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "chest"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Position a flat bench between two low pulleys so that when you are laying on it, your chest will be lined up with the cable pulleys.",
     "Lay flat on the bench and keep your feet on the ground.",
@@ -20,6 +18,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Flat_Bench_Cable_Flyes/0.jpg",
     "Flat_Bench_Cable_Flyes/1.jpg"

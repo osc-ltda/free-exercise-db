@@ -22,6 +22,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Smith_Machine_Squat/0.jpg",
     "Smith_Machine_Squat/1.jpg"

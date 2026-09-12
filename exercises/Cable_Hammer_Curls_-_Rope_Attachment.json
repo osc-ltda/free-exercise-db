@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Attach a rope attachment to a low pulley and stand facing the machine about 12 inches away from it.",
     "Grasp the rope with a neutral (palms-in) grip and stand straight up keeping the natural arch of the back and your torso stationary.",
@@ -19,6 +17,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Cable_Hammer_Curls_-_Rope_Attachment/0.jpg",
     "Cable_Hammer_Curls_-_Rope_Attachment/1.jpg"

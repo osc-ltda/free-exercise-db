@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "neck"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "With your head and neck in a neutral position (normal position with head erect facing forward), place your left hand on the left side of your head.",
     "Now gently push towards the left as you contract the left neck muscles but resisting any movement of your head. Start with slow tension and increase slowly. Keep breathing normally as you execute this contraction.",
@@ -18,6 +16,7 @@
     "Rest for the recommended amount of time and repeat with your right hand placed on the right side of your head."
   ],
   "category": "strength",
+  "trackingType": "time",
   "images": [
     "Isometric_Neck_Exercise_-_Sides/0.jpg",
     "Isometric_Neck_Exercise_-_Sides/1.jpg"

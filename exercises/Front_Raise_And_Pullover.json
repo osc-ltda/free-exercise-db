@@ -20,6 +20,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Front_Raise_And_Pullover/0.jpg",
     "Front_Raise_And_Pullover/1.jpg"

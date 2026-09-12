@@ -21,6 +21,7 @@
     "Switch arms and repeat the movement."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "One_Arm_Dumbbell_Bench_Press/0.jpg",
     "One_Arm_Dumbbell_Bench_Press/1.jpg"

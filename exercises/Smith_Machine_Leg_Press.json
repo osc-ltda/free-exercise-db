@@ -18,6 +18,7 @@
     "At the top of the motion, pause briefly before returning to the starting position."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Smith_Machine_Leg_Press/0.jpg",
     "Smith_Machine_Leg_Press/1.jpg"

@@ -17,6 +17,7 @@
     "Repeat the movement for the prescribed amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Standing_Concentration_Curl/0.jpg",
     "Standing_Concentration_Curl/1.jpg"

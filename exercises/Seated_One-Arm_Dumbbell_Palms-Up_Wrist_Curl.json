@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "forearms"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Sit on a flat bench with a dumbbell in your right hand.",
     "Place your feet flat on the floor, at a distance that is slightly wider than shoulder width apart.",
@@ -19,6 +17,7 @@
     "Perform for the recommended amount of repetitions, switch arms and repeat the movement."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl/0.jpg",
     "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl/1.jpg"

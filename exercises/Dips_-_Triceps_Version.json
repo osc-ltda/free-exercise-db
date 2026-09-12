@@ -18,6 +18,7 @@
     "Repeat the movement for the prescribed amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Dips_-_Triceps_Version/0.jpg",
     "Dips_-_Triceps_Version/1.jpg"

@@ -20,6 +20,7 @@
     "Continue alternating the movement until the set is complete."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Landmine_180s/0.jpg",
     "Landmine_180s/1.jpg"

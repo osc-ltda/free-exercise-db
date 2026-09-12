@@ -21,6 +21,7 @@
     "When finished step on the lever again and slowly get the handles back to their original place."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Machine_Bench_Press/0.jpg",
     "Machine_Bench_Press/1.jpg"

@@ -18,6 +18,7 @@
     "Pause at the top of the motion, and then return the weight to the starting position."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Leverage_Shrug/0.jpg",
     "Leverage_Shrug/1.jpg"

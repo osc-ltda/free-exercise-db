@@ -18,6 +18,7 @@
     "After a brief pause, return to the starting position."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Shotgun_Row/0.jpg",
     "Shotgun_Row/1.jpg"

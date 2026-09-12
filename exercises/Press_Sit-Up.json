@@ -19,6 +19,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Press_Sit-Up/0.jpg",
     "Press_Sit-Up/1.jpg"

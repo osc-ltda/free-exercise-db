@@ -45,6 +45,7 @@
     "Start over at Phase 1 and repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Power_Clean/0.jpg",
     "Power_Clean/1.jpg"

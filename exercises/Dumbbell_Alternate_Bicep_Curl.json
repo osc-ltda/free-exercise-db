@@ -18,6 +18,7 @@
     "Continue alternating in this manner for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Dumbbell_Alternate_Bicep_Curl/0.jpg",
     "Dumbbell_Alternate_Bicep_Curl/1.jpg"

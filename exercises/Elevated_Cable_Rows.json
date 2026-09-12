@@ -21,6 +21,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Elevated_Cable_Rows/0.jpg",
     "Elevated_Cable_Rows/1.jpg"

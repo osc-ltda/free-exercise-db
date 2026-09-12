@@ -18,6 +18,7 @@
     "Pause at the top of the motion, and return to the starting position."
   ],
   "category": "powerlifting",
+  "trackingType": "weight_reps",
   "images": [
     "Hip_Lift_with_Band/0.jpg",
     "Hip_Lift_with_Band/1.jpg"

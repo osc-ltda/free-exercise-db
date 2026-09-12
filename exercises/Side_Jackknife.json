@@ -7,13 +7,10 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
-  "instructions": [
-
-  ],
+  "secondaryMuscles": [],
+  "instructions": [],
   "category": "strength",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Side_Jackknife/0.jpg",
     "Side_Jackknife/1.jpg"

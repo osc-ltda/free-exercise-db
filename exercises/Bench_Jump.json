@@ -20,6 +20,7 @@
     "Turn around and face the opposite direction, then jump back over the bench."
   ],
   "category": "plyometrics",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Bench_Jump/0.jpg",
     "Bench_Jump/1.jpg"

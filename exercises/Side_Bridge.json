@@ -10,10 +10,9 @@
   "secondaryMuscles": [
     "shoulders"
   ],
-  "instructions": [
-
-  ],
+  "instructions": [],
   "category": "strength",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Side_Bridge/0.jpg",
     "Side_Bridge/1.jpg"

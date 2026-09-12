@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "forearms"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Start out by placing two dumbbells on the floor in front of a flat bench.",
     "Sit down on the edge of the flat bench with your legs at about shoulder width apart. Make sure to keep your feet on the floor.",
@@ -20,6 +18,7 @@
     "When finished, simply lower the dumbbells to the floor."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Seated_Dumbbell_Palms-Up_Wrist_Curl/0.jpg",
     "Seated_Dumbbell_Palms-Up_Wrist_Curl/1.jpg"

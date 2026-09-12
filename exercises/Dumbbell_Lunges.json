@@ -19,6 +19,7 @@
     "Repeat the movement for the recommended amount of repetitions and then perform with the left leg."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Dumbbell_Lunges/0.jpg",
     "Dumbbell_Lunges/1.jpg"

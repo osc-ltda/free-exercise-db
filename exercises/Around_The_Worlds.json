@@ -16,6 +16,7 @@
     "Reverse the movement to return the weight to the starting position as you exhale."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Around_The_Worlds/0.jpg",
     "Around_The_Worlds/1.jpg"

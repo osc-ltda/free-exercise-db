@@ -21,6 +21,7 @@
     "Repeat the sequence with the other leg."
   ],
   "category": "plyometrics",
+  "trackingType": "weight_reps",
   "images": [
     "Alternate_Leg_Diagonal_Bound/0.jpg",
     "Alternate_Leg_Diagonal_Bound/1.jpg"

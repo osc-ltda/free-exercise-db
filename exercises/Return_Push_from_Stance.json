@@ -19,6 +19,7 @@
     "You can modify this drill by running different routes."
   ],
   "category": "plyometrics",
+  "trackingType": "weight_reps",
   "images": [
     "Return_Push_from_Stance/0.jpg",
     "Return_Push_from_Stance/1.jpg"

@@ -19,6 +19,7 @@
     "Repeat the movement for the prescribed amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Incline_Cable_Flye/0.jpg",
     "Incline_Cable_Flye/1.jpg"

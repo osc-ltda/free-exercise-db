@@ -23,6 +23,7 @@
     "Repeat steps 3-6 until you have performed the prescribed amount of repetitions for each side."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Side_To_Side_Chins/0.jpg",
     "Side_To_Side_Chins/1.jpg"

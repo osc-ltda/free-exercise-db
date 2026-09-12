@@ -21,6 +21,7 @@
     "Continue to descend to full depth, and return to a standing position. Carefully lower the weight."
   ],
   "category": "olympic weightlifting",
+  "trackingType": "weight_reps",
   "images": [
     "Snatch_Balance/0.jpg",
     "Snatch_Balance/1.jpg"

@@ -17,6 +17,7 @@
     "Pause just above the pins and reverse the motion until your torso it upright."
   ],
   "category": "powerlifting",
+  "trackingType": "weight_reps",
   "images": [
     "Seated_Good_Mornings/0.jpg",
     "Seated_Good_Mornings/1.jpg"

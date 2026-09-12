@@ -126,6 +126,14 @@
         "plyometrics"
       ]
     },
+    "trackingType": {
+      "type": "string",
+      "enum": [
+        "weight_reps",
+        "bodyweight_reps",
+        "time"
+      ]
+    },
     "images": {
       "type": "array",
       "items": [
@@ -145,6 +153,7 @@
     "secondaryMuscles",
     "instructions",
     "category",
+    "trackingType",
     "images"
   ]
 }

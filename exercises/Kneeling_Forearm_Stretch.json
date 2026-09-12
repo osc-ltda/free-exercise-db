@@ -7,14 +7,13 @@
   "primaryMuscles": [
     "forearms"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Start by kneeling on a mat with your palms flat and your fingers pointing back toward your knees.",
     "Slowly lean back keeping your palms flat on the floor until you feel a stretch in your wrists and forearms. Hold for 20-30 seconds."
   ],
   "category": "stretching",
+  "trackingType": "time",
   "images": [
     "Kneeling_Forearm_Stretch/0.jpg",
     "Kneeling_Forearm_Stretch/1.jpg"

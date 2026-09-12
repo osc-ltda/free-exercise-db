@@ -21,6 +21,7 @@
     "Repeat for the recommended amount of repetitions and then perform the same movement with the right hand."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Seated_One-arm_Cable_Pulley_Rows/0.jpg",
     "Seated_One-arm_Cable_Pulley_Rows/1.jpg"

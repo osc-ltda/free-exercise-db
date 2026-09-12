@@ -19,6 +19,7 @@
     "Return the weight to the pins and repeat."
   ],
   "category": "powerlifting",
+  "trackingType": "weight_reps",
   "images": [
     "Rack_Pulls/0.jpg",
     "Rack_Pulls/1.jpg"

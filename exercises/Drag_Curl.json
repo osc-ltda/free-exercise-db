@@ -17,6 +17,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Drag_Curl/0.jpg",
     "Drag_Curl/1.jpg"

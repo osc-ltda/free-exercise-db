@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Place a block about 12 inches in front of a flat bench.",
     "Sit on the bench and place the ball of your feet on the block.",
@@ -19,6 +17,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Barbell_Seated_Calf_Raise/0.jpg",
     "Barbell_Seated_Calf_Raise/1.jpg"

@@ -21,6 +21,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Plie_Dumbbell_Squat/0.jpg",
     "Plie_Dumbbell_Squat/1.jpg"

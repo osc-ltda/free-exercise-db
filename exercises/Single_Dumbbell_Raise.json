@@ -17,6 +17,7 @@
     "Return to the starting position and repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Single_Dumbbell_Raise/0.jpg",
     "Single_Dumbbell_Raise/1.jpg"

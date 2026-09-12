@@ -22,6 +22,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Speed_Squats/0.jpg",
     "Speed_Squats/1.jpg"

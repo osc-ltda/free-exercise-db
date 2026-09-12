@@ -20,6 +20,7 @@
     "After reaching a full standing position, Return to the starting position and repeat."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Cable_Deadlifts/0.jpg",
     "Cable_Deadlifts/1.jpg"

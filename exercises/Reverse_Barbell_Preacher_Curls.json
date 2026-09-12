@@ -18,6 +18,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Reverse_Barbell_Preacher_Curls/0.jpg",
     "Reverse_Barbell_Preacher_Curls/1.jpg"

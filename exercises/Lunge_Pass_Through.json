@@ -20,6 +20,7 @@
     "Repeat the movement for the recommended amount of repetitions, alternating legs."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Lunge_Pass_Through/0.jpg",
     "Lunge_Pass_Through/1.jpg"

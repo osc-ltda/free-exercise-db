@@ -19,6 +19,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Dip_Machine/0.jpg",
     "Dip_Machine/1.jpg"

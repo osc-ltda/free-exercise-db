@@ -19,6 +19,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "time",
   "images": [
     "Lunge_Sprint/0.jpg",
     "Lunge_Sprint/1.jpg"

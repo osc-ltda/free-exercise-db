@@ -18,6 +18,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Cuban_Press/0.jpg",
     "Cuban_Press/1.jpg"

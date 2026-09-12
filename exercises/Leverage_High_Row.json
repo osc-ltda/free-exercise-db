@@ -17,6 +17,7 @@
     "For multiple repetitions, avoid completely returning the weight to the stops to keep tension on the muscles being worked."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Leverage_High_Row/0.jpg",
     "Leverage_High_Row/1.jpg"

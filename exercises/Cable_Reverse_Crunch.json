@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Connect an ankle strap attachment to a low pulley cable and position a mat on the floor in front of it.",
     "Sit down with your feet toward the pulley and attach the cable to your ankles.",
@@ -19,6 +17,7 @@
     "Repeat the same movement to failure."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Cable_Reverse_Crunch/0.jpg",
     "Cable_Reverse_Crunch/1.jpg"

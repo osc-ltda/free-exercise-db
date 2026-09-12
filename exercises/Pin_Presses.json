@@ -23,6 +23,7 @@
     "Return the bar to the pins, pausing before beginning the next repetition."
   ],
   "category": "powerlifting",
+  "trackingType": "weight_reps",
   "images": [
     "Pin_Presses/0.jpg",
     "Pin_Presses/1.jpg"

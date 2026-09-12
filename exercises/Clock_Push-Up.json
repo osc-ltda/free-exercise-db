@@ -20,6 +20,7 @@
     "Return to the starting position and repeat the exercise, working all the way around until you are back where you started."
   ],
   "category": "strength",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Clock_Push-Up/0.jpg",
     "Clock_Push-Up/1.jpg"

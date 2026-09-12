@@ -21,6 +21,7 @@
     "Walk taking short, quick steps, and don't forget to breathe. Move for a given distance, typically 50-100 feet, as fast as possible."
   ],
   "category": "strongman",
+  "trackingType": "weight_reps",
   "images": [
     "Farmers_Walk/0.jpg",
     "Farmers_Walk/1.jpg"

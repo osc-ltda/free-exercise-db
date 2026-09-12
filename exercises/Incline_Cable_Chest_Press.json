@@ -17,6 +17,7 @@
     "After pausing at full extension, return to the starting position, keeping tension on the cables."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Incline_Cable_Chest_Press/0.jpg",
     "Incline_Cable_Chest_Press/1.jpg"

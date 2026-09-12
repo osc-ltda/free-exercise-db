@@ -21,6 +21,7 @@
     "Repeat for the prescribed number of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "V-Bar_Pulldown/0.jpg",
     "V-Bar_Pulldown/1.jpg"

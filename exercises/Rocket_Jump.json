@@ -17,6 +17,7 @@
     "Fully extend your entire body, reaching overhead as far as possible. As you land, absorb your impact through the legs."
   ],
   "category": "plyometrics",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Rocket_Jump/0.jpg",
     "Rocket_Jump/1.jpg"

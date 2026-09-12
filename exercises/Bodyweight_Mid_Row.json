@@ -17,6 +17,7 @@
     "After a brief pause, return to the starting position."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Bodyweight_Mid_Row/0.jpg",
     "Bodyweight_Mid_Row/1.jpg"

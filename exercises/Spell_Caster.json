@@ -18,6 +18,7 @@
     "Continue alternating, rotating from one side to the other until the set is complete."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Spell_Caster/0.jpg",
     "Spell_Caster/1.jpg"

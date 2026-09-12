@@ -18,6 +18,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Thigh_Adductor/0.jpg",
     "Thigh_Adductor/1.jpg"

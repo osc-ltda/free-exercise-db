@@ -25,6 +25,7 @@
     "Return the weight to the ground by bending at the hips and controlling the weight on the way down."
   ],
   "category": "powerlifting",
+  "trackingType": "weight_reps",
   "images": [
     "Reverse_Band_Sumo_Deadlift/0.jpg",
     "Reverse_Band_Sumo_Deadlift/1.jpg"

@@ -26,6 +26,7 @@
     "Return to the starting position to retrieve the next keg, and repeat until the event is completed."
   ],
   "category": "strongman",
+  "trackingType": "weight_reps",
   "images": [
     "Keg_Load/0.jpg",
     "Keg_Load/1.jpg"

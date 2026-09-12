@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "forearms"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Put a bench in front of a low pulley machine that has a barbell or EZ Curl attachment on it.",
     "Move the bench far enough away so that when you bring the handle to the top of your thighs tension is created on the cable due to the weight stack being moved up.",
@@ -22,6 +20,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl/0.jpg",
     "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl/1.jpg"

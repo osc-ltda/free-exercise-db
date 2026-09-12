@@ -19,6 +19,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Incline_Dumbbell_Flyes/0.jpg",
     "Incline_Dumbbell_Flyes/1.jpg"

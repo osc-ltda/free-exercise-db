@@ -21,6 +21,7 @@
     "Return to an upright position, with the kettlebell above your head. Return the kettlebell to the shoulder and repeat for the desired number of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Bent_Press/0.jpg",
     "Bent_Press/1.jpg"

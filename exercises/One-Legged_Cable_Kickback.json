@@ -19,6 +19,7 @@
     "Switch legs and repeat the movement for the other side."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "One-Legged_Cable_Kickback/0.jpg",
     "One-Legged_Cable_Kickback/1.jpg"

@@ -17,6 +17,7 @@
     "Ensure that you do not round your back as you go down back to the starting position."
   ],
   "category": "powerlifting",
+  "trackingType": "weight_reps",
   "images": [
     "Band_Good_Morning/0.jpg",
     "Band_Good_Morning/1.jpg"

@@ -16,6 +16,7 @@
     "Continue until your arms are parallel to the ground, and then return to the starting position."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Dumbbell_Scaption/0.jpg",
     "Dumbbell_Scaption/1.jpg"

@@ -17,6 +17,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Standing_Dumbbell_Reverse_Curl/0.jpg",
     "Standing_Dumbbell_Reverse_Curl/1.jpg"

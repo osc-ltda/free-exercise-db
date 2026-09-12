@@ -19,6 +19,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Hyperextensions_With_No_Hyperextension_Bench/0.jpg",
     "Hyperextensions_With_No_Hyperextension_Bench/1.jpg"

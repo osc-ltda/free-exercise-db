@@ -18,6 +18,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Lying_Dumbbell_Tricep_Extension/0.jpg",
     "Lying_Dumbbell_Tricep_Extension/1.jpg"

@@ -18,6 +18,7 @@
     "At the completion of the movement, lower the weight back to the ground under control."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Trap_Bar_Deadlift/0.jpg",
     "Trap_Bar_Deadlift/1.jpg"

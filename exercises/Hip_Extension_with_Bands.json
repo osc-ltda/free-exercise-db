@@ -17,6 +17,7 @@
     "Return the leg to the starting position."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Hip_Extension_with_Bands/0.jpg",
     "Hip_Extension_with_Bands/1.jpg"

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Position a bar in a rack at chest height.",
     "Standing, take a shoulder width grip on the bar and step a yard or two back, feet together and arms extended so that you are leaning on the bar. This will be your starting position.",
@@ -18,6 +16,7 @@
     "Progress from bodyweight by adding chains over your shoulders."
   ],
   "category": "strength",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Body_Tricep_Press/0.jpg",
     "Body_Tricep_Press/1.jpg"

@@ -20,6 +20,7 @@
     "Perform for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Cross_Over_-_With_Bands/0.jpg",
     "Cross_Over_-_With_Bands/1.jpg"

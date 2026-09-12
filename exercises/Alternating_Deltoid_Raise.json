@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "In a standing position, hold a pair of dumbbells at your side.",
     "Keeping your elbows slightly bent, raise the weights directly in front of you to shoulder height, avoiding any swinging or cheating.",
@@ -18,6 +16,7 @@
     "Return the weights to the starting position and continue alternating to the front and side."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Alternating_Deltoid_Raise/0.jpg",
     "Alternating_Deltoid_Raise/1.jpg"

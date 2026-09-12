@@ -20,6 +20,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Romanian_Deadlift/0.jpg",
     "Romanian_Deadlift/1.jpg"

@@ -19,6 +19,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Standing_Barbell_Press_Behind_Neck/0.jpg",
     "Standing_Barbell_Press_Behind_Neck/1.jpg"

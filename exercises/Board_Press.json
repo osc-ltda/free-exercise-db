@@ -20,6 +20,7 @@
     "Lower the bar to the boards, and then drive the bar up with as much force as possible. The elbows should be tucked in until lockout."
   ],
   "category": "powerlifting",
+  "trackingType": "weight_reps",
   "images": [
     "Board_Press/0.jpg",
     "Board_Press/1.jpg"

@@ -20,6 +20,7 @@
     "Pause at the top of the motion, and then return to the starting position."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Dumbbell_Incline_Row/0.jpg",
     "Dumbbell_Incline_Row/1.jpg"

@@ -17,6 +17,7 @@
     "Hold for 15 seconds."
   ],
   "category": "stretching",
+  "trackingType": "time",
   "images": [
     "Cat_Stretch/0.jpg",
     "Cat_Stretch/1.jpg"

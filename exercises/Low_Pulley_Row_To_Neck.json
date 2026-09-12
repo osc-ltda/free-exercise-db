@@ -20,6 +20,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Low_Pulley_Row_To_Neck/0.jpg",
     "Low_Pulley_Row_To_Neck/1.jpg"

@@ -19,6 +19,7 @@
     "When you are done, lock the bar back in the rack."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Smith_Machine_Bench_Press/0.jpg",
     "Smith_Machine_Bench_Press/1.jpg"

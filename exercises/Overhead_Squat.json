@@ -25,6 +25,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "olympic weightlifting",
+  "trackingType": "weight_reps",
   "images": [
     "Overhead_Squat/0.jpg",
     "Overhead_Squat/1.jpg"

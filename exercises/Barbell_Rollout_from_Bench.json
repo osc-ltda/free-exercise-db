@@ -19,6 +19,7 @@
     "When the bar has been moved as far forward as possible, return to the starting position."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Barbell_Rollout_from_Bench/0.jpg",
     "Barbell_Rollout_from_Bench/1.jpg"

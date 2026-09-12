@@ -19,6 +19,7 @@
     "Switch arms and repeat the exercise."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Standing_Low-Pulley_Deltoid_Raise/0.jpg",
     "Standing_Low-Pulley_Deltoid_Raise/1.jpg"

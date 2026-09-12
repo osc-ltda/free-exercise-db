@@ -19,6 +19,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Stiff-Legged_Dumbbell_Deadlift/0.jpg",
     "Stiff-Legged_Dumbbell_Deadlift/1.jpg"

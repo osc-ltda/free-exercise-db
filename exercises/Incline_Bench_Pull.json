@@ -21,6 +21,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Incline_Bench_Pull/0.jpg",
     "Incline_Bench_Pull/1.jpg"

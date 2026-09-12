@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie with your back flat on a bench and your legs extended in front of you off the end.",
     "Place your hands either under your glutes with your palms down or by the sides holding on to the bench. This will be your starting position.",
@@ -17,6 +15,7 @@
     "Now, as you inhale, slowly lower your legs back down to the starting position."
   ],
   "category": "strength",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Flat_Bench_Lying_Leg_Raise/0.jpg",
     "Flat_Bench_Lying_Leg_Raise/1.jpg"

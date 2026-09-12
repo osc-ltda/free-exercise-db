@@ -19,6 +19,7 @@
     "After pausing at the contracted position, repeat the movement for the prescribed amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Push-Up_Wide/0.jpg",
     "Push-Up_Wide/1.jpg"

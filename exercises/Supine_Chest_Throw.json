@@ -18,6 +18,7 @@
     "Catch the ball with both hands as it comes down."
   ],
   "category": "plyometrics",
+  "trackingType": "weight_reps",
   "images": [
     "Supine_Chest_Throw/0.jpg",
     "Supine_Chest_Throw/1.jpg"

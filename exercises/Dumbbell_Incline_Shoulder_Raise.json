@@ -18,6 +18,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Dumbbell_Incline_Shoulder_Raise/0.jpg",
     "Dumbbell_Incline_Shoulder_Raise/1.jpg"

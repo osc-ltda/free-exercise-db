@@ -15,10 +15,9 @@
     "quadriceps",
     "traps"
   ],
-  "instructions": [
-
-  ],
+  "instructions": [],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Iron_Cross/0.jpg",
     "Iron_Cross/1.jpg"

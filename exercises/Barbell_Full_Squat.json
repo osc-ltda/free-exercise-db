@@ -22,6 +22,7 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Barbell_Full_Squat/0.jpg",
     "Barbell_Full_Squat/1.jpg"

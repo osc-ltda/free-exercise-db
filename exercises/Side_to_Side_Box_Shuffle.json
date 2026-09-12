@@ -19,6 +19,7 @@
     "Continue shuffling back and forth across the box."
   ],
   "category": "plyometrics",
+  "trackingType": "weight_reps",
   "images": [
     "Side_to_Side_Box_Shuffle/0.jpg",
     "Side_to_Side_Box_Shuffle/1.jpg"

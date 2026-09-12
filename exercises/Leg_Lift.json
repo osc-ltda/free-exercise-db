@@ -18,6 +18,7 @@
     "Repeat the movement with the opposite leg."
   ],
   "category": "strength",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Leg_Lift/0.jpg",
     "Leg_Lift/1.jpg"

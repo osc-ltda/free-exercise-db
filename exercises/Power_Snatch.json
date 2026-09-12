@@ -24,6 +24,7 @@
     "Return to a standing position with the weight over head."
   ],
   "category": "olympic weightlifting",
+  "trackingType": "weight_reps",
   "images": [
     "Power_Snatch/0.jpg",
     "Power_Snatch/1.jpg"

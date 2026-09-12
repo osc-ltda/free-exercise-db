@@ -16,6 +16,7 @@
     "Hold for 10 seconds, and repeat for your other side."
   ],
   "category": "stretching",
+  "trackingType": "time",
   "images": [
     "Chair_Lower_Back_Stretch/0.jpg",
     "Chair_Lower_Back_Stretch/1.jpg"

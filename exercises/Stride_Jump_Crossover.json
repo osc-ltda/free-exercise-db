@@ -20,6 +20,7 @@
     "Repeat the movement, crossing back over to the other side."
   ],
   "category": "plyometrics",
+  "trackingType": "weight_reps",
   "images": [
     "Stride_Jump_Crossover/0.jpg",
     "Stride_Jump_Crossover/1.jpg"

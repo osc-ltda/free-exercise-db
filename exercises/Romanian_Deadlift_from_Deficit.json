@@ -19,6 +19,7 @@
     "Reverse the motion to return to the starting position."
   ],
   "category": "olympic weightlifting",
+  "trackingType": "weight_reps",
   "images": [
     "Romanian_Deadlift_from_Deficit/0.jpg",
     "Romanian_Deadlift_from_Deficit/1.jpg"

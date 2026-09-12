@@ -19,6 +19,7 @@
     "After a brief pause, return to the starting position."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Ball_Leg_Curl/0.jpg",
     "Ball_Leg_Curl/1.jpg"

@@ -18,6 +18,7 @@
     "For multiple repetitions, avoid completely returning the weight to keep tension on the muscles being worked."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "One_Arm_Lat_Pulldown/0.jpg",
     "One_Arm_Lat_Pulldown/1.jpg"

@@ -20,6 +20,7 @@
     "Repeat this motion for the prescribed amount of repetitions."
   ],
   "category": "strength",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Chin-Up/0.jpg",
     "Chin-Up/1.jpg"

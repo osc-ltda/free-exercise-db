@@ -17,6 +17,7 @@
     "Continue down to full depth if you are able,and quickly reverse the motion until you return to the starting position. As you squat, keep your head and chest up and push your knees out."
   ],
   "category": "strength",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Bodyweight_Squat/0.jpg",
     "Bodyweight_Squat/1.jpg"

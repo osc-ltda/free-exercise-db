@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Adjust the seat so that your legs are only slightly bent in the start position. The balls of your feet should be firmly on the platform.",
     "Select an appropriate weight, and grasp the handles. This will be your starting position.",
@@ -17,6 +15,7 @@
     "After a brief pause, reverse the motion and repeat."
   ],
   "category": "strength",
+  "trackingType": "weight_reps",
   "images": [
     "Calf_Press/0.jpg",
     "Calf_Press/1.jpg"
