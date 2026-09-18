@@ -9,6 +9,10 @@
     "name": {
       "type": "string"
     },
+    "nameEs": {
+      "description": "Spanish name. Optional: an exercise with no translation yet reads in English.",
+      "type": "string"
+    },
     "force": {
       "type": [ "string", "null" ],
       "enum": [
@@ -114,6 +118,15 @@
         }
       ]
     },
+    "instructionsEs": {
+      "description": "Spanish instructions, step for step with `instructions`. Optional.",
+      "type": "array",
+      "items": [
+        {
+          "type": "string"
+        }
+      ]
+    },
     "category": {
       "type": "string",
       "enum": [
@@ -146,6 +159,17 @@
     "unassistedId": {
       "type": "string",
       "pattern": "^[0-9a-zA-Z_-]+$"
+    },
+    "baseXP": {
+      "description": "XP awarded for completing the exercise.",
+      "type": "number",
+      "minimum": 0
+    },
+    "popularity": {
+      "description": "How well-known the exercise is, in pseudo-uses, 0 to 6.",
+      "type": "number",
+      "minimum": 0,
+      "maximum": 6
     }
   },
   "required": [

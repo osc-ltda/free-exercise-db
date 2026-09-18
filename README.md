@@ -41,9 +41,9 @@ To further explore the data, you can use [lite.datasette.io](https://lite.datase
 
 ### Fork-specific fields
 
-`dist/exercises.json` in this fork carries two fields the upstream dataset does
-not. They are maintained in `dist` directly, so re-running `make
-dist/exercises.json` from the `exercises/` sources would drop them.
+This fork carries fields the upstream dataset does not. All of them live in the
+`exercises/` sources, so `make dist/exercises.json` rebuilds `dist` faithfully
+and `make lint` checks them against [the schema](./schema.json).
 
 * `baseXP` — the XP awarded for completing the exercise.
 * `popularity` — how well-known the exercise is, in "pseudo-uses", from 0 to 6.
@@ -52,6 +52,12 @@ dist/exercises.json` from the `exercises/` sources would drop them.
   trains rises above a more famous one they never touch. Roughly 85 staples are
   ranked by hand from 3 to 6; the rest are scored below 3 by a heuristic over
   `category`, `equipment`, `mechanic` and `level`.
+* `trackingType` — what a set of the exercise logs.
+* `unassistedId` — the free-weight form an assisted machine stands in for.
+* `nameEs`, `instructionsEs` — Spanish. **Optional, and mostly not filled in
+  yet.** A consumer falls back to `name` / `instructions` for any exercise that
+  has no translation, so the two can be added a batch at a time rather than all
+  at once. `instructionsEs` is step for step with `instructions`.
 
 ### How do I use them?
 
