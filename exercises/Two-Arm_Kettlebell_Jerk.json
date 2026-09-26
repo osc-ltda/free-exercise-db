@@ -1,5 +1,6 @@
 {
   "name": "Jerk (Two-Arm Kettlebell)",
+  "nameEs": "Jerk (Pesa rusa de dos brazos)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -14,6 +15,9 @@
   ],
   "instructions": [
     "Clean two kettlebells to your shoulders. Clean the kettlebells to your shoulders by extending through the legs and hips as you swing the kettlebells towards your shoulders. Rotate your wrists as you do so, so that the palms face forward. Squat down a few inches and reverse the motion rapidly driving both kettlebells overhead. Immediately after the initial push, squat down again and get under the kettlebells. Once the kettlebells are locked out, stand upright to complete the exercise."
+  ],
+  "instructionsEs": [
+    "Lleva dos pesas rusas a tus hombros. Limpia las pesas rusas hacia tus hombros extendiendo las piernas y las caderas mientras balanceas las pesas rusas hacia tus hombros. Rota tus muñecas al hacerlo, de modo que las palmas miren hacia adelante. Haz una sentadilla de unas pocas pulgadas e invierte el movimiento impulsando rápidamente ambas pesas rusas por encima de la cabeza. Inmediatamente después del impulso inicial, vuelve a hacer una sentadilla y métete debajo de las pesas rusas. Una vez que las pesas rusas estén bloqueadas arriba, ponte de pie para completar el ejercicio."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

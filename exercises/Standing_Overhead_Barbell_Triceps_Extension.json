@@ -1,5 +1,6 @@
 {
   "name": "Triceps Extension (Standing Overhead Barbell)",
+  "nameEs": "Extensión de tríceps (Barra sobre la cabeza de pie)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,13 @@
     "Keeping your upper arms close to your head and elbows in, perpendicular to the floor, lower the resistance in a semicircular motion behind your head until your forearms touch your biceps. Tip: The upper arms should remain stationary and only the forearms should move. Breathe in as you perform this step.",
     "Go back to the starting position by using the triceps to raise the barbell. Breathe out as you perform this step.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Para empezar, ponte de pie sosteniendo una barra o barra Z con un agarre pronado (palmas hacia adelante) con las manos más juntas que la anchura de los hombros. Tus pies deben estar separados a la anchura de los hombros.",
+    "Ahora eleva la barra por encima de tu cabeza hasta que tus brazos estén completamente extendidos. Mantén los codos hacia adentro. Esta será tu posición inicial.",
+    "Manteniendo tus brazos cerca de la cabeza y los codos hacia adentro, perpendiculares al suelo, baja la resistencia en un movimiento semicircular detrás de tu cabeza hasta que tus antebrazos toquen tus bíceps. Consejo: Los brazos deben permanecer estáticos y solo deben moverse los antebrazos. Inhala al realizar este paso.",
+    "Regresa a la posición inicial usando los tríceps para elevar la barra. Exhala al realizar este paso.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

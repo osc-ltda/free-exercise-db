@@ -1,5 +1,6 @@
 {
   "name": "Shrugs (Cable)",
+  "nameEs": "Encogimiento (Polea)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Lift the bar by elevating the shoulders as high as possible as you exhale. Hold the contraction at the top for a second. Tip: The arms should remain extended at all times. Refrain from using the biceps to help lift the bar. Only the shoulders should be moving up and down.",
     "Lower the bar back to the original position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Sujeta un accesorio de barra de polea que esté conectado a una polea baja con un agarre pronado (palmas hacia abajo) al ancho de los hombros o un poco más ancho.",
+    "Párate erguido cerca de la polea con los brazos extendidos frente a ti sosteniendo la barra. Esta será tu posición inicial.",
+    "Eleva la barra encogiendo los hombros lo más alto posible mientras exhalas. Mantén la contracción arriba durante un segundo. Consejo: Los brazos deben permanecer extendidos en todo momento. Evita usar los bíceps para ayudar a levantar la barra. Solo los hombros deben moverse hacia arriba y hacia abajo.",
+    "Baja la barra de regreso a la posición original.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

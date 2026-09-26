@@ -1,5 +1,6 @@
 {
   "name": "Split Jump",
+  "nameEs": "Split Jump",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,6 +19,13 @@
     "Extending through both legs, jump as high as possible, swinging your arms to gain lift.",
     "As you jump, bring your feet together, and move them back to their initial positions as you land.",
     "Absorb the impact by reverting back to the starting position."
+  ],
+  "instructionsEs": [
+    "Adopta una postura de zancada con un pie hacia adelante con la rodilla flexionada y la rodilla trasera casi tocando el suelo.",
+    "Asegúrate de que la rodilla delantera esté sobre la línea media del pie.",
+    "Extendiendo ambas piernas, salta lo más alto posible, balanceando tus brazos para ganar impulso.",
+    "Mientras saltas, junta tus pies y muévelos de regreso a sus posiciones iniciales al aterrizar.",
+    "Absorbe el impacto volviendo a la posición inicial."
   ],
   "category": "plyometrics",
   "trackingType": "bodyweight_reps",

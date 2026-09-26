@@ -1,5 +1,6 @@
 {
   "name": "Front Delt Raise (Standing Dumbbell Straight-Arm Above Head)",
+  "nameEs": "Elevación de deltoides frontal (Mancuerna de pie con brazo recto por encima de la cabeza)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Raise the dumbbells in a semicircular motion to arm's length overhead as you exhale.",
     "Slowly return to the starting position using the same path as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Sostén las mancuernas frente a tus muslos, con las palmas mirando hacia tus muslos.",
+    "Mantén tus brazos rectos con una ligera flexión en los codos pero manteniéndolos fijos. Esta será tu posición inicial.",
+    "Eleva las mancuernas en un movimiento semicircular hasta la extensión de los brazos por encima de la cabeza mientras exhalas.",
+    "Regresa lentamente a la posición inicial usando la misma trayectoria mientras inhalas.",
+    "Repite la cantidad de repeticiones recomendada."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

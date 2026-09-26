@@ -1,5 +1,6 @@
 {
   "name": "Seated Biceps",
+  "nameEs": "Bíceps sentado",
   "force": "static",
   "level": "expert",
   "mechanic": "isolation",
@@ -15,6 +16,11 @@
     "Sit on the floor with your knees bent and your partner standing behind you. Extend your arms straight behind you with your palms facing each other. Your partner will hold your wrists for you. This will be the starting position.",
     "Attempt to flex your elbows, while your partner prevents any actual movement.",
     "After 10-20 seconds, relax your arms while your partner gently pulls your wrists up to stretch your biceps. Be sure to let your partner know when the stretch is appropriate to prevent injury or overstretching."
+  ],
+  "instructionsEs": [
+    "Siéntate en el suelo con las rodillas flexionadas y tu compañero de pie detrás de ti. Extiende tus brazos rectos hacia atrás con las palmas viéndose entre sí. Tu compañero sostendrá tus muñecas. Esta será la posición de inicio.",
+    "Intenta flexionar tus codos mientras tu compañero previene cualquier movimiento real.",
+    "Pasados 10-20 segundos, relaja tus brazos mientras tu compañero tira suavemente de tus muñecas hacia arriba para estirar tus bíceps. Asegúrate de avisarle a tu compañero cuándo el estiramiento es adecuado para prevenir lesiones o estiramiento excesivo."
   ],
   "category": "stretching",
   "trackingType": "time",

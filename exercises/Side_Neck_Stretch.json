@@ -1,5 +1,6 @@
 {
   "name": "Side Neck Stretch",
+  "nameEs": "Estiramiento lateral de cuello",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,6 +12,10 @@
   "instructions": [
     "Start with your shoulders relaxed, gently tilt your head towards your shoulder.",
     "Assist stretch with a gentle pull on the side of the head."
+  ],
+  "instructionsEs": [
+    "Comienza con tus hombros relajados, inclina suavemente tu cabeza hacia tu hombro.",
+    "Asiste el estiramiento con un tirón suave en el costado de la cabeza."
   ],
   "category": "stretching",
   "trackingType": "time",

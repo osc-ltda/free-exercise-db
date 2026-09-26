@@ -1,5 +1,6 @@
 {
   "name": "Rowing, Stationary",
+  "nameEs": "Remo estacionario",
   "force": null,
   "level": "intermediate",
   "mechanic": null,
@@ -19,6 +20,11 @@
     "To begin, seat yourself on the rower. Make sure that your heels are resting comfortably against the base of the foot pedals and that the straps are secured. Select the program that you wish to use, if applicable. Sit up straight and bend forward at the hips.",
     "There are three phases of movement when using a rower. The first phase is when you come forward on the rower. Your knees are bent and against your chest. Your upper body is leaning slightly forward while still maintaining good posture. Next, push against the foot pedals and extend your legs while bringing your hands to your upper abdominal area, squeezing your shoulders back as you do so. To avoid straining your back, use primarily your leg and hip muscles.",
     "The recovery phase simply involves straightening your arms, bending the knees, and bringing your body forward again as you transition back into the first phase."
+  ],
+  "instructionsEs": [
+    "Para empezar, siéntate en el remero. Asegúrate de que tus talones descansen cómodamente contra la base de los pedales y que las correas estén aseguradas. Selecciona el programa que desees usar, si aplica. Siéntate derecho e inclínate hacia adelante desde las caderas.",
+    "Hay tres fases de movimiento al usar un remero. La primera fase es cuando teadelantas en el remero. Tus rodillas están dobladas y contra tu pecho. Tu tren superior está ligeramente inclinado hacia adelante mientras mantienes una buena postura. A continuación, empuja contra los pedales y extiende tus piernas mientras llevas tus manos hacia la zona abdominal superior, contrayendo tus hombros hacia atrás al hacerlo. Para evitar forzar tu espalda, usa principalmente los músculos de tus piernas y caderas.",
+    "La fase de recuperación simplemente consiste en enderezar tus brazos, doblar las rodillas y llevar tu cuerpo hacia adelante nuevamente al hacer la transición de regreso a la primera fase."
   ],
   "category": "cardio",
   "trackingType": "time",

@@ -1,5 +1,6 @@
 {
   "name": "Walk (Farmer's)",
+  "nameEs": "Caminata de granjero (Farmer's Walk)",
   "force": null,
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,6 +20,11 @@
     "There are various implements that can be used for the farmers walk. These can also be performed with heavy dumbbells or short bars if these implements aren't available. Begin by standing between the implements.",
     "After gripping the handles, lift them up by driving through your heels, keeping your back straight and your head up.",
     "Walk taking short, quick steps, and don't forget to breathe. Move for a given distance, typically 50-100 feet, as fast as possible."
+  ],
+  "instructionsEs": [
+    "Hay varios implementos que se pueden usar para la caminata de granjero. Estos también se pueden realizar con mancuernas pesadas o barras cortas si estos implementos no están disponibles. Comienza parándote entre los implementos.",
+    "Después de tomar los mangos por el agarre, levántalos impulsándote a través de tus talones, manteniendo tu espalda recta y tu cabeza en alto.",
+    "Camina dando pasos cortos y rápidos, y no olvides respirar. Muévete durante una distancia determinada, típicamente de 50 a 100 pies, lo más rápido posible."
   ],
   "category": "strongman",
   "trackingType": "weight_reps",

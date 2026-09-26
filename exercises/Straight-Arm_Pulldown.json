@@ -1,5 +1,6 @@
 {
   "name": "Pulldown (Straight-Arm)",
+  "nameEs": "Jalón de brazos rectos (Polea)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "While keeping the arms straight, pull the bar down by contracting the lats until your hands are next to the side of the thighs. Breathe out as you perform this step.",
     "While keeping the arms straight, go back to the starting position while breathing in.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Comenzarás agarrando la barra ancha de la polea alta de una máquina de polea utilizando un agarre pronado (palmas hacia abajo) más ancho que la distancia de los hombros. Da dos pies o una distancia similar hacia atrás.",
+    "Inclina tu torso hacia adelante desde la cintura unos 30 grados con tus brazos completamente extendidos frente a ti y una ligera flexión en los codos. Si tus brazos no están completamente extendidos, necesitas dar un paso más hacia atrás hasta que lo estén. Una vez que tus brazos estén completamente extendidos y tu torso esté ligeramente inclinado por la cintura, contrae los dorsales y estarás listo para comenzar.",
+    "Mientras mantienes los brazos rectos, baja la barra contrayendo los dorsales hasta que tus manos queden al lado de los muslos. Exhala mientras realizas este paso.",
+    "Mientras mantienes los brazos rectos, regresa a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

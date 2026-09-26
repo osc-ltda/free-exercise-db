@@ -1,5 +1,6 @@
 {
   "name": "Hip Thrust (Barbell)",
+  "nameEs": "Hip Thrust (Barra)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,6 +16,11 @@
     "Begin seated on the ground with a bench directly behind you. Have a loaded barbell over your legs. Using a fat bar or having a pad on the bar can greatly reduce the discomfort caused by this exercise.",
     "Roll the bar so that it is directly above your hips, and lean back against the bench so that your shoulder blades are near the top of it.",
     "Begin the movement by driving through your feet, extending your hips vertically through the bar. Your weight should be supported by your shoulder blades and your feet. Extend as far as possible, then reverse the motion to return to the starting position."
+  ],
+  "instructionsEs": [
+    "Comienza sentado en el suelo con un banco directamente detrás de ti. Ten una barra cargada sobre tus piernas. Usar una barra gruesa o tener una almohadilla en la barra puede reducir en gran medida las molestias causadas por este ejercicio.",
+    "Rueda la barra para que quede directamente sobre tus caderas, y recuéstate contra el banco para que tus omóplatos estén cerca de la parte superior del mismo.",
+    "Comienza el movimiento empujando a través de tus pies, extendiendo tus caderas verticalmente a través de la barra. Tu peso debe ser soportado por tus omóplatos y tus pies. Extiende lo más que puedas, luego invierte el movimiento para volver a la posición inicial."
   ],
   "category": "powerlifting",
   "trackingType": "weight_reps",

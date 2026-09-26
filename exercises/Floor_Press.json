@@ -1,5 +1,6 @@
 {
   "name": "Press (Floor)",
+  "nameEs": "Press (Suelo)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,6 +16,11 @@
     "Adjust the j-hooks so they are at the appropriate height to rack the bar. Begin lying on the floor with your head near the end of a power rack. Keeping your shoulder blades pulled together; pull the bar off of the hooks.",
     "Lower the bar towards the bottom of your chest or upper stomach, squeezing the bar and attempting to pull it apart as you do so. Ensure that you tuck your elbows throughout the movement. Lower the bar until your upper arm contacts the ground and pause, preventing any slamming or bouncing of the weight.",
     "Press the bar back up as fast as you can, keeping the bar, your wrists, and elbows in line as you do so."
+  ],
+  "instructionsEs": [
+    "Ajusta los ganchos en J para que estén a la altura adecuada para descolgar la barra. Comienza acostado en el suelo con tu cabeza cerca del extremo de un rack de potencia. Manteniendo tus omóplatos juntos, saca la barra de los ganchos.",
+    "Baja la barra hacia la parte inferior de tu pecho o la parte alta del estómago, apretando la barra e intentando separarla mientras lo haces. Asegúrate de meter tus codos durante todo el movimiento. Baja la barra hasta que la parte superior de tu brazo toque el suelo y haz una pausa, evitando golpear o rebotar el peso.",
+    "Empuja la barra hacia arriba lo más rápido que puedas, manteniendo la barra, tus muñecas y tus codos alineados al hacerlo."
   ],
   "category": "powerlifting",
   "trackingType": "weight_reps",

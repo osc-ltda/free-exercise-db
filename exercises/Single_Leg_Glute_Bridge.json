@@ -1,5 +1,6 @@
 {
   "name": "Bridge (Single Leg Glute)",
+  "nameEs": "Puente de glúteos a una pierna",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,12 @@
     "Raise one leg off of the ground, pulling the knee to your chest. This will be your starting position.",
     "Execute the movement by driving through the heel, extending your hip upward and raising your glutes off of the ground.",
     "Extend as far as possible, pause and then return to the starting position."
+  ],
+  "instructionsEs": [
+    "Acuéstate en el suelo con los pies planos y las rodillas flexionadas.",
+    "Levanta una pierna del suelo, acercando la rodilla a tu pecho. Esta será tu posición inicial.",
+    "Ejecuta el movimiento empujando a través del talón, extendiendo la cadera hacia arriba y levantando los glúteos del suelo.",
+    "Extiende lo más lejos posible, haz una pausa y luego regresa a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Chest Push (single response)",
+  "nameEs": "Press de pecho (respuesta única)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,11 @@
     "Begin in a kneeling position holding the medicine ball with both hands tightly into the chest.",
     "Execute the pass by exploding forward and outward with the hips while pushing the ball as far as possible.",
     "Follow through by falling forward, catching yourself with your hands."
+  ],
+  "instructionsEs": [
+    "Comienza en una posición de rodillas sosteniendo el balón medicinal con ambas manos firmemente contra el pecho.",
+    "Ejecuta el pase explotando hacia adelante y hacia afuera con las caderas mientras empujas el balón lo más lejos posible.",
+    "Continúa el movimiento cayendo hacia adelante y amortiguándote con tus manos."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

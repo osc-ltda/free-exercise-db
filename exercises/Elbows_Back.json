@@ -1,5 +1,6 @@
 {
   "name": "Elbows Back",
+  "nameEs": "Codos hacia atrás",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,11 @@
     "Stand up straight.",
     "Place both hands on your lower back, fingers pointing downward and elbows out.",
     "Then gently pull your elbows back aiming to touch them together."
+  ],
+  "instructionsEs": [
+    "Párate derecho.",
+    "Coloca ambas manos en tu espalda baja, con los dedos hacia abajo y los codos hacia afuera.",
+    "Luego, tira suavemente de tus codos hacia atrás intentando juntarlos."
   ],
   "category": "stretching",
   "trackingType": "time",

@@ -1,5 +1,6 @@
 {
   "name": "Leg-Up Hamstring Stretch",
+  "nameEs": "Estiramiento de isquiotibiales con pierna arriba",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -12,6 +13,11 @@
     "Lie flat on your back, bend one knee, and put that foot flat on the floor to stabilize your spine.",
     "Extend the other leg in the air. If you're tight, you wont be able to straighten it. That's okay. Extend the knee so that the sole of the lifted foot faces the ceiling (or as close as you can get it).",
     "Slowly straighten the legs as much as possible and then pull the leg toward your nose. Switch sides."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca arriba, flexiona una rodilla y coloca ese pie plano sobre el suelo para estabilizar tu columna.",
+    "Extiende la otra pierna en el aire. Si tienes poca flexibilidad, no podrás estirarla por completo. No pasa nada. Extiende la rodilla para que la planta del pie levantado apunte hacia el techo (o lo más cerca posible).",
+    "Endereza lentamente las piernas tanto como sea posible y luego tira de la pierna hacia tu nariz. Cambia de lado."
   ],
   "category": "stretching",
   "trackingType": "time",

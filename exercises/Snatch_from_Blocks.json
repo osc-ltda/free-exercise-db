@@ -1,5 +1,6 @@
 {
   "name": "Snatch (from Blocks)",
+  "nameEs": "Snatch (desde bloques)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -23,6 +24,13 @@
     "Transition into the second pull by extending through the hips knees and ankles, driving the bar up as quickly as possible. The bar should be close to the body. At peak extension, shrug the shoulders and allow the elbows to flex to the side.",
     "As you move your feet into the receiving position, forcefully pull yourself below the bar as you elevate the bar overhead. The feet should move to just outside the hips, turned out as necessary. Receive the bar with your body as low as possible and the arms fully extended overhead.",
     "Keeping the bar aligned over the front of the heels, your head and chest up, drive through heels of the feet to move to a standing position. Carefully return the weight to the boxes."
+  ],
+  "instructionsEs": [
+    "Comienza con una barra cargada en cajones o soportes a la altura deseada. Se debe tomar un agarre ancho en la barra. Los pies deben estar directamente debajo de las caderas, con las puntas hacia afuera según sea necesario. Baja las caderas, con el pecho arriba y la cabeza mirando hacia adelante. Los hombros deben estar justo en frente de la barra, con los codos apuntando hacia afuera. Esta será la posición inicial.",
+    "Comienza el primer tirón empujando a través de la parte delantera de los talones, levantando la barra de los cajones.",
+    "Haz la transición al segundo tirón extendiendo las caderas, las rodillas y los tobillos, impulsando la barra hacia arriba lo más rápido posible. La barra debe estar cerca del cuerpo. En la extensión máxima, encoge los hombros y permite que los codos se flexionen hacia un lado.",
+    "A medida que mueves los pies a la posición de recepción, tírate con fuerza debajo de la barra mientras elevas la barra por encima de la cabeza. Los pies deben moverse justo hacia afuera de las caderas, con las puntas hacia afuera según sea necesario. Recibe la barra con tu cuerpo lo más bajo posible y los brazos completamente extendidos por encima de la cabeza.",
+    "Manteniendo la barra alineada sobre la parte delantera de los talones, la cabeza y el pecho arriba, empuja a través de los talones para pasar a una posición de pie. Devuelve cuidadosamente el peso a los cajones."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

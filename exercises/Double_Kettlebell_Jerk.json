@@ -1,5 +1,6 @@
 {
   "name": "Jerk (Double Kettlebell)",
+  "nameEs": "Jerk (Doble pesa rusa)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -20,6 +21,15 @@
     "As you do so, press the kettlebells overhead to lockout by extending the arms, using your body's momentum to move the weights.",
     "Return your feet to the ground in a split fashion, with one foot forward and one foot back.",
     "Keeping the weights overhead, return to a standing position, bringing your feet together. Lower the weights to perform the next repetition."
+  ],
+  "instructionsEs": [
+    "Sostén una pesa rusa por el asa en cada mano.",
+    "Haz un clean de las pesas rusas hacia tus hombros extendiendo las piernas y las caderas mientras tiras de las pesas rusas hacia tus hombros. Rota tus muñecas al hacerlo de modo que las palmas miren hacia adelante. Esta será tu posición inicial.",
+    "Flexiona tu cuerpo doblando las rodillas, manteniendo el torso erguido.",
+    "Invierte el movimiento de inmediato, impulsándote desde los talones, esencialmente saltando para crear inercia.",
+    "Mientras lo haces, haz un press con las pesas rusas por encima de la cabeza hasta bloquearlas extendiendo los brazos, utilizando la inercia de tu cuerpo para mover los pesos.",
+    "Regresa tus pies al suelo en posición de tijera, con un pie adelante y otro atrás.",
+    "Manteniendo los pesos por encima de la cabeza, regresa a la posición de pie juntando los pies. Baja los pesos para realizar la siguiente repetición."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

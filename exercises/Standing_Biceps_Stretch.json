@@ -1,5 +1,6 @@
 {
   "name": "Standing Biceps Stretch",
+  "nameEs": "Estiramiento de bíceps de pie",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,10 @@
   "instructions": [
     "Clasp your hands behind your back with your palms together, straighten arms and then rotate them so your palms face downward.",
     "Raise your arms up and hold until you feel a stretch in your biceps."
+  ],
+  "instructionsEs": [
+    "Entrelaza tus manos detrás de tu espalda con las palmas juntas, endereza los brazos y luego gíralos de modo que tus palmas miren hacia abajo.",
+    "Eleva tus brazos y mantén la posición hasta que sientas un estiramiento en tus bíceps."
   ],
   "category": "stretching",
   "trackingType": "time",

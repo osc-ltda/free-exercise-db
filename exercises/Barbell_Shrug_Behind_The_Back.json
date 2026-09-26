@@ -1,5 +1,6 @@
 {
   "name": "Shrug (Barbell Behind The Back)",
+  "nameEs": "Encogimiento (Barra detrás de la espalda)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,12 @@
     "Raise your shoulders up as far as you can go as you breathe out and hold the contraction for a second. Tip: Refrain from trying to lift the barbell by using your biceps. The arms should remain stretched out at all times.",
     "Slowly return to the starting position as you breathe in.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Párate derecho con los pies al ancho de los hombros mientras sostienes una barra con ambas manos detrás de la espalda usando un agarre pronado (palmas hacia atrás). Consejo: Tus manos deben estar un poco más separadas que el ancho de los hombros. Puedes usar vendas para las muñecas en este ejercicio para un mejor agarre. Esta será tu posición inicial.",
+    "Eleva los hombros lo más alto posible mientrasexhalas y mantén la contracción durante un segundo. Consejo: Evita intentar levantar la barra usando tus bíceps. Los brazos deben permanecer estirados en todo momento.",
+    "Regresa lentamente a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

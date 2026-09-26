@@ -1,5 +1,6 @@
 {
   "name": "Bent Press",
+  "nameEs": "Bent Press",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -19,6 +20,11 @@
     "Clean a kettlebell to your shoulder. Clean the kettlebell to your shoulders by extending through the legs and hips as you raise the kettlebell towards your shoulder. The wrist should rotate as you do so. This will be your starting position.",
     "Begin my leaning to the side opposite the kettlebell, continuing until you are able to touch the ground with your free hand, keeping your eyes on the kettlebell. As you do so, press the weight vertically be extending through the elbow, keeping your arm perpendicular to the ground.",
     "Return to an upright position, with the kettlebell above your head. Return the kettlebell to the shoulder and repeat for the desired number of repetitions."
+  ],
+  "instructionsEs": [
+    "Lleva una pesa rusa al hombro. Eleva la pesa rusa hacia tus hombros extendiendo las piernas y las caderas mientras subes la pesa rusa hacia el hombro. La muñeca debe girar al hacerlo. Esta será tu posición inicial.",
+    "Comienza inclinándote hacia el lado opuesto a la pesa rusa, continuando hasta que puedas tocar el suelo con tu mano libre, manteniendo la vista en la pesa rusa. Al hacerlo, haz un press con el peso en vertical extendiendo el codo, manteniendo tu brazo perpendicular al suelo.",
+    "Regresa a una posición erguida, con la pesa rusa por encima de tu cabeza. Devuelve la pesa rusa al hombro y repite por el número deseado de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

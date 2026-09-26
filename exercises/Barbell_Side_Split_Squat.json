@@ -1,5 +1,6 @@
 {
   "name": "Squat (Barbell Side Split)",
+  "nameEs": "Sentadilla (Sentadilla búlgara lateral con barra)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "Lower your body towards the side of your angled foot by bending the knee and hip of your lead leg and while keeping the opposite leg only slightly bent. Breathe in as you lower your body.",
     "Return to the starting position by extending the hip and knee of the lead leg. Breathe out as you perform this movement.",
     "After performing the recommended amount of reps, repeat the movement with the opposite leg."
+  ],
+  "instructionsEs": [
+    "Párate derecho mientras sostienes una barra colocada en la parte posterior de tus hombros (un poco más abajo del cuello). Tus pies deben estar bien separados con el pie de la pierna delantera apuntando hacia afuera. Esta será tu posición inicial.",
+    "Baja tu cuerpo hacia el lado del pie apuntando doblando la rodilla y la cadera de tu pierna delantera mientras mantienes la pierna opuesta solo ligeramente doblada. Inhala mientras bajas tu cuerpo.",
+    "Regresa a la posición inicial extendiendo la cadera y la rodilla de la pierna delantera. Exhala mientras realizas este movimiento.",
+    "Después de realizar la cantidad recomendada de repeticiones, repite el movimiento con la pierna opuesta."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

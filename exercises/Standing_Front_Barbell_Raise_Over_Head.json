@@ -1,5 +1,6 @@
 {
   "name": "Front Raise (Standing Barbell Over Head)",
+  "nameEs": "Elevación frontal (Barra de pie por encima de la cabeza)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Lift the barbell up until it is directly over your head while exhaling. Make sure to keep your elbows slightly bent when performing each repetition.",
     "Once you feel the contraction, begin to lower the barbell back down to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Para empezar, párate derecho con una barra en tus manos. Debes agarrar la barra con las palmas hacia abajo y con las manos separadas a una distancia menor que el ancho de los hombros.",
+    "Tus pies deben estar separados a la distancia de los hombros. Tus codos deben estar ligeramente flexionados. Esta es la posición inicial.",
+    "Levanta la barra hasta que esté directamente sobre tu cabeza mientras exhalas. Asegúrate de mantener tus codos ligeramente flexionados al realizar cada repetición.",
+    "Una vez que sientas la contracción, comienza a bajar la barra de regreso a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

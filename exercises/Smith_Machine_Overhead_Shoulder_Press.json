@@ -1,5 +1,6 @@
 {
   "name": "Shoulder Press (Smith Machine Overhead)",
+  "nameEs": "Press de hombros (Máquina Smith)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,13 @@
     "Slowly begin to lower the barbell until it is level with your chin while inhaling.",
     "Then lift the barbell back to the starting position using your shoulders while exhaling.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Para empezar, coloca un banco plano (o preferiblemente uno con soporte para la espalda) debajo de una máquina Smith. Posiciona la barra a una altura tal que, al sentarte en el banco plano, los brazos deban estar casi completamente extendidos para alcanzar la barra.",
+    "Una vez que tengas la altura correcta, siéntate ligeramente detrás de la barra para que haya una línea recta imaginaria desde la punta de tu nariz hasta la barra. Tus pies deben permanecer estáticos. Agarra la barra con las palmas hacia adelante, desbúcala y levántala para que tus brazos queden completamente extendidos. Esta es la posición inicial.",
+    "Comienza lentamente a bajar la barra hasta que esté a la altura de tu barbilla mientras inhalas.",
+    "Luego, eleva la barra de regreso a la posición inicial usando tus hombros mientras exhalas.",
+    "Repite para la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

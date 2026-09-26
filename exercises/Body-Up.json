@@ -1,5 +1,6 @@
 {
   "name": "Body-Up",
+  "nameEs": "Body-Up",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -16,6 +17,12 @@
     "Pressing your palms firmly into the ground, extend through the elbows to raise your body from the ground. Keep your torso rigid as you perform the movement.",
     "Slowly lower your forearms back to the ground by allowing the elbows to flex.",
     "Repeat."
+  ],
+  "instructionsEs": [
+    "Adopta una posición de Plancha en el suelo. Debes sostener tu peso corporal sobre las puntas de tus pies y tus antebrazos, manteniendo tu torso recto. Tus antebrazos deben estar separados al ancho de los hombros. Esta será tu posición inicial.",
+    "Presionando firmemente las palmas de las manos contra el suelo, extiende los codos para levantar tu cuerpo del suelo. Mantén tu torso rígido mientras realizas el movimiento.",
+    "Baja lentamente tus antebrazos de vuelta al suelo permitiendo que los codos se flexionen.",
+    "Repite."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Plate Pinch",
+  "nameEs": "Agarre de disco con pinza",
   "force": "static",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Squeeze the plate with your fingers and thumb. Hold this position for as long as you can.",
     "Repeat for the recommended amount of sets prescribed in your program.",
     "Switch arms and repeat the movements."
+  ],
+  "instructionsEs": [
+    "Toma dos discos de borde ancho y júntalos con los lados lisos hacia afuera.",
+    "Usa tus dedos para sujetar la parte exterior del disco y el pulgar para el otro lado, sosteniendo así ambos discos juntos. Esta es la posición inicial.",
+    "Aprieta el disco con tus dedos y el pulgar. Mantén esta posición todo el tiempo que puedas.",
+    "Repite durante la cantidad recomendada de series prescrita en tu programa.",
+    "Cambia de brazo y repite los movimientos."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

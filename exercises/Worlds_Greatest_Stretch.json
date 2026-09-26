@@ -1,5 +1,6 @@
 {
   "name": "World's Greatest Stretch",
+  "nameEs": "Estiramiento más grande del mundo",
   "force": "static",
   "level": "intermediate",
   "mechanic": null,
@@ -16,6 +17,11 @@
     "This is a three-part stretch. Begin by lunging forward, with your front foot flat on the ground and on the toes of your back foot. With your knees bent, squat down until your knee is almost touching the ground. Keep your torso erect, and hold this position for 10-20 seconds.",
     "Now, place the arm on the same side as your front leg on the ground, with the elbow next to the foot. Your other hand should be placed on the ground, parallel to your lead leg, to help support you during this portion of the stretch.",
     "After 10-20 seconds, place your hands on either side of your front foot. Raise the toes of the front foot off of the ground, and straighten your leg. You may need to reposition your rear leg to do so. Hold for 10-20 seconds, and then repeat the entire sequence for the other side."
+  ],
+  "instructionsEs": [
+    "Este es un estiramiento de tres partes. Comienza haciendo una zancada hacia adelante, con el pie delantero plano en el suelo y sobre las puntas de los pies del pie trasero. Con las rodillas flexionadas, haz una sentadilla hasta que tu rodilla casi toque el suelo. Mantén tu torso erguido y mantén esta posición durante 10-20 segundos.",
+    "Ahora, coloca el brazo del mismo lado que tu pierna delantera en el suelo, con el codo al lado del pie. Tu otra mano debe colocarse en el suelo, paralela a tu pierna adelantada, para ayudarte a mantener el equilibrio durante esta parte del estiramiento.",
+    "Después de 10-20 segundos, coloca tus manos a cada lado de tu pie delantero. Levanta los dedos del pie delantero del suelo y estira la pierna. Es posible que debas reposicionar tu pierna trasera para hacerlo. Mantén la posición durante 10-20 segundos y luego repite toda la secuencia para el otro lado."
   ],
   "category": "stretching",
   "trackingType": "time",

@@ -1,5 +1,6 @@
 {
   "name": "Glute Kickback",
+  "nameEs": "Glute Kickback",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,12 @@
     "As you exhale, lift up your right leg until the hamstrings are in line with the back while maintaining the 90-degree angle bend. Contract the glutes throughout this movement and hold the contraction at the top for a second. Tip: At the end of the movement the upper leg should be parallel to the floor while the calf should be perpendicular to it.",
     "Go back to the initial position as you inhale and now repeat with the left leg.",
     "Continue to alternate legs until all of the recommended repetitions have been performed."
+  ],
+  "instructionsEs": [
+    "Arrodíllate en el suelo o en una esterilla de ejercicio e inclínate por la cintura con tus brazos extendidos frente a ti (perpendiculares al torso) para adoptar una posición de flexión de brazos de rodillas, pero con los brazos separados al ancho de los hombros. Tu cabeza debe mirar hacia adelante y la flexión de las rodillas debe formar un ángulo de 90 grados entre los isquiotibiales y las pantorrillas. Esta será tu posición inicial.",
+    "Mientras exhalas, levanta tu pierna derecha hasta que los isquiotibiales estén alineados con la espalda mientras mantienes la flexión de 90 grados. Contrae los glutes durante este movimiento y mantén la contracción arriba por un segundo. Consejo: al final del movimiento, la parte superior de la pierna debe estar paralela al suelo y la pantorrilla debe ser perpendicular a este.",
+    "Regresa a la posición inicial mientras inhalas y ahora repite con la pierna izquierda.",
+    "Continúa alternando las piernas hasta que hayas completado todas las repeticiones recomendadas."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

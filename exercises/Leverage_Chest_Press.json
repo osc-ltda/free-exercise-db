@@ -1,5 +1,6 @@
 {
   "name": "Press (Leverage Chest)",
+  "nameEs": "Press (Pecho en máquina de palanca)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Your chest and head should be up and your shoulder blades retracted. This will be your starting position.",
     "Press the handles forward by extending through the elbow.",
     "After a brief pause at the top, return the weight just above the start position, keeping tension on the muscles by not returning the weight to the stops until the set is complete."
+  ],
+  "instructionsEs": [
+    "Carga un peso adecuado en los soportes y ajusta el asiento para tu altura. Las manijas deben estar cerca de la parte inferior o media de los pectorales al comienzo del movimiento.",
+    "Tu pecho y cabeza deben estar hacia arriba y tus omóplatos retraídos. Esta será tu posición inicial.",
+    "Empuja las manijas hacia adelante extendiendo los codos.",
+    "Después de una breve pausa en la parte superior, regresa el peso justo por encima de la posición inicial, manteniendo la tensión en los músculos al no regresar el peso a los topes hasta que la serie esté completa."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

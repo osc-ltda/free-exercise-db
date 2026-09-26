@@ -1,5 +1,6 @@
 {
   "name": "Press (One Arm Floor)",
+  "nameEs": "Press (Suelo a un brazo)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,6 +20,15 @@
     "Then start lifting the barbell back up to the original starting position. Remember to breathe out during the concentric (lifting part of the exercise).",
     "Repeat until you have performed your recommended repetitions.",
     "Switch arms and repeat the movement."
+  ],
+  "instructionsEs": [
+    "Acuéstate en una superficie plana con la espalda presionando contra el suelo o una esterilla de ejercicio. Asegúrate de que tus rodillas estén dobladas.",
+    "Pide a un compañero que te entregue la barra en una mano. Al comenzar, tu brazo debe estar casi completamente extendido, de manera similar a la posición inicial de un Press de banca con Barra. Sin embargo, esta vez tu agarre será neutral (con las palmas mirando hacia tu torso).",
+    "Asegúrate de colocar la mano que no estás usando para levantar el peso a tu costado.",
+    "Comienza el ejercicio bajando la barra hasta que tu codo toque el suelo. Asegúrate de inspirar, ya que esta es la fase excéntrica (la parte de bajada del ejercicio).",
+    "Luego, comienza a levantar la barra de regreso a la posición inicial original. Recuerda exhalar durante la fase concéntrica (la parte de elevación del ejercicio).",
+    "Repite hasta que hayas realizado tus repeticiones recomendadas.",
+    "Cambia de brazo y repite el movimiento."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

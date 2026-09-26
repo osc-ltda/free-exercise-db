@@ -1,5 +1,6 @@
 {
   "name": "Fly (Reverse Machine)",
+  "nameEs": "Apertura (Máquina inversa)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "In a semicircular motion, pull your hands out to your side and back, contracting your rear delts.",
     "Keep your arms slightly bent throughout the movement, with all of the motion occurring at the shoulder joint.",
     "Pause at the rear of the movement, and slowly return the weight to the starting position."
+  ],
+  "instructionsEs": [
+    "Ajusta las manijas para que queden completamente hacia atrás. Selecciona un peso adecuado y ajusta la altura del asiento para que las manijas queden a la altura de los hombros. Agarra las manijas con las manos hacia adentro. Esta será tu posición inicial.",
+    "En un movimiento semicircular, separa las manos hacia los lados y hacia atrás, contrayendo tus deltoides posteriores.",
+    "Mantén tus brazos ligeramente flexionados durante todo el movimiento, con todo el desplazamiento ocurriendo en la articulación del hombro.",
+    "Haz una pausa en la parte posterior del movimiento y regresa lentamente el peso a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

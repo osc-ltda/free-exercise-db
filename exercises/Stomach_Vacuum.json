@@ -1,5 +1,6 @@
 {
   "name": "Stomach Vacuum",
+  "nameEs": "Vacuum abdominal",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "One isometric contraction is around 20 seconds. During the 20 second hold, try to breathe normally. Then inhale and bring your stomach back to the starting position.",
     "Once you have practiced this exercise, try to perform this exercise for longer than 20 seconds. Tip: You can work your way up to 40-60 seconds.",
     "Repeat for the recommended amount of sets."
+  ],
+  "instructionsEs": [
+    "Para empezar, párate derecho con los pies separados a la distancia de los hombros. Coloca tus manos en las caderas. Esta es la posición inicial.",
+    "Ahora inhala lentamente tanto aire como sea posible y luego comienza a exhalar tanto como puedas mientras llevas tu estómago hacia adentro lo más que puedas y mantén esta posición. Trata de visualizar tu ombligo tocando tu columna vertebral.",
+    "Una contracción isométrica dura unos 20 segundos. Durante la retención de 20 segundos, intenta respirar normalmente. Luego inhala y regresa tu estómago a la posición inicial.",
+    "Una vez que hayas practicado este ejercicio, intenta realizarlo durante más de 20 segundos. Consejo: Puedes avanzar gradualmente hasta llegar a 40-60 segundos.",
+    "Repite por la cantidad recomendada de series."
   ],
   "category": "stretching",
   "trackingType": "time",

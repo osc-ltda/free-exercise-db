@@ -1,5 +1,6 @@
 {
   "name": "Bench Press (Close-Grip Barbell)",
+  "nameEs": "Press de banca (Barra - Agarre estrecho)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your triceps muscles. Lock your arms in the contracted position, hold for a second and then start coming down slowly again. Tip: It should take at least twice as long to go down than to come up.",
     "Repeat the movement for the prescribed amount of repetitions.",
     "When you are done, place the bar back in the rack."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca arriba en un banco plano. Usando un agarre estrecho (alrededor del ancho de los hombros), levanta la barra del soporte y sostenla directamente sobre ti con los brazos bloqueados. Esta será tu posición inicial.",
+    "Mientras inspiras, baja lentamente hasta que sientas la barra en la parte media de tu pecho. Consejo: Asegúrate de que, a diferencia de un Press de banca normal, mantengas los codos cerca del torso en todo momento para maximizar la participación de los tríceps.",
+    "Después de una pausa de un segundo, regresa la barra a la posición inicial mientras exhalas y empujas la barra usando los músculos de los tríceps. Bloquea tus brazos en la posición contraída, mantén durante un segundo y luego comienza a bajar lentamente de nuevo. Consejo: Debería tomar al menos el doble de tiempo bajar que subir.",
+    "Repite el movimiento por la cantidad de repeticiones prescrita.",
+    "Cuando termines, vuelve a colocar la barra en el soporte."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

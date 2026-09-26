@@ -1,5 +1,6 @@
 {
   "name": "Scissor Kick",
+  "nameEs": "Patada de tijera",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Now lift your left leg up to about a 45 degree angle while your right leg is lowered until the heel is about 2-3 inches from the ground.",
     "Switch movements by raising your right leg up and lowering your left leg. Remember to breathe while performing this exercise.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Para empezar, acuéstate con la espalda presionada contra el suelo o sobre una esterilla de ejercicio (opcional). Tus brazos deben estar completamente extendidos a los lados con las palms hacia abajo. Nota: Los brazos deben permanecer inmóviles todo el tiempo.",
+    "Con una ligera flexión en las rodillas, levanta las piernas de modo que tus talones queden a unas 6 pulgadas del suelo. Esta es la posición inicial.",
+    "Ahora levanta tu pierna izquierda hasta un ángulo de aproximadamente 45 grados mientras bajas la pierna derecha hasta que el talón esté a unas 2-3 pulgadas del suelo.",
+    "Alterna los movimientos levantando la pierna derecha y bajando la izquierda. Recuerda respirar mientras realizas este ejercicio.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "stretching",
   "trackingType": "time",

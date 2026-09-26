@@ -1,5 +1,6 @@
 {
   "name": "Triceps Dips",
+  "nameEs": "Fondo de tríceps",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Now, inhale and slowly lower yourself downward. Your torso should remain upright and your elbows should stay close to your body. This helps to better focus on tricep involvement. Lower yourself until there is a 90 degree angle formed between the upper arm and forearm.",
     "Then, exhale and push your torso back up using your triceps to bring your body back to the starting position.",
     "Repeat the movement for the prescribed amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Para adoptar la posición inicial, sostén tu cuerpo con los brazos estirados y casi bloqueados por encima de las barras.",
+    "Ahora, inhala y desciende lentamente. Tu torso debe mantenerse erguido y tus codos deben permanecer cerca de tu cuerpo. Esto ayuda a centrar mejor el trabajo en los tríceps. Baja hasta formar un ángulo de 90 grados entre el brazo y el antebrazo.",
+    "Luego, exhala y empuja tu torso hacia arriba usando tus tríceps para regresar tu cuerpo a la posición inicial.",
+    "Repite el movimiento durante la cantidad de repeticiones prescrita."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

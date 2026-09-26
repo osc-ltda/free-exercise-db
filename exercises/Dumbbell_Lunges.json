@@ -1,5 +1,6 @@
 {
   "name": "Lunges (Dumbbell)",
+  "nameEs": "Zancada (Mancuerna)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "Step forward with your right leg around 2 feet or so from the foot being left stationary behind and lower your upper body down, while keeping the torso upright and maintaining balance. Inhale as you go down. Note: As in the other exercises, do not allow your knee to go forward beyond your toes as you come down, as this will put undue stress on the knee joint. Make sure that you keep your front shin perpendicular to the ground.",
     "Using mainly the heel of your foot, push up and go back to the starting position as you exhale.",
     "Repeat the movement for the recommended amount of repetitions and then perform with the left leg."
+  ],
+  "instructionsEs": [
+    "Párate con el torso erguido sosteniendo dos mancuernas en tus manos a los lados. Esta será tu posición inicial.",
+    "Da un paso adelante con tu pierna derecha a unos 2 pies del pie que se queda estacionario atrás y baja tu parte superior del cuerpo, mientras mantienes el torso erguido y conservas el equilibrio. Inhala mientras bajas. Nota: Al igual que en otros ejercicios, no dejes que tu rodilla se mueva hacia adelante más allá de tus dedos de los pies al bajar, ya que esto ejercerá un estrés indebido en la articulación de la rodilla. Asegúrate de mantener la espinilla delantera perpendicular al suelo.",
+    "Utilizando principalmente el talón de tu pie, empuja hacia arriba y regresa a la posición inicial mientras exhalas.",
+    "Repite el movimiento por la cantidad recomendada de repeticiones y luego realiza con la pierna izquierda."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

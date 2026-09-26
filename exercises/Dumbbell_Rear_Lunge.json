@@ -1,5 +1,6 @@
 {
   "name": "Lunge (Dumbbell Rear)",
+  "nameEs": "Zancada (Mancuerna trasera)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "Step backward with your right leg around two feet or so from the left foot and lower your upper body down, while keeping the torso upright and maintaining balance. Inhale as you go down. Tip: As in the other exercises, do not allow your knee to go forward beyond your toes as you come down, as this will put undue stress on the knee joint. Make sure that you keep your front shin perpendicular to the ground. Keep the torso upright during the lunge; flexible hip flexors are important. A long lunge emphasizes the Gluteus Maximus; a short lunge emphasizes Quadriceps.",
     "Push up and go back to the starting position as you exhale. Tip: Use the ball of your feet to push in order to accentuate the quadriceps. To focus on the glutes, press with your heels.",
     "Now repeat with the opposite leg."
+  ],
+  "instructionsEs": [
+    "Párate con el torso erguido sosteniendo dos mancuernas en tus manos a los lados. Esta será tu posición inicial.",
+    "Da un paso hacia atrás con la pierna derecha a unos dos pies del pie izquierdo y baja la parte superior del cuerpo, mientras mantienes el torso erguido y conservas el equilibrio. Inhala al bajar. Consejo: al igual que en otros ejercicios, no dejes que tu rodilla se mueva hacia adelante más allá de tus dedos al bajar, ya que esto ejercerá un estrés innecesario en la articulación de la rodilla. Asegúrate de mantener la espinilla delantera perpendicular al suelo. Mantén el torso erguido durante la zancada; unos flexores de cadera flexibles son importantes. Una zancada larga enfatiza el glúteo mayor; una zancada corta enfatiza los cuádriceps.",
+    "Empuja hacia arriba y regresa a la posición inicial mientras exhalas. Consejo: usa la punta de tus pies para empujar con el fin de acentuar los cuádriceps. Para enfocarte en los glúteos, presiona con los talones.",
+    "Ahora repite con la pierna contraria."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

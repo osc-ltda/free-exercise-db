@@ -1,5 +1,6 @@
 {
   "name": "Deadlift (Sumo)",
+  "nameEs": "Peso muerto (Sumo)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -21,6 +22,12 @@
     "Take a breath, and then lower your hips, looking forward with your head with your chest up. Drive through the floor, spreading your feet apart, with your weight on the back half of your feet. Extend through the hips and knees.",
     "As the bar passes through the knees, lean back and drive the hips into the bar, pulling your shoulder blades together.",
     "Return the weight to the ground by bending at the hips and controlling the weight on the way down."
+  ],
+  "instructionsEs": [
+    "Comienza con una barra cargada en el suelo. Acércate a la barra de modo que quede alineada con la mitad de tus pies. Los pies deben colocarse muy separados, cerca de los topes. Flexiona la cadera para agarrar la barra. Los brazos deben quedar directamente debajo de los hombros, dentro de las piernas, y puedes usar un agarre pronado, mixto o gancho. Relaja los hombros, lo que en la práctica alarga tus brazos.",
+    "Toma aire y luego baja la cadera, mirando al frente con la cabeza y el pecho erguido. Empuja el suelo separando los pies, con el peso en la mitad posterior de tus pies. Extiende la cadera y las rodillas.",
+    "A medida que la barra pasa por las rodillas, inclínate hacia atrás y lleva la cadera hacia la barra, juntando tus omóplatos.",
+    "Devuelve el peso al suelo flexionando la cadera y controlando el peso durante la bajada."
   ],
   "category": "powerlifting",
   "trackingType": "weight_reps",

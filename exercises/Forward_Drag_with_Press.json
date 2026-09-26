@@ -1,5 +1,6 @@
 {
   "name": "Press (Forward Drag with)",
+  "nameEs": "Press (Forward Drag with)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,6 +19,10 @@
   "instructions": [
     "Attach a dual handled chain or rope attachment to the sled. You should be facing away from the sled, holding a handle in each hand.",
     "Begin the movement by moving forward for one step. Leaning forward, extend through the legs and hips to move, pausing with each step to extend through the elbows, pressing your hands forward. Step forward until you return to the start position prepared to press."
+  ],
+  "instructionsEs": [
+    "Conecta un accesorio de cadena o cuerda de doble asa al trineo. Debes estar de espaldas al trineo, sosteniendo un asa en cada mano.",
+    "Comienza el movimiento dando un paso hacia adelante. Inclinándote hacia adelante, extiende las piernas y las caderas para moverte, haciendo una pausa con cada paso para extender los codos y presionar tus manos hacia adelante. Da un paso al frente hasta que regreses a la posición inicial preparado para hacer el press."
   ],
   "category": "strongman",
   "trackingType": "weight_reps",

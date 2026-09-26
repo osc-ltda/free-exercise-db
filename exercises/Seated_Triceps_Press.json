@@ -1,5 +1,6 @@
 {
   "name": "Press (Seated Triceps)",
+  "nameEs": "Press de tríceps (sentado)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "Keeping your upper arms close to your head (elbows in) and perpendicular to the floor, lower the resistance in a semi-circular motion behind your head until your forearms touch your biceps. Tip: The upper arms should remain stationary and only the forearms should move. Breathe in as you perform this step.",
     "Go back to the starting position by using the triceps to raise the dumbbell. Breathe out as you perform this step.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Siéntate en un banco con soporte para la espalda, sujeta una mancuerna con ambas manos y sostenla por encima de la cabeza con los brazos extendidos. Consejo: una mejor forma es pedirle a alguien que te la entregue, especialmente si es muy pesada. La resistencia debe descansar en las palmas de tus manos con los pulgares alrededor de ella. La palma de la mano debe mirar hacia adentro. Esta será tu posición inicial.",
+    "Manteniendo tus brazos cerca de la cabeza (codos hacia adentro) y perpendiculares al piso, baja la resistencia en un movimiento semicircular detrás de tu cabeza hasta que tus antebrazos toquen tus bíceps. Consejo: los brazos deben permanecer estáticos y solo los antebrazos deben moverse. Inhala al realizar este paso.",
+    "Regresa a la posición inicial usando los tríceps para elevar la mancuerna. Exhala al realizar este paso.",
+    "Repite por la cantidad de repeticiones recomendada."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

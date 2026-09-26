@@ -1,5 +1,6 @@
 {
   "name": "Biceps Curl (Seated Dumbbell Inner)",
+  "nameEs": "Curl de bíceps (con mancuerna sentado interno)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second as you squeeze the biceps.",
     "Slowly begin to bring the dumbbells back to the starting position as your breathe in. Remember to rotate your arms as you lower the dumbbells so that you can switch back to a neutral grip.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Siéntate en el extremo de un banco plano con una mancuerna en cada mano sostenida a la longitud de los brazos. Los codos deben estar cerca del torso.",
+    "Rota las palmas de las manos para que miren hacia adentro en una posición neutral. Esta será tu posición inicial.",
+    "Mientras mantienes los brazos superiores estáticos, haz un curl de las mancuernas hacia afuera y hacia arriba, girando las palmas hacia afuera a medida que levantas y manteniendo tus antebrazos alineados con tus deltoides externos. Consejos:",
+    "Solo los antebrazos deben moverse. Continúa el movimiento hasta que tus bíceps estén completamente contraídos y las mancuernas estén a la altura de los hombros. Mantén la posición contraída durante un segundo mientras aprietas los bíceps.",
+    "Comienza lentamente a llevar las mancuernas de vuelta a la posición inicial mientras inhalas. Recuerda rotar tus brazos al bajar las mancuernas para poder volver a un agarre neutral.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

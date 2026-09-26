@@ -1,5 +1,6 @@
 {
   "name": "Concentration Curls",
+  "nameEs": "Curl de concentración",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,13 @@
     "While holding the upper arm stationary, curl the weights forward while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Tip: At the top of the movement make sure that the little finger of your arm is higher than your thumb. This guarantees a good contraction. Hold the contracted position for a second as you squeeze the biceps.",
     "Slowly begin to bring the dumbbells back to starting position as your breathe in. Caution: Avoid swinging motions at any time.",
     "Repeat for the recommended amount of repetitions. Then repeat the movement with the left arm."
+  ],
+  "instructionsEs": [
+    "Siéntate en un banco plano con una mancuerna frente a ti entre tus piernas. Tus piernas deben estar separadas con las rodillas flexionadas y los pies en el suelo.",
+    "Usa tu brazo derecho para levantar la mancuerna. Coloca la parte posterior de la parte superior de tu brazo derecho en la parte superior de tu muslo interno derecho. Rota la palma de tu mano hasta que apunte hacia adelante, lejos de tu muslo. Consejo: Tu brazo debe estar extendido y la mancuerna debe estar por encima del suelo. Esta será tu posición inicial.",
+    "Mientras mantienes la parte superior del brazo fija, haz un curl con los pesos hacia adelante mientras contraes los bíceps al exhalar. Solo deben moverse los antebrazos. Continúa el movimiento hasta que tus bíceps estén completamente contraídos y las mancuernas estén a la altura de los hombros. Consejo: En la parte superior del movimiento, asegúrate de que el dedo meñique de tu brazo esté más alto que tu pulgar. Esto garantiza una buena contracción. Mantén la posición contraída durante un segundo mientras aprietas los bíceps.",
+    "Comienza a llevar lentamente las mancuernas de vuelta a la posición inicial mientras inhalas. Precaución: Evita movimientos de balanceo en todo momento.",
+    "Repite para la cantidad recomendada de repeticiones. Luego repite el movimiento con el brazo izquierdo."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

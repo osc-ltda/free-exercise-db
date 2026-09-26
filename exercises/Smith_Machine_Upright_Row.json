@@ -1,5 +1,6 @@
 {
   "name": "Upright Row (Smith Machine)",
+  "nameEs": "Remo (Máquina Smith vertical)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,6 +19,13 @@
     "Use your side shoulders to lift the bar as you exhale. The bar should be close to the body as you move it up. Continue to lift it until it nearly touches your chin. Tip: Your elbows should drive the motion. As you lift the bar, your elbows should always be higher than your forearms. Also, keep your torso stationary and pause for a second at the top of the movement.",
     "Lower the bar back down slowly to the starting position. Inhale as you perform this portion of the movement.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Para comenzar, coloca la barra en la máquina Smith a una altura que esté alrededor de la mitad de tus muslos. Una vez elegida la altura correcta y cargada la barra, agárrala usando un agarre pronado (palmas hacia adelante) separado al ancho de los hombros. Es posible que necesites muñequeras si usas una cantidad de peso significativa.",
+    "Eleva la barra y extiende completamente los brazos con la espalda recta. Debe haber una leve flexión en los codos. Esta es la posición inicial.",
+    "Usa tus hombros laterales para levantar la barra mientras exhalas. La barra debe estar cerca del cuerpo a medida que la subes. Continúa levantándola hasta que casi toque tu barbilla. Consejo: tus codos deben guiar el movimiento. Al levantar la barra, tus codos siempre deben estar más altos que tus antebrazos. Asimismo, mantén tu torso estático y haz una pausa de un segundo en la parte alta del movimiento.",
+    "Baja la barra lentamente de regreso a la posición inicial. Inhala al realizar esta porción del movimiento.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

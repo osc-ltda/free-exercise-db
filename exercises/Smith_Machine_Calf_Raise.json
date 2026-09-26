@@ -1,5 +1,6 @@
 {
   "name": "Calf Raise (Smith Machine)",
+  "nameEs": "Elevación de pantorrilla (Máquina Smith)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Raise your heels as high as possible by pushing off of the balls of your feet, flexing your calf at the top of the contraction. Your knees should remain extended. Hold the contracted position for a second before you start to go back down.",
     "Return slowly to the starting position as you breathe in while lowering your heels.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Coloca un bloque o disco de peso debajo de la barra en la máquina Smith. Ajusta la barra a una posición que se adapte mejor a tu altura. Una vez elegida la altura correcta y cargada la barra, sube a los discos con la parte delantera de los pies y coloca la barra en la parte posterior de tus hombros.",
+    "Toma la barra con ambas manos hacia adelante. Rota la barra para desengancharla. Esta será tu posición inicial.",
+    "Eleva tus talones lo más alto posible empujando con la parte delantera de los pies, flexionando la pantorrilla en la parte superior de la contracción. Tus rodillas deben permanecer extendidas. Mantén la posición contraída durante un segundo antes de comenzar a descender.",
+    "Regresa lentamente a la posición inicial mientras inhalas y bajas los talones.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

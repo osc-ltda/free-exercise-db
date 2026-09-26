@@ -1,5 +1,6 @@
 {
   "name": "Barbell Rollout from Bench",
+  "nameEs": "Deslizamiento de barra desde banco (Barra)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,11 @@
     "Place a loaded barbell on the ground, near the end of a bench. Kneel with both legs on the bench, and take a medium to narrow grip on the barbell. This will be your starting position.",
     "To begin, extend through the hips to slowly roll the bar forward. As you roll out, flex the shoulder to roll the bar above your head. Ensure that your arms remain extended throughout the movement.",
     "When the bar has been moved as far forward as possible, return to the starting position."
+  ],
+  "instructionsEs": [
+    "Coloca una barra con peso en el suelo, cerca del extremo de un banco. Arrodíllate con ambas piernas en el banco y toma la barra con un agarre de medio a estrecho. Esta será tu posición inicial.",
+    "Para comenzar, extiende las caderas para rodar lentamente la barra hacia adelante. A medida que te desplaces, flexiona el hombro para llevar la barra por encima de tu cabeza. Asegúrate de que tus brazos permanezcan extendidos durante todo el movimiento.",
+    "Cuando la barra se haya movido lo más adelante posible, regresa a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Crunch (Legs On Exercise Ball)",
+  "nameEs": "Abdominal (Piernas En Balón De Ejercicio)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,15 @@
     "Begin to roll your shoulders off the floor and continue to push down as hard as you can with your lower back. Your shoulders should come up off the floor only about four inches, and your lower back should remain on the floor. Breathe out as you execute this portion of the movement. Squeeze your abdominals hard at the top of the contraction and hold for a second. Tip: Focus on a slow, controlled movement. Refrain from using momentum at any time.",
     "Slowly go back down to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate completamente boca arriba con tus pies descansando sobre un balón de ejercicio y tus rodillas dobladas en un ángulo de 90 grados.",
+    "Coloca tus pies a una distancia de tres a cuatro pulgadas y apunta tus dedos hacia adentro para que se toquen.",
+    "Coloca tus manos suavemente a cada lado de tu cabeza manteniendo los codos hacia adentro. Consejo: No cruces ni trabes tus dedos detrás de tu cabeza.",
+    "Empuja la zona lumbar de tu espalda hacia el suelo para aislar mejor tus músculos abdominales. Esta será tu posición inicial.",
+    "Comienza a rodar tus hombros fuera del suelo y continúa empujando hacia abajo con tanta fuerza como puedas con tu zona lumbar. Tus hombros deben levantarse del suelo solo unas cuatro pulgadas, y tu zona lumbar debe permanecer en el suelo. Exhala mientras ejecutas esta porción del movimiento. Aprieta tus abdominales con fuerza en la parte superior de la contracción y mantén por un segundo. Consejo: Concéntrate en un movimiento lento y controlado. Evita usar impulso en cualquier momento.",
+    "Regresa lentamente a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

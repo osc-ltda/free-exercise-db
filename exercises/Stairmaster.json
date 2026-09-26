@@ -1,5 +1,6 @@
 {
   "name": "Stairmaster",
+  "nameEs": "Stairmaster",
   "force": null,
   "level": "intermediate",
   "mechanic": null,
@@ -16,6 +17,11 @@
     "To begin, step onto the stairmaster and select the desired option from the menu. You can choose a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise.",
     "Pump your legs up and down in an established rhythm, driving the pedals down but not all the way to the floor. It is recommended that you maintain your grip on the handles so that you don't fall. The handles can be used to monitor your heart rate to help you stay at an appropriate intensity.",
     "Stairmasters offer convenience, cardiovascular benefits, and usually have less impact than running outside. They are typically much harder than other cardio equipment. A 150 lb person will typically burn over 300 calories in 30 minutes, compared to about 175 calories walking."
+  ],
+  "instructionsEs": [
+    "Para empezar, súbete a la Stairmaster y selecciona la opción deseada en el menú. Puedes elegir una configuración manual o seleccionar un programa para ejecutar. Por lo general, puedes ingresar tu edad y peso para estimar la cantidad de calorías quemadas durante el ejercicio.",
+    "Bombea tus piernas hacia arriba y hacia abajo en un ritmo establecido, impulsando los pedales hacia abajo pero no del todo hasta el suelo. Se recomienda que mantengas tu agarre en las manijas para que no te caigas. Las manijas se pueden usar para monitorear tu ritmo cardíaco y ayudarte a mantener una intensidad adecuada.",
+    "Las Stairmaster ofrecen comodidad, beneficios cardiovasculares y por lo general tienen menos impacto que correr al aire libre. Típicamente son mucho más difíciles que otros equipos de cardio. Una persona de 150 lb normalmente quemará más de 300 calorías en 30 minutos, en comparación con unas 175 calorías caminando."
   ],
   "category": "cardio",
   "trackingType": "time",

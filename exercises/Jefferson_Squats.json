@@ -1,5 +1,6 @@
 {
   "name": "Squats (Jefferson)",
+  "nameEs": "Sentadilla (Jefferson)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -22,6 +23,15 @@
     "Now stand straight up with the weight. Tip: Your feet should be shoulder width apart and your toes slightly pointed out.",
     "Squat down by bending at the knees and keeping your back straight until your upper thighs are parallel with the floor. Tip: Keep your back as vertical as possible with the floor and your head up. Also remember to not let your knees go past your toes. Inhale during this portion of the movement.",
     "Now drive yourself back up to the starting position by pushing with the feet . Tip: Keep the bar hanging at arm's length and your elbows locked with a slight bend. The arms only serve as hooks. Avoid doing any lifting with them. Do the lifting with your thighs; not your arms."
+  ],
+  "instructionsEs": [
+    "Coloca una barra en el suelo.",
+    "Párate en el medio de la barra a lo largo.",
+    "Agáchate doblando las rodillas, manteniendo la espalda recta, y agarra la parte delantera de la barra con tu mano derecha. Tu palma debe estar hacia adentro (agarre neutral) mirando hacia el lado izquierdo.",
+    "Agarra la parte trasera de la barra con tu mano izquierda. La palma de tu mano debe estar alineada en un agarre neutral (con las palmas hacia el lado derecho). Consejo: asegúrate de que tu agarre en la barra sea uniforme. Tu torso debe estar posicionado justo en el medio de la barra y la distancia entre tu torso y tu mano derecha (que debe estar al frente) debe ser la misma que la distancia entre tu torso y tu mano izquierda (que debe estar atrás).",
+    "Ahora levántate derecho con el peso. Consejo: tus pies deben estar separados a la distancia de los hombros y las puntas de los pies ligeramente hacia afuera.",
+    "Haz una sentadilla doblando las rodillas y manteniendo la espalda recta hasta que tus muslos estén paralelos al suelo. Consejo: mantén la espalda lo más vertical posible respecto al suelo y la cabeza en alto. Recuerda también no dejar que tus rodillas pasen de la punta de tus pies. Inhala durante esta porción del movimiento.",
+    "Ahora impúlsate de regreso a la posición inicial empujando con los pies. Consejo: mantén la barra colgando a la longitud de los brazos y los codos bloqueados con una ligera flexión. Los brazos solo sirven como ganchos. Evita hacer levantamientos con ellos. Realiza el levantamiento con tus muslos, no con tus brazos."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

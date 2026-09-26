@@ -1,5 +1,6 @@
 {
   "name": "Row (Upright Cable)",
+  "nameEs": "Remo (Polea vertical)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,6 +16,12 @@
     "Use your side shoulders to lift the cable bar as you exhale. The bar should be close to the body as you move it up. Continue to lift it until it nearly touches your chin. Tip: Your elbows should drive the motion. As you lift the bar, your elbows should always be higher than your forearms. Also, keep your torso stationary and pause for a second at the top of the movement.",
     "Lower the bar back down slowly to the starting position. Inhale as you perform this portion of the movement.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Toma el accesorio de barra recta de una polea baja con un agarre pronado (con las palmas hacia tus muslos) ligeramente menor que el ancho de los hombros. La barra debe descansar sobre la parte superior de tus muslos. Tus brazos deben estar extendidos con una ligera flexión en los codos y tu espalda debe estar recta. Esta será tu posición inicial.",
+    "Usa los lados de tus hombros para levantar la barra de la polea mientras exhalas. La barra debe estar cerca del cuerpo a medida que la subes. Continúa levantándola hasta que casi toque tu barbilla. Consejo: tus codos deben guiar el movimiento. Al levantar la barra, tus codos deben estar siempre más altos que tus antebrazos. Además, mantén el torso estático y haz una pausa de un segundo en la parte alta del movimiento.",
+    "Baja la barra lentamente de regreso a la posición inicial. Inhala mientras realizas esta porción del movimiento.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

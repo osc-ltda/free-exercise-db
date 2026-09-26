@@ -1,5 +1,6 @@
 {
   "name": "Squat (Smith Single-Leg Split)",
+  "nameEs": "Sentadilla (Máquina Smith búlgara a una pierna)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,6 +21,15 @@
     "Begin to raise the bar as you exhale by pushing the floor with the heel of your foot mainly as you straighten your leg again and go back to the starting position.",
     "Repeat for the recommended amount of repetitions.",
     "Switch legs and repeat the movement."
+  ],
+  "instructionsEs": [
+    "Para comenzar, coloca un banco plano a 2-3 pies detrás de la máquina Smith. Luego, ajusta la barra a la altura que mejor se adapte a tu estatura. Una vez elegida la altura correcta y cargada la barra, colócate debajo de ella y apoya la parte posterior de tus hombros (levemente por debajo del cuello) sobre esta.",
+    "Sostén la barra con ambos brazos a cada lado (palmas hacia adelante), desabróchala y levántala del soporte empujando primero con las piernas y al mismo tiempo enderezando tu torso.",
+    "Posiciona tus piernas colocando un pie ligeramente hacia adelante bajo la barra y extendiendo tu otra pierna hacia atrás apoyando el empeine en el banco. Esta será tu posición inicial.",
+    "Empieza a bajar lentamente la barra flexionando la rodilla mientras mantienes una postura recta con la cabeza en alto. Continúa hacia abajo hasta que el ángulo entre el muslo y la pantorrilla sea ligeramente inferior a 90 grados (que es el punto en el cual los muslos están por debajo del paralelo al suelo). Inhala al realizar esta porción del movimiento. Consejo: si realizaste el ejercicio correctamente, la parte delantera de la rodilla debe formar una línea recta imaginaria con los dedos del pie que sea perpendicular al frente. Si tu rodilla pasa esa línea imaginaria (si pasa tus dedos de los pies), entonces estás ejerciendo una tensión indebida en la rodilla y el ejercicio se ha realizado incorrectamente.",
+    "Empieza a subir la barra mientras exhalas empujando el suelo principalmente con el talón de tu pie a medida que vuelves a extender tu pierna y regresas a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones.",
+    "Cambia de pierna y repite el movimiento."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

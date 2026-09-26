@@ -1,5 +1,6 @@
 {
   "name": "Snatch (Pull)",
+  "nameEs": "Snatch (Pull)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,6 +20,12 @@
     "Begin the first pull by driving through the heels, extending your knees. Your back angle should stay the same, and your arms should remain straight. Move the weight with control as you continue to above the knees.",
     "Next comes the second pull, the main source of acceleration for the pull. As the bar approaches the mid-thigh position, begin extending through the hips. In a jumping motion, accelerate by extending the hips, knees, and ankles, using speed to move the bar upward.",
     "There should be no need to actively pull through the arms to accelerate the weight; at the end of the second pull, the body should be fully extended, leaning slightly back. Full extension should be violent and abrupt, and ensure that you do not prolong the extension for longer than necessary."
+  ],
+  "instructionsEs": [
+    "Con una barra en el suelo cerca de las espinillas, toma un agarre ancho de arrancada. Baja las caderas con el peso centrado en los talones, la espalda recta, la cabeza al frente, el pecho arriba y los hombros justo en frente de la barra. Esta será tu posición inicial.",
+    "Comienza el primer tirón empujando con los talones y extendiendo las rodillas. El ángulo de la espalda debe mantenerse igual y los brazos deben permanecer rectos. Mueve el peso con control mientras continúas por encima de las rodillas.",
+    "A continuación viene el segundo tirón, la fuente principal de aceleración para el tirón. A medida que la barra se acerque a la posición del muslo medio, comienza a extender las caderas. En un movimiento de salto, acelera extendiendo las caderas, las rodillas y los tobillos, usando la velocidad para mover la barra hacia arriba.",
+    "No debe ser necesario tirar activamente con los brazos para acelerar el peso; al final del segundo tirón, el cuerpo debe estar completamente extendido, inclinándose ligeramente hacia atrás. La extensión completa debe ser violenta y abrupta, y asegúrate de no prolongar la extensión por más tiempo del necesario."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

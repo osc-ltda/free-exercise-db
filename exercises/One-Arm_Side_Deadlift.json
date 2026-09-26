@@ -1,5 +1,6 @@
 {
   "name": "Deadlift (One-Arm Side)",
+  "nameEs": "Peso muerto (Lateral a una mano)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -22,6 +23,14 @@
     "Slowly bring the barbell back down while inhaling. Tip: Make sure to bend your knees while lowering the weight to avoid any injury from occurring.",
     "Repeat for the recommended amount of repetitions.",
     "Switch arms and repeat the movement."
+  ],
+  "instructionsEs": [
+    "Párate al lado de una barra, cerca de su centro. Dobla las rodillas y baja el cuerpo hasta que puedas alcanzar la barra.",
+    "Agarra la barra como si estuvieras tomando un maletín (con las palmas hacia ti ya que la barra está de lado). Es posible que necesites una venda para la muñeca si estás usando un peso considerable. Esta es tu posición inicial.",
+    "Usa tus piernas para ayudar a levantar la barra mientras exhalas. Tus brazos deben extenderse por completo mientras subes la barra hasta quedar de pie.",
+    "Baja lentamente la barra mientras inhalas. Consejo: asegúrate de doblar las rodillas mientras bajas el peso para evitar lesiones.",
+    "Repite por la cantidad recomendada de repeticiones.",
+    "Cambia de brazo y repite el movimiento."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

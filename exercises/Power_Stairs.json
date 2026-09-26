@@ -1,5 +1,6 @@
 {
   "name": "Power Stairs",
+  "nameEs": "Power Stairs",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -21,6 +22,12 @@
     "Begin by taking the implement with both hands. Set your feet wide, with your head and chest up. Drive through the ground with your heels, extending your knees and hips to raise the weight from the ground.",
     "As you lean back, attempt to swing the weight onto the stairs, which are usually around 16-18\" high. You can use your legs to help push the weight onto the stair.",
     "Repeat for 3-5 repetitions, and continue with a heavier weight, moving as fast as possible."
+  ],
+  "instructionsEs": [
+    "En las power stairs, los implementos se suben por una escalera. Para fines de entrenamiento, estos se pueden realizar con un neumático o una caja.",
+    "Comienza tomando el implemento con ambas manos. Separa bien los pies, con la cabeza y el pecho en alto. Impúlsate contra el suelo con los talones, extendiendo las rodillas y las caderas para levantar el peso del suelo.",
+    "Mientras te inclinas hacia atrás, intenta balancear el peso hacia la escalera, que generalmente mide entre 16-18\" de altura. Puedes usar tus piernas para ayudar a empujar el peso hacia el escalón.",
+    "Repite de 3 a 5 repeticiones y continúa con un peso más pesado, moviéndote lo más rápido posible."
   ],
   "category": "strongman",
   "trackingType": "weight_reps",

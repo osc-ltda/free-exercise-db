@@ -1,5 +1,6 @@
 {
   "name": "Side Jackknife",
+  "nameEs": "Abdominal lateral en navaja",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -9,6 +10,7 @@
   ],
   "secondaryMuscles": [],
   "instructions": [],
+  "instructionsEs": [],
   "category": "strength",
   "trackingType": "bodyweight_reps",
   "images": [

@@ -1,5 +1,6 @@
 {
   "name": "Rocket Jump",
+  "nameEs": "Salto cohete",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,11 @@
     "Begin in a relaxed stance with your feet shoulder width apart and hold your arms close to the body.",
     "To initiate the move, squat down halfway and explode back up as high as possible.",
     "Fully extend your entire body, reaching overhead as far as possible. As you land, absorb your impact through the legs."
+  ],
+  "instructionsEs": [
+    "Comienza en una postura relajada con los pies separados a la altura de los hombros y mantén los brazos cerca del cuerpo.",
+    "Para iniciar el movimiento, haz una sentadilla hasta la mitad y explota hacia arriba tan alto como sea posible.",
+    "Extiende completamente todo tu cuerpo, alcanzando hacia arriba con los brazos lo más lejos posible. Al aterrizar, absorbe el impacto a través de las piernas."
   ],
   "category": "plyometrics",
   "trackingType": "bodyweight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Step Mill",
+  "nameEs": "Escaladora (Step Mill)",
   "force": null,
   "level": "intermediate",
   "mechanic": null,
@@ -15,6 +16,10 @@
   "instructions": [
     "To begin, step onto the stepmill and select the desired option from the menu. You can choose a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. Use caution so that you don't trip as you climb the stairs. It is recommended that you maintain your grip on the handles so that you don't fall.",
     "Stepmills offer convenience, cardiovascular benefits, and usually have less impact than running outside while offering a similar rate of calories burned. They are typically much harder than other cardio equipment. A 150 lb person will typically burn over 300 calories in 30 minutes, compared to about 175 calories walking."
+  ],
+  "instructionsEs": [
+    "Para comenzar, súbete a la escaladora y selecciona la opción deseada en el menú. Puedes elegir una configuración manual o seleccionar un programa para ejecutar. Por lo general, puedes ingresar tu edad y peso para estimar la cantidad de calorías quemadas durante el ejercicio. Ten cuidado para no tropezar al subir las escaleras. Se recomienda mantener el agarre en los mangos para no caer.",
+    "Las escaladoras ofrecen comodidad, beneficios cardiovasculares y suelen tener un impacto menor que correr al aire libre, ofreciendo una tasa similar de calorías quemadas. Por lo general, son mucho más difíciles que otros equipos de cardio. Una persona de 150 lb normalmente quemará más de 300 calorías en 30 minutos, en comparación con unas 175 calorías caminando."
   ],
   "category": "cardio",
   "trackingType": "time",

@@ -1,5 +1,6 @@
 {
   "name": "Shoulder Press (With Bands)",
+  "nameEs": "Press de hombro (Con Banda)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -14,6 +15,11 @@
     "To begin, stand on an exercise band so that tension begins at arm's length. Grasp the handles and lift them so that the hands are at shoulder height at each side.",
     "Rotate the wrists so that the palms of your hands are facing forward. Your elbows should be bent, with the upper arms and forearms in line to the torso. This is your starting position.",
     "As you exhale, lift the handles up until your arms are fully extended overhead."
+  ],
+  "instructionsEs": [
+    "Para empezar, párate sobre una banda de ejercicio de modo que la tensión comience con los brazos estirados. Sujeta los manerales y elévalos para que las manos queden a la altura de los hombros a cada lado.",
+    "Rota las muñecas para que las palmas de tus manos apunten hacia adelante. Tus los codos deben estar doblados, con los brazos y antebrazos alineados con el torso. Esta es tu posición inicial.",
+    "Al exhalar, eleva los manerales hacia arriba hasta que tus brazos estén completamente extendidos por encima de la cabeza."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

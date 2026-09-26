@@ -1,5 +1,6 @@
 {
   "name": "Clean and Jerk (One-Arm Kettlebell)",
+  "nameEs": "Clean and Jerk (Pesa rusa a un brazo)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,6 +16,14 @@
     "Immediately reverse direction, driving through the heels, in essence jumping to create momentum. As you do so, press the kettlebell overhead to lockout by extending the arms, using your body's momentum to move the weight.",
     "Receive the weight overhead by returning to a squat position underneath the weight.",
     "Keeping the weight overhead, return to a standing position. Lower the weight to the floor to perform the next repetition."
+  ],
+  "instructionsEs": [
+    "Sostén una pesa rusa por el mango.",
+    "Haz un clean de la pesa rusa hacia tu hombro extendiendo las piernas y las caderas mientras jalas la pesa rusa hacia tu hombro. Rota tu muñeca al hacerlo, de modo que la palma quede hacia adelante.",
+    "Flexiona tu cuerpo doblando las rodillas, manteniendo el torso erguido.",
+    "Inmediatamente invierte la dirección, impulsándote con los talones, esencialmente saltando para crear impulso. Al hacerlo, presiona la pesa rusa por encima de la cabeza hasta el bloqueo extendiendo los brazos, usando el impulso de tu cuerpo para mover el peso.",
+    "Recibe el peso por encima de la cabeza volviendo a una posición de sentadilla debajo del peso.",
+    "Manteniendo el peso por encima de la cabeza, regresa a la posición de pie. Baja el peso al piso para realizar la siguiente repetición."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

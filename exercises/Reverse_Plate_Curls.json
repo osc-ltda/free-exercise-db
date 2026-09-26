@@ -1,5 +1,6 @@
 {
   "name": "Reverse Curls (Plate)",
+  "nameEs": "Curl inverso (Disco)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,13 @@
     "Slowly lift the plate up while keeping the elbows in and the upper arms stationary until your biceps and forearms touch while exhaling. The plate should be evenly aligned with your torso at this point.",
     "Feel the contraction for a second and begin to lower the weight back down to the starting position while inhaling",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Comienza de pie y derecho con un disco con peso sostenido por ambas manos y los brazos completamente extendidos. Usa un agarre pronado (con las palmas hacia abajo) y asegúrate de que tus dedos agarren el lado rugoso del disco mientras tu pulgar agarra el lado liso. Nota: Para obtener los mejores resultados, agarra el disco con peso en la posición de las 11:00 y la 1:00 en punto.",
+    "Tus pies deben estar separados a la distancia de los hombros y el disco con peso debe estar cerca del área de la ingle. Esta es la posición inicial.",
+    "Eleva lentamente el disco mientras mantienes los codos pegados y los brazos estáticos hasta que tus bíceps y antebrazos se toquen mientras exhalas. El disco debe estar alineado uniformemente con tu torso en este punto.",
+    "Siente la contracción por un segundo y comienza a bajar el peso de regreso a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

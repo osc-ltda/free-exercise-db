@@ -1,5 +1,6 @@
 {
   "name": "Squat (Kneeling Jump)",
+  "nameEs": "Sentadilla (Salto de rodillas)",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "Sit back with your hips until your glutes touch your feet, keeping your head and chest up.",
     "Explode up with your hips, generating enough power to land with your feet flat on the floor.",
     "Continue with the squat by driving through your heels and extending the knees to come to a standing position."
+  ],
+  "instructionsEs": [
+    "Comienza arrodillado en el suelo con una barra apoyada en la parte posterior de tus hombros, o puedes usar tu peso corporal para este ejercicio. Esto se puede hacer dentro de una jaula de potencia para facilitar la extracción de la barra.",
+    "Lleva tus caderas hacia atrás hasta que tus glúteos toquen tus pies, manteniendo la cabeza y el pecho en alto.",
+    "Impúlsate explosivamente hacia arriba con las caderas, generando suficiente potencia para aterrizar con los pies apoyados por completo en el suelo.",
+    "Continúa con la sentadilla empujando a través de los talones y extendiendo las rodillas para llegar a una posición de pie."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

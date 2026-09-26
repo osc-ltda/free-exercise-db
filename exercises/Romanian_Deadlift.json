@@ -1,5 +1,6 @@
 {
   "name": "Deadlift (Romanian)",
+  "nameEs": "Peso muerto (rumano)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,6 +19,13 @@
     "Keeping your back and arms completely straight at all times, use your hips to lift the bar as you exhale. Tip: The movement should not be fast but steady and under control.",
     "Once you are standing completely straight up, lower the bar by pushing the hips back, only slightly bending the knees, unlike when squatting. Tip: Take a deep breath at the start of the movement and keep your chest up. Hold your breath as you lower and exhale as you complete the movement.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Coloca una barra frente a ti en el suelo y agárrala con un agarre pronado (palmas hacia abajo) un poco más ancho que el ancho de los hombros. Consejo: Dependiendo del peso utilizado, es posible que necesites correas para las muñecas para realizar el ejercicio y también una plataforma elevada para permitir un mejor rango de movimiento.",
+    "Dobla ligeramente las rodillas y mantén las espinillas verticales, las caderas hacia atrás y la espalda recta. Esta será tu posición inicial.",
+    "Manteniendo tu espalda y brazos completamente rectos en todo momento, usa tus caderas para levantar la barra mientras exhalas. Consejo: El movimiento no debe ser rápido, sino constante y bajo control.",
+    "Una vez que estés completamente erguido, baja la barra empujando las caderas hacia atrás, doblando solo ligeramente las rodillas, a diferencia de cuando haces una sentadilla. Consejo: Respira hondo al comenzar el movimiento y mantén el pecho en alto. Contén la respiración al bajar y exhala al completar el movimiento.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

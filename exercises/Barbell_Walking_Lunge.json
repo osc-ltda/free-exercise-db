@@ -1,5 +1,6 @@
 {
   "name": "Lunge (Barbell Walking)",
+  "nameEs": "Zancada (Barra caminando)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "Step forward with one leg, flexing the knees to drop your hips. Descend until your rear knee nearly touches the ground. Your posture should remain upright, and your front knee should stay above the front foot.",
     "Drive through the heel of your lead foot and extend both knees to raise yourself back up.",
     "Step forward with your rear foot, repeating the lunge on the opposite leg."
+  ],
+  "instructionsEs": [
+    "Comienza de pie con los pies separados a la distancia de los hombros y una barra sobre la parte superior de la espalda.",
+    "Da un paso adelante con una pierna, flexionando las rodillas para bajar las caderas. Desciende hasta que tu rodilla trasera casi toque el suelo. Tu postura debe mantenerse erguida y tu rodilla delantera debe permanecer encima del pie delantero.",
+    "Impúlsate con el talón de tu pie delantero y extiende ambas rodillas para volver a levantarte.",
+    "Da un paso adelante con tu pie trasero, repitiendo la zancada con la pierna opuesta."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

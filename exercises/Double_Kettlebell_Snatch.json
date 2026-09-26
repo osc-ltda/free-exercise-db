@@ -1,5 +1,6 @@
 {
   "name": "Snatch (Double Kettlebell)",
+  "nameEs": "Snatch (Doble pesa rusa)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -16,6 +17,11 @@
     "Place two kettlebells behind your feet. Bend your knees and sit back to pick up the kettlebells.",
     "Swing the kettlebells between your legs forcefully and reverse the direction.",
     "Drive through with your hips and lock the ketttlebells overhead in one uninterrupted motion."
+  ],
+  "instructionsEs": [
+    "Coloca dos pesas rusas detrás de tus pies. Dobla las rodillas y echa las caderas hacia atrás para levantar las pesas rusas.",
+    "Balancea las pesas rusas entre tus piernas con fuerza e invierte la dirección.",
+    "Impúlsate con las caderas y bloquea las pesas rusas por encima de la cabeza en un solo movimiento continuo."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

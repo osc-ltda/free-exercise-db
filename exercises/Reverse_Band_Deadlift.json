@@ -1,5 +1,6 @@
 {
   "name": "Deadlift (Reverse Band)",
+  "nameEs": "Peso muerto (Banda inversa)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -21,6 +22,13 @@
     "With your feet, and your grip set, take a big breath and then lower your hips and bend the knees until your shins contact the bar. Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward.",
     "After the bar passes the knees, aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar.",
     "Lower the bar by bending at the hips and guiding it to the floor."
+  ],
+  "instructionsEs": [
+    "Coloca la barra en una jaula de potencia. Fija las bandas en la parte superior de la jaula, usando los pasadores de banda o el propio marco. Conecta el otro extremo de las bandas a la barra.",
+    "Acércate a la barra para que quede centrada sobre tus pies. Tus pies deben estar separados aproximadamente a la distancia de las caderas. Dobla la cadera para agarrar la barra al ancho de los hombros, permitiendo que tus omóplatos protruyan. Por lo general, usarías un agarre prono o un agarre mixto en series más pesadas.",
+    "Con los pies y el agarre listos, toma una gran respiración, luego baja las caderas y flexiona las rodillas hasta que tus espinillas toquen la barra. Mira hacia adelante con la cabeza, mantén el pecho levantado y la espalda arqueada, y comienza a empujar a través de los talones para mover el peso hacia arriba.",
+    "Después de que la barra pase las rodillas, tira de ella hacia atrás de manera enérgica, juntando los omóplatos mientras impulsas las caderas hacia adelante contra la barra.",
+    "Baja la barra flexionando las caderas y guiándola hacia el suelo."
   ],
   "category": "powerlifting",
   "trackingType": "weight_reps",

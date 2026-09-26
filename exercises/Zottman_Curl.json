@@ -1,5 +1,6 @@
 {
   "name": "Curl (Zottman)",
+  "nameEs": "Curl (Zottman)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -19,6 +20,16 @@
     "Slowly begin to bring the dumbbells back down using the pronated grip.",
     "As the dumbbells close your thighs, start rotating the wrist so that you go back to a neutral (palms facing your body) grip.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Ponte de pie con el torso erguido y una mancuerna en cada mano sostenida a la longitud de los brazos. Los codos deben estar cerca del torso.",
+    "Asegúrate de que las palmas de las manos estén enfrentadas. Esta será tu posición inicial.",
+    "Mientras mantienes la parte superior del brazo fija, haz un curl con los pesos mientras contraes los bíceps al exhalar. Solo los antebrazos deben moverse. Tu muñeca debe girar para que tengas un agarre supinado (palmas hacia arriba). Continúa el movimiento hasta que tus bíceps estén completamente contraídos y las mancuernas estén a la altura de los hombros.",
+    "Mantén la posición contraída durante un segundo mientras aprietas los bíceps.",
+    "Ahora, durante la posición contraída, gira tu muñeca hasta que tengas un agarre pronado (palmas hacia abajo) con el pulgar en una posición más alta que el meñique.",
+    "Comienza a bajar lentamente las mancuernas usando el agarre pronado.",
+    "A medida que las mancuernas se acerquen a tus muslos, comienza a girar la muñeca para volver a un agarre neutro (palmas hacia tu cuerpo).",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

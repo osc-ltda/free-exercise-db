@@ -1,5 +1,6 @@
 {
   "name": "Thruster (Kettlebell)",
+  "nameEs": "Thruster (Pesa rusa)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Begin to squat by flexing your hips and knees, lowering your hips between your legs. Maintain an upright, straight back as you descend as low as you can.",
     "At the bottom, reverse direction and squat by extending your knees and hips, driving through your heels. As you do so, press both kettlebells overhead by extending your arms straight up, using the momentum from the squat to help drive the weights upward.",
     "As you begin the next repetition, return the weights to the shoulders."
+  ],
+  "instructionsEs": [
+    "Lleva dos pesas rusas a tus hombros. Haz un clean de las pesas rusas hacia tus hombros extendiendo las piernas y las caderas mientras tiras de las pesas rusas hacia tus hombros. Rota tus muñecas al hacerlo. Esta será tu posición inicial.",
+    "Comienza a hacer una sentadilla flexionando las caderas y las rodillas, bajando las caderas entre tus piernas. Mantén la espalda recta y erguida mientras bajas lo más que puedas.",
+    "Abajo, invierte la dirección y haz una sentadilla extendiendo las rodillas y las caderas, empujando a través de los talones. Al hacerlo, haz press con ambas pesas rusas por encima de la cabeza extendiendo los brazos hacia arriba, usando el impulso de la sentadilla para ayudar a impulsar los pesos hacia arriba.",
+    "Al comenzar la siguiente repetición, regresa los pesos a los hombros."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

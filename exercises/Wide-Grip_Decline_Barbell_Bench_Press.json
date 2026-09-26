@@ -1,5 +1,6 @@
 {
   "name": "Bench Press (Wide-Grip Decline Barbell)",
+  "nameEs": "Press de banca (Barra declinado con agarre ancho)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "As you breathe in, come down slowly until you feel the bar on your lower chest.",
     "After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your chest muscles. Lock your arms and squeeze your chest in the contracted position, hold for a second and then start coming down slowly again. Tip: It should take at least twice as long to go down than to come up.",
     "Repeat the movement for the prescribed amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca arriba en un banco declinado con los pies firmemente sujetos en la parte delantera del banco. Usando un agarre ancho y pronado (palmas hacia adelante) que esté a unas 3 pulgadas de distancia del ancho de los hombros (para cada mano), levanta la barra del soporte y sostenla directamente sobre ti con los brazos bloqueados. La barra estará perpendicular al torso y al suelo. Esta será tu posición inicial.",
+    "Mientras inspiras, baja lentamente hasta que sientas la barra en la parte baja del pecho.",
+    "Después de una pausa de un segundo, lleva la barra de vuelta a la posición inicial mientras exhalas y empujas la barra usando los músculos del pecho. Bloquea los brazos y contrae el pecho en la posición contraída, mantén un segundo y luego comienza a bajar lentamente de nuevo. Consejo: Debería tomar al menos el doble de tiempo bajar que subir.",
+    "Repite el movimiento durante la cantidad de repeticiones prescrita."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

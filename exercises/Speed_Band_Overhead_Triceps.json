@@ -1,5 +1,6 @@
 {
   "name": "Speed Band Overhead Triceps",
+  "nameEs": "Speed Band Overhead Triceps",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "To begin, pull the band behind your head, holding it with a pronated grip and your elbows up. This will be your starting position.",
     "To perform the movement, extend through the elbow to to straighten your arms, ensuring that you keep your upper arm in place.",
     "Pause, and then return to the starting position."
+  ],
+  "instructionsEs": [
+    "Para este ejercicio, ancla una banda al suelo. Usamos un banco inclinado y anclamos la banda a la base, parándonos sobre el banco. Alternativamente, esto se podría realizar parándose sobre la banda.",
+    "Para comenzar, tira de la banda detrás de tu cabeza, sosteniéndola con un agarre pronado y los codos hacia arriba. Esta será tu posición inicial.",
+    "Para realizar el movimiento, extiende los codos para enderezar tus brazos, asegurándote de mantener la parte superior del brazo en su lugar.",
+    "Haz una pausa y luego regresa a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

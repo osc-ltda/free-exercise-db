@@ -1,5 +1,6 @@
 {
   "name": "Deadlift (Stiff-Legged Barbell)",
+  "nameEs": "Peso muerto (Barra con piernas rígidas)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "Keeping the knees stationary, lower the barbell to over the top of your feet by bending at the hips while keeping your back straight. Keep moving forward as if you were going to pick something from the floor until you feel a stretch on the hamstrings. Inhale as you perform this movement.",
     "Start bringing your torso up straight again by extending your hips until you are back at the starting position. Exhale as you perform this movement.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Agarra una barra usando un agarre pronado (con las palmas hacia abajo). Es posible que necesites muñequeras si usas una cantidad significativa de peso.",
+    "Párate con el torso derecho y las piernas separadas a la distancia de los hombros o una postura más estrecha. Las rodillas deben estar ligeramente dobladas. Esta es tu posición inicial.",
+    "Manteniendo las rodillas estáticas, baja la barra por encima de la parte superior de los pies doblando las caderas mientras mantienes la espalda recta. Sigue moviéndote hacia adelante como si fueras a recoger algo del piso hasta que sientas un estiramiento en los isquiotibiales. Inhala mientras realizas este movimiento.",
+    "Comienza a enderezar el torso nuevamente extendiendo las caderas hasta regresar a la posición inicial. Exhala mientras realizas este movimiento.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

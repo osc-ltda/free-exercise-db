@@ -1,5 +1,6 @@
 {
   "name": "Bridge (Side)",
+  "nameEs": "Puente (Lateral)",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -11,6 +12,7 @@
     "shoulders"
   ],
   "instructions": [],
+  "instructionsEs": [],
   "category": "strength",
   "trackingType": "bodyweight_reps",
   "images": [

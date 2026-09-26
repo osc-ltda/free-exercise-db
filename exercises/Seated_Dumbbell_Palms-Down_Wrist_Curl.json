@@ -1,5 +1,6 @@
 {
   "name": "Wrist Curl (Seated Dumbbell Palms-Down)",
+  "nameEs": "Curl de muñeca (Sentado con mancuernas en pronación)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,15 @@
     "Slowly lower your wrists back down to the starting position while inhaling. Make sure to inhale during this part of the exercise. Tip: Your forearms should be stationary as your wrist is the only movement needed to perform this exercise.",
     "Repeat for the recommended amount of repetitions.",
     "When finished, simply lower the dumbbells to the floor."
+  ],
+  "instructionsEs": [
+    "Comienza colocando dos mancuernas en el suelo frente a un banco plano.",
+    "Siéntate en el borde del banco plano con las piernas separadas aproximadamente a la distancia de los hombros. Asegúrate de mantener los pies en el suelo.",
+    "Usa tus brazos para tomar ambas mancuernas y elévalas de modo que tus antebrazos descansen sobre tus muslos con las palmas de las manos hacia abajo. Tus muñecas deben colgar del borde de tus muslos.",
+    "Empieza haciendo un curl con la muñeca hacia arriba mientras exhalas.",
+    "Baja lentamente tus muñecas de regreso a la posición inicial mientras inhalas. Asegúrate de inhalar durante esta parte del ejercicio. Consejo: Tus antebrazos deben permanecer inmóviles, ya que la muñeca es el único movimiento necesario para realizar este ejercicio.",
+    "Repite por la cantidad recomendada de repeticiones.",
+    "Al terminar, simplemente baja las mancuernas al suelo."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

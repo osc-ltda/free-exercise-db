@@ -1,5 +1,6 @@
 {
   "name": "Lying Hamstring",
+  "nameEs": "Isquiotibiales acostado",
   "force": "static",
   "level": "expert",
   "mechanic": null,
@@ -14,6 +15,11 @@
     "Lie on your back with your legs extended. Your partner should be kneeling beside you. Raise one leg up towards the ceiling and have your partner hold the ankle. Your partner can use their shoulder to brace your leg if necessary. This will be your starting position.",
     "With your partner holding your leg in place, attempt to flex the knee, contracting the hamstrings for 10-20 seconds.",
     "Then relax your leg, allowing your partner to gently push the leg towards your head. Be sure to inform your helper when the stretch is adequate to prevent injury or overstretching. Switch sides once complete."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca arriba con las piernas extendidas. Tu compañero debe estar arrodillado a tu lado. Eleva una pierna hacia el techo y pídele a tu compañero que sostenga el tobillo. Tu compañero puede usar su hombro para asegurar tu pierna si es necesario. Esta será tu posición inicial.",
+    "Con tu compañero sosteniendo tu pierna en su lugar, intenta flexionar la rodilla contrarayendo los isquiotibiales durante 10-20 segundos.",
+    "Luego relaja tu pierna permitiendo que tu compañero la empuje suavemente hacia tu cabeza. Asegúrate de avisarle a tu asistente cuando el estiramiento sea adecuado para prevenir lesiones o estiramiento excesivo. Cambia de lado una vez que termines."
   ],
   "category": "stretching",
   "trackingType": "time",

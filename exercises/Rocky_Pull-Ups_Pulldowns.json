@@ -1,5 +1,6 @@
 {
   "name": "Pull-Up (Rocky)",
+  "nameEs": "Dominada (Rocky)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,6 +20,14 @@
     "After a second on the contracted position, start to inhale and slowly lower your torso back to the starting position when your arms are fully extended and the lats are fully stretched.",
     "Now repeat the same movements as described above except this time your torso will remain straight as you go up and the bar will touch the back of the neck instead of the upper chest. Tip: Use the head to lean forward slightly as it will help you properly execute this portion of the exercise.",
     "Once you have lowered yourself back down to the starting position, repeat the exercise for the prescribed amount of repetitions in your program."
+  ],
+  "instructionsEs": [
+    "Agarra la barra de dominadas con las palmas hacia adelante usando un agarre ancho.",
+    "Mientras tienes ambos brazos extendidos frente a ti sosteniendo la barra al ancho de agarre elegido, lleva tu torso hacia atrás unos 30 grados más o menos mientras creas una curvatura en tu zona lumbar y sacas el pecho. Esta es tu posición inicial.",
+    "Eleva tu torso hasta que la barra toque la parte alta de tu pecho tirando de los hombros y la parte superior de los brazos hacia abajo y hacia atrás. Exhala mientras realizas esta porción del movimiento. Consejo: Concéntrate en apretar los músculos de la espalda una vez que alcances la posición de contracción máxima. La parte superior del torso debe permanecer fija mientras se desplaza por el espacio y solo deben moverse los brazos. Los antebrazos no deben hacer otro trabajo que no sea sostener la barra.",
+    "Después de un segundo en la posición contraída, comienza a inhalar y baja lentamente tu torso a la posición inicial cuando tus brazos estén completamente extendidos y los dorsales completamente estirados.",
+    "Ahora repite los mismos movimientos descritos anteriormente, excepto que esta vez tu torso permanecerá recto mientras subes y la barra tocará la parte posterior del cuello en lugar de la parte alta del pecho. Consejo: Usa la cabeza para inclinarte ligeramente hacia adelante, ya que te ayudará a ejecutar correctamente esta porción del ejercicio.",
+    "Una vez que hayas bajado a la posición inicial, repite el ejercicio por la cantidad de repeticiones prescritas en tu programa."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Upward Stretch",
+  "nameEs": "Estiramiento hacia arriba",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -14,6 +15,10 @@
   "instructions": [
     "Extend both hands straight above your head, palms touching.",
     "Slowly push your hands up and back, keeping your back straight."
+  ],
+  "instructionsEs": [
+    "Extiende ambas manos directamente por encima de tu cabeza, con las palmas tocándose.",
+    "Empuja lentamente tus manos hacia arriba y hacia atrás, manteniendo la espalda recta."
   ],
   "category": "stretching",
   "trackingType": "time",

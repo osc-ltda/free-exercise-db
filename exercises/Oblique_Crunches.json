@@ -1,5 +1,6 @@
 {
   "name": "Crunch (Oblique)",
+  "nameEs": "Abdominal (Oblicuo)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,15 @@
     "After your knee touches your elbow, lower your body until you have reached the starting position.",
     "Remember to breathe in during the eccentric (lowering) part of the exercise and to breathe out during the concentric (upward) part of the exercise.",
     "Continue alternating in this manner until all of the recommended repetitions for each side have been completed."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca arriba en el suelo con la zona lumbar presionada contra el suelo. Para este ejercicio, deberás colocar una mano al lado de tu cabeza y la otra hacia un lado contra el suelo.",
+    "Asegúrate de que tus pies estén elevados y apoyados en una superficie plana.",
+    "Ahora levanta el hombro hacia el cual tu mano está tocando tu cabeza.",
+    "Simplemente eleva tu hombro y tu cuerpo hacia arriba hasta tocar tu rodilla. Por ejemplo, si tienes tu mano derecha al lado de tu cabeza, entonces debes elevar tu cuerpo hacia arriba hasta que tu codo derecho toque tu rodilla izquierda. La misma variante se puede aplicar haciendo lo inverso y usando tu codo izquierdo para tocar tu rodilla derecha.",
+    "Después de que tu rodilla toque tu codo, baja tu cuerpo hasta alcanzar la posición inicial.",
+    "Recuerda inspirar durante la parte excéntrica (de bajada) del ejercicio y espirar durante la parte concéntrica (de subida) del ejercicio.",
+    "Continúa alternando de esta manera hasta completar todas las repeticiones recomendadas para cada lado."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Cable One Arm Tricep Extension",
+  "nameEs": "Extensión de tríceps a un brazo (Polea)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Squeeze the triceps and hold for a second in this contracted position.",
     "Slowly return the handle to the starting position.",
     "Repeat for the recommended amount of repetitions and then perform the same movement with the other arm."
+  ],
+  "instructionsEs": [
+    "Con tu mano derecha, agarra un asa individual sujeta a la polea alta utilizando un agarre supino (con las palmas hacia arriba). Debes estar parado justo en frente de la torre de peso.",
+    "Ahora tira del asa hacia abajo para que tu brazo y tu codo queden fijos al costado de tu cuerpo. Tu brazo y tu antebrazo deben formar un ángulo agudo (menos de 90 grados). Puedes mantener el otro brazo junto a la cintura y puedes tener un pie al frente y el otro atrás para mayor equilibrio. Esta será tu posición inicial.",
+    "Mientras contraes el tríceps, mueve el asa individual hacia abajo a tu costado hasta que tu brazo esté estirado. Exhala al realizar este movimiento. Consejo: solo deben moverse los antebrazos. Tus brazos deben permanecer estáticos en todo momento.",
+    "Aprieta los tríceps y mantén un segundo en esta posición de contracción.",
+    "Regresa lentamente el asa a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones y luego realiza el mismo movimiento con el otro brazo."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

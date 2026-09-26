@@ -1,5 +1,6 @@
 {
   "name": "Butterfly",
+  "nameEs": "Apertura (Mariposa)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Push the handles together slowly as you squeeze your chest in the middle. Breathe out during this part of the motion and hold the contraction for a second.",
     "Return back to the starting position slowly as you inhale until your chest muscles are fully stretched.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Siéntate en la máquina con la espalda plana contra el cojín.",
+    "Toma las manijas. Consejo: Tus brazos deben estar paralelos al suelo; ajusta la máquina en consecuencia. Esta será tu posición inicial.",
+    "Empuja las manijas juntas lentamente mientras contraes el pecho en el medio. Exhala durante esta parte del movimiento y mantén la contracción por un segundo.",
+    "Regresa lentamente a la posición inicial mientras inhalas hasta que los músculos del pecho estén completamente estirados.",
+    "Repite para la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Fly (Flat Bench Cable)",
+  "nameEs": "Apertura (Banco plano con polea)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -16,6 +17,15 @@
     "Now start lifting the arms in a semi-circle motion directly in front of you by pulling the cables together until both hands meet at the top of the movement. Squeeze your chest as you perform this motion and breathe out during this movement. Also, hold the contraction for a second at the top. Tip: When performed correctly, at the top position of this movement, your arms should be perpendicular to your torso and the floor touching above your chest.",
     "Slowly come back to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Coloca un banco plano entre dos poleas bajas de modo que, al recostarte en él, tu pecho quede alineado con las poleas de los cables.",
+    "Recuéstate plano en el banco y mantén los pies en el suelo.",
+    "Haz que alguien te entregue las agarraderas en cada mano. Tomarás cada accesorio de agarradera individual con un agarre de palmas hacia arriba.",
+    "Extiende tus brazos a los lados con una ligera flexión en los codos. Consejo: Mantendrás esta flexión constante durante todo el movimiento. Tus brazos deben estar paralelos al suelo. Esta es tu posición inicial.",
+    "Ahora comienza a levantar los brazos en un movimiento de semicírculo directamente frente a ti tirando de los cables juntos hasta que ambas manos se encuentren en la parte superior del movimiento. Aprieta tu pecho mientras realizas este movimiento y exhala durante el mismo. Además, mantén la contracción durante un segundo en la parte superior. Consejo: Cuando se realiza correctamente, en la posición superior de este movimiento, tus brazos deben estar perpendiculares a tu torso y al suelo tocándose por encima de tu pecho.",
+    "Regresa lentamente a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

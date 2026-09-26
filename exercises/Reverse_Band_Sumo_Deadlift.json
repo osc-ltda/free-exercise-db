@@ -1,5 +1,6 @@
 {
   "name": "Deadlift (Reverse Band Sumo)",
+  "nameEs": "Peso muerto (Sumo con banda inversa)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -23,6 +24,13 @@
     "Take a breath, and then lower your hips, looking forward with your head with your chest up. Drive through the floor, spreading your feet apart, with your weight on the back half of your feet. Extend through the hips and knees.",
     "As the bar passes through the knees, lean back and drive the hips into the bar, pulling your shoulder blades together.",
     "Return the weight to the ground by bending at the hips and controlling the weight on the way down."
+  ],
+  "instructionsEs": [
+    "Comienza con una barra cargada en el suelo dentro de una jaula de potencia. Fija las bandas a la parte superior de la jaula utilizando clavijas o el propio marco. Conecta el otro extremo a la barra.",
+    "Acércate a la barra de modo que esta pase por la mitad de tus pies. Los pies deben colocarse muy separados, cerca de los collares. Dobla las caderas para agarrar la barra. Los brazos deben quedar directamente debajo de los hombros, dentro de las piernas, y puedes usar un agarre pronado, un agarre mixto o un agarre de ganancia (hook grip). Relaja los hombros, lo que en la práctica alarga tus brazos.",
+    "Toma aire y luego baja las caderas, mirando al frente con la cabeza y el pecho levantado. Empuja el suelo separando los pies, con el peso en la mitad posterior de los pies. Extiende las caderas y las rodillas.",
+    "A medida que la barra pasa por las rodillas, inclínate hacia atrás e impulsa las caderas hacia la barra, juntando los omóplatos.",
+    "Regresa el peso al suelo doblando las caderas y controlando el peso durante la bajada."
   ],
   "category": "powerlifting",
   "trackingType": "weight_reps",

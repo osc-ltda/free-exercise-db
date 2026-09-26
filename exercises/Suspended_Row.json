@@ -1,5 +1,6 @@
 {
   "name": "Row (Suspended)",
+  "nameEs": "Remo (Suspendido)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,11 @@
     "Suspend your straps at around chest height. Take a handle in each hand and lean back. Keep your body erect and your head and chest up. Your arms should be fully extended. This will be your starting position.",
     "Begin by flexing the elbow to initiate the movement. Protract your shoulder blades as you do so.",
     "At the completion of the motion pause, and then return to the starting position."
+  ],
+  "instructionsEs": [
+    "Suspende tus correas a la altura del pecho. Toma un mango en cada mano y échate hacia atrás. Mantén tu cuerpo erguido y la cabeza y el pecho levantados. Tus brazos deben estar completamente extendidos. Esta será tu posición inicial.",
+    "Comienza flexionando el codo para iniciar el movimiento. Protrae tus omóplatos al hacerlo.",
+    "Al completar el movimiento, haz una pausa y luego regresa a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

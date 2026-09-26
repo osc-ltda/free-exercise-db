@@ -1,5 +1,6 @@
 {
   "name": "Leg Pull-In",
+  "nameEs": "Encogimiento de piernas acostado",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,6 +14,12 @@
     "Bend your knees and pull your upper thighs into your midsection as you breathe out. Continue the motion until your knees are around chest level. Contract your abs as you execute this movement and hold for a second at the top. Tip: As you perform the motion, the lower legs (calves) should always remain parallel to the floor.",
     "Return to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate en una esterilla de ejercicio con tus piernas extendidas y tus manos con las palmas hacia abajo al lado tuyo o debajo de tus glúteos. Consejo: Mi preferencia es con las manos al lado mío. Esta será tu posición inicial.",
+    "Dobla tus rodillas y lleva tus muslos hacia tu sección media mientras exhalas. Continúa el movimiento hasta que tus rodillas estén aproximadamente al nivel del pecho. Contrae tus abdominales al ejecutar este movimiento y mantén por un segundo en la parte superior. Consejo: A medida que realizas el movimiento, las pantorrillas deben permanecer siempre paralelas al suelo.",
+    "Regresa a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

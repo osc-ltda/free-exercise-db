@@ -1,5 +1,6 @@
 {
   "name": "Row (Low Pulley To Neck)",
+  "nameEs": "Remo (Polea baja al cuello)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,6 +19,13 @@
     "While keeping your torso stationary, lift your elbows and start bending them as you pull the rope towards your neck while exhaling. Throughout the movement your upper arms should remain parallel to the floor. Tip: Continue this motion until your hands are almost next to your ears (the forearms will not be parallel to the floor at the end of the movement as they will be angled a bit upwards) and your elbows are out away from your sides.",
     "After holding for a second or so at the contracted position, come back slowly to the starting position as you inhale. Tip: Again, during no part of the movement should the torso move.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Siéntate en una máquina de remo en polea baja con un accesorio de cuerda.",
+    "Agarra los extremos de la cuerda con un agarre con las palmas hacia abajo y siéntate con la espalda recta y las rodillas ligeramente dobladas. Consejo: Mantén la espalda casi completamente vertical y los brazos totalmente estirados frente a ti. Esta será tu posición inicial.",
+    "Mientras mantienes el torso estático, eleva los codos y empieza a doblarlos al jalar la cuerda hacia tu cuello mientras exhalas. Durante el movimiento, la parte superior de los brazos debe permanecer paralela al suelo. Consejo: Continúa este movimiento hasta que tus manos estén casi al lado de tus orejas (los antebrazos no quedarán paralelos al suelo al final del movimiento, ya que estarán un poco angulados hacia arriba) y los codos separados de los costados.",
+    "Tras mantener un segundo en la posición contraída, regresa lentamente a la posición inicial mientras inhalas. Consejo: De nuevo, en ninguna parte del movimiento debe moverse el torso.",
+    "Repite por el número de repeticiones recomendado."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

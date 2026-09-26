@@ -1,5 +1,6 @@
 {
   "name": "Adductor",
+  "nameEs": "Aductor",
   "force": "static",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -12,6 +13,11 @@
     "Lie face down with one leg on a foam roll.",
     "Rotate the leg so that the foam roll contacts against your inner thigh. Shift as much weight onto the foam roll as can be tolerated.",
     "While trying to relax the muscles if the inner thigh, roll over the foam between your hip and knee, holding points of tension for 10-30 seconds. Repeat with the other leg."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca abajo con una pierna sobre un rodillo de espuma.",
+    "Rota la pierna para que el rodillo de espuma haga contacto contra la parte interna de tu muslo. Transfiere tanto peso al rodillo de espuma como puedas tolerar.",
+    "Mientras intentas relajar los músculos de la parte interna del muslo, rueda sobre la espuma entre tu cadera y tu rodilla, manteniendo los puntos de tensión durante 10-30 segundos. Repite con la otra pierna."
   ],
   "category": "stretching",
   "trackingType": "time",

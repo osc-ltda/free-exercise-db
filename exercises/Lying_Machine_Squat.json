@@ -1,5 +1,6 @@
 {
   "name": "Squat (Lying Machine)",
+  "nameEs": "Sentadilla (Máquina acostado)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,6 +20,14 @@
     "While pressing with the balls of the feet as you breathe out, make your whole body erect as you squeeze the quads. Hold the contracted position for a second. Tip: Since you are starting below parallel, you can opt to use your hands to help you up by pressing on your thighs only on the first repetition.",
     "Slowly squat down as you inhale but instead of going all the way down to the starting position, just stop once your thighs are parallel to the platform. The angle between your hamstrings and calves should be a 90-degree angle.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Ajusta la máquina de piernas a una altura que te permita ingresar en ella con las rodillas flexionadas y los muslos ligeramente por debajo del paralelo.",
+    "Una vez que selecciones el peso, colócate dentro de la máquina boca arriba con las rodillas flexionadas y los muslos ligeramente por debajo del paralelo a la plataforma. Asegúrate de que las rodillas no pasen de la punta de los pies. El ángulo creado entre los isquiotibiales y las pantorrillas debe ser ligeramente menor a 90 grados (ya que tu posición inicial requiere que comiences ligeramente por debajo del paralelo). Tu espalda y tu cabeza deben descansar sobre la máquina mientras tus hombros están presionados bajo las almohadillas para los hombros.",
+    "Coloca tus manos en las manijas y posiciona tus pies apuntando ligeramente hacia afuera al ancho de los hombros. Esta será tu posición inicial.",
+    "Mientras presionas con la parte delantera de los pies al exhalar, pon todo tu cuerpo erguido mientras aprietas los cuádriceps. Mantén la posición contraída durante un segundo. Consejo: Como estás comenzando por debajo del paralelo, puedes optar por usar tus manos para ayudarte a subir presionando tus muslos solo en la primera repetición.",
+    "Baja lentamente haciendo una sentadilla mientras inhalas, pero en lugar de bajar completamente hasta la posición inicial, detente una vez que tus muslos estén paralelos a la plataforma. El ángulo entre tus isquiotibiales y pantorrillas debe ser de 90 grados.",
+    "Repite para la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

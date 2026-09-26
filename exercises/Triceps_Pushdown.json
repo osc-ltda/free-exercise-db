@@ -1,5 +1,6 @@
 {
   "name": "Triceps Pushdown",
+  "nameEs": "Extensión de tríceps en polea",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Using the triceps, bring the bar down until it touches the front of your thighs and the arms are fully extended perpendicular to the floor. The upper arms should always remain stationary next to your torso and only the forearms should move. Exhale as you perform this movement.",
     "After a second hold at the contracted position, bring the bar slowly up to the starting point. Breathe in as you perform this step.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Conecta una barra recta o angulada a una polea alta y agárrala con un agarre prono (palmas hacia abajo) al ancho de los hombros.",
+    "De pie, con el torso recto y una muy pequeña inclinación hacia adelante, acerca tus brazos a tu cuerpo y perpendicularmente al suelo. Los antebrazos deben apuntar hacia arriba hacia la polea mientras sostienen la barra. Esta es tu posición inicial.",
+    "Usando los tríceps, baja la barra hasta que toque la parte delantera de tus muslos y los brazos estén completamente extendidos y perpendiculares al suelo. Los brazos siempre deben permanecer estáticos junto a tu torso y solo deben moverse los antebrazos. Exhala mientras realizas este movimiento.",
+    "Después de sostener durante un segundo en la posición contraída, sube lentamente la barra hasta el punto de partida. Inhala mientras realizas este paso.",
+    "Repite por la cantidad de repeticiones recomendada."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

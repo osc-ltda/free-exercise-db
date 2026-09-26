@@ -1,5 +1,6 @@
 {
   "name": "Oblique Crunches (On The Floor)",
+  "nameEs": "Abdominal oblicuo (en el suelo)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Once you are in this set position, begin by moving your left elbow up as you would perform a normal crunch except this time the main emphasis is on your obliques.",
     "Crunch as high as you can, hold the contraction for a second and then slowly drop back down into the starting position.",
     "Remember to breathe in during the eccentric (lowering) part of the exercise and to breathe out during the concentric (elevation) part of the exercise."
+  ],
+  "instructionsEs": [
+    "Comienza recostándote sobre tu lado derecho con las piernas una encima de la otra. Asegúrate de que tus rodillas estén un poco flexionadas.",
+    "Coloca tu mano izquierda detrás de tu cabeza.",
+    "Una vez que estés en esta posición inicial, comienza moviendo tu codo izquierdo hacia arriba como si realizaras un abdominal normal, excepto que esta vez el énfasis principal está en tus oblicuos.",
+    "Haz un abdominal lo más alto que puedas, mantén la contracción por un segundo y luego baja lentamente a la posición inicial.",
+    "Recuerda inspirar durante la parte excéntrica (de bajada) del ejercicio y espirar durante la parte concéntrica (de elevación) del ejercicio."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

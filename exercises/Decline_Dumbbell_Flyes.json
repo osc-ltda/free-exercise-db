@@ -1,5 +1,6 @@
 {
   "name": "Fly (Decline Dumbbell)",
+  "nameEs": "Apertura (Mancuerna declinada)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -14,6 +15,13 @@
     "With a slight bend on your elbows in order to prevent stress at the biceps tendon, lower your arms out at both sides in a wide arc until you feel a stretch on your chest. Breathe in as you perform this portion of the movement. Tip: Keep in mind that throughout the movement, the arms should remain stationary; the movement should only occur at the shoulder joint.",
     "Return your arms back to the starting position as you squeeze your chest muscles and breathe out. Tip: Make sure to use the same arc of motion used to lower the weights.",
     "Hold for a second at the contracted position and repeat the movement for the prescribed amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Asegura tus piernas al final del banco declinado y acuéstate con una mancuerna en cada mano sobre tus muslos. Las palmas de tus manos se estarán mirando entre sí.",
+    "Una vez que estés acostado, mueve las mancuernas frente a ti al ancho de los hombros. Las palmas de las manos deben mirarse entre sí y los brazos deben estar perpendiculares al suelo y completamente extendidos. Esta será tu posición inicial.",
+    "Con una ligera flexión en los codos para evitar tensión en el tendón del bíceps, baja tus brazos hacia ambos lados en un arco amplio hasta que sientas un estiramiento en el pecho. Inspira mientras realizas esta porción del movimiento. Consejo: ten en cuenta que durante todo el movimiento, los brazos deben permanecer estables; el movimiento solo debe ocurrir en la articulación del hombro.",
+    "Regresa tus brazos a la posición inicial mientras contraes los músculos del pecho y exhalas. Consejo: asegúrate de usar el mismo arco de movimiento utilizado para bajar los pesos.",
+    "Mantén durante un segundo en la posición contraída y repite el movimiento por la cantidad de repeticiones prescrita."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

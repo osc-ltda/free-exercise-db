@@ -1,5 +1,6 @@
 {
   "name": "Hanging Bar Good Morning",
+  "nameEs": "Good Morning con barra colgante",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "Bend over underneath the bar and rack the bar across the rear of your shoulders as you would a power squat, not on top of your traps. At the proper height, you should be near parallel to the floor when bent over. Keep your back tight, shoulder blades pinched together, and your knees slightly bent. Keep your back arched and your cervical spine in proper alignment.",
     "Begin the motion by extending through the hips with your glutes and hamstrings, and you are standing with the weight.",
     "Slowly lower the weight back to the starting position, where it is supported by the chains."
+  ],
+  "instructionsEs": [
+    "Comienza con una barra en un soporte a la misma altura que tu estómago. Suspende la barra usando cadenas o correas de suspensión.",
+    "Inclínate por debajo de la barra y colócala en la parte posterior de tus hombros como lo harías en una sentadilla de potencia, no encima de los trapecios. A la altura adecuada, debes estar cerca del paralelo al suelo cuando estés inclinado. Mantén la espalda firme, los omóplatos juntos y las rodillas ligeramente flexionadas. Mantén la espalda arqueada y la columna cervical en la alineación correcta.",
+    "Comienza el movimiento extendiendo a través de las caderas con tus glúteos e isquiotibiales, hasta que estés de pie con el peso.",
+    "Baja lentamente el peso de regreso a la posición inicial, donde es soportado por las cadenas."
   ],
   "category": "powerlifting",
   "trackingType": "weight_reps",

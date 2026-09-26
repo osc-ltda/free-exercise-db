@@ -1,5 +1,6 @@
 {
   "name": "Calf Press (Leg Press Machine)",
+  "nameEs": "Elevación de pantorrilla (Máquina de prensa de piernas)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Press on the platform by raising your heels as you breathe out by extending your ankles as high as possible and flexing your calf. Ensure that the knee is kept stationary at all times. There should be no bending at any time. Hold the contracted position by a second before you start to go back down.",
     "Go back slowly to the starting position as you breathe in by lowering your heels as you bend the ankles until calves are stretched.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Usando una máquina de prensa de piernas, siéntate en la máquina y coloca tus piernas en la plataforma directamente frente a ti con una postura de pies media (al ancho de los hombros).",
+    "Baja las barras de seguridad que sostienen la plataforma con peso y presiona la plataforma hacia arriba hasta que tus piernas estén completamente extendidas frente a ti sin bloquear las rodillas. (Nota: En algunas unidades de prensa de piernas puedes dejar las barras de seguridad puestas para mayor seguridad. Si tu unidad de prensa de piernas lo permite, este es el método preferido para realizar el ejercicio). Tu torso y las piernas deben formar un ángulo perfecto de 90 grados. Ahora coloca cuidadosamente las puntas y la parte anterior de tus pies en la porción inferior de la plataforma con los talones sobresaliendo. Los dedos deben mirar hacia adelante, hacia afuera o hacia adentro como se describió al principio del capítulo. Esta será tu posición inicial.",
+    "Presiona la plataforma levantando los talones mientras exhalas, extendiendo los anudamientos de los tobillos lo más alto posible y contrayendo la pantorrilla. Asegúrate de que la rodilla se mantenga estática en todo momento. No debe haber flexión en ningún momento. Mantén la posición contraída durante un segundo antes de comenzar a bajar.",
+    "Regresa lentamente a la posición inicial mientras inhalas bajando los talones y doblando los tobillos hasta que las pantorrillas se estiren.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

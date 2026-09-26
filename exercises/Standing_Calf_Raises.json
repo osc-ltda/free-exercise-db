@@ -1,5 +1,6 @@
 {
   "name": "Calf Raises (Standing)",
+  "nameEs": "Elevación de pantorrilla (de pie)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Raise your heels as you breathe out by extending your ankles as high as possible and flexing your calf. Ensure that the knee is kept stationary at all times. There should be no bending at any time. Hold the contracted position by a second before you start to go back down.",
     "Go back slowly to the starting position as you breathe in by lowering your heels as you bend the ankles until calves are stretched.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Ajusta la palanca acolchada de la máquina de elevación de pantorrilla para que se adapte a tu altura.",
+    "Coloca tus hombros bajo las almohadillas proporcionadas y posiciona tus puntas de los pies hacia adelante (o usando cualquiera de las otras dos posiciones descritas al principio del capítulo). La parte anterior de la planta de tus pies debe estar asegurada encima del bloque para pantorrillas con los talones sobresaliendo de este. Empuja la palanca hacia arriba extendiendo tus caderas y rodillas hasta que tu torso quede erguido. Las rodillas deben mantenerse con una ligera flexión; nunca bloqueadas. Las puntas de los pies deben mirar hacia adelante, hacia afuera o hacia adentro como se describe al principio del capítulo. Esta será tu posición inicial.",
+    "Eleva tus talones mientras exhalas extendiendo los tobillos lo más alto posible y contrayendo tu pantorrilla. Asegúrate de que la rodilla se mantenga inmóvil en todo momento. No debe haber flexión en ningún momento. Mantén la posición contraída durante un segundo antes de comenzar a bajar.",
+    "Regresa lentamente a la posición inicial mientras inhalas bajando los talones a medida que flexionas los tobillos hasta que las pantorrillas estén estiradas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

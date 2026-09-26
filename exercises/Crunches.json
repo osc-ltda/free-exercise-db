@@ -1,5 +1,6 @@
 {
   "name": "Crunch",
+  "nameEs": "Abdominal",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Continue to push down as hard as you can with your lower back as you contract your abdominals and exhale. Your shoulders should come up off the floor only about four inches, and your lower back should remain on the floor. At the top of the movement, contract your abdominals hard and keep the contraction for a second. Tip: Focus on slow, controlled movement - don't cheat yourself by using momentum.",
     "After the one second contraction, begin to come down slowly again to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate completamente boca arriba con tus pies planos en el suelo, o descansando en un banco con tus rodillas dobladas en un ángulo de 90 grados. Si estás descansando tus pies en un banco, colócalos a una distancia de tres a cuatro pulgadas y apunta tus dedos hacia adentro para que se toquen.",
+    "Ahora coloca tus manos suavemente a cada lado de tu cabeza manteniendo los codos hacia adentro. Consejo: No trabes tus dedos detrás de tu cabeza.",
+    "Mientras empujas la zona lumbar de tu espalda hacia el suelo para aislar mejor tus músculos abdominales, comienza a levantar tus hombros del suelo.",
+    "Continúa empujando hacia abajo con tanta fuerza como puedas con tu zona lumbar mientras contraes tus abdominales y exhalas. Tus hombros deben levantarse del suelo solo unas cuatro pulgadas, y tu zona lumbar debe permanecer en el suelo. En la parte superior del movimiento, contrae tus abdominales con fuerza y mantén la contracción por un segundo. Consejo: Concéntrate en un movimiento lento y controlado; no te hagas trampa usando impulso.",
+    "Después de la contracción de un segundo, comienza a bajar lentamente otra vez hacia la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

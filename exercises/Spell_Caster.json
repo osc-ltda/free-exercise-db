@@ -1,5 +1,6 @@
 {
   "name": "Spell Caster",
+  "nameEs": "Spell Caster",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Begin the movement by pulling both of the dumbbells to one side next to your hip, rotating your torso.",
     "Keeping your arms straight and the dumbbells parallel to the ground, rotate your torso to swing the weights to your opposite side.",
     "Continue alternating, rotating from one side to the other until the set is complete."
+  ],
+  "instructionsEs": [
+    "Sostén una mancuerna en cada mano con un agarre pronado. Tus pies deben estar separados con las caderas y las rodillas extendidas. Esta será tu posición inicial.",
+    "Inicia el movimiento tirando de ambas mancuernas hacia un lado al lado de tu cadera, rotando tu torso.",
+    "Manteniendo tus brazos rectos y las mancuernas paralelas al suelo, rota tu torso para balancear los pesos hacia tu lado opuesto.",
+    "Continúa alternando, rotando de un lado al otro hasta que la serie esté completa."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

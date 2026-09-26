@@ -1,5 +1,6 @@
 {
   "name": "Power Partials",
+  "nameEs": "Power Partials",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Keeping your arms straight and the torso stationary, lift the weights out to your sides until they are about shoulder level height while exhaling.",
     "Feel the contraction for a second and begin to lower the weights back down to the starting position while inhaling. Tip: Keep the palms facing down with the little finger slightly higher while lifting and lowering the weights as it will concentrate the stress on your shoulders mainly.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Párate con el torso erguido y una mancuerna en cada mano sostenida a la longitud de los brazos. Los codos deben estar cerca del torso.",
+    "Las palmas de las manos deben mirar hacia tu torso. Tus pies deben estar separados aproximadamente a la distancia de los hombros. Esta será tu posición inicial.",
+    "Manteniendo los brazos rectos y el torso estático, levanta los pesos hacia los lados hasta que estén aproximadamente a la altura de los hombros mientras exhalas.",
+    "Siente la contracción por un segundo y comienza a bajar los pesos de regreso a la posición inicial mientras inhalas. Consejo: Mantén las palmas hacia abajo con el dedo meñique ligeramente más alto al levantar y bajar los pesos, ya que esto concentrará la tensión principalmente en tus hombros.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

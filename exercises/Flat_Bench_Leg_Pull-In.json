@@ -1,5 +1,6 @@
 {
   "name": "Leg Pull-In (Flat Bench)",
+  "nameEs": "Encogimiento de piernas (Banco plano)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -14,6 +15,13 @@
     "Bend your knees and pull your upper thighs into your midsection as you breathe out. Continue this movement until your knees are near your chest. Hold the contracted position for a second.",
     "As you breathe in, slowly return to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate en una esterilla de ejercicio o en un banco plano con tus piernas fuera del extremo.",
+    "Coloca tus manos debajo de tus glúteos con las palmas hacia abajo o a los lados agarrándote del banco (o con las palmas hacia abajo al lado en una esterilla de ejercicio). Extiende también tus piernas completamente. Esta será tu posición inicial.",
+    "Dobla tus rodillas y lleva tus muslos superiores hacia tu sección media mientras exhalas. Continúa este movimiento hasta que tus rodillas estén cerca de tu pecho. Mantén la posición contraída durante un segundo.",
+    "Mientras inhalas, regresa lentamente a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Dips (Ring)",
+  "nameEs": "Fondos (Anillas)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Begin by flexing the elbow, lowering your body until your arms break 90 degrees. Avoid swinging, and maintain good posture throughout the descent.",
     "Reverse the motion by extending the elbow, pushing yourself back up into the starting position.",
     "Repeat for the desired number of repetitions."
+  ],
+  "instructionsEs": [
+    "Agarra una anilla en cada mano y luego da un pequeño salto para ayudarte a llegar a la posición inicial con los brazos bloqueados.",
+    "Comienza flexionando el codo, bajando tu cuerpo hasta que tus brazos rompan los 90 grados. Evita balancearte y mantén una buena postura durante todo el descenso.",
+    "Invierte el movimiento extendiendo el codo, empujándote hacia arriba para volver a la posición inicial.",
+    "Repite para el número deseado de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

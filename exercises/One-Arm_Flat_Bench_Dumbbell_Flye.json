@@ -1,5 +1,6 @@
 {
   "name": "Fly (One-Arm Flat Bench Dumbbell)",
+  "nameEs": "Apertura (Mancuerna - Banco plano a un brazo)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Return your lifting arm back to the starting position as you squeeze your chest muscles and breathe out. Tip: Make sure to use the same arc of motion used to lower the weights.",
     "Hold for a second at the contracted position and repeat the movement for the prescribed amount of repetitions.",
     "Switch arms and repeat the exercise."
+  ],
+  "instructionsEs": [
+    "Acuéstate en un banco plano con una mancuerna en una mano apoyada sobre tu muslo. La palma de tu mano con la mancuerna debe estar en un agarre neutral.",
+    "Utilizando tus muslos para ayudarte a subir la mancuerna, haz un cargada rápida para que puedas sostenerla frente a ti con tu brazo de levantamiento completamente extendido. Recuerda mantener un agarre neutral en este ejercicio. Tu mano que no levanta debe estar a un lado sosteniendo el banco plano para un mejor soporte. Esta será tu posición inicial.",
+    "Tu brazo con el peso debe tener una ligera flexión en el codo para evitar tensión en el tendón del bíceps. Comienza bajando tu brazo con el peso hacia afuera en un arco amplio hasta que sientas un estiramiento en tu pecho. Inhala al realizar esta porción del movimiento. Consejo: Ten en cuenta que durante todo el movimiento, tu brazo de levantamiento debe permanecer estacionario; el movimiento solo debe ocurrir en la articulación del hombro.",
+    "Regresa tu brazo de levantamiento a la posición inicial mientras contraes los músculos de tu pecho y exhalas. Consejo: Asegúrate de usar el mismo arco de movimiento utilizado para bajar los pesos.",
+    "Mantén durante un segundo en la posición contraída y repite el movimiento por la cantidad de repeticiones prescrita.",
+    "Cambia de brazo y repite el ejercicio."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

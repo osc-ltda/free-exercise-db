@@ -1,5 +1,6 @@
 {
   "name": "Lying Glute",
+  "nameEs": "Glúteo acostado",
   "force": "static",
   "level": "expert",
   "mechanic": null,
@@ -15,6 +16,12 @@
     "Flex the hip of one leg, raising it off of the floor. Rotate the leg so the foot is over the opposite hip, the lower leg perpendicular to your body. Your partner should hold the knee and ankle in place. This will be your starting position.",
     "Attempt to push your leg towards your partner, who should be preventing any actual movement of the leg.",
     "After 10-20 seconds, completely relax as your partner gently pushes the ankle and knee towards your chest. Be sure to inform your helper when the stretch is adequate to prevent injury or overstretching."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca arriba con tu compañero arrodillado a tu lado.",
+    "Flexiona la cadera de una pierna, levantándola del suelo. Rota la pierna para que el pie quede sobre la cadera opuesta, con la parte inferior de la pierna perpendicular a tu cuerpo. Tu compañero debe mantener la rodilla y el tobillo en su lugar. Esta será tu posición inicial.",
+    "Intenta empujar tu pierna hacia tu compañero, quien debe prevenir cualquier movimiento real de la pierna.",
+    "Después de 10-20 segundos, relájate por completo mientras tu compañero empuja suavemente el tobillo y la rodilla hacia tu pecho. Asegúrate de avisarle a tu asistente cuando el estiramiento sea adecuado para prevenir lesiones o estiramientos excesivos."
   ],
   "category": "stretching",
   "trackingType": "time",

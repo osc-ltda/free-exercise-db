@@ -1,5 +1,6 @@
 {
   "name": "Barbell Ab Rollout (On Knees)",
+  "nameEs": "Desplazamiento abdominal con barra (Sobre rodillas)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Now place the barbell on the floor in front of you so that you are on all your hands and knees (as in a kneeling push up position). This will be your starting position.",
     "Slowly roll the barbell straight forward, stretching your body into a straight position. Tip: Go down as far as you can without touching the floor with your body. Breathe in during this portion of the movement.",
     "After a second pause at the stretched position, start pulling yourself back to the starting position as you breathe out. Tip: Go slowly and keep your abs tight at all times."
+  ],
+  "instructionsEs": [
+    "Sostén una barra olímpica con 5-10 lbs a cada lado y arrodíllate en el suelo.",
+    "Ahora coloca la barra en el suelo frente a ti de modo que estés apoyado sobre tus manos y rodillas (como en una posición de flexión de brazos arrodillado). Esta será tu posición inicial.",
+    "Haz rodar la barra lentamente hacia adelante en línea recta, estirando tu cuerpo hasta formar una posición recta. Consejo: baja tanto como puedas sin tocar el suelo con el cuerpo. Inhala durante esta porción del movimiento.",
+    "Después de una breve pausa en la posición estirada, comienza a tirar de ti mismo de regreso a la posición inicial mientras exhalas. Consejo: ve despacio y mantén tus abdominales contraídos en todo momento."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Press (Dumbbell Floor)",
+  "nameEs": "Press (Mancuerna en suelo)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,6 +16,11 @@
     "Lay on the floor holding dumbbells in your hands. Your knees can be bent. Begin with the weights fully extended above you.",
     "Lower the weights until your upper arm comes in contact with the floor. You can tuck your elbows to emphasize triceps size and strength, or to focus on your chest angle your arms to the side.",
     "Pause at the bottom, and then bring the weight together at the top by extending through the elbows."
+  ],
+  "instructionsEs": [
+    "Acuéstate en el suelo sosteniendo mancuernas en tus manos. Tus rodillas pueden estar flexionadas. Comienza con los pesos completamente extendidos por encima de ti.",
+    "Baja los pesos hasta que la parte superior de tu brazo entre en contacto con el suelo. Puedes pegar los codos para enfatizar el tamaño y la fuerza de los tríceps, o colocar los brazos hacia los lados para enfocarte en el pecho.",
+    "Haz una pausa en la parte inferior y luego junta el peso en la parte superior extendiendo los codos."
   ],
   "category": "powerlifting",
   "trackingType": "weight_reps",

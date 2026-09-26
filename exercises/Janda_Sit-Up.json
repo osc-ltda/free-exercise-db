@@ -1,5 +1,6 @@
 {
   "name": "Sit-Up (Janda)",
+  "nameEs": "Abdominal (Janda)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "As you strongly tighten your glutes and hamstrings, fill your lungs with air and in a slow (three to six second count) ascent, slowly exhale. Tip: It is important to tighten the glutes and hamstrings as this will cause the hip flexors to be inactivated in a process called reciprocal inhibition, which basically means that opposite muscles to the contracted ones will relax.",
     "As you inhale, slowly go back in a controlled manner to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Coloca tu cuerpo en el suelo en la posición básica de abdominal; las rodillas en un ángulo de noventa grados con los pies planos en el suelo y los brazos cruzados sobre el pecho o a los lados. Esta será tu posición inicial.",
+    "Mientras contraes fuertemente los glúteos y los isquiotibiales, llena tus pulmones de aire y asciende de forma lenta (con un conteo de tres a seis segundos) mientras exhalas lentamente. Consejo: es importante contraer los glúteos y los isquiotibiales, ya que esto provocará que los flexores de la cadera se desactiven en un proceso llamado inhibición recíproca, lo que básicamente significa que los músculos opuestos a los contraídos se relajarán.",
+    "Mientras inhalas, regresa lentamente y de manera controlada a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

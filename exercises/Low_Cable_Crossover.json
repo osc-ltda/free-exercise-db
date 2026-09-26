@@ -1,5 +1,6 @@
 {
   "name": "Low Cable Crossover",
+  "nameEs": "Cruce de polea baja",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,12 @@
     "Step forward, gaining tension in the pulleys. Your palms should be facing forward, hands below the waist, and your arms straight. This will be your starting position.",
     "With a slight bend in your arms, draw your hands upward and toward the midline of your body. Your hands should come together in front of your chest, palms facing up.",
     "Return your arms back to the starting position after a brief pause."
+  ],
+  "instructionsEs": [
+    "Para pasar a la posición inicial, coloca las poleas en la posición baja, selecciona la resistencia a utilizar y agarra un asa en cada mano.",
+    "Da un paso al frente generando tensión en las poleas. Tus palmas deben apuntar hacia adelante, las manos por debajo de la cintura y los brazos estirados. Esta será tu posición inicial.",
+    "Con una ligera flexión en los brazos, lleva las manos hacia arriba y hacia la línea media del cuerpo. Tus manos deben unirse frente al pecho con las palmas hacia arriba.",
+    "Regresa los brazos a la posición inicial tras una breve pausa."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

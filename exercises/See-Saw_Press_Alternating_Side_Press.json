@@ -1,5 +1,6 @@
 {
   "name": "Press (See-Saw Alternating Side)",
+  "nameEs": "Press en balancín (Press lateral alterno)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "Now start extending your left arm overhead as you rotate the wrist so that the palm of your hand faces forward as you go up. Your elbows should come out also as you lift the weight. Simultaneously, you will also be bending from your hip to your opposite side. Tip: If you perform the exercise correctly, is should look as if you are trying to reach for something overhead on the right hand side of your body, but with your left arm. Breathe out as you perform this movement.",
     "Once you reach the top position breathe in. Then, with the weight fully extended overhead and you bent over to your right hand side, begin the movement to the left side.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Toma una mancuerna con cada mano y párate erguido.",
+    "Haz un clean (levanta) las mancuernas al nivel del pecho/hombros y luego rota tus muñecas para que las palmas miren hacia ti como si te prepararas para realizar un Arnold Press. Esta será tu posición inicial.",
+    "Ahora comienza a extender tu brazo izquierdo por encima de la cabeza mientrasrotas la muñeca para que la palma de tu mano mire hacia adelante a medida que subes. Tus codos también deben salir hacia afuera mientras levantas el peso. Simultáneamente, te inclinarás desde la cadera hacia el lado opuesto. Consejo: si realizas el ejercicio correctamente, debe parecer que intentas alcanzar algo por encima de tu cabeza en el lado derecho de tu cuerpo, pero con tu brazo izquierdo. Exhala al realizar este movimiento.",
+    "Una vez que alcances la posición superior, inhala. Luego, con el peso totalmente extendido por encima de la cabeza y tú inclinado hacia tu lado derecho, comienza el movimiento hacia el lado izquierdo.",
+    "Repite por la cantidad de repeticiones recomendada."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

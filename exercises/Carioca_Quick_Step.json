@@ -1,5 +1,6 @@
 {
   "name": "Carioca Quick Step",
+  "nameEs": "Carioca Quick Step",
   "force": null,
   "level": "beginner",
   "mechanic": null,
@@ -19,6 +20,11 @@
     "Begin with your feet a few inches apart and your left arm up in a relaxed, athletic position.",
     "With your right foot, quick step behind and pull the knee up.",
     "Fire your arms back up when you pull the right knee, being sure that your knee goes straight up and down. Avoid turning your feet as you move and continue to look forward as you move to the side."
+  ],
+  "instructionsEs": [
+    "Comienza con tus pies separados unas pocas pulgadas y tu brazo izquierdo levantado en una posición relajada y atlética.",
+    "Con tu pie derecho, da un paso rápido por detrás y levanta la rodilla.",
+    "Vuelve a disparar tus brazos hacia arriba cuando levantes la rodilla derecha, asegurándote de que tu rodilla suba y baje en línea recta. Evita girar tus pies mientras te mueves y continúa mirando hacia adelante a medida que te desplazas hacia un lado."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

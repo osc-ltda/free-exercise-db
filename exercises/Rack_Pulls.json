@@ -1,5 +1,6 @@
 {
   "name": "Rack Pulls",
+  "nameEs": "Peso muerto desde rack",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,11 @@
     "Set up in a power rack with the bar on the pins. The pins should be set to the desired point; just below the knees, just above, or in the mid thigh position. Position yourself against the bar in proper deadlifting position. Your feet should be under your hips, your grip shoulder width, back arched, and hips back to engage the hamstrings. Since the weight is typically heavy, you may use a mixed grip, a hook grip, or use straps to aid in holding the weight.",
     "With your head looking forward, extend through the hips and knees, pulling the weight up and back until lockout. Be sure to pull your shoulders back as you complete the movement.",
     "Return the weight to the pins and repeat."
+  ],
+  "instructionsEs": [
+    "Colócate en un rack de potencia con la barra en los soportes. Los soportes deben ajustarse al punto deseado; justo debajo de las rodillas, justo arriba, o en la posición del muslo medio. Ubícate frente a la barra en la posición correcta de peso muerto. Tus pies deben estar debajo de tus caderas, tu agarre al ancho de los hombros, la espalda arqueada y las caderas hacia atrás para activar los isquiotibiales. Como el peso suele ser pesado, puedes usar un agarre mixto, un agarre de gancho o usar correas para ayudar a sostener el peso.",
+    "Con la cabeza mirando hacia adelante, extiende las caderas y las rodillas, tirando del peso hacia arriba y hacia atrás hasta el bloqueo. Asegúrate de echar los hombros hacia atrás al completar el movimiento.",
+    "Regresa el peso a los soportes y repite."
   ],
   "category": "powerlifting",
   "trackingType": "weight_reps",

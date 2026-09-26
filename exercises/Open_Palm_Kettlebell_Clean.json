@@ -1,5 +1,6 @@
 {
   "name": "Clean (Open Palm Kettlebell)",
+  "nameEs": "Clean (Palma abierta Pesa rusa)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -17,6 +18,11 @@
     "Place one kettlebell between your feet. Clean the kettlebell by extending through the legs and hips as you raise the kettlebell towards your shoulders.",
     "Release the kettlebell as it comes up, and let it flip so that the ball of the kettlebell lands in the palms of your hands.",
     "Release the kettlebell out in front of you and catch the handle with both hands. Lower the kettlebell to the starting position and repeat."
+  ],
+  "instructionsEs": [
+    "Coloca una pesa rusa entre tus pies. Realiza un clean con la pesa rusa extendiendo las piernas y las caderas mientras elevas la pesa rusa hacia tus hombros.",
+    "Suelta la pesa rusa a medida que sube y deja que gire para que la bola de la pesa rusa caiga en las palmas de tus manos.",
+    "Suelta la pesa rusa hacia el frente tuyo y atrapa el asa con ambas manos. Baja la pesa rusa a la posición inicial y repite."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

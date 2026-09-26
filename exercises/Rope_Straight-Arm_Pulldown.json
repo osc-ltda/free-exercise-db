@@ -1,5 +1,6 @@
 {
   "name": "Pulldown (Rope Straight-Arm)",
+  "nameEs": "Jalón (Polea con cuerda y brazos rectos)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "Keeping your arms straight, extend the shoulder to pull the rope down to your thighs.",
     "Pause at the bottom of the motion, squeezing your lats.",
     "Return to the starting position without allowing the weight to fully rest on the stack."
+  ],
+  "instructionsEs": [
+    "Acopla una cuerda a una polea alta y selecciona tu peso. Párate a un par de pies de distancia de la polea con los pies escalonados y toma la cuerda con ambas manos. Inclínate hacia adelante desde la cadera, manteniendo la espalda recta, con tus brazos extendidos hacia arriba frente a ti. Esta será tu posición inicial.",
+    "Manteniendo tus brazos rectos, extiende el hombro para jalar la cuerda hacia tus muslos.",
+    "Haz una pausa en la parte baja del movimiento, contrayendo tus dorsales.",
+    "Regresa a la posición inicial sin permitir que el peso descanse por completo en la pila."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

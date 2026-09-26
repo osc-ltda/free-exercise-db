@@ -1,5 +1,6 @@
 {
   "name": "Press (Standing Palms-In Dumbbell)",
+  "nameEs": "Press (Mancuerna de pie con palmas hacia adentro)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,6 +16,12 @@
     "Continue to maintain a neutral grip throughout the entire exercise. Slowly lift the dumbbells up until your arms are fully extended.",
     "While inhaling lower the weights down until your arm is at a 90 degree angle again.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Comienza teniendo una mancuerna en cada mano con el brazo completamente extendido hacia un lado usando un agarre neutro. Tus pies deben estar separados a la distancia de los hombros. Ahora levanta lentamente las mancuernas hasta formar un ángulo de 90 grados con tus brazos. Nota: Tus antebrazos deben estar perpendiculares al suelo. Esta es la posición inicial.",
+    "Sigue manteniendo un agarre neutro durante todo el ejercicio. Levanta lentamente las mancuernas hasta que tus brazos estén completamente extendidos.",
+    "Mientras inspiras, baja los pesos hasta que tus brazos vuelvan a estar en un ángulo de 90 grados.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

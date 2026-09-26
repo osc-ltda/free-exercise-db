@@ -1,5 +1,6 @@
 {
   "name": "Curl (Standing Palms-Up Barbell Behind The Back Wrist)",
+  "nameEs": "Curl (Muñeca con barra por detrás de la espalda de pie con palmas hacia arriba)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Hold the contraction for a second and lower the barbell back down to the starting position while inhaling.",
     "Repeat for the recommended amount of repetitions.",
     "When finished, lower the barbell down to the squat rack or the floor by bending the knees. Tip: It is easiest to either pick it up from a squat rack or have a partner hand it to you."
+  ],
+  "instructionsEs": [
+    "Comienza de pie y derecho, sosteniendo una barra por detrás de los glúteos a la longitud de los brazos con un agarre pronado (las palmas mirarán hacia atrás, alejadas de los glúteos) y con las manos separadas a la distancia de los hombros.",
+    "Debes mirar al frente mientras tus pies están separados a la distancia de los hombros. Esta es la posición inicial.",
+    "Mientras exhalas, eleva lentamente la barra flexionando las muñecas en un movimiento semicircular hacia el techo. Nota: Tu muñeca debe ser la única parte del cuerpo que se mueva en este ejercicio.",
+    "Mantén la contracción durante un segundo y baja la barra de nuevo a la posición inicial mientras inspiras.",
+    "Repite por la cantidad recomendada de repeticiones.",
+    "Cuando termines, baja la barra al soporte para sentadillas o al suelo doblando las rodillas. Consejo: Lo más fácil es sacarla de un soporte para sentadillas o que un compañero te la entregue."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

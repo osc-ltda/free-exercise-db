@@ -1,5 +1,6 @@
 {
   "name": "Kettlebell Halo with Overhead Extension",
+  "nameEs": "Pesa rusa Halo con extensión por encima de la cabeza",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -20,6 +21,14 @@
     "Bend your elbows to lower the kettlebell back to the pause position behind your head, under control.",
     "Continue the circle past the opposite ear and back down to the starting position in front of your chest to complete one repetition.",
     "Alternate the direction of the circle on each repetition. Keep your head, hips and lower back still throughout; if your lower back arches or you cannot reach the overhead position without leaning back, use a lighter weight or perform the halo and the extension as separate exercises."
+  ],
+  "instructionsEs": [
+    "Párate erguido con los pies separados a la distancia de las caderas. Sostén una pesa rusa boca abajo por las asas, con la campana por encima de tus manos y cerca del pecho. Contrae el abdomen y aprieta los glúteos para que la caja torácica permanezca abajo. Esta es tu posición inicial.",
+    "Manteniendo los codos cerca de la cabeza, mueve la pesa rusa hacia arriba pasando una oreja y alrededor hasta que se ubique detrás de la cabeza. Haz una pausa aquí.",
+    "Desde esta posición, extiende los codos para hacer un Press con la pesa rusa hacia arriba y por encima de la cabeza hasta que tus brazos estén rectos, manteniendo la parte superior de los brazos junto a tu cabeza.",
+    "Flexiona los codos para volver a bajar la pesa rusa a la posición de pausa detrás de la cabeza, de forma controlada.",
+    "Continúa el círculo pasando la oreja opuesta y vuelve a bajar a la posición inicial frente a tu pecho para completar una repetición.",
+    "Alterna la dirección del círculo en cada repetición. Mantén la cabeza, las caderas y la zona lumbar inmóviles durante todo el movimiento; si tu zona lumbar se arquea o no puedes alcanzar la posición por encima de la cabeza sin inclinarte hacia atrás, usa un peso más ligero o realiza el halo y la extensión como ejercicios separados."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

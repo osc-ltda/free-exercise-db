@@ -1,5 +1,6 @@
 {
   "name": "Squat (Speed Box)",
+  "nameEs": "Sentadilla (Speed Box)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,6 +19,13 @@
     "Position the bar on your upper back, shoulder blades retracted, back arched and everything tight head to toe. This will be the starting position.",
     "Unrack the bar and position yourself in front of the box. Sit back with your hips until you are seated on the box, ensuring that you descend under control and don't crash onto the surface.",
     "Pause briefly, and explode off of the box, extending through the hips and knees."
+  ],
+  "instructionsEs": [
+    "Coloca bandas a la barra que estén firmemente ancladas cerca del suelo. Es posible que debas doblar las bandas para obtener la tensión adecuada.",
+    "Usa una caja de una altura apropiada para este ejercicio. Carga la barra con un peso que aún requiera esfuerzo, pero que no sea tan pesado como para comprometer la velocidad. Por lo general, esto será entre el 50-70% de tu repetición máxima.",
+    "Coloca la barra en tu espalda alta, con los omóplatos retraídos, la espalda arqueada y todo el cuerpo tenso de la cabeza a los pies. Esta será la posición inicial.",
+    "Desengancha la barra y colócate frente a la caja. Echa las caderas hacia atrás hasta que estés sentado en la caja, asegurándote de descender de forma controlada y sin chocar contra la superficie.",
+    "Haz una pausa breve y explota desde la caja, extendiendo las caderas y las rodillas."
   ],
   "category": "powerlifting",
   "trackingType": "weight_reps",

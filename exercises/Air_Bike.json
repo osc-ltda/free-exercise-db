@@ -1,5 +1,6 @@
 {
   "name": "Air Bike",
+  "nameEs": "Bicicleta de aire",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,14 @@
     "Go back to the initial position as you breathe in.",
     "Crunch to the opposite side as you cycle your legs and bring closer your left elbow to your right knee and exhale.",
     "Continue alternating in this manner until all of the recommended repetitions for each side have been completed."
+  ],
+  "instructionsEs": [
+    "Acuéstate completamente en el suelo con la zona lumbar presionada contra el suelo. Para este ejercicio, debes colocar las manos a los lados de la cabeza. Sin embargo, ten cuidado de no forzar el cuello al realizarlo. Ahora levanta los hombros a la posición de abdominal.",
+    "Lleva las rodillas hacia arriba hasta que queden perpendiculares al suelo, con la parte inferior de las piernas paralela al suelo. Esta será tu posición inicial.",
+    "Ahora, de manera simultánea y lenta, realiza un movimiento de pedaleo pateando hacia adelante con la pierna derecha y acercando la rodilla de la pierna izquierda. Acerca tu codo derecho a tu rodilla izquierda haciendo una flexión lateral, mientras exhalas.",
+    "Regresa a la posición inicial mientras inhalas.",
+    "Flexiona hacia el lado opuesto mientras pedaleas con las piernas y acercas el codo izquierdo a la rodilla derecha, y exhala.",
+    "Continúa alternando de esta manera hasta completar todas las repeticiones recomendadas para cada lado."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

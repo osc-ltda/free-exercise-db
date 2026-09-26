@@ -1,5 +1,6 @@
 {
   "name": "Hip Raise (Bent-Knee)",
+  "nameEs": "Elevación de cadera (con rodillas flexionadas)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -14,6 +15,13 @@
     "Using your lower abs, bring your knees in towards you as you maintain the 75 degree angle bend in your legs. Continue this movement until you raise your hips off of the floor by rolling your pelvis backward. Breathe out as you perform this portion of the movement. Tip: At the end of the movement your knees will be over your chest.",
     "Squeeze your abs at the top of the movement for a second and then return to the starting position slowly as you breathe in. Tip: Maintain a controlled motion at all times.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate completamente en el suelo con tus brazos a los lados.",
+    "Ahora flexiona tus rodillas en un ángulo de aproximadamente 75 grados y levanta los pies del suelo unas 2 pulgadas.",
+    "Usando tus abdominales inferiores, acerca tus rodillas hacia ti mientras mantienes la flexión de 75 grados en las piernas. Continúa este movimiento hasta que levantes las caderas del suelo rodando tu pelvis hacia atrás. Exhala mientras realizas esta parte del movimiento. Consejo: Al final del movimiento tus rodillas estarán sobre tu pecho.",
+    "Contrae tus abdominales en la parte superior del movimiento durante un segundo y luego regresa a la posición inicial lentamente mientras inhalas. Consejo: Mantén un movimiento controlado en todo momento.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

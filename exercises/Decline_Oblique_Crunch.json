@@ -1,5 +1,6 @@
 {
   "name": "Crunch (Decline Oblique)",
+  "nameEs": "Abdominal (Declinado oblicuo)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,14 @@
     "Raise your upper body slowly from the starting position while turning your torso to the left. Continue crunching up as you exhale until your right elbow touches your left knee. Hold this contracted position for a second. Tip: Focus on keeping your abs tight and keeping the movement slow and controlled.",
     "Lower your body back down slowly to the starting position as you inhale.",
     "After completing one set on the right for the recommended amount of repetitions, switch to your left side. Tip: Focus on really twisting your torso and feeling the contraction when you are in the up position."
+  ],
+  "instructionsEs": [
+    "Asegura tus piernas en el extremo del banco declinado y acuéstate lentamente en el banco.",
+    "Eleva la parte superior de tu cuerpo del banco hasta que tu torso esté a unos 35-45 grados medidos desde el suelo.",
+    "Coloca una mano al lado de tu cabeza y la otra en tu muslo. Esta será tu posición inicial.",
+    "Eleva la parte superior de tu cuerpo lentamente desde la posición inicial mientras giras tu torso hacia la izquierda. Continúa haciendo abdominales mientras exhalas hasta que tu codo derecho toque tu rodilla izquierda. Mantén esta posición contraída por un segundo. Consejo: concéntrate en mantener tus abdominales apretados y el movimiento lento y controlado.",
+    "Baja tu cuerpo lentamente de regreso a la posición inicial mientras inhalas.",
+    "Después de completar una serie a la derecha por la cantidad recomendada de repeticiones, cambia a tu lado izquierdo. Consejo: concéntrate en girar realmente tu torso y sentir la contracción cuando estés en la posición superior."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

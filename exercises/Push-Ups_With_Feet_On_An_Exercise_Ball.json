@@ -1,5 +1,6 @@
 {
   "name": "Push-Up (Feet On An Exercise Ball)",
+  "nameEs": "Flexión de brazos (Pies sobre una pelota de ejercicio)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "Lower yourself until your chest almost touches the floor as you inhale.",
     "Using your pectoral muscles, press your upper body back up to the starting position and squeeze your chest. Breathe out as you perform this step.",
     "After a second pause at the contracted position, repeat the movement for the prescribed amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca abajo en el suelo y coloca tus manos a unos 90 cm de distancia entre sí, sosteniendo tu torso con los brazos extendidos.",
+    "Coloca la punta de tus pies sobre una pelota de ejercicio. Esto permitirá que tu cuerpo quede elevado.",
+    "Baja tu cuerpo hasta que tu pecho casi toque el suelo mientras inhalas.",
+    "Usando tus músculos pectorales, empuja tu tren superior de vuelta a la posición inicial y contrae el pecho. Exhala mientras realizas este paso.",
+    "Después de una pausa de un segundo en la posición de contracción, repite el movimiento por la cantidad de repeticiones prescrita."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

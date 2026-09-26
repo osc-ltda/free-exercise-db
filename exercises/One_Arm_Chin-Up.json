@@ -1,5 +1,6 @@
 {
   "name": "Chin-Up (One Arm)",
+  "nameEs": "Dominada supina (un brazo)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -20,6 +21,15 @@
     "After a second on the contracted position, start to inhale and slowly lower your torso back to the starting position when your arms are fully extended and the lats are fully stretched.",
     "Repeat this motion for the prescribed amount of repetitions.",
     "Switch arms and repeat the movement."
+  ],
+  "instructionsEs": [
+    "Para este ejercicio, comienza colocando una toalla alrededor de una barra de dominadas.",
+    "Agarra la barra con la palma hacia ti. Una mano agarrará la barra y la otra agarrará la toalla.",
+    "Lleva tu torso hacia atrás unos 30 grados aproximadamente mientras creas una curvatura en tu espalda baja y sacas el pecho. Esta es tu posición inicial.",
+    "Sube tu torso hasta que la barra toque la parte superior de tu pecho bajando y echando hacia atrás los hombros y la parte superior de los brazos. Exhala al realizar esta porción del movimiento. Consejo: concéntrate en apretar los músculos de la espalda una vez que alcances la posición de máxima contracción. La parte superior del torso debe permanecer estática mientras se desplaza por el espacio y solo deben moverse los brazos. Los antebrazos no deben hacer otro trabajo que no sea sostener la barra.",
+    "Después de un segundo en la posición contraída, comienza a inhalar y baja lentamente tu torso de regreso a la posición inicial cuando tus brazos estén completamente extendidos y los dorsales completamente estirados.",
+    "Repite este movimiento por la cantidad de repeticiones prescrita.",
+    "Cambia de brazo y repite el movimiento."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

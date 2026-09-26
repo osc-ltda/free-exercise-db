@@ -1,5 +1,6 @@
 {
   "name": "Press (Push)",
+  "nameEs": "Press (Push)",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -12,6 +13,7 @@
     "triceps"
   ],
   "instructions": [],
+  "instructionsEs": [],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",
   "images": [

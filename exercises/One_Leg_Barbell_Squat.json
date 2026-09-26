@@ -1,5 +1,6 @@
 {
   "name": "Squat (One Leg Barbell)",
+  "nameEs": "Sentadilla (Una pierna Barra)",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -20,6 +21,15 @@
     "Leading with the chest and hips and contracting the quadriceps, elevate your leg back to the starting position as you exhale.",
     "Repeat for the recommended amount of repetitions.",
     "Switch legs and repeat the movement."
+  ],
+  "instructionsEs": [
+    "Comienza parándote a unos 2 o 3 pies en frente de un banco plano con tu espalda mirando hacia el banco. Ten una barra frente a ti en el suelo. Consejo: Tus pies deben estar separados a la distancia de los hombros el uno del otro.",
+    "Dobla las rodillas y usa un agarre prono con tus manos más separadas que el ancho de los hombros el uno del otro para levantar la barra hasta que puedas apoyarla en tu pecho.",
+    "Luego levanta la barra por encima de tu cabeza y apóyala en la base de tu cuello. Mueve un pie hacia atrás para que la punta de tu pie descanse sobre el banco plano. Tu otro pie debe permanecer estacionario frente a ti. Mantén tu cabeza levantada en todo momento ya que mirar hacia abajo te hará perder el equilibrio y también mantén la espalda recta. Consejo: Asegúrate de que tu espalda esté recta y el pecho hacia afuera mientras realizas este ejercicio.",
+    "Mientras inhalas, baja lentamente tu pierna hasta que tu muslo esté paralelo al suelo. En este punto, tu rodilla debe estar sobre tus dedos de los pies. Tu pecho debe estar directamente encima de la mitad de tu muslo.",
+    "Liderando con el pecho y las caderas y contrayendo los cuádriceps, eleva tu pierna de vuelta a la posición inicial mientras exhalas.",
+    "Repite por la cantidad recomendada de repeticiones.",
+    "Cambia de pierna y repite el movimiento."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

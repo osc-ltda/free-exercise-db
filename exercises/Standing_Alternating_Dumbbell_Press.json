@@ -1,5 +1,6 @@
 {
   "name": "Press (Standing Alternating Dumbbell)",
+  "nameEs": "Press (alternado de pie con mancuerna)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,12 @@
     "Extend one arm to press the dumbbell straight up, keeping your off hand in place. Do not lean or jerk the weight during the movement.",
     "After a brief pause, return the weight to the starting position.",
     "Repeat for the opposite side, continuing to alternate between arms."
+  ],
+  "instructionsEs": [
+    "Párate con una mancuerna en cada mano. Eleva las mancuernas hacia tus hombros con las palmas hacia adelante y tus codos apuntando hacia afuera. Esta será tu posición inicial.",
+    "Extiende un brazo para hacer press con la mancuerna directamente hacia arriba, manteniendo tu otra mano en su lugar. No te inclines ni sacudas el peso durante el movimiento.",
+    "Después de una breve pausa, regresa el peso a la posición inicial.",
+    "Repite para el lado opuesto, continuando alternando entre los brazos."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

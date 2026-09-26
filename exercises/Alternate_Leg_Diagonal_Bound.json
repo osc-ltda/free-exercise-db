@@ -1,5 +1,6 @@
 {
   "name": "Alternate Leg Diagonal Bound",
+  "nameEs": "Salto diagonal con pierna alterna",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -19,6 +20,12 @@
     "Begin by pushing off with the front leg, driving the opposite knee forward and as high as possible before landing. Attempt to cover as much distance to each side with each bound.",
     "It may help to use a line on the ground to guage distance from side to side.",
     "Repeat the sequence with the other leg."
+  ],
+  "instructionsEs": [
+    "Adopta una postura cómoda con un pie ligeramente por delante del otro.",
+    "Comienza impulsándote con la pierna delantera, llevando la rodilla opuesta hacia adelante y lo más alto posible antes de aterrizar. Intenta cubrir la mayor distancia posible hacia cada lado con cada salto.",
+    "Puede ayudar usar una línea en el suelo para medir la distancia de lado a lado.",
+    "Repite la secuencia con la otra pierna."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

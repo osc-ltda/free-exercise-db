@@ -1,5 +1,6 @@
 {
   "name": "Fly (Cable Rear Delt)",
+  "nameEs": "Apertura para deltoides posterior (Polea)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "Grab the left pulley with your right hand and the right pulley with your left hand, crossing them in front of you. This will be your starting position.",
     "Initiate the movement by moving your arms back and outward, keeping your arms straight as you execute the movement.",
     "Pause at the end of the motion before returning the handles to the start position."
+  ],
+  "instructionsEs": [
+    "Ajusta las poleas a la altura adecuada y ajusta el peso. Las poleas deben estar por encima de tu cabeza.",
+    "Agarra la polea izquierda con tu mano derecha y la polea derecha con tu mano izquierda, cruzándolas frente a ti. Esta será tu posición inicial.",
+    "Inicia el movimiento moviendo tus brazos hacia atrás y hacia afuera, manteniendo los brazos rectos mientras ejecutas el movimiento.",
+    "Haz una pausa al final del movimiento antes de regresar las asas a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

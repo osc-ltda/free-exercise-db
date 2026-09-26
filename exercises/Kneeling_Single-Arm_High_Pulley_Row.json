@@ -1,5 +1,6 @@
 {
   "name": "Row (Kneeling Single-Arm High Pulley)",
+  "nameEs": "Remo (Polea alta a un brazo de rodillas)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Kneel in front of the cable tower, taking the cable with one hand with your arm extended. This will be your starting position.",
     "Starting with your palm facing forward, pull the weight down to your torso by flexing the elbow and retract the shoulder blade. As you do so, rotate the wrist so that at the completion of the movement, your palm is now facing you.",
     "After a brief pause, return to the starting position."
+  ],
+  "instructionsEs": [
+    "Coloca un mango individual en una polea alta y selecciona el peso.",
+    "Arrodíllate frente a la torre de cables, tomando el cable con una mano y con el brazo extendido. Esta será tu posición inicial.",
+    "Comenzando con la palma hacia adelante, tira del peso hacia tu torso flexionando el codo y retrayendo el omóplato. Al hacerlo, rota la muñeca para que, al finalizar el movimiento, la palma quede apuntando hacia ti.",
+    "Después de una breve pausa, regresa a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

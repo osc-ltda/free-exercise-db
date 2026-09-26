@@ -1,5 +1,6 @@
 {
   "name": "Triceps Extension (Kettlebell Overhead)",
+  "nameEs": "Extensión de tríceps (Pesa rusa por encima de la cabeza)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -17,6 +18,13 @@
     "Bend at the elbows to lower the kettlebell behind your head, going as far as your shoulder mobility allows without your elbows flaring outward.",
     "Extend your elbows to press the kettlebell back to the starting position, keeping your upper arms still throughout.",
     "Keep your ribcage down and avoid arching your lower back as you extend."
+  ],
+  "instructionsEs": [
+    "Párate con los pies separados a la distancia de las caderas, sosteniendo una pesa rusa por las astas con ambas manos. Presiónala por encima de la cabeza hasta que tus brazos estén extendidos, con la campana colgando detrás de tus manos.",
+    "Contrae tus abdominales y mantén la parte superior de los brazos vertical y cerca de tu cabeza. Esta es tu posición inicial.",
+    "Flexiona los codos para bajar la pesa rusa detrás de tu cabeza, llegando tan lejos como tu movilidad de hombros lo permita sin que tus codos se abran hacia afuera.",
+    "Extiende tus codos para regresar la pesa rusa a la posición inicial, manteniendo la parte superior de los brazos quieta en todo momento.",
+    "Mantén la caja torácica hacia abajo y evita arquear la parte baja de la espalda al extender."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

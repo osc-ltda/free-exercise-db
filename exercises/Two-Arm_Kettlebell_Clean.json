@@ -1,5 +1,6 @@
 {
   "name": "Clean (Two-Arm Kettlebell)",
+  "nameEs": "Clean (Pesa rusa a dos brazos)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,6 +19,11 @@
     "Place two kettlebells between your feet. To get in the starting position, push your butt back and look straight ahead.",
     "Clean the kettlebells to your shoulders by extending through the legs and hips as you raise the kettlebells towards your shoulders. Rotate your wrists as you do so.",
     "Lower the kettlebells back to the starting position and repeat."
+  ],
+  "instructionsEs": [
+    "Coloca dos pesas rusas entre tus pies. Para adoptar la posición inicial, lleva los glúteos hacia atrás y mira al frente.",
+    "Eleva las pesas rusas hacia tus hombros extendiendo las piernas y las caderas mientras subes las pesas rusas hacia tus hombros. Rota tus muñecas al hacerlo.",
+    "Baja las pesas rusas de vuelta a la posición inicial y repite."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

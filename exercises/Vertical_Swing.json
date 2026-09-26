@@ -1,5 +1,6 @@
 {
   "name": "Swing (Vertical)",
+  "nameEs": "Swing (Vertical)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "Swing the dumbbell between your legs, flexing at the hips and bending the knees slightly.",
     "Powerfully reverse the motion by extending at the hips, knees, and ankles to propel yourself upward, swinging the dumbell over your head.",
     "As you land, absorb the impact through your legs and draw the dumbbell to your torso before the next repetition."
+  ],
+  "instructionsEs": [
+    "Permite que la mancuerna cuelgue con los brazos extendidos entre tus piernas, sosteniéndola con ambas manos. Mantén la espalda recta y la cabeza en alto.",
+    "Haz oscilar la mancuerna entre tus piernas, flexionando las caderas y doblando ligeramente las rodillas.",
+    "Revierte el movimiento con potencia extendiendo las caderas, rodillas y tobillos para impulsarte hacia arriba, balanceando la mancuerna por encima de tu cabeza.",
+    "Al aterrizar, absorbe el impacto a través de tus piernas y lleva la mancuerna hacia tu torso antes de la siguiente repetición."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

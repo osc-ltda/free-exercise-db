@@ -1,5 +1,6 @@
 {
   "name": "Squat (Freehand Jump)",
+  "nameEs": "Sentadilla (Freehand Jump)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,6 +20,14 @@
     "Now pressing mainly with the ball of your feet, jump straight up in the air as high as possible, using the thighs like springs. Exhale during this portion of the movement.",
     "When you touch the floor again, immediately squat down and jump again.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Cruza los brazos sobre el pecho.",
+    "Con la cabeza levantada y la espalda recta, coloca los pies al ancho de los hombros.",
+    "Manteniendo la espalda recta y el pecho levantado, haz una sentadilla mientras inhalas hasta que tus muslos estén paralelos al suelo, o más abajo.",
+    "Ahora, presionando principalmente con la parte delantera de los pies, salta recto en el aire lo más alto posible, usando los muslos como resortes. Exhala durante esta porción del movimiento.",
+    "Cuando vuelvas a tocar el suelo, haz una sentadilla inmediatamente y salta de nuevo.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

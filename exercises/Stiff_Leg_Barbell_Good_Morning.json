@@ -1,5 +1,6 @@
 {
   "name": "Stiff Leg Barbell Good Morning",
+  "nameEs": "Good Morning con barra y piernas rígidas",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,6 +19,14 @@
     "Keeping your legs stationary, move your torso forward by bending at the hips while inhaling. Lower your torso until it is parallel with the floor.",
     "Begin to raise the bar as you exhale by elevating your torso back to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Este ejercicio se realiza mejor dentro de una jaula de sentadillas por razones de seguridad. Para comenzar, primero ajusta la barra en un rack que se adapte mejor a tu altura. Una vez elegida la altura correcta y cargada la barra, colócate debajo de ella y apoya la parte posterior de los hombros (ligeramente debajo del cuello) sobre ella.",
+    "Sostén la barra con ambos brazos a cada lado y levántala del rack empujando primero con las piernas y al mismo tiempo enderezando tu torso.",
+    "Aléjate del rack y coloca tus piernas con una postura media a la distancia de los hombros. Mantén la cabeza en alto en todo momento, ya que mirar hacia abajo te hará perder el equilibrio, y mantén también la espalda recta. Esta será tu posición inicial.",
+    "Manteniendo las piernas estáticas, mueve tu torso hacia adelante doblando las caderas mientras inhalas. Baja el torso hasta que quede paralelo al piso.",
+    "Comienza a elevar la barra mientras exhalas enderezando tu torso de vuelta a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

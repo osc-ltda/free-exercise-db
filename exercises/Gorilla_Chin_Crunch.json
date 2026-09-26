@@ -1,5 +1,6 @@
 {
   "name": "Crunch (Gorilla Chin/)",
+  "nameEs": "Abdominal (Dominada supina Gorilla/)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "As you exhale, pull yourself up while crunching your knees up at the same time until your knees are at chest level. You will stop going up as soon as your nose is at the same level as the bar. Tip: When you get to this point you should also be finishing the crunch at the same time.",
     "Slowly start to inhale as you return to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Cuélgate de una barra de dominada supina usando un agarre supino (con las palmas hacia ti) ligeramente más ancho que el ancho de los hombros.",
+    "Ahora flexiona las rodillas en un ángulo de 90 grados para que las pantorrillas queden paralelas al piso mientras los muslos permanecen perpendiculares a este. Esta será tu posición inicial.",
+    "Mientras exhalas, súbete mientras haces un abdominal al mismo tiempo hasta que tus rodillas estén a la altura del pecho. Dejarás de subir tan pronto como tu nariz esté al mismo nivel de la barra. Consejo: Cuando llegues a este punto también debes estar terminando el abdominal al mismo tiempo.",
+    "Comienza a inhalar lentamente mientras regresas a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

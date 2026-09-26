@@ -1,5 +1,6 @@
 {
   "name": "Reverse Flye (Sled)",
+  "nameEs": "Apertura inversa (Trineo)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "Face the sled, backing up until there is some tension in the line. Take both handles at arms length at about waist level. Bend the knees slightly and keep your chest and head up. This will be your starting position.",
     "Without flexing the elbow, pull the handles upward and apart, performing a reverse fly with some external rotation. Your palms should be facing forward as you do this.",
     "Return to the starting position, taking a couple steps back to take the slack out of the line."
+  ],
+  "instructionsEs": [
+    "Conecta dos manijas a un trineo mediante una cuerda o cadena. Carga el trineo con un peso ligero.",
+    "Párate frente al trineo y retrocede hasta que haya tensión en la línea. Toma ambas manijas con los brazos extendidos aproximadamente a la altura de la cintura. Dobla ligeramente las rodillas y mantén el pecho y la cabeza en alto. Esta será tu posición inicial.",
+    "Sin flexionar el codo, tira de las manijas hacia arriba y hacia afuera, realizando una apertura inversa con cierta rotación externa. Las palmas deben mirar hacia adelante al hacer esto.",
+    "Regresa a la posición inicial dando un par de pasos hacia atrás para eliminar la holgura de la línea."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

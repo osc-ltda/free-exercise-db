@@ -1,5 +1,6 @@
 {
   "name": "Foot-SMR",
+  "nameEs": "Foot-SMR",
   "force": "static",
   "level": "intermediate",
   "mechanic": null,
@@ -11,6 +12,10 @@
   "instructions": [
     "This exercise stretches the fascia of the muscles in the feet. Start off seated with your shoes removed. Using a foot roller or a similar object, such as a small section of pvc pipe, place your foot against the roller across the arch of your foot. This will be your starting position.",
     "Press down firmly, rolling across the arch of your foot. Hold for 10-30 seconds, and then switch feet."
+  ],
+  "instructionsEs": [
+    "Este ejercicio estira la fascia de los músculos en los pies. Comienza sentado con los zapatos quitados. Usando un rodillo para pies o un objeto similar, como una sección pequeña de tubo de PVC, coloca tu pie contra el rodillo a lo largo del arco de tu pie. Esta será tu posición inicial.",
+    "Presiona firmemente hacia abajo, rodando a lo largo del arco de tu pie. Mantén durante 10-30 segundos y luego cambia de pie."
   ],
   "category": "stretching",
   "trackingType": "time",

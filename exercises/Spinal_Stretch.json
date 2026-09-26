@@ -1,5 +1,6 @@
 {
   "name": "Spinal Stretch",
+  "nameEs": "Estiramiento espinal",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -18,6 +19,12 @@
     "Interlace your fingers behind your head, elbows out and your chin down.",
     "Twist your upper body to one side about 3 times as far as you can. Then lean forward and twist your torso to reach your elbow to the floor on the inside of your knee.",
     "Return to upright position and then repeat for your other side."
+  ],
+  "instructionsEs": [
+    "Siéntate en una silla de modo que tu espalda esté derecha y tus pies apoyados en el suelo.",
+    "Entrelaza tus dedos detrás de tu cabeza, con los codos hacia afuera y la barbilla hacia abajo.",
+    "Gira tu torso hacia un lado unas 3 veces tanto como puedas. Luego inclínate hacia adelante y gira tu torso para llevar tu codo hacia el suelo por la parte interior de tu rodilla.",
+    "Regresa a la posición erguida y luego repite para el otro lado."
   ],
   "category": "stretching",
   "trackingType": "time",

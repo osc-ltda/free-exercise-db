@@ -1,5 +1,6 @@
 {
   "name": "Lateral Bound",
+  "nameEs": "Salto lateral",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,6 +21,13 @@
     "Immediately push off and extend, attempting to bound to the side as far as possible.",
     "Upon landing, immediately push off in the opposite direction, returning to your original start position.",
     "Continue back and forth for several repetitions."
+  ],
+  "instructionsEs": [
+    "Adopta una posición de semisentadilla orientada a 90 grados de tu dirección de desplazamiento. Esta será tu posición inicial.",
+    "Permite que tu pierna guía haga un contramovimiento hacia adentro mientras desplazas tu peso hacia la pierna exterior.",
+    "Impúlsate y extiéndete de inmediato, intentando saltar hacia un lado lo más lejos posible.",
+    "Al aterrizar, impúlsate de inmediato en dirección opuesta, regresando a tu posición inicial original.",
+    "Continúa de un lado a otro durante varias repeticiones."
   ],
   "category": "plyometrics",
   "trackingType": "bodyweight_reps",

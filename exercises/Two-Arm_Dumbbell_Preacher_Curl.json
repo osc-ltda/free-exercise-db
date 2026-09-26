@@ -1,5 +1,6 @@
 {
   "name": "Preacher Curl (Two-Arm Dumbbell)",
+  "nameEs": "Curl en banco Scott (Mancuerna a dos brazos)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "As you breathe in, slowly lower the dumbbells until your upper arm is extended and the biceps is fully stretched.",
     "As you exhale, use the biceps to curl the weights up until your biceps is fully contracted and the dumbbells are at shoulder height.",
     "Squeeze the biceps hard for a second at the contracted position and repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Toma una mancuerna con cada brazo y apoya la parte superior de los brazos sobre el banco Scott o el banco inclinado. La mancuerna debe sostenerse a la altura de los hombros. Esta será tu posición inicial.",
+    "Mientras inhalas, baja lentamente las mancuernas hasta que tu brazo esté extendido y el bíceps esté completamente estirado.",
+    "Mientras exhalas, usa el bíceps para elevar las pesas con un curl hasta que tu bíceps esté completamente contraído y las mancuernas estén a la altura de los hombros.",
+    "Aprieta los bíceps con fuerza durante un segundo en la posición contraída y repite para la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

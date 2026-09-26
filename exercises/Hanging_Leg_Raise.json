@@ -1,5 +1,6 @@
 {
   "name": "Hanging Leg Raise",
+  "nameEs": "Elevación de piernas colgado",
   "force": "pull",
   "level": "expert",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "Raise your legs until the torso makes a 90-degree angle with the legs. Exhale as you perform this movement and hold the contraction for a second or so.",
     "Go back slowly to the starting position as you breathe in.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Cuélgate de una barra de dominada supina con ambos brazos extendidos a la longitud de tus brazos por encima de ti usando un agarre ancho o un agarre medio. Las piernas deben estar rectas hacia abajo con la pelvis rotada ligeramente hacia atrás. Esta será tu posición inicial.",
+    "Eleva tus piernas hasta que el torso forme un ángulo de 90 grados con las piernas. Exhala mientras realizas este movimiento y mantén la contracción durante un segundo más o menos.",
+    "Regresa lentamente a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

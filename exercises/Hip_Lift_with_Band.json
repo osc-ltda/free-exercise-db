@@ -1,5 +1,6 @@
 {
   "name": "Hip Lift with Band",
+  "nameEs": "Elevación de cadera con banda",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Adjust your position so that the band is directly over your hips. Bend your knees and place your feet flat on the floor. Your hands can be on the floor or holding the band in position.",
     "Keeping your shoulders on the ground, drive through your heels to raise your hips, pushing into the band as high as you can.",
     "Pause at the top of the motion, and return to the starting position."
+  ],
+  "instructionsEs": [
+    "Después de elegir una banda adecuada, acuéstate en el medio del rack tras asegurar la banda a cada lado tuyo. Si tu rack no tiene soportes, la banda se puede asegurar usando mancuernas pesadas u objetos similares, solo asegúrate de que no se muevan.",
+    "Ajusta tu posición para que la banda quede directamente sobre tus caderas. Dobla las rodillas y apoya los pies planos en el suelo. Tus manos pueden estar en el suelo o sosteniendo la banda en su posición.",
+    "Manteniendo los hombros en el suelo, empuja a través de los talones para elevar la cadera, presionando contra la banda lo más alto que puedas.",
+    "Haz una pausa en la parte superior del movimiento y regresa a la posición inicial."
   ],
   "category": "powerlifting",
   "trackingType": "weight_reps",

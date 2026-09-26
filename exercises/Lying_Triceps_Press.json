@@ -1,5 +1,6 @@
 {
   "name": "Press (Lying Triceps)",
+  "nameEs": "Press (Tríceps acostado)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "As you breathe in, slowly lower the weight until the bar lightly touches your forehead while keeping the upper arms and elbows stationary.",
     "At that point, use the triceps to bring the weight back up to the starting position as you breathe out.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate en un banco plano con una barra Z (mi preferencia) o una barra recta colocada en el suelo detrás de tu cabeza y tus pies en el suelo.",
+    "Agarra la barra detrás de ti, usando un agarre prono medio, y eleva la barra frente a ti a la longitud de tus brazos. Consejo: Los brazos deben ser perpendiculares al torso y al suelo. Los codos deben estar bien pegados. Esta es la posición inicial.",
+    "Al inhalar, baja lentamente el peso hasta que la barra toque ligeramente tu frente mientras mantienes la parte superior de los brazos y los codos estáticos.",
+    "En ese punto, usa los tríceps para volver a subir el peso a la posición inicial mientras exhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

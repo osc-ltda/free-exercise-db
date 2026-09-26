@@ -1,5 +1,6 @@
 {
   "name": "Push-Up (Clock)",
+  "nameEs": "Flexión de brazos (en reloj)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,6 +19,14 @@
     "At the bottom, reverse the motion by pushing yourself up through elbow extension as quickly as possible until you are air borne. Aim to \"jump\" 12-18 inches to one side.",
     "As you accelerate up, move your outside foot away from your direction of travel. Leaving the ground, shift your body about 30 degrees for the next repetition.",
     "Return to the starting position and repeat the exercise, working all the way around until you are back where you started."
+  ],
+  "instructionsEs": [
+    "Colócate en posición prona en el suelo, apoyando tu peso sobre las manos y las puntas de los pies.",
+    "Tus brazos deben estar completamente extendidos con las manos aproximadamente al ancho de los hombros. Mantén tu cuerpo recto durante todo el movimiento. Esta será tu posición inicial.",
+    "Desciende flexionando el codo y bajando tu pecho hacia el suelo.",
+    "En la parte baja, invierte el movimiento empujándote hacia arriba mediante la extensión del codo lo más rápido posible hasta que quedes en el aire. Intenta \"saltar\" de 12 a 18 pulgadas hacia un lado.",
+    "A medida que aceleras hacia arriba, aleja tu pie exterior de tu dirección de movimiento. Al dejar el suelo, desplaza tu cuerpo unos 30 grados para la siguiente repetición.",
+    "Regresa a la posición inicial y repite el ejercicio, trabajando en círculo hasta volver al punto de partida."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

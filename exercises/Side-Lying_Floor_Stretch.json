@@ -1,5 +1,6 @@
 {
   "name": "Side-Lying Floor Stretch",
+  "nameEs": "Estiramiento en el suelo de lado",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -11,6 +12,10 @@
   "instructions": [
     "First lie on your left side, bending your left knee in front of you to stabilize your torso (use your abdominal muscles as well to hold you upright).",
     "Straighten your right leg and rest the right foot on the floor behind your left. Straighten your right arm over your head and gently pull on your right wrist to stretch the entire right side of the body. Switch sides."
+  ],
+  "instructionsEs": [
+    "Primero acuéstate sobre tu lado izquierdo, doblando la rodilla izquierda frente a ti para estabilizar tu torso (usa también tus músculos abdominales para mantenerte erguido).",
+    "Estira tu pierna derecha y apoya el pie derecho en el suelo detrás de la izquierda. Estira tu brazo derecho por encima de la cabeza y tira suavemente de tu muñeca derecha para estirar todo el lado derecho del cuerpo. Cambia de lado."
   ],
   "category": "stretching",
   "trackingType": "time",

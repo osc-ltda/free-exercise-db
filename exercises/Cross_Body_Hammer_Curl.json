@@ -1,5 +1,6 @@
 {
   "name": "Hammer Curl (Cross Body)",
+  "nameEs": "Hammer Curl (Cruzado)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,12 @@
     "While keeping your palms facing in and without twisting your arm, curl the dumbbell of the right arm up towards your left shoulder as you exhale. Touch the top of the dumbbell to your shoulder and hold the contraction for a second.",
     "Slowly lower the dumbbell along the same path as you inhale and then repeat the same movement for the left arm.",
     "Continue alternating in this fashion until the recommended amount of repetitions is performed for each arm."
+  ],
+  "instructionsEs": [
+    "Párate derecho con una mancuerna en cada mano. Tus manos deben estar a los lados con las palmas apuntando hacia adentro.",
+    "Mientras mantienes las palmas apuntando hacia adentro y sin girar tu brazo, haz un curl con la mancuerna del brazo derecho hacia tu hombro izquierdo mientras exhalas. Toca la parte superior de la mancuerna con tu hombro y mantén la contracción durante un segundo.",
+    "Baja lentamente la mancuerna por el mismo recorrido mientras inhalas y luego repite el mismo movimiento con el brazo izquierdo.",
+    "Continúa alternando de esta manera hasta realizar la cantidad recomendada de repeticiones para cada brazo."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

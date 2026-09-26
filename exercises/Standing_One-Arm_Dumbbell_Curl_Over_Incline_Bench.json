@@ -1,5 +1,6 @@
 {
   "name": "Curl (Standing One-Arm Dumbbell Over Incline Bench)",
+  "nameEs": "Curl (Mancuerna a un brazo de pie sobre banco inclinado)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Slowly begin to bring the dumbbells back to starting position as your breathe in.",
     "Repeat for the recommended amount of repetitions.",
     "Switch arms while performing this exercise."
+  ],
+  "instructionsEs": [
+    "Párate en la parte trasera de un banco inclinado como si fueras a hacer de asistente para alguien. Toma una mancuerna en una mano y apóyala a lo largo del banco inclinado con un agarre supinado (palmas hacia arriba).",
+    "Coloca tu mano que no levanta en la esquina o lateral del banco inclinado. Tu pecho debe estar presionado contra la parte superior de la inclinación y tus pies deben estar firmes en el suelo con una postura amplia. Esta es la posición inicial.",
+    "Mientras mantienes el brazo estático, haz un curl con la mancuerna hacia arriba mientras contraes los bíceps al exhalar. Solo los antebrazos deben moverse. Continúa el movimiento hasta que tus bíceps estén completamente contraídos y la mancuerna esté a la altura del hombro. Mantén la posición contraída por un segundo.",
+    "Comienza lentamente a llevar las mancuernas de vuelta a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones.",
+    "Cambia de brazo al realizar este ejercicio."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Squats (Split)",
+  "nameEs": "Sentadilla (dividida)",
   "force": "push",
   "level": "intermediate",
   "mechanic": null,
@@ -15,6 +16,10 @@
   "instructions": [
     "Being in a standing position. Jump into a split leg position, with one leg forward and one leg back, flexing the knees and lowering your hips slightly as you do so.",
     "As you descend, immediately reverse direction, standing back up and jumping, reversing the position of your legs. Repeat 5-10 times on each leg."
+  ],
+  "instructionsEs": [
+    "Estando de pie. Salta a una posición de piernas divididas, con una pierna hacia adelante y otra hacia atrás, flexionando las rodillas y bajando ligeramente las caderas al hacerlo.",
+    "A medida que desciendes, invierte inmediatamente la dirección, ponte de pie de nuevo y salta, invirtiendo la posición de tus piernas. Repite de 5 a 10 veces en cada pierna."
   ],
   "category": "stretching",
   "trackingType": "time",

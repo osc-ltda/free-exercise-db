@@ -1,5 +1,6 @@
 {
   "name": "Calf Press",
+  "nameEs": "Press de pantorrilla",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "Select an appropriate weight, and grasp the handles. This will be your starting position.",
     "Straighten the legs by extending the knees, just barely lifting the weight from the stack. Your ankle should be fully flexed, toes pointing up. Execute the movement by pressing downward through the balls of your feet as far as possible.",
     "After a brief pause, reverse the motion and repeat."
+  ],
+  "instructionsEs": [
+    "Ajusta el asiento para que tus piernas estén solo ligeramente flexionadas en la posición inicial. La parte anterior de la planta de tus pies debe estar firmemente sobre la plataforma.",
+    "Selecciona un peso adecuado y sujeta los mangos. Esta será tu posición inicial.",
+    "Endereza las piernas extendiendo las rodillas, levantando apenas el peso de la pila. Tu tobillo debe estar completamente flexionado con los dedos apuntando hacia arriba. Ejecuta el movimiento presionando hacia abajo con la parte anterior de la planta de los pies lo más lejos posible.",
+    "Tras una breve pausa, invierte el movimiento y repite."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

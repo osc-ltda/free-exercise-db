@@ -1,5 +1,6 @@
 {
   "name": "Iron Crosses (stretch)",
+  "nameEs": "Iron Crosses (estiramiento)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,6 +13,11 @@
     "Lie face down on the floor, with your arms extended out to your side, palms pressed to the floor. This will be your starting position.",
     "To begin, flex one knee and bring that leg across the back of your body, attempting to touch it to the ground near the opposite hand.",
     "Promptly return the leg to the starting postion, and quickly repeat with the other leg. Continue alternating for 10-20 repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca abajo en el suelo, con los brazos extendidos hacia los lados y las palmas presionadas contra el suelo. Esta será tu posición inicial.",
+    "Para empezar, flexiona una rodilla y pasa esa pierna por detrás de tu cuerpo, intentando tocar el suelo cerca de la mano opuesta.",
+    "Regresa rápidamente la pierna a la posición inicial y repite con la otra pierna. Continúa alternando durante 10-20 repeticiones."
   ],
   "category": "stretching",
   "trackingType": "time",

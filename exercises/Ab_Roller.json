@@ -1,5 +1,6 @@
 {
   "name": "Ab Roller",
+  "nameEs": "Rueda abdominal",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,6 +16,12 @@
     "Now place the ab roller on the floor in front of you so that you are on all your hands and knees (as in a kneeling push up position). This will be your starting position.",
     "Slowly roll the ab roller straight forward, stretching your body into a straight position. Tip: Go down as far as you can without touching the floor with your body. Breathe in during this portion of the movement.",
     "After a pause at the stretched position, start pulling yourself back to the starting position as you breathe out. Tip: Go slowly and keep your abs tight at all times."
+  ],
+  "instructionsEs": [
+    "Sostén la rueda abdominal con ambas manos y arrodíllate en el suelo.",
+    "Ahora coloca la rueda abdominal en el suelo frente a ti de modo que estés apoyado sobre tus manos y rodillas (como en una posición de flexión de brazos de rodillas). Esta será tu posición inicial.",
+    "Rueda lentamente la rueda abdominal directamente hacia adelante, estirando tu cuerpo hasta una posición recta. Consejo: Baja tanto como puedas sin tocar el suelo con tu cuerpo. Inhala durante esta parte del movimiento.",
+    "Después de una pausa en la posición estirada, comienza a llevarte de regreso a la posición inicial mientras exhalas. Consejo: Ve despacio y mantén tus abdominales contraídos en todo momento."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

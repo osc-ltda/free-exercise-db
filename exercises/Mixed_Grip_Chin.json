@@ -1,5 +1,6 @@
 {
   "name": "Mixed Grip Chin",
+  "nameEs": "Dominada supina (Agarre mixto)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "After a second contraction at the top, start to slowly come down as you inhale.",
     "Repeat for the recommended amount of repetitions.",
     "On the following set, switch grips; so if you had the right hand with the palms facing you and the left one with the palms facing forward, on the next set you will have the palms facing forward for the right hand and facing you for the left."
+  ],
+  "instructionsEs": [
+    "Usando una separación que sea aproximadamente 1 pulgada más ancha que el ancho de los hombros, agarra una barra de dominada con las palmas de una mano hacia adelante y las palmas de la otra mano hacia ti. Esta será tu posición inicial.",
+    "Ahora comienza a subirte mientras exhalas. Consejo: con el brazo que tiene las palmas hacia arriba, concéntrate en usar los músculos de la espalda para realizar el movimiento. El codo de ese brazo debe permanecer cerca del torso. Con el otro brazo que tiene las palmas hacia adelante, los codos estarán separados pero alineados con el torso. Te concentrarás en usar los dorsales para levantar tu cuerpo.",
+    "Después de una contracción de un segundo en la parte superior, comienza a bajar lentamente mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones.",
+    "En la siguiente serie, cambia de agarre; por lo tanto, si tenías la mano derecha con las palmas hacia ti y la izquierda con las palmas hacia adelante, en la siguiente serie tendrás las palmas hacia adelante para la mano derecha y hacia ti para la izquierda."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

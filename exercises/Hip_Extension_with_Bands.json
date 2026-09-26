@@ -1,5 +1,6 @@
 {
   "name": "Hip Extension with Bands",
+  "nameEs": "Extensión de cadera con bandas",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,12 @@
     "Facing the attachment point of the band, hold on to the column to stabilize yourself.",
     "Keeping your head and your chest up, move the resisted leg back as far as you can while keeping the knee straight.",
     "Return the leg to the starting position."
+  ],
+  "instructionsEs": [
+    "Fija un extremo de la banda a la parte inferior de un poste y sujeta el otro al tobillo.",
+    "De cara al punto de fijación de la banda, agárrate de la columna para estabilizarte.",
+    "Manteniendo la cabeza y el pecho erguidos, lleva la pierna resistida hacia atrás lo más lejos posible manteniendo la rodilla estirada.",
+    "Regresa la pierna a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

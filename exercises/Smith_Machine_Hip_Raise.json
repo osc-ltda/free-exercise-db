@@ -1,5 +1,6 @@
 {
   "name": "Hip Raise (Smith Machine)",
+  "nameEs": "Elevación de cadera (Máquina Smith)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "Initiate the movement by rotating your pelvis, flexing your spine to raise your hips off of the bench. Maintain a slight bend in the knees throughout the motion.",
     "After a brief pause, return the hips to the bench.",
     "Repeat for the desired number of repetitions."
+  ],
+  "instructionsEs": [
+    "Coloca un banco en el rack y carga la barra con un peso adecuado. Acuéstate en el banco, colocando la planta de los pies contra la barra. Desbloquea la barra y extiende tus piernas. Es posible que debas usar tus manos para ayudarte. Para mayor estabilidad, agarra los lados de la máquina Smith. Esta será tu posición inicial.",
+    "Inicia el movimiento girando tu pelvis, flexionando tu columna para elevar las caderas del banco. Mantén una leve flexión en las rodillas durante todo el movimiento.",
+    "Después de una breve pausa, regresa las caderas al banco.",
+    "Repite para el número deseado de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

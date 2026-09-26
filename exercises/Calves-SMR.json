@@ -1,5 +1,6 @@
 {
   "name": "Calves-SMR",
+  "nameEs": "Pantorrillas-SMR",
   "force": "static",
   "level": "intermediate",
   "mechanic": null,
@@ -11,6 +12,10 @@
   "instructions": [
     "Begin seated on the floor. Place a foam roller underneath your lower leg. Your other leg can either be crossed over the opposite or be placed on the floor, supporting some of your weight. This will be your starting position.",
     "Place your hands to your side or just behind you, and press down to raise your hips off of the floor, placing much of your weight against your calf muscle. Roll from below the knee to above the ankle, pausing at points of tension for 10-30 seconds. Repeat for the other leg."
+  ],
+  "instructionsEs": [
+    "Comienza sentado en el suelo. Coloca un rodillo de espuma debajo de tu pierna inferior. Tu otra pierna puede cruzarse sobre la opuesta o colocarse en el suelo, soportando parte de tu peso. Esta será tu posición inicial.",
+    "Coloca tus manos a tu lado o justo detrás de ti, y presiona hacia abajo para levantar tus caderas del suelo, colocando gran parte de tu peso contra el músculo de tu pantorrilla. Rueda desde debajo de la rodilla hasta encima del tobillo, haciendo una pausa en los puntos de tensión durante 10-30 segundos. Repite con la otra pierna."
   ],
   "category": "stretching",
   "trackingType": "time",

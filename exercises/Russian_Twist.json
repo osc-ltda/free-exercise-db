@@ -1,5 +1,6 @@
 {
   "name": "Twist (Russian)",
+  "nameEs": "Twist ruso",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,6 +17,13 @@
     "Twist your torso to the right side until your arms are parallel with the floor while breathing out.",
     "Hold the contraction for a second and move back to the starting position while breathing out. Now move to the opposite side performing the same techniques you applied to the right side.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate en el suelo colocando tus pies debajo de algo que no se mueva o pidiéndole a un compañero que los sostenga. Tus piernas deben estar dobladas por las rodillas.",
+    "Eleva tu tren superior de modo que forme una forma de V imaginaria con tus muslos. Tus brazos deben estar completamente extendidos frente a ti, perpendiculares a tu torso y con las manos entrelazadas. Esta es la posición inicial.",
+    "Gira tu torso hacia el lado derecho hasta que tus brazos queden paralelos al suelo mientras exhalas.",
+    "Mantén la contracción durante un segundo y regresa a la posición inicial mientras exhalas. Ahora muévete hacia el lado opuesto aplicando las mismas técnicas que usaste en el lado derecho.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

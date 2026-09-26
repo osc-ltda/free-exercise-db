@@ -1,5 +1,6 @@
 {
   "name": "Squat (Weighted Sissy)",
+  "nameEs": "Sentadilla (Sissy lastrada)",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "As you use one arm to hold yourself, bend at the knees and slowly lower your torso toward the ground by bringing your pelvis and knees forward. Inhale as you go down and stop when your upper and lower legs almost create a 90-degree angle. Hold the stretch position for a second.",
     "After your one second hold, use your thigh muscles to bring your torso back up to the starting position. Exhale as you move up.",
     "Repeat for the recommended amount of times."
+  ],
+  "instructionsEs": [
+    "De pie y erguido, con los pies al ancho de los hombros y las puntas de los pies elevadas, usa una mano para sostenerte de las estructuras de un soporte de sentadillas y el brazo opuesto para sostener un disco en la parte superior de tu pecho. Esta es tu posición de inicio.",
+    "Mientras usas un brazo para sostenerte, dobla las rodillas y baja lentamente tu torso hacia el suelo llevando la pelvis y las rodillas hacia adelante. Inhala al bajar y detente cuando tus muslos y pantorrillas formen casi un ángulo de 90 grados. Mantén la posición de estiramiento durante un segundo.",
+    "Después de mantener la posición durante un segundo, usa los músculos de tus muslos para llevar tu torso de regreso a la posición de inicio. Exhala mientras subes.",
+    "Repite por la cantidad de veces recomendada."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

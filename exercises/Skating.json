@@ -1,5 +1,6 @@
 {
   "name": "Skating",
+  "nameEs": "Patinaje",
   "force": null,
   "level": "intermediate",
   "mechanic": null,
@@ -17,6 +18,10 @@
   "instructions": [
     "Roller skating is a fun activity which can be effective in improving cardiorespiratory fitness and muscular endurance. It requires relatively good balance and coordination. It is necessary to learn the basics of skating including turning and stopping and to wear protective gear to avoid possible injury.",
     "You can skate at a comfortable pace for 30 minutes straight. If you want a cardio challenge, do interval skating — speed skate two minutes of every five minutes, using the remaining three minutes to recover. A 150 lb person will typically burn about 175 calories in 30 minutes skating at a comfortable pace, similar to brisk walking."
+  ],
+  "instructionsEs": [
+    "El patinaje sobre ruedas es una actividad divertida que puede ser eficaz para mejorar la condición cardiorrespiratoria y la resistencia muscular. Requiere un equilibrio y una coordinación relativamente buenos. Es necesario aprender los fundamentos del patinaje, incluidos los giros y las paradas, y usar equipo de protección para evitar posibles lesiones.",
+    "Puedes patinar a un ritmo cómodo durante 30 minutos seguidos. Si quieres un reto cardiovascular, haz patinaje por intervalos: patina a velocidad durante dos minutos de cada cinco, usando los tres minutos restantes para recuperar. Una persona de 150 lb normalmente quemará unas 175 calorías en 30 minutos patinando a un ritmo cómodo, similar a una caminata rápida."
   ],
   "category": "cardio",
   "trackingType": "time",

@@ -1,5 +1,6 @@
 {
   "name": "Wrist Roller",
+  "nameEs": "Rodillo para muñecas",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,13 @@
     "Rotate one wrist at a time in an upward motion to bring the weight up to the bar by rolling the rope around the roller.",
     "Once the weight has reached the bar, slowly begin to lower the weight back down by rotating the wrist in a downward motion until the weight reaches the starting position.",
     "Repeat for the prescribed amount of repetitions in your program."
+  ],
+  "instructionsEs": [
+    "Para empezar, párate derecho agarrando un rodillo para muñecas con un agarre pronado (palmas hacia abajo). Tus pies deben estar separados a la distancia de los hombros.",
+    "Levanta lentamente ambos brazos hasta que estén completamente extendidos y paralelos al suelo frente a ti. Nota: asegúrate de que la cuerda no esté enrollada alrededor del rodillo. Todo tu cuerpo debe estar inmóvil excepto los antebrazos. Esta es la posición inicial.",
+    "Gira una muñeca a la vez en un movimiento ascendente para subir el peso hacia la barra enrollando la cuerda alrededor del rodillo.",
+    "Una vez que el peso haya llegado a la barra, comienza a bajarlo lentamente girando la muñeca en un movimiento descendente hasta que el peso llegue a la posición inicial.",
+    "Repite por la cantidad de repeticiones prescrita en tu programa."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

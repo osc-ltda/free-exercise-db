@@ -1,5 +1,6 @@
 {
   "name": "Rear Delt Raise (Seated Bent-Over)",
+  "nameEs": "Elevación de hombro posterior (Sentado inclinado con mancuerna)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Keeping your torso forward and stationary, and the arms slightly bent at the elbows, lift the dumbbells straight to the side until both arms are parallel to the floor. Exhale as you lift the weights. (Note: avoid swinging the torso or bringing the arms back as opposed to the side.)",
     "After a one second contraction at the top, slowly lower the dumbbells back to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Coloca un par de mancuernas mirando hacia adelante frente a un banco plano.",
+    "Siéntate en el extremo del banco con las piernas juntas y las mancuernas detrás de las pantorrillas.",
+    "Inclínate desde la cintura manteniendo la espalda recta para tomar las mancuernas. Las palmas de tus manos deben verse entre sí al tomarlas. Esta será tu posición de inicio.",
+    "Manteniendo el torso hacia adelante y estático, y los brazos ligeramente flexionados por los codos, levanta las mancuernas directo hacia el lado hasta que ambos brazos estén paralelos al suelo. Exhala al levantar los pesos. (Nota: evita balancear el torso o llevar los brazos hacia atrás en lugar de hacia los lados).",
+    "Tras una contracción de un segundo arriba, baja lentamente las mancuernas a la posición de inicio.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

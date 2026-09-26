@@ -1,5 +1,6 @@
 {
   "name": "Kettlebell Row (Alternating)",
+  "nameEs": "Remo con pesa rusa (Alternado)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -15,6 +16,11 @@
     "Place two kettlebells in front of your feet. Bend your knees slightly and push your butt out as much as possible. As you bend over to get into the starting position grab both kettlebells by the handles.",
     "Pull one kettlebell off of the floor while holding on to the other kettlebell. Retract the shoulder blade of the working side, as you flex the elbow, drawing the kettlebell towards your stomach or rib cage.",
     "Lower the kettlebell in the working arm and repeat with your other arm."
+  ],
+  "instructionsEs": [
+    "Coloca dos pesas russa frente a tus pies. Dobla ligeramente las rodillas y saca los glúteos tanto como puedas. Al inclinarte para adoptar la posición inicial, agarra ambas pesas russa por las asas.",
+    "Separa una pesa russa del suelo mientras sujetas la otra. Retrae la escápula del lado que trabaja mientras flexionas el codo, acercando la pesa russa hacia tu estómago o caja torácica.",
+    "Baja la pesa russa del brazo que trabaja y repite con el otro brazo."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

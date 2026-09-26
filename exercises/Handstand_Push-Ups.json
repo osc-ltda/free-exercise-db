@@ -1,5 +1,6 @@
 {
   "name": "Push-Ups (Handstand)",
+  "nameEs": "Flexión de brazos (Pino)",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -16,6 +17,13 @@
     "Slowly lower yourself to the ground as you inhale until your head almost touches the floor. Tip: It is of utmost importance that you come down slow in order to avoid head injury.",
     "Push yourself back up slowly as you exhale until your elbows are nearly locked.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Con la espalda hacia la pared, dóblate por la cintura y coloca ambas manos en el suelo al ancho de los hombros.",
+    "Impúlsate hacia arriba contra la pared con los brazos rectos. Tu cuerpo debe estar boca abajo con los brazos y las piernas completamente extendidos. Mantén todo tu cuerpo lo más recto posible. Consejo: Si haces esto por primera vez, pídele ayuda a un compañero. Además, asegúrate de seguir mirando hacia la pared con la cabeza, en lugar de mirar hacia abajo.",
+    "Baja lentamente al suelo mientras inhalas hasta que tu cabeza casi toque el suelo. Consejo: Es de suma importancia que bajes despacio para evitar lesiones en la cabeza.",
+    "Empújate hacia arriba lentamente mientras exhalas hasta que tus codos estén casi bloqueados.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

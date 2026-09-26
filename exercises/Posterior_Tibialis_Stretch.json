@@ -1,5 +1,6 @@
 {
   "name": "Posterior Tibialis Stretch",
+  "nameEs": "Estiramiento del tibial posterior",
   "force": "static",
   "level": "intermediate",
   "mechanic": null,
@@ -11,6 +12,10 @@
   "instructions": [
     "In a seated position, loop a belt, rope, or band around one foot. This will be your starting position.",
     "With the leg extended and the heel off of the ground, pull on the belt so that the foot is everted, with the outside of the foot being pulled towards you. Hold for 10-20 seconds, and then switch sides."
+  ],
+  "instructionsEs": [
+    "En posición sentada, pasa una correa, cuerda o banda alrededor de un pie. Esta será tu posición inicial.",
+    "Con la pierna extendida y el talón fuera del suelo, tira de la correa para que el pie quede evertido, tirando de la parte exterior del pie hacia ti. Sostén durante 10-20 segundos y luego cambia de lado."
   ],
   "category": "stretching",
   "trackingType": "time",

@@ -1,5 +1,6 @@
 {
   "name": "Curl (EZ-Bar)",
+  "nameEs": "Curl (Barra Z)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Continue to raise the weight until your biceps are fully contracted and the bar is at shoulder level. Hold the top contracted position for a moment and squeeze the biceps.",
     "Then inhale and slowly lower the bar back to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Párate derecho mientras sostienes una barra Z por el agarre exterior ancho. Las palmas de tus manos deben apuntar hacia adelante y estar levemente inclinadas hacia adentro debido a la forma de la barra. Mantén tus codos cerca del torso. Esta será tu posición inicial.",
+    "Ahora, mientras mantienes la parte superior de los brazos fija, exhala y haz un curl con el peso hacia adelante mientras contraes los bíceps. Concéntrate en mover solo los antebrazos.",
+    "Continúa elevando el peso hasta que tus bíceps estén completamente contraídos y la barra esté a la altura de los hombros. Mantén la posición superior contraída por un momento y aprieta los bíceps.",
+    "Luego inhala y baja lentamente la barra a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

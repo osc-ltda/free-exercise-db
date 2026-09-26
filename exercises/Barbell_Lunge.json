@@ -1,5 +1,6 @@
 {
   "name": "Lunge (Barbell)",
+  "nameEs": "Zancada (Barra)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,6 +19,13 @@
     "Step away from the rack and step forward with your right leg and squat down through your hips, while keeping the torso upright and maintaining balance. Inhale as you go down. Note: Do not allow your knee to go forward beyond your toes as you come down, as this will put undue stress on the knee joint. li>",
     "Using mainly the heel of your foot, push up and go back to the starting position as you exhale.",
     "Repeat the movement for the recommended amount of repetitions and then perform with the left leg."
+  ],
+  "instructionsEs": [
+    "Este ejercicio se realiza mejor dentro de un soporte para sentadillas por razones de seguridad. Para empezar, primero coloca la barra en un soporte justo por debajo del nivel de los hombros. Una vez elegida la altura correcta y cargada la barra, colócate debajo de la barra y apoya la parte posterior de tus hombros (ligeramente por debajo del cuello) sobre ella.",
+    "Sostén la barra usando ambos brazos a cada lado y levántala del soporte empujando primero con tus piernas y al mismo tiempo enderezando tu torso.",
+    "Aléjate del soporte y da un paso adelante con tu pierna derecha y baja mediante tus caderas, manteniendo el torso erguido y manteniendo el equilibrio. Inhala al bajar. Nota: No permitas que tu rodilla avance más allá de tus dedos de los pies al bajar, ya que esto pondrá un estrés excesivo en la articulación de la rodilla. li>",
+    "Usando principalmente el talón de tu pie, empuja hacia arriba y regresa a la posición inicial mientras exhalas.",
+    "Repite el movimiento por la cantidad recomendada de repeticiones y luego realízalo con la pierna izquierda."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

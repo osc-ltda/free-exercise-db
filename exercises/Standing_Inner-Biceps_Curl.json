@@ -1,5 +1,6 @@
 {
   "name": "Biceps Curl (Standing Inner)",
+  "nameEs": "Curl de bíceps (de pie interno)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -16,6 +17,15 @@
     "Hold the contracted position for a second as you squeeze the biceps.",
     "Slowly begin to bring the dumbbells back to the starting position as your breathe in. Remember to rotate the wrists as you lower the weight in order to switch back to a neutral grip.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Párate con una mancuerna en cada mano sostenida a la longitud de los brazos. Los codos deben estar cerca del torso. Tus piernas deben estar separadas aproximadamente al ancho de los hombros.",
+    "Rota las palmas de las manos para que queden hacia adentro en una posición neutral. Esta será tu posición inicial.",
+    "Mientras mantienes los brazos fijos, haz un curl con los pesos hacia afuera mientras contraes los bíceps al exhalar. Tu muñeca debe girar para que, cuando los pesos estén completamente elevados, tengas un agarre supinado (palmas hacia arriba).",
+    "Solo los antebrazos deben moverse. Continúa el movimiento hasta que tus bíceps estén completamente contraídos y las mancuernas estén a la altura de los hombros. Consejo: Mantén los antebrazos alineados con tus deltoides externos.",
+    "Mantén la posición contraída por un segundo mientras aprietas los bíceps.",
+    "Comienza lentamente a llevar las mancuernas de regreso a la posición inicial mientras inhalas. Recuerda rotar las muñecas al bajar el peso para volver a un agarre neutral.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Front Box Jump",
+  "nameEs": "Salto al cajón frontal (Front Box Jump)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -19,6 +20,12 @@
     "Perform a short squat in preparation for jumping, swinging your arms behind you.",
     "Rebound out of this position, extending through the hips, knees, and ankles to jump as high as possible. Swing your arms forward and up.",
     "Land on the box with the knees bent, absorbing the impact through the legs. You can jump from the box back to the ground, or preferably step down one leg at a time."
+  ],
+  "instructionsEs": [
+    "Comienza con un cajón de una altura adecuada a 1-2 pies frente a ti. Párate con los pies separados al ancho de los hombros. Esta será tu posición inicial.",
+    "Realiza una sentadilla corta en preparación para saltar, balanceando tus brazos detrás de ti.",
+    "Rebota desde esta posición, extendiendo las caderas, las rodillas y los tobillos para saltar lo más alto posible. Balancea tus brazos hacia adelante y hacia arriba.",
+    "Aterriza en el cajón con las rodillas dobladas, absorbiendo el impacto a través de las piernas. Puedes saltar desde el cajón de vuelta al suelo, o preferiblemente bajar un pie a la vez."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

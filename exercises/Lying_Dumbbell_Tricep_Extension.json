@@ -1,5 +1,6 @@
 {
   "name": "Lying Dumbbell Tricep Extension",
+  "nameEs": "Extensión de tríceps con mancuerna acostado",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -16,6 +17,12 @@
     "As you breathe in and you keep the upper arms stationary with the elbows in, slowly lower the weight until the dumbbells are near your ears.",
     "At that point, while keeping the elbows in and the upper arms stationary, use the triceps to bring the weight back up to the starting position as you breathe out.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate en un banco plano mientras sostienes dos mancuernas directamente en frente de ti. Tus brazos deben estar completamente extendidos en un ángulo de 90 grados desde tu torso y el suelo. Las palmas deben estar enfrentadas y los codos deben estar hacia adentro. Esta es la posición inicial.",
+    "Mientras inspiras y mantienes los brazos fijos con los codos hacia adentro, baja lentamente el peso hasta que las mancuernas estén cerca de tus orejas.",
+    "En ese punto, mientras mantienes los codos hacia adentro y los brazos fijos, usa los tríceps para llevar el peso de regreso a la posición inicial mientras exhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

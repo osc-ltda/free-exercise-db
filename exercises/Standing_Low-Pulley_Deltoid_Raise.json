@@ -1,5 +1,6 @@
 {
   "name": "Deltoid Raise (Standing Low-Pulley)",
+  "nameEs": "Elevación de deltoides (De pie con polea baja)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -17,6 +18,14 @@
     "Feel the contraction at the top for a second and begin to slowly lower the handle back down to the original starting position while inhaling.",
     "Repeat for the recommended amount of repetitions.",
     "Switch arms and repeat the exercise."
+  ],
+  "instructionsEs": [
+    "Comienza parándote al lado derecho de una polea baja para remo. Usa tu mano izquierda para cruzar el cuerpo y agarrar un mango individual unido a la polea baja con un agarre pronado (palmas hacia abajo). Descansa tu brazo frente a ti. Tu mano derecha debe agarrar la máquina para un mejor soporte y equilibrio.",
+    "Asegúrate de que tu espalda esté erguida y tus pies estén separados al ancho de los hombros entre sí. Esta es la posición inicial.",
+    "Comienza a usar la mano izquierda y cruza tu cuerpo hacia afuera hasta que esté elevado a la altura del hombro mientras exhalas.",
+    "Siente la contracción en la parte superior durante un segundo y comienza a bajar lentamente el mango de vuelta a la posición inicial original mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones.",
+    "Cambia de brazo y repite el ejercicio."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Isometric Neck Exercise - Front And Back",
+  "nameEs": "Isometric Neck Exercise - Front And Back",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Hold for the recommended number of seconds.",
     "Now release the tension slowly.",
     "Rest for the recommended amount of time and repeat with your hands placed on the back side of your head."
+  ],
+  "instructionsEs": [
+    "Con tu cabeza y cuello en una posición neutral (posición normal con la cabeza erguida mirando hacia adelante), coloca ambas manos en la parte delantera de tu cabeza.",
+    "Ahora empuja suavemente hacia adelante mientras contraes los músculos del cuello pero resistiendo cualquier movimiento de tu cabeza. Comienza con una tensión lenta y aumenta despacio. Sigue respirando normalmente mientras ejecutas esta contracción.",
+    "Mantén durante el número recomendado de segundos.",
+    "Ahora libera la tensión lentamente.",
+    "Descansa durante el tiempo recomendado y repite con tus manos colocadas en la parte trasera de tu cabeza."
   ],
   "category": "strength",
   "trackingType": "time",

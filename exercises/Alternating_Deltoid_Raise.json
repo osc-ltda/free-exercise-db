@@ -1,5 +1,6 @@
 {
   "name": "Deltoid Raise (Alternating)",
+  "nameEs": "Elevación de deltoides (Alterna)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Return the weights to your side.",
     "On the next repetition, raise the weights laterally, raising them out to your side to about shoulder height.",
     "Return the weights to the starting position and continue alternating to the front and side."
+  ],
+  "instructionsEs": [
+    "En posición de pie, sostén un par de mancuernas a tus costados.",
+    "Manteniendo los codos ligeramente doblados, eleva los pesos directamente frente a ti hasta la altura de los hombros, evitando cualquier balanceo o trampa.",
+    "Regresa los pesos a tus costados.",
+    "En la siguiente repetición, eleva los pesos lateralmente, sacándolos hacia tu costado hasta aproximadamente la altura de los hombros.",
+    "Regresa los pesos a la posición inicial y continúa alternando hacia el frente y hacia el lado."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

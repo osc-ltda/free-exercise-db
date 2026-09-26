@@ -1,5 +1,6 @@
 {
   "name": "Pull-Up (Scapular)",
+  "nameEs": "Dominada (escapular)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,11 @@
     "Take a pronated grip on a pull-up bar.",
     "From a hanging position, raise yourself a few inches without using your arms. Do this by depressing your shoulder girdle in a reverse shrugging motion.",
     "Pause at the completion of the movement, and then slowly return to the starting position before performing more repetitions."
+  ],
+  "instructionsEs": [
+    "Toma una barra de dominada con un agarre prono.",
+    "Desde una posición colgada, elévate unas cuantas pulgadas sin usar tus brazos. Haz esto deprimiendo tu cintura escapular en un movimiento inverso de encogimiento.",
+    "Haz una pausa al completar el movimiento y luego regresa lentamente a la posición inicial antes de realizar más repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

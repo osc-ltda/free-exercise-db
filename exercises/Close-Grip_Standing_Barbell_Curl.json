@@ -1,5 +1,6 @@
 {
   "name": "Curl (Close-Grip Standing Barbell)",
+  "nameEs": "Curl de pie (Barra - Agarre estrecho)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,13 @@
     "Curl the bar up in a semicircular motion until the forearms touch your biceps. Exhale as you perform this portion of the movement and contract your biceps hard for a second at the top. Tip: Avoid bending the back or using swinging motions as you lift the weight. Only the forearms should move.",
     "Slowly go back down to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Sostén una barra con ambas manos, las palmas hacia arriba y a unas pocas pulgadas de separación.",
+    "Párate con tu torso recto y tu cabeza en alto. Tus pies deben estar aproximadamente al ancho de los hombros y tus codos cerca de tu torso. Esta será tu posición inicial. Consejo: Mantendrás tus brazos y codos estacionarios durante todo el movimiento.",
+    "Sube la barra en un movimiento semicircular hasta que los antebrazos toquen tus bíceps. Exhala mientras realizas esta porción del movimiento y contrae tus bíceps con fuerza durante un segundo en la parte superior. Consejo: Evita arquear la espalda o usar movimientos de impulso al levantar el peso. Solo los antebrazos deben moverse.",
+    "Regresa lentamente a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

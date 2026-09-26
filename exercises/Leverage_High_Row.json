@@ -1,5 +1,6 @@
 {
   "name": "High Row (Leverage)",
+  "nameEs": "Remo alto (Máquina)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,12 @@
     "Pull the handles towards your torso, retracting your shoulder blades as you flex the elbow.",
     "Pause at the bottom of the motion, and then slowly return the handles to the starting position.",
     "For multiple repetitions, avoid completely returning the weight to the stops to keep tension on the muscles being worked."
+  ],
+  "instructionsEs": [
+    "Carga un peso adecuado en los soportes y ajusta la altura del asiento para poder alcanzar las empuñaduras justo por encima de ti. Ajuste la almohadilla para las rodillas para ayudarte a mantenerte abajo. Agarra las empuñaduras con un agarre pronado. Esta será tu posición inicial.",
+    "Tira de las empuñaduras hacia tu torso, retrayendo tus omóplatos mientras flexionas los codos.",
+    "Haz una pausa en la parte inferior del movimiento y luego regresa lentamente las empuñaduras a la posición inicial.",
+    "Para múltiples repeticiones, evita que el peso vuelva completamente a los topes para mantener la tensión en los músculos que estás trabajando."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

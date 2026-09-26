@@ -1,5 +1,6 @@
 {
   "name": "Ankle Circles",
+  "nameEs": "Círculos de tobillo",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -12,6 +13,11 @@
     "Use a sturdy object like a squat rack to hold yourself.",
     "Lift the right leg in the air (just around 2 inches from the floor) and perform a circular motion with the big toe. Pretend that you are drawing a big circle with it. Tip: One circle equals 1 repetition. Breathe normally as you perform the movement.",
     "When you are done with the right foot, then repeat with the left leg."
+  ],
+  "instructionsEs": [
+    "Usa un objeto firme como una jaula de sentadilla para sostenerte.",
+    "Levanta la pierna derecha en el aire (a unas 2 pulgadas del suelo) y haz un movimiento circular con el dedo gordo del pie. Imagina que estás dibujando un círculo grande con él. Consejo: Un círculo equivale a 1 repetición. Respira con normalidad mientras realizas el movimiento.",
+    "Cuando termines con el pie derecho, repite con la pierna izquierda."
   ],
   "category": "stretching",
   "trackingType": "weight_reps",

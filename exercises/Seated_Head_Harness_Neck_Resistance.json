@@ -1,5 +1,6 @@
 {
   "name": "Seated Head Harness Neck Resistance",
+  "nameEs": "Resistencia de cuello con arnés sentado",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Slowly lower your neck down until your chin touches the upper part of your chest while breathing in.",
     "While exhaling, bring your neck back to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Coloca una correa para el cuello en el suelo al final de un banco plano. Una vez que hayas seleccionado los pesos, siéntate al final del banco plano con los pies más separados que el ancho de los hombros. Los dedos de los pies deben apuntar hacia afuera.",
+    "Mueve lentamente el torso hacia adelante hasta que esté casi paralelo al suelo. Usando ambas manos, coloca de forma segura la correa para el cuello alrededor de tu cabeza. Consejo: Asegúrate de que los pesos sigan en el suelo para evitar cualquier tensión en el cuello. Ahora agarra el peso con ambas manos mientras elevas el torso hacia atrás hasta que esté casi perpendicular al suelo. Nota: Tu cabeza y torso deben estar ligeramente inclinados hacia adelante para realizar este ejercicio.",
+    "Ahora coloca ambas manos encima de tus rodillas. Esta es la posición inicial.",
+    "Baja lentamente el cuello hasta que tu barbilla toque la parte superior del pecho mientras inhalas.",
+    "Mientras exhalas, regresa el cuello a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

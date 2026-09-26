@@ -1,5 +1,6 @@
 {
   "name": "Press (Cable Chest)",
+  "nameEs": "Press de pecho (Polea)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Begin by extending through the elbow, pressing the handles together straight in front of you. Keep your shoulder blades retracted as you execute the movement.",
     "After pausing at full extension, return to the starting position, keeping tension on the cables.",
     "You can also execute this movement with your back off the pad, at an incline or decline, or alternate hands."
+  ],
+  "instructionsEs": [
+    "Ajusta el peso a una cantidad adecuada y siéntate, agarrando las manijas. Tus brazos deben estar a unos 45 grados del cuerpo, con la cabeza y el pecho hacia arriba. Los codos deben estar doblados a unos 90 grados. Esta será tu posición inicial.",
+    "Comienza extendiendo los codos, presionando las manijas juntas directamente en frente de ti. Mantén los omóplatos retraídos mientras ejecutas el movimiento.",
+    "Después de hacer una pausa en la extensión completa, regresa a la posición inicial, manteniendo la tensión en las poleas.",
+    "También puedes ejecutar este movimiento con la espalda separada del cojín, en inclinación o declinación, o alternando las manos."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

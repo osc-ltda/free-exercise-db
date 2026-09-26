@@ -1,5 +1,6 @@
 {
   "name": "Depth Jump Leap",
+  "nameEs": "Salto de profundidad (Depth Jump Leap)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -19,6 +20,12 @@
     "Stand on one of the two boxes with arms at the sides; feet should be together and slightly off the edge as in the depth jump. Place the other box approximately two or three feet in front of and facing the performer.",
     "Begin by dropping off the initial box, landing and simultaneously taking off with both feet.",
     "Rebound by driving upward and outward as intensely as possible, using the arms and full extension of the body to jump onto the higher box. Again, allow the legs to absorb the impact."
+  ],
+  "instructionsEs": [
+    "Para este ejercicio necesitarás dos cajones o bancos, uno de 12 a 16 pulgadas de alto y el otro de 22 a 26 pulgadas de alto.",
+    "Párate en uno de los dos cajones con los brazos a los lados; los pies deben estar juntos y ligeramente fuera del borde, tal como en el salto de profundidad. Coloca el otro cajón aproximadamente a dos o tres pies frente a ti y mirando hacia él.",
+    "Comienza dejándote caer del cajón inicial, aterrizando y despegando simultáneamente con ambos pies.",
+    "Rebota impulsándote hacia arriba y hacia afuera con la mayor intensidad posible, usando los brazos y la extensión completa del cuerpo para saltar al cajón más alto. Nuevamente, permite que las piernas absorban el impacto."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

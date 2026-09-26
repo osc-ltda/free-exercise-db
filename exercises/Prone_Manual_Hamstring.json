@@ -1,5 +1,6 @@
 {
   "name": "Prone Manual Hamstring",
+  "nameEs": "Prone Manual Hamstring",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -12,6 +13,11 @@
     "You will need a partner for this exercise. Lay face down with your legs straight. Your assistant will place their hand on your heel.",
     "To begin, flex the knee to curl your leg up. Your partner should provide resistance, starting light and increasing the pressure as the movement is completed. Communicate with your partner to monitor appropriate resistance levels.",
     "Pause at the top, returning the leg to the starting position as your partner provides resistance going the other direction."
+  ],
+  "instructionsEs": [
+    "Necesitarás un compañero para este ejercicio. Acuéstate boca abajo con las piernas estiradas. Tu asistente colocará su mano en tu talón.",
+    "Para comenzar, flexiona la rodilla para hacer un curl con tu pierna hacia arriba. Tu compañero debe ofrecer resistencia, empezando suave e incrementando la presión a medida que se completa el movimiento. Comunícate con tu compañero para monitorear los niveles de resistencia adecuados.",
+    "Haz una pausa arriba, regresando la pierna a la posición inicial mientras tu compañero ofrece resistencia en la dirección opuesta."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

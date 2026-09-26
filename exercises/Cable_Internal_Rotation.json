@@ -1,5 +1,6 @@
 {
   "name": "Cable Internal Rotation",
+  "nameEs": "Rotación interna en polea",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -14,6 +15,13 @@
     "Pull the single hand cable attachment toward your body by internally rotating your shoulder until your forearm is across your abs. You will be creating an imaginary semi-circle. Tip: The forearm should be perpendicular to your torso at all times.",
     "Slowly go back to the initial position.",
     "Repeat for the recommended amount of repetitions and then repeat the movement with the next arm."
+  ],
+  "instructionsEs": [
+    "Siéntate de lado junto a una polea baja (con las piernas estiradas frente a ti o cruzadas) y toma el accesorio de manija individual para cable con el brazo más cercano a la polea. Consejo: Si puedes ajustar la altura de la polea, puedes usar un banco plano para sentarte en su lugar.",
+    "Coloca el codo contra tu costado con el codo doblado a 90° y el brazo apuntando hacia la polea. Esta será tu posición inicial.",
+    "Tira del accesorio de manija individual hacia tu cuerpo rotando internamente el hombro hasta que tu antebrazo cruce tus abdominales. Crearás un semicírculo imaginario. Consejo: El antebrazo debe estar perpendicular a tu torso en todo momento.",
+    "Regresa lentamente a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones y luego repite el movimiento con el otro brazo."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

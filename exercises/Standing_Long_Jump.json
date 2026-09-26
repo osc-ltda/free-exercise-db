@@ -1,5 +1,6 @@
 {
   "name": "Standing Long Jump",
+  "nameEs": "Salto largo (De pie)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "Utilizing a big arm swing and a countermovement of the legs, jump forward as far as you can.",
     "Attempt to land with your feet out in front you, reaching as far as possible with your legs.",
     "Measure the distance from your landing point to the starting point and track results."
+  ],
+  "instructionsEs": [
+    "Este ejercicio se realiza mejor en arena u otra superficie de aterrizaje suave. Asegúrate de poder medir la distancia. Párate en una postura de sentadilla parcial con los pies separados al ancho de los hombros.",
+    "Utilizando un gran balanceo de brazos y un contramovimiento de las piernas, salta hacia adelante lo más lejos que puedas.",
+    "Intenta aterrizar con los pies hacia adelante, alcanzando la mayor distancia posible con tus piernas.",
+    "Mide la distancia desde tu punto de aterrizaje hasta el punto de inicio y registra los resultados."
   ],
   "category": "plyometrics",
   "trackingType": "bodyweight_reps",

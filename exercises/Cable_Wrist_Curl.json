@@ -1,5 +1,6 @@
 {
   "name": "Wrist Curl (Cable)",
+  "nameEs": "Curl de muñeca (Polea)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Slowly lower your wrists back down to the starting position while inhaling.",
     "Your forearms should be stationary as your wrist is the only movement needed to perform this exercise.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Comienza colocando un banco plano frente a una polea baja que tenga un accesorio de barra recta.",
+    "Usa tus brazos para tomar la barra de la polea con un agarre supinado (palmas hacia arriba) de estrecho a ancho de los hombros y elévala de modo que tus antebrazos reposen sobre la parte superior de tus muslos. Tus muñecas deben colgar justo más allá de tus rodillas.",
+    "Empieza haciendo un curl de muñeca hacia arriba mientras exhalas. Mantén la contracción durante un segundo.",
+    "Baja lentamente tus muñecas a la posición inicial mientras inhalas.",
+    "Tus antebrazos deben permanecer inmóviles, ya que el movimiento de la muñeca es el único necesario para realizar este ejercicio.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

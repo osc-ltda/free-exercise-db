@@ -1,5 +1,6 @@
 {
   "name": "Thigh Abductor",
+  "nameEs": "Abductor de muslos",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,12 @@
     "Slowly press against the machine with your legs to move them away from each other while exhaling.",
     "Feel the contraction for a second and begin to move your legs back to the starting position while breathing in. Note: Remember to keep your upper body stationary to prevent any injuries from occurring.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Para empezar, siéntate en la máquina de abductores y selecciona un peso con el que te sientas cómodo. Cuando tus piernas estén posicionadas correctamente, agarra las manijas de cada lado. Todo la parte superior de tu cuerpo (de la cintura hacia arriba) debe estar estática. Esta es la posición inicial.",
+    "Presiona lentamente contra la máquina con tus piernas para alejarlas entre sí mientras exhalas.",
+    "Siente la contracción por un segundo y comienza a regresar tus piernas a la posición inicial mientras inspiras. Nota: Recuerda mantener la parte superior de tu cuerpo estática para evitar que ocurran lesiones.",
+    "Repite durante la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Wrist Curl (Seated Two-Arm Palms-Up Low-Pulley)",
+  "nameEs": "Curl de muñeca (sentado con dos brazos, palmas arriba y polea baja)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -18,6 +19,17 @@
     "Now curl the bar up as high as possible while contracting the forearms. Tip: Only the wrist should move; not the forearms.",
     "After a second contraction at the top go back to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Coloca un banco frente a una máquina de polea baja que tenga acoplada una barra o una barra Z.",
+    "Mueve el banco lo suficientemente lejos para que, cuando lleves el mango a la parte superior de tus muslos, se genere tensión en el cable debido a que la pila de peso se ha elevado.",
+    "Ahora sujeta el mango con ambas manos, con las palmas hacia arriba, usando un agarre al ancho de los hombros.",
+    "Da un paso atrás y siéntate en el banco con tus pies separados aproximadamente al ancho de los hombros, firmemente sobre el piso.",
+    "Inclínate hacia adelante y coloca los antebrazos sobre tus muslos con el dorso de tus muñecas sobre tus rodillas. Esta será tu posición inicial.",
+    "Baja la barra tanto como sea posible, mientras inhalas y mantienes un agarre firme.",
+    "Ahora haz un curl con la barra hacia arriba lo más alto posible mientras contraes los antebrazos. Consejo: solo debe moverse la muñeca, no los antebrazos.",
+    "Después de una contracción de un segundo en la parte superior, regresa a la posición inicial mientras inhalas.",
+    "Repite por la cantidad de repeticiones recomendada."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

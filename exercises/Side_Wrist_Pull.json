@@ -1,5 +1,6 @@
 {
   "name": "Pull (Side Wrist)",
+  "nameEs": "Pull (Muñeca lateral)",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,10 @@
   "instructions": [
     "This stretch works best standing. Cross your left arm over the midline of your body and hold the left wrist in your right hand down at the level of your hips. Start the stretch with a bent left arm.",
     "Slowly straighten, pull, and lift it up to shoulder height, as pictured. Feel this stretch originate in your back, not your shoulders, and don't pull too hard on the shoulders joint. Switch sides."
+  ],
+  "instructionsEs": [
+    "Este estiramiento funciona mejor de pie. Cruza tu brazo izquierdo sobre la línea media de tu cuerpo y sostén la muñeca izquierda en tu mano derecha hacia abajo a nivel de tus caderas. Comienza el estiramiento con el brazo izquierdo doblado.",
+    "Endereza lentamente, jala y levántalo hasta la altura de los hombros, como se muestra. Siente que este estiramiento se origina en tu espalda, no en tus hombros, y no jales demasiado fuerte de la articulación del hombro. Cambia de lado."
   ],
   "category": "stretching",
   "trackingType": "time",

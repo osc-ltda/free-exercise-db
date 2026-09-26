@@ -1,5 +1,6 @@
 {
   "name": "T-bar Row (with Handle)",
+  "nameEs": "Remo en barra T (con maneral)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "Assume a wide stance with your hips back and your chest up. Your arms should be extended. This will be your starting position.",
     "Pull the weight to your upper abdomen by retracting the shoulder blades and flexing the elbows. Do not jerk the weight or cheat during the movement.",
     "After a brief pause, return to the starting position."
+  ],
+  "instructionsEs": [
+    "Coloca una barra en un soporte landmine o en una esquina para evitar que se mueva. Carga un peso adecuado en tu extremo.",
+    "Párate sobre la barra y coloca un maneral de remo doble alrededor de la barra junto al collarín. Usando tus caderas y piernas, elévate a una posición de pie.",
+    "Adopta una postura amplia con las caderas hacia atrás y el pecho hacia arriba. Tus brazos deben estar extendidos. Esta será tu posición inicial.",
+    "Lleva el peso hacia tu abdomen superior retrayendo los omóplatos y flexionando los codos. No des tirones al peso ni hagas trampa durante el movimiento.",
+    "Después de una breve pausa, regresa a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

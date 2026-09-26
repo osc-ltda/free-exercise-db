@@ -1,5 +1,6 @@
 {
   "name": "Lunge (Elevated Back)",
+  "nameEs": "Zancada (Espalda elevada)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Rack the bar onto your upper back, keeping your back arched and tight. Step onto your raised platform with both feet. This will be your starting position.",
     "Begin by stepping backwards with one leg. Descend by flexing your hips and knees until your knee touches the floor.",
     "Pause, and extend through the hips and knees to rise up, returning all the way to the starting position before alternating."
+  ],
+  "instructionsEs": [
+    "Coloca una barra en un soporte a la altura de los hombros con el peso adecuado. Pon una plataforma corta y elevada detrás de ti.",
+    "Apoya la barra en tu parte superior de la espalda, manteniendo la espalda arqueada y firme. Súbete a tu plataforma elevada con ambos pies. Esta será tu posición inicial.",
+    "Comienza dando un paso hacia atrás con una pierna. Desciende flexionando las caderas y las rodillas hasta que tu rodilla toque el suelo.",
+    "Haz una pausa y extiende las caderas y las rodillas para levantarte, regresando por completo a la posición inicial antes de alternar."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

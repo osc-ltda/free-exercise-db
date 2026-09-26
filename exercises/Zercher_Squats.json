@@ -1,5 +1,6 @@
 {
   "name": "Squats (Zercher)",
+  "nameEs": "Sentadilla (Zercher)",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -19,6 +20,14 @@
     "Begin to lower the bar by bending the knees as you maintain a straight posture with the head up. Continue down until the angle between the upper leg and the calves becomes slightly less than 90-degrees (which is the point in which the upper legs are below parallel to the floor). Inhale as you perform this portion of the movement. Tip: If you performed the exercise correctly, the front of the knees should make an imaginary straight line with the toes that is perpendicular to the front. If your knees are past that imaginary line (if they are past your toes) then you are placing undue stress on the knee and the exercise has been performed incorrectly.",
     "Begin to raise the bar as you exhale by pushing the floor with the ball of your foot mainly as you straighten the legs again and go back to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Este ejercicio se realiza mejor dentro de un rack para sentadilla por razones de seguridad. Para empezar, primero coloca la barra en un soporte que se adapte mejor a tu altura. La altura correcta debe estar en cualquier punto por encima de la cintura pero por debajo del pecho. Una vez elegida la altura correcta y cargada la barra, une tus manos y coloca la barra sobre tus brazos, entre el antebrazo y la parte superior del brazo.",
+    "Levanta la barra para que descanse sobre tus antebrazos. Si estás sujetando la barra correctamente, debería parecer que tienes los brazos cruzados pero con una barra pasando a través de ellos.",
+    "Aléjate del soporte y coloca tus piernas usando una postura mediana al ancho de los hombros con las punta de los pies apuntando ligeramente hacia afuera. Mantén la cabeza en alto en todo momento, ya que mirar hacia abajo te hará perder el equilibrio, y mantén también la espalda recta. Esta será tu posición inicial. (Nota: Para los fines de esta explicación usaremos la postura mediana descrita anteriormente que se enfoca en el desarrollo general; sin embargo, puedes elegir cualquiera de las tres posturas discutidas en la sección de posturas de los pies).",
+    "Comienza a bajar la barra doblando las rodillas mientras mantienes una postura recta con la cabeza en alto. Continúa hacia abajo hasta que el ángulo entre la parte superior de la pierna y las pantorrillas sea ligeramente inferior a 90 grados (que es el punto en el que las piernas están por debajo del paralelo al suelo). Inhala mientras realizas esta parte del movimiento. Consejo: Si realizaste el ejercicio correctamente, la parte delantera de las rodillas debe formar una línea recta imaginaria con los dedos de los pies que sea perpendicular al frente. Si tus rodillas pasan de esa línea imaginaria (si pasan de tus dedos), estás ejerciendo una tensión indebida en la rodilla y el ejercicio se ha realizado incorrectamente.",
+    "Comienza a levantar la barra mientras exhalas empujando el suelo principalmente con la bola del pie mientras enderezas las piernas nuevamente y regresas a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

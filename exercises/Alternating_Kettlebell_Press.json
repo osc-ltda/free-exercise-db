@@ -1,5 +1,6 @@
 {
   "name": "Kettlebell Press (Alternating)",
+  "nameEs": "Press con pesa rusa (Alternado)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -14,6 +15,11 @@
     "Clean two kettlebells to your shoulders. Clean the kettlebells to your shoulders by extending through the legs and hips as you pull the kettlebells towards your shoulders. Rotate your wrists as you do so.",
     "Press one directly overhead by extending through the elbow, turning it so the palm faces forward while holding the other kettlebell stationary .",
     "Lower the pressed kettlebell to the starting position and immediately press with your other arm."
+  ],
+  "instructionsEs": [
+    "Lleva dos pesas russa a tus hombros (clean). Haz el clean extendiendo las piernas y la cadera mientras tiras de las pesas russa hacia tus hombros. Rota tus muñecas al hacerlo.",
+    "Empuja una directamente hacia arriba extendiendo el codo y girándola para que la palma mire hacia adelante mientras mantienes la otra pesa russa quieta.",
+    "Baja la pesa russa presionada a la posición inicial y presiona inmediatamente con el otro brazo."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

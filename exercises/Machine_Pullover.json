@@ -1,5 +1,6 @@
 {
   "name": "Pullover (Machine)",
+  "nameEs": "Pullover (Máquina)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -16,6 +17,12 @@
     "Take the pads or the bar overhead with your elbows fixed in place.",
     "Pull down and forward with your lats until the bar reaches your midsection.",
     "Let it travel back overhead under control, keeping your elbows where they are throughout."
+  ],
+  "instructionsEs": [
+    "Ajusta el asiento para que el pivote de la máquina se alinee con tus hombros y abróchate el cinturón si lo hay.",
+    "Toma las almohadillas o la barra por encima de la cabeza con los codos fijos en su lugar.",
+    "Jala hacia abajo y hacia adelante con tus dorsales hasta que la barra llegue a la altura de tu abdomen.",
+    "Permite que regrese por encima de la cabeza de forma controlada, manteniendo tus codos en su sitio todo el tiempo."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Kneeling Hip Flexor",
+  "nameEs": "Flexor de cadera de rodillas",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,10 @@
   "instructions": [
     "Kneel on a mat and bring your right knee up so the bottom of your foot is on the floor and extend your left leg out behind you so the top of your foot is on the floor.",
     "Shift your weight forward until you feel a stretch in your hip. Hold for 15 seconds, then repeat for your other side."
+  ],
+  "instructionsEs": [
+    "Arrodíllate en una esterilla y levanta tu rodilla derecha para que la planta del pie quede en el suelo, y extiende tu pierna izquierda hacia atrás para que el empeine quede en el suelo.",
+    "Desplaza tu peso hacia adelante hasta que sientas un estiramiento en la cadera. Mantén durante 15 segundos y luego repite del otro lado."
   ],
   "category": "stretching",
   "trackingType": "time",

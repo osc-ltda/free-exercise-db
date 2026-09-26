@@ -1,5 +1,6 @@
 {
   "name": "Hammer Curl (Dumbbell)",
+  "nameEs": "Curl martillo (Mancuerna)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Now, while holding your upper arm stationary, exhale and curl the weight forward while contracting the biceps. Continue to raise the weight until the biceps are fully contracted and the dumbbell is at shoulder level. Hold the contracted position for a brief moment as you squeeze the biceps. Tip: Focus on keeping the elbow stationary and only moving your forearm.",
     "After the brief pause, inhale and slowly begin the lower the dumbbells back down to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Párate con el torso erguido y una mancuerna en cada mano sostenida a la longitud de los brazos. Los codos deben estar cerca del torso.",
+    "Las palmas de las manos deben estar orientadas hacia tu torso. Esta será tu posición inicial.",
+    "Ahora, mientras mantienes tu brazo fijo, exhala y haz un curl del peso hacia adelante mientras contraes los bíceps. Continúa levantando el peso hasta que los bíceps estén completamente contraídos y la mancuerna esté a la altura del hombro. Mantén la posición contraída por un momento breve mientras aprietas los bíceps. Consejo: Concéntrate en mantener el codo fijo y mover solo tu antebrazo.",
+    "Después de la breve pausa, inhala y comienza lentamente a bajar las mancuernas de regreso a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

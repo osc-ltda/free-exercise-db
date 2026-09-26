@@ -1,5 +1,6 @@
 {
   "name": "Hyperextensions With No Hyperextension Bench",
+  "nameEs": "Hiperextensiones sin banco de hiperextensiones",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "Start bending forward slowly at the waist as far as you can while keeping your back flat. Inhale as you perform this movement. Keep moving forward until you almost touch the floor or you feel a nice stretch on the hamstrings (whichever comes first). Tip: Never round the back as you perform this exercise.",
     "Slowly raise your torso back to the initial position as you exhale. Tip: Avoid the temptation to arch your back past a straight line. Also, do not swing the torso at any time in order to protect the back from injury.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Con alguien sosteniendo tus piernas, deslízate hacia el borde de un banco plano hasta que tus caderas cuelguen del extremo del banco. Consejo: Todo tu torso superior debe estar colgando hacia el suelo. Además, estarás en la misma posición que si estuvieras en un banco de hiperextensiones pero el rango de movimiento será más corto debido a la altura del banco plano en comparación con el de hiperextensiones.",
+    "Con el cuerpo recto, cruza los brazos frente a ti (mi preferencia) o detrás de tu cabeza. Esta será tu posición de inicio. Consejo: También puedes sostener un disco de peso para mayor resistencia frente a ti bajo tus brazos cruzados.",
+    "Comienza a doblarte hacia adelante lentamente por la cintura tanto como puedas mientras mantienes la espalda plana. Inhala al realizar este movimiento. Sigue moviéndote hacia adelante hasta que casi toques el suelo o sientas un buen estiramiento en los isquiotibiales (lo que ocurra primero). Consejo: Nunca redondees la espalda al realizar este ejercicio.",
+    "Eleva lentamente tu torso de regreso a la posición inicial mientras exhalas. Consejo: Evita la tentación de arquear la espalda más allá de una línea recta. Además, no balancees el torso en ningún momento para proteger la espalda de lesiones.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

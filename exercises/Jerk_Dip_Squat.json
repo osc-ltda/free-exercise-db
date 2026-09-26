@@ -1,5 +1,6 @@
 {
   "name": "Squat (Jerk Dip)",
+  "nameEs": "Sentadilla (Jerk Dip)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -14,6 +15,10 @@
   "instructions": [
     "This movement strengthens the dip portion of the jerk. Begin with the bar racked in the jerk position, with the shoulders forward to create a shelf and the bar lightly contacting the throat. The feet should be directly under the hips, with the feet turned out as is comfortable.",
     "Keeping the torso vertical, dip by flexing the knees, allowing them to travel forward and without moving the hips to the rear. The dip should not be excessive. Return the weight to the starting position by driving forcefully though the feet."
+  ],
+  "instructionsEs": [
+    "Este movimiento fortalece la porción de bajada del jerk. Comienza con la barra apoyada en la posición de jerk, con los hombros hacia adelante para crear un soporte y la barra tocando ligeramente la garganta. Los pies deben estar directamente debajo de las caderas, con las puntas hacia afuera según te sea cómodo.",
+    "Manteniendo el torso vertical, baja flexionando las rodillas, permitiendo que se desplacen hacia adelante y sin mover las caderas hacia atrás. La bajada no debe ser excesiva. Regresa el peso a la posición inicial empujando con fuerza a través de los pies."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

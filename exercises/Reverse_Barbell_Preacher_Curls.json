@@ -1,5 +1,6 @@
 {
   "name": "Reverse Preacher Curl (Barbell)",
+  "nameEs": "Curl predicador inverso (Barra)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -16,6 +17,13 @@
     "As you exhale, use the biceps to curl the weight up until your biceps are fully contracted and the barbell is at shoulder height. Squeeze the biceps hard for a second at the contracted position.",
     "As you breathe in, slowly lower the barbell until your upper arms are extended and the biceps is fully stretched.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Toma una barra Z usando un agarre con el ancho de los hombros y las palmas hacia abajo (pronado).",
+    "Luego, coloca la parte superior de ambos brazos sobre el banco predicador y mantén tus brazos extendidos. Esta será tu posición inicial.",
+    "Al exhalar, usa los bíceps para subir el peso hasta que tus bíceps estén completamente contraídos y la barra esté a la altura de los hombros. Aprieta los bíceps con fuerza durante un segundo en la posición de contracción.",
+    "Al inhalar, baja lentamente la barra hasta que la parte superior de tus brazos esté extendida y el bíceps esté completamente estirado.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

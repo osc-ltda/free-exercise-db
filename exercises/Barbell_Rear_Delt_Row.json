@@ -1,5 +1,6 @@
 {
   "name": "Row (Barbell Rear Delt)",
+  "nameEs": "Remo (Barra parte posterior de los hombros)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,6 +19,13 @@
     "While keeping the upper arms perpendicular to the torso, pull the barbell up towards your upper chest as you squeeze the rear delts and you breathe out. Tip: When performed correctly, this exercise should resemble a bench press in reverse. Also, refrain from using your biceps to do the work. Focus on targeting the rear delts; the arms should only act as hooks.",
     "Slowly go back to the initial position as you breathe in.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Párate derecho mientras sostienes una barra con un agarre ancho (más ancho que el ancho de los hombros) y pronado (con las palmas de las manos hacia tu cuerpo).",
+    "Flexiona ligeramente las rodillas e inclínate hacia adelante manteniendo el arco natural de tu espalda. Deja que los brazos cuelguen frente a ti mientras sostienen la barra. Una vez que tu torso esté paralelo al piso, abre los codos hacia afuera y lejos de tu cuerpo. Consejo: Tu torso y tus brazos deben parecerse a la letra \"T\". Ahora estás listo para comenzar el ejercicio.",
+    "Mientras mantienes la parte superior de los brazos perpendicular al torso, tira de la barra hacia la parte superior del pecho mientras contraes la parte posterior de los hombros y exhalas. Consejo: Cuando se realiza correctamente, este ejercicio debe parecerse a un press de banca a la inversa. Además, evita usar tus bíceps para hacer el trabajo. Concéntrate en trabajar la parte posterior de los hombros; los brazos solo deben actuar como ganchos.",
+    "Regresa lentamente a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Triceps Extension (Lying Close-Grip Barbell Behind The Head)",
+  "nameEs": "Extensión de tríceps (Barra con agarre cerrado detrás de la cabeza acostado)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "As you inhale, lower the bar by bending at the elbows and while keeping the upper arm stationary. Keep lowering the bar until your forearms are perpendicular to the floor.",
     "As you exhale bring the bar back up to the starting position by pushing the bar up in a semi-circular motion until the lower arms are also parallel to the floor. Contract the triceps hard at the top of the movement for a second. Tip: Again, only the forearms should move. The upper arms should remain stationary at all times.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Mientras sostienes una barra o barra Z con un agarre en pronación (palmas hacia adelante), acuéstate boca arriba en un banco plano con la cabeza cerca del extremo del banco. Consejo: si sostienes una barra, agárrala con un agarre al ancho de los hombros y si usas una barra Z, agárrala por los mangos internos.",
+    "Extiende tus brazos frente a ti y lleva lentamente la barra hacia atrás en un movimiento semicircular (mientras mantienes los brazos extendidos) hasta una posición sobre tu cabeza. Al final de este paso tus brazos deben estar por encima de la cabeza y paralelos al suelo. Esta será tu posición inicial. Consejo: mantén los codos hacia adentro en todo momento.",
+    "Mientras inhalas, baja la barra doblando los codos y manteniendo el brazo fijo. Sigue bajando la barra hasta que tus antebrazos estén perpendiculares al suelo.",
+    "Mientras exhalas, vuelve a subir la barra a la posición inicial empujándola hacia arriba en un movimiento semicircular hasta que los antebrazos también estén paralelos al suelo. Contrae los tríceps con fuerza en la parte superior del movimiento durante un segundo. Consejo: de nuevo, solo deben moverse los antebrazos. Los brazos deben permanecer fijos en todo momento.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Standing Elevated Quad Stretch",
+  "nameEs": "Estiramiento de cuádriceps elevado de pie",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -12,6 +13,11 @@
     "Start by standing with your back about two to three feet away from a bench or step.",
     "Lift one leg behind you and rest your foot on the step,either on your instep or the ball of your foot, whichever you find most comfortable.",
     "Keep your supporting knee slightly bent and avoid letting that knee extend out beyond your toes. Switch sides."
+  ],
+  "instructionsEs": [
+    "Comienza de pie con la espalda a unos dos o tres pies de distancia de un banco o escalón.",
+    "Levanta una pierna detrás de ti y apoya tu pie en el escalón, ya sea sobre el empeine o la bola del pie, lo que te resulte más cómodo.",
+    "Mantén tu rodilla de apoyo ligeramente flexionada y evita que esa rodilla se extienda más allá de tus dedos. Cambia de lado."
   ],
   "category": "stretching",
   "trackingType": "time",

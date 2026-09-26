@@ -1,5 +1,6 @@
 {
   "name": "Standing Lateral Stretch",
+  "nameEs": "Estiramiento lateral de pie",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -13,6 +14,12 @@
     "Place your right hand on your right hip to support the spine.",
     "Raise your left arm in a vertical line and place your left hand behind your head. Keep it there as you incline your torso to the right.",
     "Keep your weight evenly distributed between both legs (don't lean into your left hip). Switch sides."
+  ],
+  "instructionsEs": [
+    "Adopta una postura ligeramente más ancha que la distancia de las caderas con las rodillas ligeramente flexionadas.",
+    "Coloca tu mano derecha en tu cadera derecha para sostener la columna.",
+    "Eleva tu brazo izquierdo en una línea vertical y coloca tu mano izquierda detrás de tu cabeza. Mantenla allí mientras inclinas tu torso hacia la derecha.",
+    "Mantén tu peso distribuido uniformemente entre ambas piernas (no te recargues en tu cadera izquierda). Cambia de lado."
   ],
   "category": "stretching",
   "trackingType": "time",

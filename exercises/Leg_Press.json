@@ -1,5 +1,6 @@
 {
   "name": "Leg Press",
+  "nameEs": "Prensa de pierna",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,6 +19,13 @@
     "As you inhale, slowly lower the platform until your upper and lower legs make a 90-degree angle.",
     "Pushing mainly with the heels of your feet and using the quadriceps go back to the starting position as you exhale.",
     "Repeat for the recommended amount of repetitions and ensure to lock the safety pins properly once you are done. You do not want that platform falling on you fully loaded."
+  ],
+  "instructionsEs": [
+    "Usando una máquina de prensa de pierna, siéntate en la máquina y coloca tus piernas en la plataforma directamente en frente de ti con una postura de pies media (a la altura de los hombros). (Nota: Para los propósitos de esta explicación usaremos la postura media descrita anteriormente que se enfoca en el desarrollo general; sin embargo, puedes elegir cualquiera de las tres posturas descritas en la sección de posicionamiento de pies).",
+    "Baja las barras de seguridad que sostienen la plataforma con peso y empuja la plataforma completamente hacia arriba hasta que tus piernas estén completamente extendidas frente a ti. Consejo: Asegúrate de no bloquear tus rodillas. Tu torso y las piernas deben formar un ángulo perfecto de 90 grados. Esta será tu posición inicial.",
+    "Mientras inhalas, baja lentamente la plataforma hasta que tus muslos y pantorrillas formen un ángulo de 90 grados.",
+    "Empujando principalmente con los talones de tus pies y usando los cuádriceps, regresa a la posición inicial mientras exhalas.",
+    "Repite por la cantidad recomendada de repeticiones y asegúrate de asegurar los pasadores de seguridad correctamente una vez que termines. No querrás que esa plataforma te caiga encima cargada por completo."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

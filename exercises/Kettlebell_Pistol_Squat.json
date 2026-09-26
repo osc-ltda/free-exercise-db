@@ -1,5 +1,6 @@
 {
   "name": "Pistol Squat (Kettlebell)",
+  "nameEs": "Sentadilla pistola (Pesa rusa)",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -18,6 +19,12 @@
     "Squat down by flexing the knee and sitting back with the hips, holding the kettlebell up in front of you.",
     "Hold the bottom position for a second and then reverse the motion, driving through the heel and keeping your head and chest up.",
     "Lower yourself again and repeat."
+  ],
+  "instructionsEs": [
+    "Toma una pesa rusa con ambas manos y sujétala por las astas. Mantén una pierna levantada del suelo y haz una sentadilla sobre la otra.",
+    "Baja haciendo una sentadilla mediante la flexión de la rodilla y echando las caderas hacia atrás, sosteniendo la pesa rusa frente a ti.",
+    "Mantén la posición inferior por un segundo y luego invierte el movimiento, empujando a través del talón y manteniendo la cabeza y el pecho erguidos.",
+    "Bájate nuevamente y repite."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

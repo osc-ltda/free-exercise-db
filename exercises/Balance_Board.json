@@ -1,5 +1,6 @@
 {
   "name": "Balance Board",
+  "nameEs": "Tabla de equilibrio",
   "force": null,
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,11 @@
     "Place a balance board in front of you.",
     "Stand up on it and try to balance yourself.",
     "Hold the balance for as long as desired."
+  ],
+  "instructionsEs": [
+    "Coloca una tabla de equilibrio frente a ti.",
+    "Súbete a ella e intenta mantener el equilibrio.",
+    "Mantén el equilibrio durante el tiempo que desees."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

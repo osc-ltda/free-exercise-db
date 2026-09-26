@@ -1,5 +1,6 @@
 {
   "name": "Shrug (Middle Back)",
+  "nameEs": "Encogimiento (Espalda media)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "As you exhale, squeeze your shoulder blades together and hold the contraction for a full second. Tip: This movement is just like the reverse action of a hug, or trying to perform rear laterals as if you had no arms.",
     "As you inhale go back to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca abajo en un banco inclinado mientras sostienes una mancuerna en cada mano. Tus brazos deben estar completamente extendidos colgando y apuntando hacia el piso. Las palmas de tus manos deben estar enfrentadas. Esta será tu posición inicial.",
+    "Mientras exhalas, aprieta tus omóplatos y mantén la contracción durante un segundo completo. Consejo: este movimiento es como la acción inversa de un abrazo, o intentar hacer laterales posteriores como si no tuvieras brazos.",
+    "Mientras inhalas, regresa a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

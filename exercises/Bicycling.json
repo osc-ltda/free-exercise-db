@@ -1,5 +1,6 @@
 {
   "name": "Bicycling",
+  "nameEs": "Ciclismo",
   "force": null,
   "level": "beginner",
   "mechanic": null,
@@ -14,6 +15,9 @@
   ],
   "instructions": [
     "To begin, seat yourself on the bike and adjust the seat to your height."
+  ],
+  "instructionsEs": [
+    "Para comenzar, siéntate en la bicicleta y ajusta el asiento a tu altura."
   ],
   "category": "cardio",
   "trackingType": "time",

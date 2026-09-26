@@ -1,5 +1,6 @@
 {
   "name": "Shrug (Leverage)",
+  "nameEs": "Encogimiento (Máquina de palanca)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,13 @@
     "Drive through the floor with your heels, extending your hips and knees as you rise to a standing position. Keep your arms straight throughout the movement, finishing with your shoulders back. This will be your starting position.",
     "Raise the weight by shrugging the shoulders towards your ears, moving straight up and down.",
     "Pause at the top of the motion, and then return the weight to the starting position."
+  ],
+  "instructionsEs": [
+    "Carga los pines con un peso adecuado. Colócate justo entre las manijas.",
+    "Sujeta las manijas superiores con un agarre cómodo y luego baja las caderas mientras tomas aire. Mira hacia adelante con la cabeza y mantén el pecho levantado.",
+    "Empuja el suelo con los talones, extendiendo las caderas y las rodillas al subir a una posición de pie. Mantén los brazos rectos durante todo el movimiento, terminando con los hombros hacia atrás. Esta será tu posición inicial.",
+    "Eleva el peso encogiendo los hombros hacia tus orejas, moviéndote directamente hacia arriba y hacia abajo.",
+    "Haz una pausa en la parte superior del movimiento y luego regresa el peso a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

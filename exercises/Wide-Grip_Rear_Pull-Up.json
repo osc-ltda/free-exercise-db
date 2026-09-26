@@ -1,5 +1,6 @@
 {
   "name": "Pull-Up (Wide-Grip Rear)",
+  "nameEs": "Dominada (Tras nuca con agarre ancho)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,6 +19,13 @@
     "Pull your torso up until the bar is near the back of your neck. To do this, draw the shoulders and upper arms down and back while slightly leaning your head forward. Exhale as you perform this portion of the movement. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary as it moves through space and only the arms should move. The forearms should do no other work other than hold the bar.",
     "After a second on the contracted position, start to inhale and slowly lower your torso back to the starting position when your arms are fully extended and the lats are fully stretched.",
     "Repeat this motion for the prescribed amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Agarra la barra de dominadas con las palmas hacia adelante usando un agarre ancho.",
+    "Con ambos brazos extendidos frente a ti sosteniendo la barra, lleva tu torso y cabeza hacia adelante para que haya una línea imaginaria desde la barra de dominadas hasta la parte posterior de tu cuello. Esta es tu posición inicial.",
+    "Sube tu torso hasta que la barra esté cerca de la parte posterior de tu cuello. Para hacer esto, tira de los hombros y los brazos hacia abajo y hacia atrás mientras inclinas ligeramente la cabeza hacia adelante. Exhala mientras realizas esta porción del movimiento. Consejo: Concéntrate en contraer los músculos de la espalda una vez que alcances la posición de contracción máxima. El torso superior debe permanecer estacionario mientras se mueve en el espacio y solo deben moverse los brazos. Los antebrazos no deben hacer otro trabajo que no sea sostener la barra.",
+    "Después de un segundo en la posición contraída, comienza a inhalar y baja lentamente tu torso a la posición inicial cuando tus brazos estén completamente extendidos y los dorsales completamente estirados.",
+    "Repite este movimiento para la cantidad de repeticiones prescrita."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Around The Worlds",
+  "nameEs": "Around The Worlds",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -14,6 +15,11 @@
     "Lay down on a flat bench holding a dumbbell in each hand with the palms of the hands facing towards the ceiling. Tip: Your arms should be parallel to the floor and next to your thighs. To avoid injury, make sure that you keep your elbows slightly bent. This will be your starting position.",
     "Now move the dumbbells by creating a semi-circle as you displace them from the initial position to over the head. All of the movement should happen with the arms parallel to the floor at all times. Breathe in as you perform this portion of the movement.",
     "Reverse the movement to return the weight to the starting position as you exhale."
+  ],
+  "instructionsEs": [
+    "Acuéstate en un banco plano sosteniendo una mancuerna en cada mano con las palmas de las manos orientadas hacia el techo. Consejo: Tus brazos deben estar paralelos al piso y al lado de tus muslos. Para evitar lesiones, asegúrate de mantener los codos ligeramente flexionados. Esta será tu posición inicial.",
+    "Ahora mueve las mancuernas creando un semicírculo mientras las desplazas desde la posición inicial hasta por encima de la cabeza. Todo el movimiento debe ocurrir con los brazos paralelos al piso en todo momento. Inhala mientras realizas esta porción del movimiento.",
+    "Invierte el movimiento para regresar el peso a la posición inicial mientras exhalas."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

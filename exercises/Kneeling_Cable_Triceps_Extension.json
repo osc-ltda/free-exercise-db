@@ -1,5 +1,6 @@
 {
   "name": "Triceps Extension (Kneeling Cable)",
+  "nameEs": "Extensión de tríceps (Polea arrodillado)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -16,6 +17,15 @@
     "While keeping your upper arms close to your head at all times with the elbows in, press the bar out in a semicircular motion until the elbows are locked and your arms are parallel to the floor. Contract the triceps hard and keep this position for a second. Exhale as you perform this movement.",
     "Slowly return to the starting position as you breathe in.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Coloca un banco de manera transversal frente a una máquina de polea alta.",
+    "Sostén un accesorio de barra recta por encima de tu cabeza con las manos separadas unas 6 pulgadas y las palmas hacia abajo.",
+    "Colócate de espaldas a la máquina y arrodíllate.",
+    "Apoya la cabeza y la parte posterior de la parte superior de los brazos en el banco. Tus los codos deben estar flexionados con los antebrazos apuntando hacia la polea alta. Esta será tu posición inicial.",
+    "Mientras mantienes la parte superior de los brazos cerca de la cabeza en todo momento con los codos hacia adentro, empuja la barra hacia afuera en un movimiento semicircular hasta que los codos estén bloqueados y tus brazos estén paralelos al suelo. Contrae los tríceps con fuerza y mantén esta posición durante un segundo. Exhala al realizar este movimiento.",
+    "Regresa lentamente a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

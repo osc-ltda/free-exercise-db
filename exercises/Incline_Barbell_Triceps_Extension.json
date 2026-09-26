@@ -1,5 +1,6 @@
 {
   "name": "Triceps Extension (Incline Barbell)",
+  "nameEs": "Extensión de tríceps (Barra Inclinado)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -17,6 +18,14 @@
     "Now lower the bar in a semicircular motion behind your head until your forearms touch your biceps. Inhale as you perform this movement. Tip: Keep your upper arms stationary and close to your head at all times. Only the forearms should move.",
     "Return to the starting position as you breathe out and you contract the triceps. Hold the contraction for a second.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Sostén una barra con un agarre pronado (palmas hacia abajo) que esté un poco más junto que el ancho de los hombros.",
+    "Acuéstate boca arriba en un banco inclinado colocado a cualquier ángulo entre 45 y 75 grados.",
+    "Lleva la barra por encima de la cabeza con los brazos extendidos y los codos hacia adentro. Los brazos deben estar alineados con el torso por encima de la cabeza. Esta será tu posición inicial.",
+    "Ahora baja la barra en un movimiento semicircular detrás de la cabeza hasta que tus antebrazos toquen tus bíceps. Inhala mientras realizas este movimiento. Consejo: Mantén tus brazos fijos y cerca de la cabeza en todo momento. Solo deben moverse los antebrazos.",
+    "Regresa a la posición inicial mientras exhalas y contraes los tríceps. Mantén la contracción durante un segundo.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

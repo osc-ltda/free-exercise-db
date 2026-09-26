@@ -1,5 +1,6 @@
 {
   "name": "Toe Touchers",
+  "nameEs": "Toque de punta de pies",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "While keeping your lower back pressed against the floor, slowly lift your torso and use your hands to try and touch your toes. Remember to exhale while perform this part of the exercise.",
     "Slowly begin to lower your torso and arms back down to the starting position while inhaling. Remember to keep your arms straight out pointing towards your toes.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Para comenzar, acuéstate en el suelo o en una esterilla de ejercicio con la espalda presionada contra el suelo. Tus brazos deben estar a los lados con las palmas hacia abajo.",
+    "Tus piernas deben estar juntas. Eleva lentamente las piernas en el aire hasta que estén casi perpendiculares al suelo con una ligera flexión en las rodillas. Tus pies deben estar paralelos al suelo.",
+    "Mueve tus brazos para que estén completamente extendidos a un ángulo de 45 grados del suelo. Esta es la posición inicial.",
+    "Mientras mantienes tu zona lumbar presionada contra el suelo, levanta lentamente tu torso y usa tus manos para intentar tocar tus pies. Recuerda exhalar al realizar esta parte del ejercicio.",
+    "Comienza a bajar lentamente tu torso y brazos de regreso a la posición inicial mientras inhalas. Recuerda mantener tus brazos estirados apuntando hacia tus pies.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "stretching",
   "trackingType": "time",

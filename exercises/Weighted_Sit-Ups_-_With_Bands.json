@@ -1,5 +1,6 @@
 {
   "name": "Sit-Ups (Weighted - With Bands)",
+  "nameEs": "Abdominal (Lastrado - Con bandas)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "Position your legs through the decline machine until they are secured. Now reach for the exercise bands with both hands. Use a pronated (palms forward) grip to grasp the handles. Position them near your collar bone and rotate your wrist to a neutral grip (palms facing the torso). Note: Your arms should remain stationary throughout the exercise. This is the starting position.",
     "Move your torso upward until your upper body is perpendicular to the floor while exhaling. Hold the contraction for a second and lower your upper body back down to the starting position while inhaling.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Comienza atando las bandas alrededor de la base del banco declinado. Coloca los mangos hacia el interior del banco declinado para que, al acostarte, puedas alcanzar ambos.",
+    "Coloca tus piernas a través de la máquina declinada hasta que estén seguras. Ahora alcanza las bandas de ejercicio con ambas manos. Usa un agarre pronado (palmas hacia adelante) para tomar los mangos. Colócalos cerca de tu clavícula y rota tu muñeca hacia un agarre neutro (palmas hacia el torso). Nota: Tus brazos deben permanecer inmóviles durante todo el ejercicio. Esta es la posición de inicio.",
+    "Mueve tu torso hacia arriba hasta que la parte superior de tu cuerpo quede perpendicular al suelo mientras exhalas. Mantén la contracción durante un segundo y baja la parte superior del cuerpo de regreso a la posición de inicio mientras inhalas.",
+    "Repite por la cantidad de repeticiones recomendada."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

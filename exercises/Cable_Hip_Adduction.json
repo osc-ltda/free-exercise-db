@@ -1,5 +1,6 @@
 {
   "name": "Cable Hip Adduction",
+  "nameEs": "Aducción de cadera (Polea)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,15 @@
     "Now perform the movement by moving the leg with the ankle cuff in front of the far leg by using the inner thighs to abduct the hip. Breathe out during this portion of the movement.",
     "Slowly return to the starting position as you breathe in.",
     "Repeat for the recommended amount of repetitions and then repeat the same movement with the opposite leg."
+  ],
+  "instructionsEs": [
+    "Párate frente a una polea baja viendo hacia adelante con una pierna cerca de la polea y la otra alejada.",
+    "Coloca la tobillera al cable y también al tobillo de la pierna que está cerca de la polea.",
+    "Ahora da un paso hacia afuera y aléjate de la torre con una postura amplia y agarra la barra del sistema de poleas.",
+    "Párate sobre el pie que no tiene la tobillera (el pie alejado) y permite que la pierna con la tobillera sea jalada hacia la polea baja. Esta será tu posición inicial.",
+    "Ahora realiza el movimiento moviendo la pierna con la tobillera frente a la pierna alejada usando la parte interna de los muslos para abducir la cadera. Exhala durante esta porción del movimiento.",
+    "Regresa lentamente a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones y luego repite el mismo movimiento con la pierna opuesta."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

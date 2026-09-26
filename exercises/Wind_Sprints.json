@@ -1,5 +1,6 @@
 {
   "name": "Wind Sprints",
+  "nameEs": "Wind Sprints",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,6 +14,12 @@
     "Begin by quickly raising one knee as high as you can. Do not swing your body or your legs. 3",
     "Immediately reverse the motion, returning that leg to the starting position. Simultaneously raise the opposite knee as high as possible.",
     "Continue alternating between legs until the set is complete."
+  ],
+  "instructionsEs": [
+    "Cuélgate de una barra de dominada usando un agarre pronado. Tus brazos y piernas deben estar extendidos. Esta será tu posición inicial.",
+    "Comienza levantando rápidamente una rodilla lo más alto que puedas. No balancees tu cuerpo ni tus piernas. 3",
+    "Invierte el movimiento inmediatamente, regresando esa pierna a la posición inicial. Eleva simultáneamente la rodilla opuesta lo más alto posible.",
+    "Continúa alternando entre las piernas hasta que la serie esté completa."
   ],
   "category": "strength",
   "trackingType": "time",

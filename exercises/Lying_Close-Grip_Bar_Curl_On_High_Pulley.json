@@ -1,5 +1,6 @@
 {
   "name": "Curl (Lying Close-Grip Bar On High Pulley)",
+  "nameEs": "Curl (Barra con agarre cerrado en polea alta acostado)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,15 @@
     "As you breathe out, curl the bar down in a semicircular motion until it touches your chin. Squeeze the biceps for a second at the top contracted position. Tip: As you execute this motion only the forearms should move. At no time should the upper arms be moving at all. They are to remain perpendicular throughout the movement.",
     "Return to starting position slowly.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Coloca un banco plano frente a una polea alta o máquina de jalón.",
+    "Sostén el accesorio de barra recta usando un agarre en supinación (palmas hacia arriba) que sea de aproximadamente el ancho de los hombros.",
+    "Acuéstate boca arriba con la cabeza sobre el extremo del banco.",
+    "Ahora extiende tus brazos rectos por encima de los hombros. Tu torso y tus brazos deben formar un ángulo de 90 grados y los codos deben estar hacia adentro. Esta será tu posición inicial.",
+    "Mientras exhalas, haz un curl de la barra hacia abajo en un movimiento semicircular hasta que toque tu barbilla. Contrae los bíceps durante un segundo en la posición superior contraída. Consejo: al ejecutar este movimiento solo deben moverse los antebrazos. En ningún momento deben moverse los brazos. Deben permanecer perpendiculares durante todo el movimiento.",
+    "Regresa a la posición inicial lentamente.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

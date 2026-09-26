@@ -1,5 +1,6 @@
 {
   "name": "Shrug (Snatch)",
+  "nameEs": "Encogimiento (Snatch)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -14,6 +15,10 @@
   "instructions": [
     "Begin with a wide grip, with the bar hanging at the mid thigh position. You can use a hook or overhand grip. Your back should be straight and inclined slightly forward.",
     "Shrug your shoulders towards your ears. While this exercise can usually by loaded with heavier weight than a snatch, avoid overloading to the point that the execution slows down."
+  ],
+  "instructionsEs": [
+    "Comienza con un agarre ancho, con la barra colgando a la altura del muslo medio. Puedes usar un agarre de gancho o pronado. Tu espalda debe estar recta e inclinada ligeramente hacia adelante.",
+    "Haz un encogimiento de tus hombros hacia tus orejas. Si bien este ejercicio generalmente se puede cargar con más peso que una arrancada, evita sobrecargar hasta el punto de que la ejecución se vuelva lenta."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

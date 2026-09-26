@@ -1,5 +1,6 @@
 {
   "name": "Bicep Curl (Strict)",
+  "nameEs": "Curl de bíceps (Estricto)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,12 @@
     "Hold the bar at arm's length with an underhand grip, elbows pinned to your sides.",
     "Curl the bar up without letting your elbows drift forward or your back leave the wall.",
     "Lower all the way down under control. No swing: if your back comes off the wall, the weight is too heavy."
+  ],
+  "instructionsEs": [
+    "Párate con la espalda apoyada contra una pared o poste, con los pies un poco hacia adelante.",
+    "Sostén la barra con los brazos extendidos y un agarre supino, con los codos pegados a los costados.",
+    "Realiza un curl con la barra hacia arriba sin permitir que tus codos se muevan hacia adelante ni que tu espalda se separe de la pared.",
+    "Baja por completo de forma controlada. Sin impulso: si tu espalda se separa de la pared, el peso es demasiado pesado."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Preacher Curl (One Arm Dumbbell)",
+  "nameEs": "Preacher Curl (Mancuerna a un brazo)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "As you exhale, use the biceps to curl the weight up until your biceps is fully contracted and the dumbbell is at shoulder height. Again, remember that to ensure full contraction you need to bring that small finger higher than the thumb.",
     "Squeeze the biceps hard for a second at the contracted position and repeat for the recommended amount of repetitions.",
     "Switch arms and repeat the movement."
+  ],
+  "instructionsEs": [
+    "Agarra una mancuerna con el brazo derecho y coloca la parte superior del brazo encima del banco Scott o de un banco inclinado. La mancuerna debe sostenerse a la altura del hombro. Esta será tu posición inicial.",
+    "Mientras inspiras, baja lentamente la mancuerna hasta que tu brazo esté extendido y el bíceps esté completamente estirado.",
+    "Mientras exhalas, usa el bíceps para elevar el peso haciendo un curl hacia arriba hasta que el bíceps esté completamente contraído y la mancuerna esté a la altura del hombro. De nuevo, recuerda que para asegurar una contracción completa debes elevar el dedo meñique más que el pulgar.",
+    "Aprieta el bíceps con fuerza durante un segundo en la posición contraída y repite para la cantidad recomendada de repeticiones.",
+    "Cambia de brazo y repite el movimiento."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

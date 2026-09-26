@@ -1,5 +1,6 @@
 {
   "name": "Pull-In (Exercise Ball)",
+  "nameEs": "Pull-In (Pelota de ejercicio)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -14,6 +15,13 @@
     "While keeping your back completely straight and the upper body stationary, pull your knees in towards your chest as you exhale, allowing the ball to roll forward under your ankles. Squeeze your abs and hold that position for a second.",
     "Now slowly straighten your legs, rolling the ball back to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Coloca una pelota de ejercicio cerca y acuéstate en el suelo frente a ella con tus manos en el suelo a la distancia de los hombros en una posición de flexión de brazos.",
+    "Ahora coloca la parte inferior de tus espinillas sobre la parte superior de una pelota de ejercicio. Consejo: en este punto, tus piernas deben estar completamente extendidas con las espinillas sobre la pelota y la parte superior del cuerpo debe estar en una posición similar a una flexión de brazos, sostenida por tus dos brazos extendidos al frente. Esta será tu posición inicial.",
+    "Mientras mantienes tu espalda completamente recta y la parte superior del cuerpo inmóvil, lleva tus rodillas hacia tu pecho mientras exhalas, permitiendo que la pelota ruede hacia adelante debajo de tus tobillos. Aprieta tus abdominales y mantén esa posición durante un segundo.",
+    "Ahora endereza lentamente tus piernas, haciendo rodar la pelota de regreso a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

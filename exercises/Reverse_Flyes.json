@@ -1,5 +1,6 @@
 {
   "name": "Reverse Flyes",
+  "nameEs": "Aperturas inversas",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "The arms should be elevated until they are parallel to the floor.",
     "Feel the contraction and slowly lower the weights back down to the starting position while inhaling.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Para empezar, acuéstate en un banco inclinado con el pecho y el estómago presionando contra la inclinación. Sostén una mancuerna en cada mano con las palmas enfrentadas (agarre neutro).",
+    "Extiende los brazos frente a ti para que queden perpendiculares al ángulo del banco. Las piernas deben estar inmóviles mientras aplicas presión con la bola de los pies. Esta es la posición inicial.",
+    "Manteniendo una ligera flexión en los codos, mueve los pesos hacia afuera y alejándolos entre sí (hacia los lados) en un movimiento de arco mientras exhalas. Consejo: intenta juntar tus omóplatos para obtener los mejores resultados de este ejercicio.",
+    "Los brazos deben elevarse hasta que queden paralelos al suelo.",
+    "Siente la contracción y baja lentamente los pesos de regreso a la posición inicial mientras inspiras.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

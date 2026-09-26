@@ -1,5 +1,6 @@
 {
   "name": "Box Skip",
+  "nameEs": "Box Skip",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,6 +21,13 @@
     "Drive off the back leg, attempting to gain as much height with the hips as possible.",
     "Immediately upon landing on the box, drive the other leg forward and upward to gain height and distance, leaping from the box. Land between the first two boxes with the same leg that landed on the first box.",
     "Then, step to the next box and repeat."
+  ],
+  "instructionsEs": [
+    "Necesitarás varias cajas alineadas a una distancia de unos 8 pies.",
+    "Empieza frente a la primera caja con una pierna ligeramente por detrás de la otra.",
+    "Impúlsate con la pierna trasera, intentando ganar la mayor altura posible con las caderas.",
+    "Inmediatamente al aterrizar en la caja, impulsa la otra pierna hacia adelante y hacia arriba para ganar altura y distancia, saltando de la caja. Aterriza entre las dos primeras cajas con la misma pierna que aterrizó en la primera caja.",
+    "Luego, da un paso hacia la siguiente caja y repite."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

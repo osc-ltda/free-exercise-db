@@ -1,5 +1,6 @@
 {
   "name": "Clean (Bottoms-Up From The Hang Position)",
+  "nameEs": "Clean (Bottoms-Up desde posición de suspensión con pesa rusa)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -14,6 +15,10 @@
   "instructions": [
     "Initiate the exercise by standing upright with a kettlebell in one hand.",
     "Swing the kettlebell back forcefully and then reverse the motion forcefully. Crush the kettlebell handle as hard as possible and raise the kettlebell to your shoulder."
+  ],
+  "instructionsEs": [
+    "Inicia el ejercicio de pie y erguido con una pesa rusa en una mano.",
+    "Lanza la pesa rusa hacia atrás con fuerza y luego invierte el movimiento con fuerza. Aprieta el asa de la pesa rusa tan fuerte como puedas y elévate la pesa rusa hacia tu hombro."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

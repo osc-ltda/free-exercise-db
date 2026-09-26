@@ -1,5 +1,6 @@
 {
   "name": "Iliotibial Tract-SMR",
+  "nameEs": "Tracto iliotibial - SMR",
   "force": "static",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -12,6 +13,11 @@
     "Lay on your side, with the bottom leg placed onto a foam roller between the hip and the knee. The other leg can be crossed in front of you.",
     "Place as much of your weight as is tolerable onto your bottom leg; there is no need to keep your bottom leg in contact with the ground. Be sure to relax the muscles of the leg you are stretching.",
     "Roll your leg over the foam from you hip to your knee, pausing for 10-30 seconds at points of tension. Repeat with the opposite leg."
+  ],
+  "instructionsEs": [
+    "Acuéstate de lado, con la pierna de abajo colocada sobre un rodillo de espuma entre la cadera y la rodilla. La otra pierna puede cruzarse frente a ti.",
+    "Coloca tanto peso como puedas tolerar sobre tu pierna de abajo; no es necesario que mantengas tu pierna de abajo en contacto con el suelo. Asegúrate de relajar los músculos de la pierna que estás estirando.",
+    "Rueda tu pierna sobre la espuma desde la cadera hasta la rodilla, deteniéndote durante 10-30 segundos en los puntos de tensión. Repite con la pierna opuesta."
   ],
   "category": "stretching",
   "trackingType": "time",

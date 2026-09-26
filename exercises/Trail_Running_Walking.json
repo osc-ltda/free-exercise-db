@@ -1,5 +1,6 @@
 {
   "name": "Trail Running/Walking",
+  "nameEs": "Carrera / Caminata por senderos",
   "force": null,
   "level": "beginner",
   "mechanic": null,
@@ -15,6 +16,10 @@
   "instructions": [
     "Running or hiking on trails will get the blood pumping and heart beating almost immediately. Make sure you have good shoes. While you use the muscles in your calves and buttocks to pull yourself up a hill, the knees, joints and ankles absorb the bulk of the pounding coming back down. Take smaller steps as you walk downhill, keep your knees bent to reduce the impact and slow down to avoid falling.",
     "A 150 lb person can burn over 200 calories for 30 minutes walking uphill, compared to 175 on a flat surface. If running the trail, a 150 lb person can burn well over 500 calories in 30 minutes."
+  ],
+  "instructionsEs": [
+    "Correr o hacer excursionismo por senderos hará que la sangre circule y el corazón lata casi de inmediato. Asegúrate de tener buenos zapatos. Mientras usas los músculos de tus pantorrillas y glúteos para impulsarte hacia arriba en una colina, las rodillas, articulaciones y tobillos absorben la mayor parte del impacto al bajar. Da pasos más cortos al caminar cuesta abajo, mantén tus rodillas flexionadas para reducir el impacto y disminuye la velocidad para evitar caídas.",
+    "Una persona de 150 lb puede quemar más de 200 calorías durante 30 minutos caminando cuesta arriba, en comparación con 175 en una superficie plana. Si corre por el sendero, una persona de 150 lb puede quemar más de 500 calorías en 30 minutos."
   ],
   "category": "cardio",
   "trackingType": "time",

@@ -1,5 +1,6 @@
 {
   "name": "Curl (Lower Back)",
+  "nameEs": "Curl (Zona lumbar)",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -11,6 +12,10 @@
   "instructions": [
     "Lie on your stomach with your arms out to your sides. This will be your starting position.",
     "Using your lower back muscles, extend your spine lifting your chest off of the ground. Do not use your arms to push yourself up. Keep your head up during the movement. Repeat for 10-20 repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca abajo con los brazos extendidos a los costados. Esta será tu posición inicial.",
+    "Utilizando los músculos de la zona lumbar, extiende tu columna levantando el pecho del suelo. No uses tus brazos para impulsarte hacia arriba. Mantén la cabeza en alto durante el movimiento. Repite de 10 a 20 repeticiones."
   ],
   "category": "stretching",
   "trackingType": "time",

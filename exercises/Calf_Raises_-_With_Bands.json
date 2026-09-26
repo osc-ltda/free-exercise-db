@@ -1,5 +1,6 @@
 {
   "name": "Calf Raises (With Bands)",
+  "nameEs": "Elevación de pantorrilla (Con banda)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Keeping the hands by your shoulder, stand up on your toes as you exhale and contract the calves hard at the top of the movement.",
     "After a one second contraction, slowly go back down to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Toma una banda de ejercicio y párate sobre ella con los dedos de los pies, asegurándote de que la longitud de la banda entre el pie y los brazos sea la misma en ambos lados.",
+    "Mientras sostienes los mangos de la banda, eleva los brazos hacia los lados de tu cabeza como si te prepararas para realizar un press de hombros. Las palmas deben mirar hacia adelante con los codos doblados y hacia los lados. Este movimiento creará tensión en la banda. Esta será tu posición inicial.",
+    "Manteniendo las manos junto a tus hombros, elévate sobre la punta de los pies mientras exhalas y contraes con fuerza las pantorrillas en la parte superior del movimiento.",
+    "Después de una contracción de un segundo, regresa lentamente a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

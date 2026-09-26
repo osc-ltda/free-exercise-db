@@ -1,5 +1,6 @@
 {
   "name": "Dip (Parallel Bar)",
+  "nameEs": "Fondo (en barras paralelas)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Begin by flexing the elbow, lowering your body until your arms break 90 degrees. Avoid swinging, and maintain good posture throughout the descent.",
     "Reverse the motion by extending the elbow, pushing yourself back up into the starting position.",
     "Repeat for the desired number of repetitions."
+  ],
+  "instructionsEs": [
+    "Párate entre un par de barras paralelas. Coloca una mano en cada barra y da un pequeño salto para ayudarte a entrar en la posición inicial con tus brazos extendidos.",
+    "Comienza flexionando el codo, bajando tu cuerpo hasta que tus brazos formen un ángulo menor a 90 grados. Evita balancearte y mantén una buena postura durante todo el descenso.",
+    "Invierte el movimiento extendiendo el codo y empujándote hacia arriba para volver a la posición inicial.",
+    "Repite por la cantidad deseada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

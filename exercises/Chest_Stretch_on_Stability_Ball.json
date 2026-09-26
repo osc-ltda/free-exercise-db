@@ -1,5 +1,6 @@
 {
   "name": "Chest Stretch on Stability Ball",
+  "nameEs": "Estiramiento de pecho en pelota de estabilidad",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -12,6 +13,11 @@
     "Get on your hands and knees next to an exercise ball.",
     "Place your elbows on top of the ball, keeping your arm out to your side. This will be your starting position.",
     "Lower your torso towards the floor, keeping your elbow on top of the ball. Hold the stretch for 20-30 seconds, and repeat with the other arm."
+  ],
+  "instructionsEs": [
+    "Colócate sobre tus manos y rodillas al lado de una pelota de ejercicio.",
+    "Coloca tus codos encima de la pelota, manteniendo tu brazo hacia un lado. Esta será tu posición de inicio.",
+    "Baja tu torso hacia el suelo, manteniendo tu codo encima de la pelota. Mantén el estiramiento durante 20-30 segundos y repite con el otro brazo."
   ],
   "category": "stretching",
   "trackingType": "time",

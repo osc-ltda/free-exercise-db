@@ -1,5 +1,6 @@
 {
   "name": "Military Press (Standing)",
+  "nameEs": "Press militar (De pie)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,14 @@
     "Lower the bar down to the collarbone slowly as you inhale.",
     "Lift the bar back up to the starting position as you exhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Comienza colocando una barra que esté aproximadamente a la altura del pecho en un rack de sentadillas. Una vez que hayas seleccionado los pesos, agarra la barra usando un agarre pronado (palmas hacia adelante). Asegúrate de agarrar la barra más separada que el ancho de los hombros.",
+    "Flexiona ligeramente las rodillas y coloca la barra en tu clavícula. Levanta la barra manteniéndola apoyada en tu pecho. Da un paso hacia atrás y coloca tus pies separados al ancho de los hombros entre sí.",
+    "Una vez que recojas la barra con la longitud de agarre correcta, levanta la barra sobre tu cabeza bloqueando tus brazos. Mantén a la altura de los hombros y ligeramente frente a tu cabeza. Esta es tu posición inicial.",
+    "Baja la barra hacia la clavícula lentamente mientras inhalas.",
+    "Vuelve a levantar la barra hasta la posición inicial mientras exhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

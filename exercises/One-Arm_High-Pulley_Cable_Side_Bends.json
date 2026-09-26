@@ -1,5 +1,6 @@
 {
   "name": "Side Bend (One-Arm High-Pulley Cable)",
+  "nameEs": "Inclinación lateral (Polea alta a un brazo)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -17,6 +18,16 @@
     "Once you reach maximum contraction, slowly release the weight to the starting position. The weight stack should never be unloaded in a resting position. The aim is constant tension during the set.",
     "Repeat to failure.",
     "Then, reposition and repeat the same series of movements on the opposite side."
+  ],
+  "instructionsEs": [
+    "Conecta un mango estándar a una torre. Mueve el cable a la posición de polea más alta.",
+    "Párate con el costado hacia el cable. Con una mano, estírate y toma el mango con un agarre supino.",
+    "Jala el cable hacia abajo hasta que el codo toque tu costado y el mango esté cerca de tu hombro.",
+    "Coloca los pies separados a la distancia de las caderas. Coloca la mano libre en la cadera para ayudar a medir el punto de pivote.",
+    "Mantén el brazo en posición estática. Contrae el oblicuo para bajar el peso en un abdominal lateral.",
+    "Una vez que alcances la contracción máxima, libera lentamente el peso a la posición inicial. La pila de pesas nunca debe descargarse en una posición de descanso. El objetivo es la tensión constante durante la serie.",
+    "Repite hasta el fallo.",
+    "Luego, reposiciónate y repite la misma serie de movimientos en el lado opuesto."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

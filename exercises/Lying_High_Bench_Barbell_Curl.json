@@ -1,5 +1,6 @@
 {
   "name": "Curl (Lying High Bench Barbell)",
+  "nameEs": "Curl (Barra en banco alto acostado)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "While keeping the elbows in and the upper arms stationary, curl the weight up in a semi-circular motion as you contract the biceps and exhale. Hold at the top of the movement for a second.",
     "As you inhale, slowly go back to the starting position. Tip: Maintain full control of the weight at all times and avoid any swinging. Remember, only the forearms should move throughout the movement.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca abajo en un banco plano alto mientras sostienes una barra con un agarre supinado (palmas hacia arriba). Consejo: Si sostienes una barra, tómala con un agarre al ancho de los hombros y si usas una barra Z, tómala por las asas internas. Tu parte superior del cuerpo debe colocarse de manera que la parte alta del pecho quede sobre el borde del banco y la barra cuelgue frente a ti con los brazos extendidos y perpendiculares al piso. Esta será tu posición inicial.",
+    "Mientras mantienes los codos hacia adentro y los brazos fijos, flexiona el peso hacia arriba en un movimiento semicircular a medida que contraes los bíceps y exhalas. Mantén la contracción en la parte alta del movimiento durante un segundo.",
+    "Mientras inhalas, regresa lentamente a la posición inicial. Consejo: Mantén el control total del peso en todo momento y evita cualquier balanceo. Recuerda, solo los antebrazos deben moverse durante todo el movimiento.",
+    "Repite para la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

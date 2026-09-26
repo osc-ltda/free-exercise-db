@@ -1,5 +1,6 @@
 {
   "name": "Calf Stretch Elbows Against Wall",
+  "nameEs": "Estiramiento de pantorrilla con codos contra la pared",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -12,6 +13,11 @@
     "Stand facing a wall from a couple feet away.",
     "Lean against the wall, placing your weight on your forearms.",
     "Attempt to keep your heels on the ground. Hold for 10-20 seconds. You may move further or closer the wall, making it more or less difficult, respectively."
+  ],
+  "instructionsEs": [
+    "Párate frente a una pared a un par de pies de distancia.",
+    "Apóyate contra la pared colocando tu peso sobre los antebrazos.",
+    "Intenta mantener los talones en el suelo. Mantén la posición durante 10-20 segundos. Puedes alejarte o acercarte más a la pared para que sea más o menos difícil, respectivamente."
   ],
   "category": "stretching",
   "trackingType": "time",

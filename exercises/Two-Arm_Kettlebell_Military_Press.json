@@ -1,5 +1,6 @@
 {
   "name": "Military Press (Two-Arm Kettlebell)",
+  "nameEs": "Military Press (Pesa rusa de dos brazos)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,6 +14,10 @@
   "instructions": [
     "Clean two kettlebells to your shoulders. Clean the kettlebells to your shoulders by extending through the legs and hips as you swing the kettlebells towards your shoulders. Rotate your wrists as you do so, so that the palms face forward.",
     "Press the kettlebells up and out. As the kettlebells pass your head, lean into the weights so that the kettlebells are racked behind your head. Make sure to contract your lats, butt, and stomach for added stability."
+  ],
+  "instructionsEs": [
+    "Lleva dos pesas rusas a tus hombros. Limpia las pesas rusas hacia tus hombros extendiendo las piernas y las caderas mientras balanceas las pesas rusas hacia tus hombros. Rota tus muñecas al hacerlo, de modo que las palmas miren hacia adelante.",
+    "Haz un press con las pesas rusas hacia arriba y hacia afuera. A medida que las pesas rusas pasen por tu cabeza, inclínate hacia los pesos para que las pesas rusas queden apoyadas detrás de tu cabeza. Asegúrate de contraer tus dorsales, glúteos y abdomen para mayor estabilidad."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Linear Depth Jump",
+  "nameEs": "Salto de profundidad lineal",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "To initiate the movement, gently drop down to the ground between your platforms, allowing the knees and hips to flex.",
     "Reverse the motion by exploding, extending through the hips, knees, and ankles to jump onto the other platform.",
     "Land softly, asborbing the impact through the legs."
+  ],
+  "instructionsEs": [
+    "Necesitarás dos cajones o bancos separados a pocos pies de distancia el uno del otro. Comienza de pie en un cajón mirando hacia la otra plataforma.",
+    "Para iniciar el movimiento, déjate caer suavemente al suelo entre tus plataformas, permitiendo que las rodillas y las caderas se flexionen.",
+    "Invierte el movimiento explotando, extendiendo las caderas, las rodillas y los tobillos para saltar a la otra plataforma.",
+    "Aterriza suavemente, absorbiendo el impacto a través de las piernas."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

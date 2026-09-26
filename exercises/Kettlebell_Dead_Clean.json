@@ -1,5 +1,6 @@
 {
   "name": "Clean (Kettlebell Dead)",
+  "nameEs": "Clean (Pesa rusa desde el suelo)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,6 +19,11 @@
     "Place kettlebell between your feet. To get in the starting position, push your butt back and look straight ahead.",
     "Clean the kettlebell to your shoulder. Clean the kettlebell to your shoulders by extending through the legs and hips as you raise the kettlebell towards your shoulder. The wrist should rotate as you do so.",
     "Lower the kettlebell, keeping the hamstrings loaded by keeping your back straight and your butt out."
+  ],
+  "instructionsEs": [
+    "Coloca la pesa rusa entre tus pies. Para adoptar la posición inicial, empuja los glúteos hacia atrás y mira hacia el frente.",
+    "Haz un clean con la pesa rusa hacia tu hombro. Realiza el clean hacia tus hombros extendiendo las piernas y caderas mientras subes la pesa rusa hacia tu hombro. La muñeca debe girar al hacerlo.",
+    "Baja la pesa rusa, manteniendo los isquiotibiales cargados al conservar la espalda recta y los glúteos hacia afuera."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

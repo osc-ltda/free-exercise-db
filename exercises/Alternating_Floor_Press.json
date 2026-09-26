@@ -1,5 +1,6 @@
 {
   "name": "Floor Press (Alternating)",
+  "nameEs": "Press de suelo (Alternado)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "Position one in place on your chest and then the other, gripping the kettlebells on the handle with the palms facing forward.",
     "Extend both arms, so that the kettlebells are being held above your chest. Lower one kettlebell, bringing it to your chest and turn the wrist in the direction of the locked out kettlebell.",
     "Raise the kettlebell and repeat on the opposite side."
+  ],
+  "instructionsEs": [
+    "Acuéstate en el suelo con dos pesas russa al lado de tus hombros.",
+    "Coloca una en su lugar sobre tu pecho y luego la otra, sujetando las pesas russa por el mango con las palmas hacia adelante.",
+    "Extiende ambos brazos para que las pesas russa queden suspendidas sobre tu pecho. Baja una pesa russa llevándola hacia tu pecho y gira la muñeca en dirección a la pesa russa que está bloqueada arriba.",
+    "Eleva la pesa russa y repite del lado opuesto."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

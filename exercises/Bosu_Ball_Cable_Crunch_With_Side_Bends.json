@@ -1,5 +1,6 @@
 {
   "name": "Crunch (Bosu Ball Cable With Side Bends)",
+  "nameEs": "Crunch (Pelota Bosu con polea y flexiones laterales)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -19,6 +20,18 @@
     "Repeat the same series of movements to failure.",
     "Once you reach failure, keep your abs tight and raise your torso into plank position so your back is elevated off the Bosu Ball.",
     "Lower your arms down to your side; keep them straight. Start doing alternating side bends; reach for your heels! This finishing movement will focus on your obliques."
+  ],
+  "instructionsEs": [
+    "Conecta un asa estándar a cada brazo de una máquina de poleas y colócalos en la posición más baja.",
+    "Toma una pelota Bosu y colócala al frente y al centro de la máquina de poleas.",
+    "Acuéstate sobre la pelota Bosu con la parte baja de la espalda arqueada alrededor de la pelota. Tus glúteos deben estar cerca del suelo sin tocarlo.",
+    "Con ambas manos, estírate hacia atrás y toma el asa de cada cable.",
+    "Con tus pies en una postura amplia, extiende tus brazos rectos frente a ti y entre tus rodillas. Tus manos deben estar a la altura de las rodillas.",
+    "Mantén tus brazos rectos y alineados con el ángulo ascendente del cable. Eleva tu torso en un movimiento de crunch sin bajar o doblar los brazos.",
+    "Mantén la posición rígida con tus brazos. Desciende lentamente a la posición inicial con la espalda arqueada alrededor de la pelota Bosu y los abdominales estirados.",
+    "Repite la misma serie de movimientos hasta el fallo.",
+    "Una vez que llegues al fallo, mantén el abdomen contraído y eleva tu torso a posición de plancha para que tu espalda se eleve de la pelota Bosu.",
+    "Baja tus brazos a los costados; mantenlos rectos. Comienza a hacer flexiones laterales alternas; ¡intenta tocar tus talones! Este movimiento final se enfocará en tus oblicuos."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

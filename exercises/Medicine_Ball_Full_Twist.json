@@ -1,5 +1,6 @@
 {
   "name": "Twist (Medicine Ball Full)",
+  "nameEs": "Giro completo con balón medicinal",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,12 @@
     "Hold the ball in front of the trunk. Open the hips and turn the shoulders at the same time as your partner.",
     "For full rotation, you and your partner should twist in the same direction, i.e. counter-clockwise.",
     "Pass the ball to your partner, and both of you can now twist in the opposite direction to repeat the procedure."
+  ],
+  "instructionsEs": [
+    "Para este ejercicio necesitarás un balón medicinal y un compañero. Párate espalda con espalda con tu compañero, separados por 2-3 pies. Esta será tu posición inicial.",
+    "Sostén el balón frente al tronco. Abre las caderas y gira los hombros al mismo tiempo que tu compañero.",
+    "Para una rotación completa, tú y tu compañero deben girar en la misma dirección, es decir, en sentido antihorario.",
+    "Pasa el balón a tu compañero y ambos pueden girar ahora en la dirección opuesta para repetir el procedimiento."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

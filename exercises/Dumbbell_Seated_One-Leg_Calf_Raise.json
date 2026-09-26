@@ -1,5 +1,6 @@
 {
   "name": "Calf Raise (Dumbbell Seated One-Leg)",
+  "nameEs": "Elevación de pantorrilla (Mancuerna sentado a una pierna)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Raise your toes up as high as possible as you exhale and you contract your calf muscle. Hold the contraction for a second.",
     "Slowly return to the starting position, stretching as far down as possible.",
     "Repeat for your prescribed number of repetitions and then repeat with the right leg."
+  ],
+  "instructionsEs": [
+    "Coloca un bloque en el suelo a unas 12 pulgadas de un banco plano.",
+    "Siéntate en un banco plano y coloca una mancuerna en la parte superior de tu muslo izquierdo, a unas 3 pulgadas por encima de tu rodilla.",
+    "Ahora coloca la bola de tu pie izquierdo sobre el bloque. Esta será tu posición inicial.",
+    "Eleva los dedos de tus pies lo más alto posible mientras exhalas y contraes el músculo de la pantorrilla. Mantén la contracción durante un segundo.",
+    "Regresa lentamente a la posición inicial, estirando lo más hacia abajo posible.",
+    "Repite por el número de repeticiones prescrito y luego repite con la pierna derecha."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

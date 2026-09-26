@@ -1,5 +1,6 @@
 {
   "name": "Clean (One-Arm Open Palm Kettlebell)",
+  "nameEs": "Clean (Pesa rusa con palma abierta a una mano)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,6 +20,12 @@
     "Grab the handle with one hand and raise the kettlebell rapidly, let it flip so that the ball of the kettlebell lands in the palm of your hand.",
     "Throw the kettlebell out in front of you and catch the handle with one hand.",
     "Take the kettlebell to the floor and repeat. Make sure to work both arms."
+  ],
+  "instructionsEs": [
+    "Coloca una pesa rusa entre tus pies.",
+    "Agarra el mango con una mano y eleva la pesa rusa rápidamente, deja que gire para que la bola de la pesa rusa aterrice en la palma de tu mano.",
+    "Lanza la pesa rusa hacia adelante y atrapa el mango con una mano.",
+    "Lleva la pesa rusa al suelo y repite. Asegúrate de trabajar ambos brazos."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

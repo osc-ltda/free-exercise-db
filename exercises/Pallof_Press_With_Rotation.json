@@ -1,5 +1,6 @@
 {
   "name": "Pallof Press (With Rotation)",
+  "nameEs": "Press Pallof (con rotación)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -22,6 +23,17 @@
     "With the side tension still engaging your core, bring your hands to your chest and immediately press outward to a fully extended position. This constitutes one rep.",
     "Repeat to failure.",
     "Then, reposition and repeat the same series of movements on the opposite side."
+  ],
+  "instructionsEs": [
+    "Conecta un agarradero estándar a una torre y coloca la polea a la altura de los hombros.",
+    "De lado a la polea, toma el agarradero con una mano y aléjate de la torre. Debes estar aproximadamente a la distancia de un brazo de la polea, con la tensión del peso en el cable. Alinea el brazo extendido con el cable.",
+    "Con los pies separados a la distancia de las caderas, tira del cable hacia tu pecho y toma el agarradero con tu otra mano. Ambas manos deben estar en el agarradero en este momento.",
+    "Mirando hacia adelante, empuja el cable alejándolo de tu pecho. Tu centro debe estar tenso y activado.",
+    "Manteniendo tus caderas rectas, gira tu torso alejándolo de la polea hasta lograr una rotación de un cuarto completo.",
+    "Mantén tu postura rígida y los brazos rectos. Regresa a la posición neutral de forma lenta y controlada. Tus brazos deben estar extendidos frente a ti.",
+    "Con la tensión lateral todavía activando tu centro, lleva tus manos a tu pecho e inmediatamente empuja hacia afuera hasta una posición completamente extendida. Esto constituye una repetición.",
+    "Repite hasta el fallo.",
+    "Luego, reposiciónate y repite la misma serie de movimientos en el lado opuesto."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

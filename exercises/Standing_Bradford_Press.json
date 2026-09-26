@@ -1,5 +1,6 @@
 {
   "name": "Press (Standing Bradford)",
+  "nameEs": "Press (Bradford de pie)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,14 @@
     "Lift the bar back over your head by extending the elbows",
     "Lower the bar down to the starting position.",
     "Alternate in this manner until you complete the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Coloca una barra cargada a la altura de los hombros en un soporte. Con un agarre pronado al ancho de los hombros, comienza con la barra apoyada en la parte delantera de tus hombros. Esta es tu posición inicial.",
+    "Inicia el levantamiento extendiendo los codos para hacer press con la barra por encima de la cabeza. Evita bloquear el codo a medida que mueves el peso detrás de tu cabeza.",
+    "Baja la barra hacia la parte posterior de la cabeza hasta que tu codo forme un ángulo recto.",
+    "Eleva la barra nuevamente sobre tu cabeza extendiendo los codos.",
+    "Baja la barra hasta la posición inicial.",
+    "Alterna de esta manera hasta completar la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

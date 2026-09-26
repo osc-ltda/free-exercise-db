@@ -1,5 +1,6 @@
 {
   "name": "Dynamic Back Stretch",
+  "nameEs": "Estiramiento de espalda dinámico",
   "force": "pull",
   "level": "beginner",
   "mechanic": null,
@@ -11,6 +12,10 @@
   "instructions": [
     "Stand with your feet shoulder width apart. This will be your starting position.",
     "Keeping your arms straight, swing them straight up in front of you 5-10 times, increasing the range of motion each time until your arms are above your head."
+  ],
+  "instructionsEs": [
+    "Párate con los pies separados a la distancia de los hombros. Esta será tu posición inicial.",
+    "Manteniendo los brazos rectos, balancéalos directamente hacia arriba frente a ti de 5 a 10 veces, aumentando el rango de movimiento cada vez hasta que tus brazos estén por encima de tu cabeza."
   ],
   "category": "stretching",
   "trackingType": "time",

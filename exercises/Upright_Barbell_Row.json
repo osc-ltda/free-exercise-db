@@ -1,5 +1,6 @@
 {
   "name": "Row (Upright Barbell)",
+  "nameEs": "Remo (Barra vertical)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,12 @@
     "Now exhale and use the sides of your shoulders to lift the bar, raising your elbows up and to the side. Keep the bar close to your body as you raise it. Continue to lift the bar until it nearly touches your chin. Tip: Your elbows should drive the motion, and should always be higher than your forearms. Remember to keep your torso stationary and pause for a second at the top of the movement.",
     "Lower the bar back down slowly to the starting position. Inhale as you perform this portion of the movement.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Toma una barra con un agarre pronado ligeramente menor que el ancho de los hombros. La barra debe descansar sobre la parte superior de tus muslos con los brazos extendidos y una ligera flexión en los codos. Tu espalda también debe estar recta. Esta será tu posición inicial.",
+    "Ahora exhala y usa los lados de tus hombros para levantar la barra, elevando los codos hacia arriba y hacia los lados. Mantén la barra cerca de tu cuerpo mientras la subes. Continúa levantando la barra hasta que casi toque tu barbilla. Consejo: tus codos deben guiar el movimiento y estar siempre más altos que tus antebrazos. Recuerda mantener el torso estático y haz una pausa de un segundo en la parte alta del movimiento.",
+    "Baja la barra lentamente de regreso a la posición inicial. Inhala mientras realizas esta porción del movimiento.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Low-Pulley (Bent Over Side Lateral)",
+  "nameEs": "Elevación lateral (Inclinado con polea baja)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -18,6 +19,13 @@
     "Raise your right arm, elbow slightly bent, to the side until the arm is parallel to the floor and in line with your right ear. Breathe out as you perform this step.",
     "Slowly lower the weight back to the starting position as you breathe in.",
     "Repeat for the recommended amount of repetitions and repeat the movement with the other arm."
+  ],
+  "instructionsEs": [
+    "Selecciona un peso y sujeta el mango de la polea baja con tu mano derecha.",
+    "Inclínate por la cintura hasta que tu torso esté casi paralelo al suelo. Tus piernas deben estar ligeramente flexionadas con tu mano izquierda apoyada en tu muslo inferior izquierdo. Tu brazo derecho debe colgar desde tu hombro frente a ti y con una ligera flexión en el codo. Esta será tu posición inicial.",
+    "Eleva tu brazo derecho, con el codo ligeramente flexionado, hacia el lado hasta que el brazo esté paralelo al suelo y alineado con tu oreja derecha. Exhala mientras realizas este paso.",
+    "Baja lentamente el peso de regreso a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones y repite el movimiento con el otro brazo."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

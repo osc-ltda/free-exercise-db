@@ -1,5 +1,6 @@
 {
   "name": "Push-Up (Incline Close-Grip)",
+  "nameEs": "Flexión de brazos (Inclinada con agarre cerrado)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "Position your feet back from the bar with arms and body straight. This will be your starting position.",
     "Keeping your body straight, lower your chest to the bar by bending the arms.",
     "Return to the starting position by extending the elbows, pressing yourself back up."
+  ],
+  "instructionsEs": [
+    "Párate frente a una barra de máquina Smith o una plataforma elevada resistente a una altura adecuada.",
+    "Coloca tus manos una al lado de la otra en la barra.",
+    "Coloca tus pies hacia atrás de la barra con los brazos y el cuerpo rectos. Esta será tu posición inicial.",
+    "Manteniendo tu cuerpo recto, baja el pecho hacia la barra doblando los brazos.",
+    "Regresa a la posición inicial extendiendo los codos, impulsándote de nuevo hacia arriba."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

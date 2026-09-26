@@ -1,5 +1,6 @@
 {
   "name": "Lunge (Sprint)",
+  "nameEs": "Zancada (Sprint)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "Lower your back knee nearly to the ground, flexing the knees and lowering your hips as you do so.",
     "At the bottom of the descent, immediately reverse direction. Explosively drive through the heel of your front foot with light pressure from your back foot. Jump up and reverse the position of your legs.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Ajusta una barra en una máquina Smith a una altura adecuada. Colócate debajo de la barra, apoyándola en la parte posterior de tus hombros. Desengancha la barra y luego separa tus pies, moviendo un pie hacia adelante y otro hacia atrás. Esta será tu posición inicial.",
+    "Baja la rodilla trasera casi hasta el suelo, flexionando las rodillas y bajando las caderas al hacerlo.",
+    "En la parte más baja del descenso, invierte la dirección de inmediato. Impúlsate de forma explosiva a través del talón de tu pie delantero con una ligera presión del pie trasero. Salta e invierte la posición de tus piernas.",
+    "Repite durante la cantidad de repeticiones recomendada."
   ],
   "category": "strength",
   "trackingType": "time",

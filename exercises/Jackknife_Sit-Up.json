@@ -1,5 +1,6 @@
 {
   "name": "Sit-Up (Jackknife)",
+  "nameEs": "Abdominal (Jackknife)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,6 +14,12 @@
     "As you exhale, bend at the waist while simultaneously raising your legs and arms to meet in a jackknife position. Tip: The legs should be extended and lifted at approximately a 35-45 degree angle from the floor and the arms should be extended and parallel to your legs. The upper torso should be off the floor.",
     "While inhaling, lower your arms and legs back to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca arriba en el suelo (o esterilla de ejercicio) con los brazos extendidos hacia atrás por encima de la cabeza y las piernas también extendidas. Esta será tu posición inicial.",
+    "Al exhalar, dóblate por la cintura mientras elevas simultáneamente las piernas y los brazos para encontrarte en una posición de navaja (jackknife). Consejo: las piernas deben estar extendidas y levantadas a un ángulo aproximado de 35-45 grados del suelo, y los brazos deben estar extendidos y paralelos a tus piernas. La parte superior del torso debe estar separada del suelo.",
+    "Mientras inhalas, baja los brazos y las piernas de regreso a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

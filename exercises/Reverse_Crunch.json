@@ -1,5 +1,6 @@
 {
   "name": "Crunch (Reverse)",
+  "nameEs": "Abdominal (Inverso)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "While inhaling, move your legs towards the torso as you roll your pelvis backwards and you raise your hips off the floor. At the end of this movement your knees will be touching your chest.",
     "Hold the contraction for a second and move your legs back to the starting position while exhaling.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate en el suelo con las piernas completamente extendidas y los brazos a los lados del torso con las palmas en el suelo. Tus brazos deben permanecer estáticos durante todo el ejercicio.",
+    "Eleva las piernas de modo que tus muslos queden perpendiculares al suelo y los pies juntos y paralelos al suelo. Esta es la posición inicial.",
+    "Mientras inspiras, acerca las piernas hacia el torso mientras rodas la pelvis hacia atrás y elevas las caderas del suelo. Al final de este movimiento tus rodillas tocarán tu pecho.",
+    "Mantén la contracción durante un segundo y regresa las piernas a la posición inicial mientras exhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

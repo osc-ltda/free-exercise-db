@@ -1,5 +1,6 @@
 {
   "name": "Cat Stretch",
+  "nameEs": "Estiramiento de gato",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -15,6 +16,11 @@
     "Position yourself on the floor on your hands and knees.",
     "Pull your belly in and round your spine, lower back, shoulders, and neck, letting your head drop.",
     "Hold for 15 seconds."
+  ],
+  "instructionsEs": [
+    "Colócate en el suelo sobre tus manos y rodillas.",
+    "Hunde el abdomen y redondea tu columna, la parte baja de la espalda, los hombros y el cuello, dejando caer la cabeza.",
+    "Mantén durante 15 segundos."
   ],
   "category": "stretching",
   "trackingType": "time",

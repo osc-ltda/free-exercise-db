@@ -1,5 +1,6 @@
 {
   "name": "Pull (Band Apart)",
+  "nameEs": "Pull (Apertura con Banda)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,12 @@
     "Initiate the movement by performing a reverse fly motion, moving your hands out laterally to your sides.",
     "Keep your elbows extended as you perform the movement, bringing the band to your chest. Ensure that you keep your shoulders back during the exercise.",
     "Pause as you complete the movement, returning to the starting position under control."
+  ],
+  "instructionsEs": [
+    "Comienza con los brazos extendidos directamente frente a ti, sosteniendo la banda con ambas manos.",
+    "Inicia el movimiento realizando un movimiento de apertura inversa, moviendo tus manos lateralmente hacia los lados.",
+    "Mantén los codos extendidos mientras realizas el movimiento, llevando la banda hacia tu pecho. Asegúrate de mantener los hombros hacia atrás durante el ejercicio.",
+    "Haz una pausa al completar el movimiento y regresa a la posición inicial de forma controlada."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

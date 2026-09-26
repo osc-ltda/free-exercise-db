@@ -1,5 +1,6 @@
 {
   "name": "Lunge (Pass Through)",
+  "nameEs": "Zancada (Paso por debajo)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,6 +19,13 @@
     "As you lunge, pass the kettlebell under your front leg to your opposite hand.",
     "Pressing through the heel of your foot, return to the starting position.",
     "Repeat the movement for the recommended amount of repetitions, alternating legs."
+  ],
+  "instructionsEs": [
+    "Párate con el torso erguido sosteniendo una pesa rusa en tu mano derecha. Esta será tu posición inicial.",
+    "Da un paso adelante con tu pie izquierdo y baja la parte superior de tu cuerpo flexionando la cadera y la rodilla, manteniendo el torso erguido. Baja la rodilla trasera hasta que casi toque el suelo.",
+    "Mientras haces la zancada, pasa la pesa rusa por debajo de tu pierna delantera hacia tu mano opuesta.",
+    "Presionando a través del talón de tu pie, regresa a la posición inicial.",
+    "Repite el movimiento durante la cantidad de repeticiones recomendada, alternando las piernas."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

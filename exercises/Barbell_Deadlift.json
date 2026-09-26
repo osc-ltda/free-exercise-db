@@ -1,5 +1,6 @@
 {
   "name": "Deadlift (Barbell)",
+  "nameEs": "Peso muerto (Barra)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -23,6 +24,13 @@
     "While holding the bar, start the lift by pushing with your legs while simultaneously getting your torso to the upright position as you breathe out. In the upright position, stick your chest out and contract the back by bringing the shoulder blades back. Think of how the soldiers in the military look when they are in standing in attention.",
     "Go back to the starting position by bending at the knees while simultaneously leaning the torso forward at the waist while keeping the back straight. When the weights on the bar touch the floor you are back at the starting position and ready to perform another repetition.",
     "Perform the amount of repetitions prescribed in the program."
+  ],
+  "instructionsEs": [
+    "Párate frente a una barra cargada.",
+    "Mientras mantienes la espalda lo más recta posible, dobla las rodillas, inclínate hacia adelante y agarra la barra usando un agarre pronado medio (ancho de hombros). Esta será la posición inicial del ejercicio. Consejo: Si te resulta difícil sostener la barra con este agarre, alterna tu agarre o usa correas para las muñecas.",
+    "Mientras sostienes la barra, comienza el levantamiento empujando con las piernas mientras simultáneamente pones tu torso en posición vertical mientras exhalas. En la posición vertical, saca el pecho y contrae la espalda llevando los omóplatos hacia atrás. Piensa en cómo se ven los soldados en el ejército cuando están parados en posición de atención.",
+    "Regresa a la posición inicial doblando las rodillas mientras inclinas simultáneamente el torso hacia adelante por la cintura manteniendo la espalda recta. Cuando los pesos de la barra tocan el suelo, estás de vuelta en la posición inicial y listo para realizar otra repetición.",
+    "Realiza la cantidad de repeticiones prescrita en el programa."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

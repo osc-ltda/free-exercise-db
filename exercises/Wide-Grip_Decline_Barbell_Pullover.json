@@ -1,5 +1,6 @@
 {
   "name": "Pullover (Wide-Grip Decline Barbell)",
+  "nameEs": "Pullover (Barra declinado con agarre ancho)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,6 +19,14 @@
     "Now bring the barbell up while exhaling until you are back at the starting position. Remember to keep full control of the barbell at all times.",
     "Repeat the movement for the prescribed amount of repetitions of your training program.",
     "When finished with your set, slowly lower the barbell back down until it is level with your head and release it."
+  ],
+  "instructionsEs": [
+    "Acuéstate en un banco declinado con ambas piernas firmemente sujetas en su posición. Busca la barra detrás de la cabeza usando un agarre pronado (palmas hacia afuera). Asegúrate de agarrar la barra a una distancia mayor que el ancho de los hombros para este ejercicio. Levanta lentamente la barra desde el suelo usando los brazos.",
+    "Cuando estés colocado correctamente, tus brazos deben estar completamente extendidos y perpendiculares al suelo. Esta es la posición inicial.",
+    "Comienza moviendo la barra hacia abajo en un movimiento semicircular como si fueras a colocarla en el suelo, pero en su lugar, detente cuando los brazos estén paralelos al suelo. Consejo: Mantén los brazos completamente extendidos en todo momento. El movimiento solo debe ocurrir en la articulación del hombro. Inhala mientras realizas esta porción del movimiento.",
+    "Ahora lleva la barra hacia arriba mientras exhalas hasta volver a la posición inicial. Recuerda mantener el control total de la barra en todo momento.",
+    "Repite el movimiento durante la cantidad de repeticiones prescrita de tu programa de entrenamiento.",
+    "Cuando termines tu serie, baja lentamente la barra hasta que esté nivelada con tu cabeza y suéltala."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

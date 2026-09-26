@@ -1,5 +1,6 @@
 {
   "name": "Squat (Plie Dumbbell)",
+  "nameEs": "Sentadilla (Plie Mancuerna)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -19,6 +20,13 @@
     "Slowly bend the knees and lower your legs until your thighs are parallel to the floor. Make sure to inhale as this is the eccentric part of the exercise.",
     "Press mainly with the heel of the foot to bring the body back to the starting position while exhaling.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Sostén una mancuerna por la base con ambas manos y ponte de pie. Separa las piernas más allá del ancho de los hombros con las rodillas ligeramente flexionadas.",
+    "Tus dedos de los pies deben apuntar hacia afuera. Nota: Tus brazos deben permanecer estáticos mientras realizas el ejercicio. Esta es la posición inicial.",
+    "Flexiona lentamente las rodillas y baja las piernas hasta que tus muslos estén paralelos al suelo. Asegúrate de inhalar, ya que esta es la parte excéntrica del ejercicio.",
+    "Empuja principalmente con el talón del pie para regresar el cuerpo a la posición inicial mientras exhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

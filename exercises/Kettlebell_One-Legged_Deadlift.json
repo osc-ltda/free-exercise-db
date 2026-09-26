@@ -1,5 +1,6 @@
 {
   "name": "Deadlift (Kettlebell One-Legged)",
+  "nameEs": "Peso muerto (Pesa rusa a una pierna)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,6 +16,11 @@
     "Hold a kettlebell by the handle in one hand. Stand on one leg, on the same side that you hold the kettlebell.",
     "Keeping that knee slightly bent, perform a stiff legged deadlift by bending at the hip, extending your free leg behind you for balance.",
     "Continue lowering the kettlebell until you are parallel to the ground, and then return to the upright position."
+  ],
+  "instructionsEs": [
+    "Sostén una pesa rusa por el asa con una mano. Párate sobre una pierna, del mismo lado con el que sostienes la pesa rusa.",
+    "Manteniendo esa rodilla ligeramente flexionada, realiza un peso muerto de piernas rígidas flexionando la cadera y extendiendo tu pierna libre detrás de ti para mantener el equilibrio.",
+    "Continúa bajando la pesa rusa hasta que estés paralelo al suelo y luego regresa a la posición erguida."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Cable Incline Pushdown",
+  "nameEs": "Pulldown inclinado en polea",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Keeping the upper arms stationary, lift your arms back in a semi circle until the bar is straight over your head. Breathe in during this portion of the movement.",
     "Slowly go back to the starting position using your lats and hold the contraction once you reach the starting position. Breathe out during the execution of this movement.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate en un banco inclinado de espaldas a una máquina de polea alta que tenga un accesorio de barra recta.",
+    "Toma el accesorio de barra recta por encima de la cabeza con un agarre pronado (con las palmas hacia abajo) al ancho de los hombros y extiende tus brazos frente a ti. La barra debe estar a unas 2 pulgadas de distancia de tus muslos superiores. Esta será tu posición inicial.",
+    "Manteniendo la parte superior de los brazos estática, eleva tus brazos hacia atrás en un semicírculo hasta que la barra esté justo sobre tu cabeza. Inhala durante esta porción del movimiento.",
+    "Regresa lentamente a la posición inicial usando tus dorsales y mantén la contracción una vez que alcances la posición inicial. Exhala durante la ejecución de este movimiento.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

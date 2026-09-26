@@ -1,5 +1,6 @@
 {
   "name": "Shoulder Raise (Barbell Incline)",
+  "nameEs": "Elevación de hombro (Barra Inclinado)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,12 @@
     "While keeping the arms straight, lift the bar by protracting your shoulder blades, raising the shoulders from the bench as you breathe out.",
     "Bring back the bar to the starting position as you breathe in.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Recuéstate en un banco inclinado. Usando un agarre de ancho medio (un agarre ligeramente más ancho que el ancho de los hombros), levanta la barra del soporte y sostenla directamente sobre ti con los brazos rectos. Esta será tu posición inicial.",
+    "Mientras mantienes los brazos rectos, levanta la barra protruyendo tus omóplatos, elevando los hombros del banco mientras exhalas.",
+    "Regresa la barra a la posición inicial mientras inhalas.",
+    "Repite para la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

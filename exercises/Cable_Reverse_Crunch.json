@@ -1,5 +1,6 @@
 {
   "name": "Reverse Crunch (Cable)",
+  "nameEs": "Abdominal inverso (Polea)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "With your hands behind your head, bring your knees inward to your torso and elevate your hips off the floor.",
     "Pause for a moment and in a slow and controlled manner drop your hips and bring your legs back to the starting 90-degree angle. You should still have tension on your abs in the resting position.",
     "Repeat the same movement to failure."
+  ],
+  "instructionsEs": [
+    "Conecta un accesorio de correa para tobillo a un cable de polea baja y coloca una esterilla en el suelo frente a esta.",
+    "Siéntate con los pies hacia la polea y sujeta el cable a tus tobillos.",
+    "Acuéstate, eleva las piernas y flexiona las rodillas en un ángulo de 90 grados. Tus piernas y el cable deben estar alineados. Si no es así, ajusta la polea hacia arriba o hacia abajo hasta que lo estén.",
+    "Con tus manos detrás de la cabeza, lleva tus rodillas hacia tu torso y eleva las caderas del suelo.",
+    "Haz una pausa por un momento y, de forma lenta y controlada, baja las caderas y regresa tus piernas a la posición inicial de 90 grados. Aún debes mantener tensión en tus abdominales en la posición de descanso.",
+    "Repite el mismo movimiento hasta el fallo."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

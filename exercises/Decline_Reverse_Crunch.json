@@ -1,5 +1,6 @@
 {
   "name": "Reverse Crunch (Decline)",
+  "nameEs": "Abdominal inverso (Declinado)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -14,6 +15,13 @@
     "While exhaling, move your legs towards the torso as you roll your pelvis backwards and you raise your hips off the bench. At the end of this movement your knees will be touching your chest.",
     "Hold the contraction for a second and move your legs back to the starting position while inhaling.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca arriba en un banco declinado y sujérate de la parte superior del banco con ambas manos. No dejes que tu cuerpo se deslice hacia abajo desde esta posición.",
+    "Mantén tus piernas paralelas al suelo usando tus abdominales para sostenerlas allí mientras mantienes tus rodillas y pies juntos. Consejo: tus piernas deben estar completamente extendidas con una ligera flexión en la rodilla. Esta será tu posición inicial.",
+    "Mientras exhalas, mueve tus piernas hacia el torso mientras giras tu pelvis hacia atrás y levantas tus caderas del banco. Al final de este movimiento tus rodillas estarán tocando tu pecho.",
+    "Mantén la contracción por un segundo y regresa tus piernas a la posición inicial mientras inhalas.",
+    "Repite la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

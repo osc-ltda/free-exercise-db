@@ -1,5 +1,6 @@
 {
   "name": "Rack Delivery",
+  "nameEs": "Carga en rack",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,6 +16,11 @@
     "This drill teaches the delivery of the barbell to the rack position on the shoulders. Begin holding a bar in the scarecrow position, with the upper arms parallel to the floor, and the forearms hanging down. Use a hook grip, with your fingers wrapped over your thumbs.",
     "Begin by rotating the elbows around the bar, delivering the bar to the shoulders. As your elbows come forward, relax your grip. The shoulders should be protracted, providing a shelf for the bar, which should lightly contact the throat.",
     "It is important that the bar stay close to the body at all times, as with a heavier load any distance will result in an unwanted collision. As the movement becomes smoother, speed and load can be increased before progressing further."
+  ],
+  "instructionsEs": [
+    "Este ejercicio enseña la colocación de la barra en la posición de rack sobre los hombros. Comienza sosteniendo una barra en la posición de espantapájaros, con los brazos paralelos al suelo y los antebrazos colgando hacia abajo. Usa un agarre de gancho, con tus dedos envolviendo tus pulgares.",
+    "Comienza rotando los codos alrededor de la barra, llevando la barra hacia los hombros. A medida que tus codos avanzan, relaja tu agarre. Los hombros deben estar protraídos, proporcionando una base para la barra, que debe rozar ligeramente la garganta.",
+    "Es importante que la barra se mantenga cerca del cuerpo en todo momento, ya que con una carga más pesada cualquier distancia resultará en una colisión no deseada. A medida que el movimiento sea más fluido, la velocidad y la carga se pueden aumentar antes de seguir avanzando."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Round The World Shoulder Stretch",
+  "nameEs": "Estiramiento de hombros de vuelta al mundo",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -15,6 +16,11 @@
     "Stand up straight with your legs together, holding a bodybar or broomstick.",
     "Hold the pole behind your hips with a wider than shoulder width grip. Your palms should be down and your thumbs facing out.",
     "Slowly lift your arms up behind your head. Don't force it if it gets hard to lift further."
+  ],
+  "instructionsEs": [
+    "Párate derecho con las piernas juntas, sosteniendo una barra de gimnasio o un palo de escoba.",
+    "Sostén el palo detrás de tus caderas con un agarre más ancho que el ancho de los hombros. Tus palmas deben estar hacia abajo y tus pulgares apuntando hacia afuera.",
+    "Eleva lentamente tus brazos por detrás de tu cabeza. No lo forces si se vuelve difícil seguir levantando."
   ],
   "category": "stretching",
   "trackingType": "time",

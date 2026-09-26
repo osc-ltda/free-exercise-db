@@ -1,5 +1,6 @@
 {
   "name": "Barbell Step Ups",
+  "nameEs": "Step Ups (Barra)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,6 +19,12 @@
     "Place the right foot on the elevated platform. Step on the platform by extending the hip and the knee of your right leg. Use the heel mainly to lift the rest of your body up and place the foot of the left leg on the platform as well. Breathe out as you execute the force required to come up.",
     "Step down with the left leg by flexing the hip and knee of the right leg as you inhale. Return to the original standing position by placing the right foot of to next to the left foot on the initial position.",
     "Repeat with the right leg for the recommended amount of repetitions and then perform with the left leg."
+  ],
+  "instructionsEs": [
+    "Párate derecho mientras sostienes una barra colocada en la parte posterior de tus hombros (ligeramente por debajo del cuello) y ponte de pie detrás de una plataforma elevada (como la que se usa para asistir detrás de un banco plano). Esta es tu posición inicial.",
+    "Coloca el pie derecho sobre la plataforma elevada. Súbete a la plataforma extendiendo la cadera y la rodilla de tu pierna derecha. Usa principalmente el talón para levantar el resto de tu cuerpo y coloca también el pie de la pierna izquierda en la plataforma. Exhala mientras ejecutas la fuerza necesaria para subir.",
+    "Baja con la pierna izquierda flexionando la cadera y la rodilla de la pierna derecha mientras inhalas. Regresa a la posición de pie original colocando el pie derecho al lado del izquierdo en la posición inicial.",
+    "Repite con la pierna derecha durante la cantidad recomendada de repeticiones y luego hazlo con la pierna izquierda."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

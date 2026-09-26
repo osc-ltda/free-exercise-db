@@ -1,5 +1,6 @@
 {
   "name": "Suspended Fallout",
+  "nameEs": "Suspended Fallout",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -18,6 +19,13 @@
     "Keeping your arms straight, lean further into the suspension straps, bringing your body closer to the ground, allowing your shoulders to extend, raising your arms up and over your head.",
     "Maintain a neutral spine and keep the rest of your body straight, your shoulders being the only joints allowed to move.",
     "Pause during the peak contraction, and then return to the starting position."
+  ],
+  "instructionsEs": [
+    "Ajusta las correas para que las manijas estén a una altura adecuada, por debajo del nivel de la cintura.",
+    "Comienza de pie y sujetando las manijas. Inclínate hacia las correas, moviéndote a una posición de flexión de brazos inclinada. Esta será tu posición inicial.",
+    "Manteniendo tus brazos rectos, inclínate aún más hacia las correas de suspensión, acercando tu cuerpo al suelo, permitiendo que tus hombros se extiendan, elevando tus brazos hacia arriba y por encima de tu cabeza.",
+    "Mantén una columna neutral y mantén el resto de tu cuerpo recto, siendo tus hombros las únicas articulaciones permitidas para moverse.",
+    "Haz una pausa durante la contracción máxima y luego regresa a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

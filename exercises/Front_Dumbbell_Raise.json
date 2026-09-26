@@ -1,5 +1,6 @@
 {
   "name": "Front Raise (Dumbbell)",
+  "nameEs": "Elevación frontal (Mancuerna)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "While maintaining the torso stationary (no swinging), lift the left dumbbell to the front with a slight bend on the elbow and the palms of the hands always facing down. Continue to go up until you arm is slightly above parallel to the floor. Exhale as you execute this portion of the movement and pause for a second at the top. Inhale after the second pause.",
     "Now lower the dumbbell back down slowly to the starting position as you simultaneously lift the right dumbbell.",
     "Continue alternating in this fashion until all of the recommended amount of repetitions have been performed for each arm."
+  ],
+  "instructionsEs": [
+    "Toma un par de mancuernas y párate con el torso recto y las mancuernas al frente de tus muslos a la longitud de tus brazos con las palmas de las manos mirando hacia tus muslos. Esta será tu posición inicial.",
+    "Mientras mantienes el torso estático (sin balancearte), levanta la mancuerna izquierda hacia el frente con una ligera flexión en el codo y las palmas de las manos mirando siempre hacia abajo. Continúa subiendo hasta que tu brazo esté ligeramente por encima del paralelo al suelo. Exhala mientras ejecutas esta parte del movimiento y haz una pausa de un segundo en la parte superior. Inhala después de la segunda pausa.",
+    "Ahora baja la mancuerna lentamente de regreso a la posición inicial mientras levantas simultáneamente la mancuerna derecha.",
+    "Continúa alternando de esta manera hasta que hayas realizado la cantidad recomendada de repeticiones para cada brazo."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Squat (with Plate Movers)",
+  "nameEs": "Sentadilla (con desplazamiento de disco)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -23,6 +24,16 @@
     "At the top of the movement, side step, bringing your feet together on the opposite side of the plate.",
     "Using your inside foot, push the weight plate, sliding it across the floor to where you were just standing.",
     "Place your inside foot on the weight plate, adopting a wide stance for the next repetition."
+  ],
+  "instructionsEs": [
+    "Para empezar, coloca primero la barra en un soporte justo por debajo del nivel de los hombros. Coloca un disco de peso en el suelo a un par de pasos hacia atrás del soporte. Una vez cargada la barra, colócate debajo de ella y apoya la parte posterior de los hombros sobre esta.",
+    "Sostén la barra con ambas manos y levántala del soporte empujando primero con las piernas y enderezando el torso al mismo tiempo.",
+    "Aléjate del soporte y adopta una postura abierta con los dedos de los pies ligeramente hacia afuera, con un pie sobre el disco de peso. Mantén la cabeza en alto en todo momento. Esta será tu posición inicial.",
+    "Comienza a bajar lentamente la barra doblando las rodillas y las pantorrillas. Continúa hacia abajo hasta que el ángulo entre la parte superior de la pierna y las pantorrillas sea ligeramente inferior a 90 grados.",
+    "Eleva la barra mientras exhalas empujando el suelo con los talones de los pies a medida que extiendes las caderas y las rodillas.",
+    "En la parte alta del movimiento, da un paso hacia el costado, juntando tus pies en el lado opuesto del disco.",
+    "Usando tu pie interior, empuja el disco de peso, deslizándolo por el suelo hasta donde acabas de estar parado.",
+    "Coloca tu pie interior en el disco de peso, adoptando una postura abierta para la siguiente repetición."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

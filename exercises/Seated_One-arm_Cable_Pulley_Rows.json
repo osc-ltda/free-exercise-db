@@ -1,5 +1,6 @@
 {
   "name": "Rows (Seated One-arm Cable Pulley)",
+  "nameEs": "Remo (Polea sentado a un brazo)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,6 +20,14 @@
     "Keeping the torso stationary, pull the handles back towards your torso while keeping the arms close to it as you rotate the wrist, so that by the time your hand is by your abdominals it is in a neutral position (palms facing the torso). Breathe out as you perform that movement. At that point you should be squeezing your back muscles hard.",
     "Hold that contraction for a second and slowly go back to the original position while breathing in. Tip: Remember to rotate the wrist as you go back to the starting position so that the palms are facing down again.",
     "Repeat for the recommended amount of repetitions and then perform the same movement with the right hand."
+  ],
+  "instructionsEs": [
+    "Para adoptar la posición inicial, primero siéntate en la máquina y coloca tus pies en la plataforma delantera o barra provista, asegurándote de que tus rodillas estén ligeramente flexionadas y no bloqueadas.",
+    "Inclínate hacia adelante manteniendo la alineación natural de tu espalda y agarra el accesorio de manija individual con tu brazo izquierdo usando un agarre con las palmas hacia abajo.",
+    "Con el brazo extendido, tira hacia atrás hasta que tu torso esté en un ángulo de 90 grados respecto a tus piernas. Tu espalda debe estar ligeramente arqueada y el pecho hacia afuera. Debes sentir un buen estiramiento en tu dorsal mientras sostienes la barra frente a ti. El brazo derecho se puede mantener junto a la cintura. Esta es la posición inicial del ejercicio.",
+    "Manteniendo el torso estático, tira de las manijas hacia tu torso mientras mantienes los brazos cerca de este al tiempo que rotas la muñeca, de modo que para cuando tu mano esté a la altura de tus abdominales se encuentre en posición neutral (palmas hacia el torso). Exhala al realizar este movimiento. En ese punto debes contraer con fuerza los músculos de la espalda.",
+    "Mantén esa contracción durante un segundo y regresa lentamente a la posición original mientras inhalas. Consejo: Recuerda rotar la muñeca al volver a la posición inicial para que las palmas miren hacia abajo de nuevo.",
+    "Repite por la cantidad recomendada de repeticiones y luego realiza el mismo movimiento con la mano derecha."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

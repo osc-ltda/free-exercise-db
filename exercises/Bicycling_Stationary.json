@@ -1,5 +1,6 @@
 {
   "name": "Bicycling, Stationary",
+  "nameEs": "Ciclismo estacionario",
   "force": null,
   "level": "beginner",
   "mechanic": null,
@@ -15,6 +16,10 @@
   "instructions": [
     "To begin, seat yourself on the bike and adjust the seat to your height.",
     "Select the desired option from the menu. You may have to start pedaling to turn it on. You can use the manual setting, or you can select a program to use. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. The level of resistance can be changed throughout the workout. The handles can be used to monitor your heart rate to help you stay at an appropriate intensity."
+  ],
+  "instructionsEs": [
+    "Para comenzar, siéntate en la bicicleta y ajusta el asiento a tu altura.",
+    "Selecciona la opción deseada en el menú. Es posible que tengas que empezar a pedalear para encenderla. Puedes usar la configuración manual o seleccionar un programa. Por lo general, puedes ingresar tu edad y peso para estimar la cantidad de calorías quemadas durante el ejercicio. El nivel de resistencia se puede cambiar durante todo el entrenamiento. Los manillares se pueden usar para monitorear tu frecuencia cardíaca y ayudarte a mantener una intensidad adecuada."
   ],
   "category": "cardio",
   "trackingType": "time",

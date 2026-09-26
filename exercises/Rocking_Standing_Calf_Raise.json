@@ -1,5 +1,6 @@
 {
   "name": "Calf Raise (Rocking Standing)",
+  "nameEs": "Elevación de pantorrilla (De pie con balanceo)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -17,6 +18,16 @@
     "Now lift your toes by contracting the tibia muscles in the front of the calves as you breathe out.",
     "Hold for a second and bring them back down as you breathe in.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Este ejercicio se realiza mejor dentro de una jaula de sentadillas por motivos de seguridad. Para empezar, primero coloca la barra en un soporte que coincida mejor con tu altura. Una vez elegida la altura correcta y cargada la barra, colócate debajo de la barra y sitúala en la parte posterior de tus hombros (ligeramente debajo del cuello).",
+    "Sostén la barra con ambos brazos a cada lado y levántala del soporte empujando primero con las piernas y al mismo tiempo enderezando el torso.",
+    "Aléjate del soporte y coloca tus piernas usando una postura media a la altura de los hombros con los dedos ligeramente apuntando hacia afuera. Mantén la cabeza en alto en todo momento ya que mirar hacia abajo te hará perder el equilibrio. Mantén también la espalda recta y mantén las rodillas con una ligera flexión; nunca bloqueadas. Esta será tu posición inicial.",
+    "Eleva los talones mientras exhalas extendiendo los tobillos lo más alto posible y flexionando la pantorrilla. Asegúrate de que la rodilla se mantenga estática en todo momento. No debe haber flexión (aparte de la ligera flexión inicial que creamos durante el posicionamiento) en ningún momento. Mantén la posición contraída durante un segundo antes de comenzar a descender.",
+    "Vuelve lentamente a la posición inicial mientras inhalas bajando los talones a medida que flexionas los tobillos hasta que las pantorrillas se estiren.",
+    "Ahora levanta los dedos de los pies contrayendo los músculos de la tibia en la parte delantera de las pantorrillas mientras exhalas.",
+    "Mantén durante un segundo y vuelve a bajarlos mientras inhalas.",
+    "Repite para la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

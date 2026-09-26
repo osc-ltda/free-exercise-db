@@ -1,5 +1,6 @@
 {
   "name": "Push-Up (Incline Depth Jump)",
+  "nameEs": "Flexión de brazos (Inclinado Depth Jump)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Place the steps just outside of your shoulders, and place your feet on top of the box so that you are in an incline pushup position, your hands just inside the steps. This will be your starting position.",
     "Begin by bending at the elbows to lower your body, quickly reversing position to push your body off of the ground. As you leave the ground, move your hands onto the steps, bending your elbows to absorb the impact.",
     "Repeat the motion to return to the starting position."
+  ],
+  "instructionsEs": [
+    "Para este ejercicio necesitarás una caja de unos 12 pulgadas de alto y dos esterillas gruesas o steps de aeróbic.",
+    "Coloca los steps justo por fuera de tus hombros y pon tus pies encima de la caja de modo que estés en una posición de flexión de brazos inclinado, con tus manos justo por dentro de los steps. Esta será tu posición inicial.",
+    "Comienza doblando los codos para bajar tu cuerpo, invirtiendo rápidamente la posición para impulsar tu cuerpo fuera del suelo. Al dejar el suelo, mueve tus manos hacia los steps, doblando los codos para absorber el impacto.",
+    "Repite el movimiento para regresar a la posición inicial."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

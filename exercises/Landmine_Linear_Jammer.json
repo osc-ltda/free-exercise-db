@@ -1,5 +1,6 @@
 {
   "name": "Landmine Linear Jammer",
+  "nameEs": "Landmine Linear Jammer",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -21,6 +22,13 @@
     "In an athletic stance, squat by flexing your hips and setting your hips back, keeping your arms flexed.",
     "Reverse the motion by powerfully extending through the hips, knees, and ankles, while also extending the elbows to straighten the arms. This movement should be done explosively, coming out of the squat to full extension as powerfully as possible.",
     "Return to the starting position."
+  ],
+  "instructionsEs": [
+    "Coloca una barra en un soporte de landmine o, a falta de uno, anclala de forma segura en una esquina. Carga la barra con un peso adecuado y coloca el accesorio de manija en la barra.",
+    "Eleva la barra desde el suelo, llevando las manijas a tus hombros. Esta será tu posición inicial.",
+    "En una postura atlética, haz una sentadilla flexionando las caderas y echándolas hacia atrás, manteniendo los brazos flexionados.",
+    "Invierte el movimiento extendiendo con potencia las caderas, las rodillas y los tobillos, mientras extiendes los codos para enderezar los brazos. Este movimiento debe hacerse de forma explosiva, saliendo de la sentadilla hasta la extensión completa con la mayor potencia posible.",
+    "Regresa a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

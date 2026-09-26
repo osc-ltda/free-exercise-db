@@ -1,5 +1,6 @@
 {
   "name": "Squat (Barbell Full)",
+  "nameEs": "Sentadilla (Barra completa)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -20,6 +21,14 @@
     "Begin to slowly lower the bar by bending the knees and sitting back with your hips as you maintain a straight posture with the head up. Continue down until your hamstrings are on your calves. Inhale as you perform this portion of the movement.",
     "Begin to raise the bar as you exhale by pushing the floor with the heel or middle of your foot as you straighten the legs and extend the hips to go back to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Este ejercicio se realiza mejor dentro de un rack de sentadillas por razones de seguridad. Para comenzar, primero coloca la barra en un rack justo por encima del nivel de los hombros. Una vez elegida la altura correcta y cargada la barra, colócate debajo de la barra y apoya la parte posterior de tus hombros (ligeramente debajo del cuello) sobre ella.",
+    "Sostén la barra usando ambos brazos a cada lado y levántala del rack empujando primero con las piernas y al mismo tiempo enderezando tu torso.",
+    "Aléjate del rack y coloca tus piernas usando una postura media al ancho de los hombros con los dedos de los pies apuntando ligeramente hacia afuera. Mantén la cabeza en alto en todo momento y mantén la espalda recta. Esta será tu posición inicial.",
+    "Comienza a bajar lentamente la barra doblando las rodillas y echando las caderas hacia atrás mientras mantienes una postura recta con la cabeza en alto. Continúa hacia abajo hasta que tus isquiotibiales estén sobre tus pantorrillas. Inhala mientras realizas esta parte del movimiento.",
+    "Comienza a levantar la barra mientras exhalas empujando el suelo con el talón o la parte media del pie mientras enderezar las piernas y extiendes las caderas para volver a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

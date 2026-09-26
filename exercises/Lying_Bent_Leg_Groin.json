@@ -1,5 +1,6 @@
 {
   "name": "Lying Bent Leg Groin",
+  "nameEs": "Aductores con piernas flexionadas acostado",
   "force": "static",
   "level": "expert",
   "mechanic": null,
@@ -12,6 +13,11 @@
     "Lie on your back with your knees bent and the soles of the feet pressed together. Have your partner hold your knees. This will be your starting position.",
     "Attempt to squeeze your knees together, while your partner prevents any movement from occurring.",
     "After 10-20 seconds, relax your muscles as your partner gently pushes your knees towards the floor. Be sure to inform your helper when the stretch is adequate to prevent injury or overstretching."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca arriba con las rodillas flexionadas y las plantas de los pies juntas. Pide a tu compañero que sostenga tus rodillas. Esta será tu posición inicial.",
+    "Intenta juntar tus rodillas haciendo fuerza, mientras tu compañero evita que ocurra cualquier movimiento.",
+    "Después de 10-20 segundos, relaja tus músculos mientras tu compañero empuja suavemente tus rodillas hacia el suelo. Asegúrate de avisarle a tu asistente cuando el estiramiento sea adecuado para prevenir lesiones o un estiramiento excesivo."
   ],
   "category": "stretching",
   "trackingType": "time",

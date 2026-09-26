@@ -1,5 +1,6 @@
 {
   "name": "Standing Pelvic Tilt",
+  "nameEs": "Inclinación pélvica de pie",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,11 @@
     "Start off with your feet hip-distance apart.",
     "Bend your knees slightly to keep them soft and springy.",
     "You may want to move your pelvis forward and backward and back few times before holding the tailbone forward in this stretch."
+  ],
+  "instructionsEs": [
+    "Comienza con los pies separados a la distancia de las caderas.",
+    "Dobla ligeramente las rodillas para mantenerlas flexibles y elásticas.",
+    "Es posible que quieras mover la pelvis hacia adelante y hacia atrás unas cuantas veces antes de mantener el coxis hacia adelante en este estiramiento."
   ],
   "category": "stretching",
   "trackingType": "time",

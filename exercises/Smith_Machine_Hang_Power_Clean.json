@@ -1,5 +1,6 @@
 {
   "name": "Clean (Smith Machine Hang Power)",
+  "nameEs": "Clean (Máquina Smith colgante de fuerza)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -21,6 +22,14 @@
     "Upon full extension, rebend the hips and knees to lower your receiving position.",
     "Allow the arms to flex at this point, rotating the elbows around the bar to receive it on your shoulders.",
     "Extend through the hips and knees to come to a standing position with the bar racked on your shoulders to complete the movement."
+  ],
+  "instructionsEs": [
+    "Coloca la barra a la altura de las rodillas y cárgala con un peso adecuado.",
+    "Toma la barra con un agarre pronado más ancho que el ancho de los hombros y desengánchala de la máquina. Tus brazos deben estar completamente extendidos con la cabeza y el pecho hacia arriba. Tus codos deben apuntar hacia afuera con los hombros hacia atrás y hacia abajo. Tus caderas deben estar hacia atrás, cargando la tensión en los isquiotibiales. Esta será tu posición inicial.",
+    "Inicia el movimiento extendiendo con fuerza las caderas y las rodillas, acelerando hacia la barra. Asegúrate de mantener tus brazos rectos durante esta parte del movimiento.",
+    "Al llegar a la extensión completa, vuelve a flexionar las caderas y las rodillas para descender a tu posición de recepción.",
+    "Permite que los brazos se flexionen en este punto, girando los codos alrededor de la barra para recibirla en tus hombros.",
+    "Extiende las caderas y las rodillas para llegar a una posición de pie con la barra apoyada en tus hombros para completar el movimiento."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

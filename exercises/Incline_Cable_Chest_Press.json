@@ -1,5 +1,6 @@
 {
   "name": "Press (Incline Cable Chest)",
+  "nameEs": "Press de pecho en Polea Inclinado",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,11 @@
     "Adjust the weight to an appropriate amount and be seated, grasping the handles. Your upper arms should be about 45 degrees to the body, with your head and chest up. The elbows should be bent to about 90 degrees. This will be your starting position.",
     "Begin by extending through the elbow, pressing the handles together straight in front of you. Keep your shoulder blades retracted as you execute the movement.",
     "After pausing at full extension, return to the starting position, keeping tension on the cables."
+  ],
+  "instructionsEs": [
+    "Ajusta el peso a una cantidad adecuada y siéntate, sujetando los manerales. La parte superior de tus brazos debe estar a unos 45 grados respecto al cuerpo, con la cabeza y el pecho erguidos. Los codos deben estar doblados a unos 90 grados. Esta será tu posición inicial.",
+    "Comienza extendiendo los codos, presionando los manerales juntos directamente frente a ti. Mantén tus omóplatos retraídos mientras ejecutas el movimiento.",
+    "Después de hacer una pausa en la extensión completa, regresa a la posición inicial, manteniendo la tensión en los cables."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

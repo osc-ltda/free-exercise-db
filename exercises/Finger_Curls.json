@@ -1,5 +1,6 @@
 {
   "name": "Finger Curls",
+  "nameEs": "Curl de dedos (Barra)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "Place your feet flat on the floor, at a distance that is slightly wider than shoulder width apart. This will be your starting position.",
     "Lower the bar as far as possible by extending the fingers. Allowing the bar to roll down the hands, catch the bar with the final joint in the fingers.",
     "Now curl bar up as high as possible by closing your hands while exhaling. Hold the contraction at the top."
+  ],
+  "instructionsEs": [
+    "Sostén una barra con ambas manos y las palmas hacia arriba; las manos separadas aproximadamente al ancho de los hombros.",
+    "Coloca tus pies firmemente en el suelo, a una distancia ligeramente mayor que el ancho de los hombros. Esta será tu posición inicial.",
+    "Baja la barra tanto como sea posible extendiendo los dedos. Permitiendo que la barra ruede hacia abajo por las manos, ataja la barra con la articulación final de los dedos.",
+    "Ahora haz un curl de la barra hacia arriba tanto como sea posible cerrando las manos mientras exhalas. Sostén la contracción en la parte superior."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Crunch (Weighted)",
+  "nameEs": "Abdominal (Con peso)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Now, exhale and slowly begin to roll your shoulders off the floor. Your shoulders should come up off the floor about 4 inches while your lower back remains on the floor.",
     "At the top of the movement, flex your abdominals and hold for a brief pause.",
     "Then inhale and slowly lower yourself back down to the starting position."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca arriba con los pies planos en el suelo o descansando sobre un banco con las rodillas flexionadas en un ángulo de 90 grados.",
+    "Sostén un peso contra tu pecho, o puedes sostenerlo extendido por encima de tu torso. Esta será tu posición inicial.",
+    "Ahora, exhala y comienza a levantar lentamente tus hombros del suelo. Tus hombros deben levantarse del suelo unas 4 pulgadas mientras tu espalda baja permanece en el suelo.",
+    "En la parte superior del movimiento, flexiona tus abdominales y haz una breve pausa.",
+    "Luego inhala y baja lentamente de regreso a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

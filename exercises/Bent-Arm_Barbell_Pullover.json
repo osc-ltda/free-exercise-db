@@ -1,5 +1,6 @@
 {
   "name": "Pullover (Bent-Arm Barbell)",
+  "nameEs": "Pullover (Barra con brazos flexionados)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,6 +20,13 @@
     "While keeping your arms in the bent arm position, lower the weight slowly in an arc behind your head while breathing in until you feel a stretch on the chest.",
     "At that point, bring the barbell back to the starting position using the arc through which the weight was lowered and exhale as you perform this movement.",
     "Hold the weight on the initial position for a second and repeat the motion for the prescribed number of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate en un banco plano con una barra usando un ancho de agarre de hombros.",
+    "Sostén la barra recta sobre tu pecho con una flexión en los brazos. Esta será tu posición inicial.",
+    "Mientras mantienes los brazos en la posición flexionada, baja el peso lentamente en un arco detrás de tu cabeza mientras inhalas hasta que sientas un estiramiento en el pecho.",
+    "En ese punto, regresa la barra a la posición inicial usando el arco por el cual bajó el peso y exhala mientras realizas este movimiento.",
+    "Mantén el peso en la posición inicial durante un segundo y repite el movimiento para el número prescrito de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

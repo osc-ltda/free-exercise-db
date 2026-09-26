@@ -1,5 +1,6 @@
 {
   "name": "Bottoms Up",
+  "nameEs": "Bottoms Up",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,6 +13,11 @@
     "Begin by lying on your back on the ground. Your legs should be straight and your arms at your side. This will be your starting position.",
     "To perform the movement, tuck the knees toward your chest by flexing the hips and knees. Following this, extend your legs directly above you so that they are perpendicular to the ground. Rotate and elevate your pelvis to raise your glutes from the floor.",
     "After a brief pause, return to the starting position."
+  ],
+  "instructionsEs": [
+    "Comienza recostado boca arriba en el suelo. Tus piernas deben estar estiradas y tus brazos a los costados. Esta será tu posición inicial.",
+    "Para realizar el movimiento, lleva las rodillas hacia el pecho flexionando las caderas y las rodillas. Después de esto, extiende tus piernas directamente hacia arriba de modo que queden perpendiculares al suelo. Rota y eleva la pelvis para levantar los glúteos del suelo.",
+    "Después de una breve pausa, regresa a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

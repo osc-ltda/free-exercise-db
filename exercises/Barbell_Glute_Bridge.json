@@ -1,5 +1,6 @@
 {
   "name": "Bridge (Barbell Glute)",
+  "nameEs": "Puente (Barra para glúteos)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,6 +16,11 @@
     "Begin seated on the ground with a loaded barbell over your legs. Using a fat bar or having a pad on the bar can greatly reduce the discomfort caused by this exercise. Roll the bar so that it is directly above your hips, and lay down flat on the floor.",
     "Begin the movement by driving through with your heels, extending your hips vertically through the bar. Your weight should be supported by your upper back and the heels of your feet.",
     "Extend as far as possible, then reverse the motion to return to the starting position."
+  ],
+  "instructionsEs": [
+    "Comienza sentado en el suelo con una barra cargada sobre tus piernas. Usar una barra gruesa o tener una almohadilla en la barra puede reducir en gran medida la incomodidad causada por este ejercicio. Rueda la barra para que quede directamente encima de tus caderas y acuéstate plano en el suelo.",
+    "Comienza el movimiento impulsando con tus talones, extendiendo tus caderas verticalmente a través de la barra. Tu peso debe ser soportado por la parte superior de la espalda y los talones de tus pies.",
+    "Extiende lo más lejos posible, luego invierte el movimiento para regresar a la posición inicial."
   ],
   "category": "powerlifting",
   "trackingType": "weight_reps",

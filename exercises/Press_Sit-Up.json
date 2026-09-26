@@ -1,5 +1,6 @@
 {
   "name": "Sit-Up (Press)",
+  "nameEs": "Sit-Up con press",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "While inhaling, tighten your abdominals and glutes. Simultaneously curl your torso as you do when performing a sit-up and press the barbell to an overhead position while exhaling. Tip: Use your arms to push the barbell out as you perform this exercise while still focusing on the abdominal muscles.",
     "Lower your upper body back down to the starting position while bringing the barbell back down to your torso. Remember to breathe in while lowering the body.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Para empezar, acuéstate en un banco con una barra apoyada en tu pecho. Posiciona tus piernas para que estén seguras en la extensión del banco abdominal. Esta es la posición inicial.",
+    "Mientras inspiras, contrae el abdomen y los glúteos. Simultáneamente, flexiona el torso como lo haces al realizar un sit-up y haz un press con la barra hacia una posición por encima de la cabeza mientras exhalas. Consejo: usa tus brazos para empujar la barra hacia afuera mientras realizas este ejercicio, sin dejar de enfocarte en los músculos abdominales.",
+    "Baja la parte superior del cuerpo de regreso a la posición inicial mientras bajas la barra de vuelta a tu torso. Recuerda inspirar mientras bajas el cuerpo.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Intermediate Groin Stretch",
+  "nameEs": "Estiramiento de ingle intermedio",
   "force": "static",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -11,6 +12,10 @@
   "instructions": [
     "Lie on your back with your legs extended. Loop a belt, rope, or band around one of your feet, and swing that leg as far to the side as you can. This will be your starting position.",
     "Pull gently on the belt to create tension in your groin and hamstring muscles. Hold for 10-20 seconds, and repeat on the other side."
+  ],
+  "instructionsEs": [
+    "Recuéstate boca arriba con las piernas extendidas. Pasa un cinturón, una cuerda o una banda alrededor de uno de tus pies y lleva esa pierna hacia un lado tanto como puedas. Esta será tu posición inicial.",
+    "Tira suavemente del cinturón para generar tensión en los músculos de la ingle y los isquiotibiales. Sostén durante 10-20 segundos y repite del otro lado."
   ],
   "category": "stretching",
   "trackingType": "time",

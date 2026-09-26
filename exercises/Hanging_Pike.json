@@ -1,5 +1,6 @@
 {
   "name": "Hanging Pike",
+  "nameEs": "Pike colgado",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -14,6 +15,13 @@
     "Pull your legs up as you exhale until you almost touch your shins with the bar above you. Tip: Try to straighten your legs as much as possible while at the top.",
     "Lower your legs as slowly as possible until you reach the starting position. Tip: Avoid swinging and using momentum at all times.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Cuélgate de una barra de dominada supina con las piernas y los pies juntos usando un Agarre pronado (con las palmas hacia afuera) ligeramente más ancho que el ancho de los hombros. Consejo: puedes usar muñequeras para facilitar el agarre de la barra.",
+    "Ahora flexiona las rodillas en un ángulo de 90 grados y lleva los muslos hacia adelante para que las pantorrillas queden perpendiculares al suelo mientras los muslos permanecen paralelos a este. Esta será tu posición inicial.",
+    "Sube las piernas mientras exhalas hasta casi tocar tus espinillas con la barra de arriba. Consejo: intenta estirar las piernas lo más posible mientras estás arriba.",
+    "Baja las piernas lo más lentamente posible hasta alcanzar la posición inicial. Consejo: evita balancearte y usar impulso en todo momento.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

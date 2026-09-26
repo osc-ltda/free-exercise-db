@@ -1,5 +1,6 @@
 {
   "name": "Chair Leg Extended Stretch",
+  "nameEs": "Estiramiento de pierna extendida en silla",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,12 @@
     "Raise one leg, extending the knee, flexing the ankle as you do so.",
     "Slowly move that leg outward as far as you can, and then back to the center and down.",
     "Repeat for your other leg."
+  ],
+  "instructionsEs": [
+    "Siéntate derecho en una silla y agarra el asiento por los lados.",
+    "Eleva una pierna, extendiendo la rodilla y flexionando el tobillo al hacerlo.",
+    "Mueve lentamente esa pierna hacia afuera tanto como puedas, y luego de vuelta al centro y hacia abajo.",
+    "Repite para tu otra pierna."
   ],
   "category": "stretching",
   "trackingType": "time",

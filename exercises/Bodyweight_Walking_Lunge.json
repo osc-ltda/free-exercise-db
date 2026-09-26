@@ -1,5 +1,6 @@
 {
   "name": "Lunge (Bodyweight Walking)",
+  "nameEs": "Zancada (Peso corporal caminando)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "Step forward with one leg, flexing the knees to drop your hips. Descend until your rear knee nearly touches the ground. Your posture should remain upright, and your front knee should stay above the front foot.",
     "Drive through the heel of your lead foot and extend both knees to raise yourself back up.",
     "Step forward with your rear foot, repeating the lunge on the opposite leg."
+  ],
+  "instructionsEs": [
+    "Comienza de pie con los pies separados a la distancia de los hombros y las manos en la cadera.",
+    "Da un paso adelante con una pierna, flexionando las rodillas para bajar la cadera. Desciende hasta que tu rodilla trasera casi toque el suelo. Tu postura debe mantenerse erguida y la rodilla delantera debe permanecer por encima del pie delantero.",
+    "Impúlsate a través del talón del pie delantero y extiende ambas rodillas para volver a subir.",
+    "Da un paso adelante con el pie trasero, repitiendo la zancada con la pierna opuesta."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

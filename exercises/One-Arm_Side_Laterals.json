@@ -1,5 +1,6 @@
 {
   "name": "One-Arm Side Laterals",
+  "nameEs": "Elevación lateral a un brazo",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Lower the dumbbell back down slowly to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions.",
     "Switch arms and repeat the exercise."
+  ],
+  "instructionsEs": [
+    "Toma una mancuerna y colócala en una de tus manos. Tu mano que no está levantando peso debe usarse para agarrar algo firme, como un press de banca inclinado. Inclínate hacia tu brazo de trabajo y aléjate de la mano que sujeta el banco inclinado, ya que esto te permitirá mantener el equilibrio.",
+    "Párate con el torso derecho y ten la mancuerna a tu lado con el brazo extendido y la palma de la mano hacia ti. Esta será tu posición de inicial.",
+    "Mientras mantienes el torso estático (sin balancearte), levanta la mancuerna hacia tu lado con una ligera flexión en el codo y la mano ligeramente inclinada hacia adelante, como si vertieras agua en un vaso. Continúa subiendo hasta que tu brazo esté paralelo al piso. Exhala mientras ejecutas este movimiento y haz una pausa de un segundo arriba.",
+    "Baja la mancuerna lentamente de regreso a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones.",
+    "Cambia de brazo y repite el ejercicio."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

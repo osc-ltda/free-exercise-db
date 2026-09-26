@@ -1,5 +1,6 @@
 {
   "name": "Curl (Close-Grip EZ-Bar with Band)",
+  "nameEs": "Curl (Barra Z - Agarre estrecho con banda)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,13 @@
     "Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second and squeeze the biceps hard.",
     "Slowly begin to bring the bar back to starting position as your breathe in.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Fija una banda a cada extremo de la barra. Toma la barra colocando un pie en el medio de la banda. Párate erguido con un agarre supino y estrecho en la Barra Z. Los codos deben estar cerca del torso. Esta será tu posición inicial.",
+    "Mientras mantienes la parte superior de los brazos en su lugar, flexiona los codos para ejecutar el curl. Exhala a medida que se levanta el peso.",
+    "Continúa el movimiento hasta que tus bíceps estén completamente contraídos y la barra esté a la altura de los hombros. Mantén la posición contraída durante un segundo y aprieta los bíceps con fuerza.",
+    "Comienza a llevar lentamente la barra de regreso a la posición inicial mientras inspiras.",
+    "Repite por la cantidad de repeticiones recomendada."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

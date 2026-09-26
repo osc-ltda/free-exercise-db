@@ -1,5 +1,6 @@
 {
   "name": "Cross Over (With Bands)",
+  "nameEs": "Cruce (Con bandas)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,6 +19,14 @@
     "While keeping your arms straight, bring them across your chest in a semicircular motion to the front as you exhale and flex your pecs. Hold the contraction for a second.",
     "Slowly return to the starting position as you inhale.",
     "Perform for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Fija una banda de ejercicio alrededor de un poste fijo.",
+    "Mientras miras en dirección opuesta al poste, agarra las manijas en ambos extremos de la banda y da un paso al frente lo suficiente como para crear tensión en la banda.",
+    "Eleva tus brazos hacia los lados, paralelos al suelo, perpendiculares a tu torso (tu torso y los brazos deben parecerse a la letra \"T\") y con las palmas apuntando hacia adelante. Mantenlos extendidos con una ligera flexión en los codos. Esta será tu posición inicial.",
+    "Mientras mantienes tus brazos rectos, llévalos a través de tu pecho en un movimiento semicircular hacia el frente mientras exhalas y flexionas tus pectorales. Mantén la contracción durante un segundo.",
+    "Regresa lentamente a la posición inicial mientras inhalas.",
+    "Realiza la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Press (Chain)",
+  "nameEs": "Press (con cadena)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,6 +16,11 @@
     "Begin by connecting the chains to the cable handle attachments. Position yourself on the flat bench in the same position as for a dumbbell press. Your wrists should be pronated and arms perpendicular to the floor. This will be your starting position.",
     "Lower the chains by flexing the elbows, unloading some of the chain onto the floor.",
     "Continue until your elbow forms a 90 degree angle, and then reverse the motion by extending through the elbow to lockout."
+  ],
+  "instructionsEs": [
+    "Comienza conectando las cadenas a los accesorios de manija de polea. Colócate en el banco plano en la misma posición que para un press con mancuerna. Tus muñecas deben estar pronadas y los brazos perpendiculares al suelo. Esta será tu posición inicial.",
+    "Baja las cadenas flexionando los codos, descargando parte de la cadena en el suelo.",
+    "Continúa hasta que tu codo forme un ángulo de 90 grados y luego invierte el movimiento extendiendo el codo hasta bloquear."
   ],
   "category": "powerlifting",
   "trackingType": "weight_reps",

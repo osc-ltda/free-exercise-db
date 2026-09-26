@@ -1,5 +1,6 @@
 {
   "name": "Box Jump (Multiple Response)",
+  "nameEs": "Salto al cajón (Respuesta múltiple)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,6 +19,11 @@
     "Assume a relaxed stance facing the box or platform approximately an arm's length away. Arms should be down at the sides and legs slightly bent.",
     "Using the arms to aid in the initial burst, jump upward and forward, landing with feet simultaneously on top of the box or platform.",
     "Immediately drop or jump back down to the original starting place; then repeat the sequence."
+  ],
+  "instructionsEs": [
+    "Adopta una postura relajada frente al cajón o plataforma a aproximadamente la distancia de un brazo. Los brazos deben estar a los lados y las piernas ligeramente flexionadas.",
+    "Usando los brazos para ayudar en el impulso inicial, salta hacia arriba y hacia adelante, cayendo con los pies simultáneamente encima del cajón o plataforma.",
+    "Inmediatamente déjate caer o salta hacia atrás al lugar de inicio original; luego repite la secuencia."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

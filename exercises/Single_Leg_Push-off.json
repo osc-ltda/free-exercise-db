@@ -1,5 +1,6 @@
 {
   "name": "Single Leg Push-off",
+  "nameEs": "Impulso a una pierna",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,11 @@
     "Stand on the ground with one foot resting on the box, heel close to the edge.",
     "Push off with your foot on top of the box, trying to gain as much height as possible by extending through the hip and knee.",
     "Land with the same foot on top of the box, returning your other foot back to the start position."
+  ],
+  "instructionsEs": [
+    "Párate en el suelo con un pie apoyado en el cajón, con el talón cerca del borde.",
+    "Impúlsate con el pie que está encima del cajón, intentando ganar la mayor altura posible extendiendo la cadera y la rodilla.",
+    "Aterriza con el mismo pie encima del cajón, regresando tu otro pie a la posición de inicio."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

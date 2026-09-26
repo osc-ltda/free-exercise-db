@@ -1,5 +1,6 @@
 {
   "name": "Shoulder Raise (Dumbbell Incline)",
+  "nameEs": "Elevación de hombros (Mancuerna inclinado)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,13 @@
     "While keeping the arms straight and locked, lift the dumbbells by raising the shoulders from the bench as you breathe out.",
     "Bring back the dumbbells to the starting position as you breathe in.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Siéntate en un banco inclinado mientras sostienes una mancuerna en cada mano sobre tus muslos.",
+    "Sube las piernas para impulsar los pesos hacia tus hombros y recuéstate hacia atrás. Coloca las mancuernas sobre tus hombros con los brazos extendidos. Los brazos deben estar perpendiculares al suelo con las palmas hacia adelante y los nudillos apuntando hacia el techo. Esta será tu posición inicial.",
+    "Mientras mantienes los brazos rectos y bloqueados, eleva las mancuernas separando los hombros del banco al exhalar.",
+    "Regresa las mancuernas a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

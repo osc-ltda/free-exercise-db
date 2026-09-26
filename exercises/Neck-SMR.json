@@ -1,5 +1,6 @@
 {
   "name": "Neck-SMR",
+  "nameEs": "Cuello-SMR",
   "force": "static",
   "level": "intermediate",
   "mechanic": null,
@@ -11,6 +12,10 @@
   "instructions": [
     "Using a muscle roller or a rolling pin, place the roller behind your head and against your neck. Make sure that you do not place the roller directly against the spine, but turned slightly so that the roller is pressed against the muscles to either side of the spine. This will be your starting position.",
     "Starting at the top of your neck, slowly roll down the muscles of your neck, pausing at points of tension for 10-30 seconds."
+  ],
+  "instructionsEs": [
+    "Usando un rodillo muscular o un rodillo de amasar, coloca el rodillo detrás de tu cabeza y contra tu cuello. Asegúrate de no colocar el rodillo directamente contra la columna vertebral, sino girado ligeramente para que el rodillo quede presionado contra los músculos a cada lado de la columna. Esta será tu posición inicial.",
+    "Comenzando en la parte superior del cuello, rueda lentamente hacia abajo por los músculos del cuello, deteniéndote en los puntos de tensión durante 10-30 segundos."
   ],
   "category": "stretching",
   "trackingType": "time",

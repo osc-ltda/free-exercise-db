@@ -1,5 +1,6 @@
 {
   "name": "Decline Close-Grip Bench To Skull Crusher",
+  "nameEs": "Press de banca declinado de agarre cerrado a rompecraneos",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,6 +20,15 @@
     "As you breathe in and you keep the upper arms stationary, bring the bar down slowly by moving your forearms in a semicircular motion towards you until you feel the bar slightly touch your forehead. Breathe in as you perform this portion of the movement.",
     "Lift the bar back to the starting position by contracting the triceps and exhaling.",
     "Repeat steps 3-6 until the recommended amount of repetitions is performed."
+  ],
+  "instructionsEs": [
+    "Asegura tus piernas al final del banco declinado y acuéstate lentamente en el banco.",
+    "Usando un agarre cerrado (un agarre ligeramente menor que el ancho de los hombros), levanta la barra del soporte y sostenla directamente sobre ti con los brazos bloqueados y los codos hacia adentro. Los brazos deben estar perpendiculares al suelo. Esta será tu posición inicial. Consejo: para proteger tu manguito rotador, es mejor que un compañero te ayude a levantar la barra del soporte.",
+    "Ahora baja la barra hacia la parte baja del pecho mientras inspiras. Mantén los codos hacia adentro mientras realizas este movimiento.",
+    "Usando los tríceps para empujar la barra hacia arriba, presiónala de regreso a la posición inicial mientras exhalas.",
+    "Mientras inspiras y mantienes los brazos estables, baja la barra lentamente moviendo los antebrazos en un movimiento semicircular hacia ti hasta que sientas que la barra toca ligeramente tu frente. Inspira mientras realizas esta porción del movimiento.",
+    "Levanta la barra de regreso a la posición inicial contrayendo los tríceps y exhalando.",
+    "Repite los pasos 3 a 6 hasta realizar la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

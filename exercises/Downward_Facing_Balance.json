@@ -1,5 +1,6 @@
 {
   "name": "Downward Facing Balance",
+  "nameEs": "Downward Facing Balance",
   "force": "static",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -14,6 +15,10 @@
   "instructions": [
     "Lie facedown on top of an exercise ball.",
     "While resting on your stomach on the ball, walk your hands forward along the floor and lift your legs, extending your elbows and knees."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca abajo sobre una pelota de ejercicio.",
+    "Mientras descansas boca abajo sobre la pelota, camina con tus manos hacia adelante por el suelo y levanta las piernas, extendiendo los codos y las rodillas."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

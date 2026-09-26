@@ -1,5 +1,6 @@
 {
   "name": "Band Good Morning",
+  "nameEs": "Good Morning con Banda",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,11 @@
     "Using a 41 inch band, stand on one end, spreading your feet a small amount. Bend at the hips to loop the end of the band behind your neck. This will be your starting position.",
     "Keeping your legs straight, extend through the hips to come to a near vertical position.",
     "Ensure that you do not round your back as you go down back to the starting position."
+  ],
+  "instructionsEs": [
+    "Usando una banda de 41 pulgadas, párate sobre un extremo separando un poco los pies. Inclínate desde las caderas para pasar el extremo de la banda por detrás de tu cuello. Esta será tu posición inicial.",
+    "Manteniendo las piernas rectas, extiende las caderas para llegar a una posición casi vertical.",
+    "Asegúrate de no redondear la espalda al regresar a la posición inicial."
   ],
   "category": "powerlifting",
   "trackingType": "weight_reps",

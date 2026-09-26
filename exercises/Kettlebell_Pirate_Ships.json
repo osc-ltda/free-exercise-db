@@ -1,5 +1,6 @@
 {
   "name": "Kettlebell Pirate Ships",
+  "nameEs": "Barcos piratas (Pesa rusa)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,12 @@
     "Initiate the movement by turning to one side, swinging the kettlebell to head height. Briefly pause at the top of the motion.",
     "Allow the bell to drop as you rotate to the opposite side, again raising the kettlebell to head height.",
     "Repeat for the desired amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Con una postura amplia, sostén una pesa rusa con ambas manos. Permite que cuelgue a la altura de la cintura con los brazos extendidos. Esta será tu posición inicial.",
+    "Inicia el movimiento girando hacia un lado, balanceando la pesa rusa hasta la altura de la cabeza. Haz una pausa breve en la parte superior del movimiento.",
+    "Permite que la campana baje mientras rotas hacia el lado opuesto, elevando nuevamente la pesa rusa a la altura de la cabeza.",
+    "Repite por la cantidad deseada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

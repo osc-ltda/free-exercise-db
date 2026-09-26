@@ -1,5 +1,6 @@
 {
   "name": "Flexor Curls (Incline Dumbbell)",
+  "nameEs": "Curl flexor (Mancuerna inclinado)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Curl up the two dumbbells at the same time until your biceps are fully contracted and exhale. Tip: Do not swing the arms or use momentum. Keep a controlled motion at all times. Hold the contracted position for a second at the top.",
     "As you inhale, slowly go back to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Sostén la mancuerna hacia el lado más alejado de ti para que tengas más peso en el lado más cercano a ti. (Esto se puede hacer con un buen efecto en todos los ejercicios de bíceps con mancuernas). Ahora haz un curl de mancuerna inclinado normal, pero mantén tus muñecas lo más atrás posible para neutralizar cualquier estrés que se ponga sobre ellas.",
+    "Siéntate en un banco inclinado en un ángulo de 45 grados mientras sostienes una mancuerna en cada mano.",
+    "Deja que tus brazos cuelguen a tus lados, con los codos hacia adentro, y gira las palmas de tus manos hacia adelante con los pulgares apuntando lejos del cuerpo. Consejo: Mantendrás esta posición de las manos durante todo el movimiento ya que no debe haber ninguna torsión de las manos a medida que suben. Esta será tu posición inicial.",
+    "Haz un curl de las dos mancuernas al mismo tiempo hasta que tus bíceps estén completamente contraídos y exhala. Consejo: No balancees los brazos ni uses el impulso. Mantén un movimiento controlado en todo momento. Mantén la posición contraída durante un segundo en la parte superior.",
+    "A medida que inhalas, regresa lentamente a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

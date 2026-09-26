@@ -1,5 +1,6 @@
 {
   "name": "Standing Hip Circles",
+  "nameEs": "Círculos de cadera de pie",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,12 @@
     "Raise the unsupported knee to 90 degrees. This will be your starting position.",
     "Open the hip as far as possible, attempting to make a big circle with your knee.",
     "Perform this movement slowly for a number of repetitions, and repeat on the other side."
+  ],
+  "instructionsEs": [
+    "Comienza de pie sobre una pierna, sosteniéndote de un soporte vertical.",
+    "Eleva la rodilla sin apoyo a 90 grados. Esta será tu posición inicial.",
+    "Abre la cadera tanto como sea posible, intentando hacer un círculo grande con tu rodilla.",
+    "Realiza este movimiento lentamente durante un número de repeticiones y repite del otro lado."
   ],
   "category": "stretching",
   "trackingType": "bodyweight_reps",

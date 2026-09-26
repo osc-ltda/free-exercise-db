@@ -1,5 +1,6 @@
 {
   "name": "Upright Row (Dumbbell One-Arm)",
+  "nameEs": "Remo al mentón (Mancuerna a un brazo)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "Use your side shoulders to lift the dumbbell as you exhale. The dumbbell should be close to the body as you move it up. Continue to lift it until the dumbbell is nearly in line with your chin. Tip: Your elbows should drive the motion. As you lift the dumbbell, your elbow should always be higher than your forearm. Also, keep your torso stationary and pause for a second at the top of the movement.",
     "Lower the dumbbell back down slowly to the starting position. Inhale as you perform this portion of the movement.",
     "Repeat for the recommended amount of repetitions and switch arms."
+  ],
+  "instructionsEs": [
+    "Agarra una mancuerna y ponte de pie con el brazo extendido frente a ti con una ligera flexión en los codos y la espalda recta. Esta será tu posición inicial. Consejo: La mancuerna debe estar apoyada sobre tu muslo con la palma de tus manos hacia tus muslos.",
+    "La otra mano se puede mantener completamente extendida hacia un lado, en la cintura o agarrada a una superficie fija. Esta será tu posición inicial.",
+    "Usa tus hombros laterales para levantar la mancuerna mientras exhalas. La mancuerna debe estar cerca del cuerpo a medida que la subes. Continúa levantándola hasta que la mancuerna esté casi alineada con tu barbilla. Consejo: Tus codos deben guiar el movimiento. Al levantar la mancuerna, tu codo siempre debe estar más alto que tu antebrazo. Asimismo, mantén tu torso inmóvil y haz una pausa de un segundo en la parte alta del movimiento.",
+    "Baja la mancuerna de regreso lentamente a la posición inicial. Inhala al realizar esta porción del movimiento.",
+    "Repite por el número recomendado de repeticiones y cambia de brazo."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

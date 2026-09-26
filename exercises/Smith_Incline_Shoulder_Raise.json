@@ -1,5 +1,6 @@
 {
   "name": "Shoulder Raise (Smith Incline)",
+  "nameEs": "Elevación de hombro (Máquina Smith inclinado)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -17,6 +18,14 @@
     "After a second pause, bring the bar back down to the starting position as you breathe in.",
     "Repeat the movement for the prescribed amount of repetitions.",
     "When you are done, place the bar back in the rack."
+  ],
+  "instructionsEs": [
+    "Coloca un banco inclinado debajo de la máquina Smith. Coloca la barra a una altura que puedas alcanzar al acostarte y con los brazos casi completamente extendidos. Una vez seleccionado el peso necesario, acuéstate en el banco inclinado y asegúrate de que tus hombros estén alineados justo debajo de la barra.",
+    "Utilizando un agarre pronado (palmas hacia adelante) al ancho de los hombros, levanta la barra del soporte y sostenla directamente sobre ti con una ligera flexión en los codos. Esta será tu posición inicial.",
+    "Al exhalar, levanta la barra hasta que tus brazos estén completamente extendidos. Nota: La contracción debe sentirse alrededor de los hombros.",
+    "Después de una pausa de un segundo, vuelve a bajar la barra a la posición inicial mientras inhalas.",
+    "Repite el movimiento por la cantidad de repeticiones prescrita.",
+    "Cuando termines, vuelve a colocar la barra en el soporte."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

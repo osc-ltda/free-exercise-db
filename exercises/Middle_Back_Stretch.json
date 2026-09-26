@@ -1,5 +1,6 @@
 {
   "name": "Middle Back Stretch",
+  "nameEs": "Estiramiento de espalda media",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,10 @@
   "instructions": [
     "Stand so your feet are shoulder width apart and your hands are on your hips.",
     "Twist at your waist until you feel a stretch. Hold for 10 to 15 seconds, then twist to the other side."
+  ],
+  "instructionsEs": [
+    "Párate con los pies separados a la distancia de los hombros y las manos en las caderas.",
+    "Gira desde la cintura hasta que sientas un estiramiento. Mantén durante 10 a 15 segundos, luego gira hacia el otro lado."
   ],
   "category": "stretching",
   "trackingType": "time",

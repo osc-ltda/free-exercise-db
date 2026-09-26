@@ -1,5 +1,6 @@
 {
   "name": "Pull-Up (V-Bar)",
+  "nameEs": "Dominada (Barra V)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,6 +19,13 @@
     "Using your lats, pull your torso up while leaning your head back slightly so that you do not hit yourself with the chin-up bar. Continue until your chest nearly touches the V-bar. Exhale as you execute this motion.",
     "After a second hold on the contracted position, slowly lower your body back to the starting position as you breathe in.",
     "Repeat for the prescribed number of repetitions."
+  ],
+  "instructionsEs": [
+    "Empieza colocando el centro de la barra en V en el centro de la barra de dominadas (asumiendo que la estación que usas no tiene asas de agarre neutro). Las asas de la barra en V mirarán hacia abajo para que puedas colgarte de la barra de dominadas usando las asas.",
+    "Una vez que coloques de forma segura la barra en V, agárrala por cada lado y cuélgate de ella. Saca el pecho y echa el cuerpo ligeramente hacia atrás para involucrar mejor los dorsales. Esta será tu posición inicial.",
+    "Usando tus dorsales, eleva tu torso mientras inclinas ligeramente la cabeza hacia atrás para no golpearte con la barra de dominadas. Continúa hasta que tu pecho casi toque la barra en V. Exhala mientras ejecutas este movimiento.",
+    "Después de mantener un segundo la posición contraída, baja lentamente tu cuerpo a la posición inicial mientras inspiras.",
+    "Repite para el número de repeticiones prescrito."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

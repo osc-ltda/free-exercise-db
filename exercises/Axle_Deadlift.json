@@ -1,5 +1,6 @@
 {
   "name": "Deadlift (Axle)",
+  "nameEs": "Peso muerto (Axle)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -20,6 +21,12 @@
     "With your feet and your grip set, take a big breath and then lower your hips and flex the knees until your shins contact the bar. Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward.",
     "After the bar passes the knees, aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar.",
     "Lower the bar by bending at the hips and guiding it to the floor."
+  ],
+  "instructionsEs": [
+    "Acércate a la barra para que esté centrada sobre tus pies. Tus pies deben estar separados aproximadamente al ancho de las caderas. Flexiona la cadera para agarrar la barra al ancho de los hombros, permitiendo que tus omóplatos protruyan. Típicamente, usarías un agarre mixto.",
+    "Con tus pies y tu agarre listos, toma una gran respiración y luego baja las caderas y flexiona las rodillas hasta que tus espinillas contacten la barra. Mira hacia adelante con tu cabeza, mantén tu pecho arriba y tu espalda arqueada, y comienza a empujar a través de los talones para mover el peso hacia arriba.",
+    "Después de que la barra pasa las rodillas, tira agresivamente de la barra hacia atrás, uniendo tus omóplatos mientras impulsas tus caderas hacia adelante contra la barra.",
+    "Baja la barra flexionando las caderas y guiándola hacia el suelo."
   ],
   "category": "strongman",
   "trackingType": "weight_reps",

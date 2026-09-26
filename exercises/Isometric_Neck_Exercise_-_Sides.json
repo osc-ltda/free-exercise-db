@@ -1,5 +1,6 @@
 {
   "name": "Isometric Neck Exercise - Sides",
+  "nameEs": "Isometric Neck Exercise - Sides",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Hold for the recommended number of seconds.",
     "Now release the tension slowly.",
     "Rest for the recommended amount of time and repeat with your right hand placed on the right side of your head."
+  ],
+  "instructionsEs": [
+    "Con tu cabeza y cuello en una posición neutral (posición normal con la cabeza erguida mirando hacia adelante), coloca tu mano izquierda en el lado izquierdo de tu cabeza.",
+    "Ahora empuja suavemente hacia la izquierda mientras contraes los músculos izquierdos del cuello pero resistiendo cualquier movimiento de tu cabeza. Comienza con una tensión lenta y aumenta despacio. Sigue respirando normalmente mientras ejecutas esta contracción.",
+    "Mantén durante el número recomendado de segundos.",
+    "Ahora libera la tensión lentamente.",
+    "Descansa durante el tiempo recomendado y repite con tu mano derecha colocada en el lado derecho de tu cabeza."
   ],
   "category": "strength",
   "trackingType": "time",

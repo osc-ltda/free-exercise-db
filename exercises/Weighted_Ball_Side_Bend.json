@@ -1,5 +1,6 @@
 {
   "name": "Weighted Ball Side Bend",
+  "nameEs": "Inclinación lateral con pelota y peso",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -16,6 +17,15 @@
     "Hold the contraction for a second and slowly lower yourself back down to the starting position while inhaling.",
     "Repeat for the recommended amount of repetitions.",
     "Switch sides and repeat the exercise."
+  ],
+  "instructionsEs": [
+    "Para empezar, acuéstate sobre una pelota de ejercicio con el lado izquierdo de tu torso (cintura, caderas y hombro) presionado contra la pelota.",
+    "Tus pies deben estar en el suelo mientras tus piernas están cruzadas y suspendidas de la pelota. Sostén un disco con peso con tu mano derecha directamente al lado derecho de tu cabeza. Consejo: Asegúrate de que el lado liso del disco descanse contra tu cabeza.",
+    "Coloca tu brazo izquierdo a través de tu torso de modo que tu palma esté sobre tus oblicuos. Debe haber un ángulo recto entre tu antebrazo y tu brazo izquierdo. Esta es la posición inicial.",
+    "Eleva el lado de tu torso flexionándote lateralmente a la altura de la cintura mientras exhalas.",
+    "Mantén la contracción durante un segundo y baja lentamente de regreso a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones.",
+    "Cambia de lado y repite el ejercicio."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

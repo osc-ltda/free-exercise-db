@@ -1,5 +1,6 @@
 {
   "name": "Kettlebell Halo",
+  "nameEs": "Pesa rusa Halo",
   "force": null,
   "level": "beginner",
   "mechanic": "compound",
@@ -19,6 +20,13 @@
     "Continue the circle past the opposite ear and back down to the starting position in front of your chest, letting the bell pass close to your body throughout.",
     "Complete the prescribed number of circles in one direction, then repeat the same number in the opposite direction.",
     "Move slowly and keep your head, hips and lower back still. If your lower back arches or the bell drifts far from your head, use a lighter weight."
+  ],
+  "instructionsEs": [
+    "Párate erguido con los pies separados a la distancia de las caderas. Sostén una pesa rusa boca abajo por las asas, con la campana por encima de tus manos y cerca del pecho. Contrae el abdomen y aprieta los glúteos para que la caja torácica permanezca abajo. Esta es tu posición inicial.",
+    "Manteniendo los codos cerca de la cabeza, mueve la pesa rusa hacia arriba pasando un oreja y alrededor por detrás de la cabeza.",
+    "Continúa el círculo pasando la oreja opuesta y vuelve a bajar a la posición inicial frente al pecho, dejando que la campana pase cerca de tu cuerpo en todo momento.",
+    "Completa el número prescrito de círculos en una dirección, luego repite el mismo número en la dirección opuesta.",
+    "Muévete lentamente y mantén la cabeza, las caderas y la zona lumbar inmóviles. Si tu zona lumbar se arquea o la campana se aleja mucho de tu cabeza, usa un peso más ligero."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

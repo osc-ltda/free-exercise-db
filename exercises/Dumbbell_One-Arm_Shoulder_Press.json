@@ -1,5 +1,6 @@
 {
   "name": "Shoulder Press (Dumbbell One-Arm)",
+  "nameEs": "Press de hombro (Mancuerna a un brazo)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,14 @@
     "As you exhale, push the dumbbell up until your arm is fully extended.",
     "After a second pause, slowly come down back to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions and then switch arms."
+  ],
+  "instructionsEs": [
+    "Agarra una mancuerna y siéntate en un banco de press militar o en un banco multiusos con respaldo mientras colocas las mancuernas en posición vertical encima de tus muslos, o ponte de pie.",
+    "Lleva la mancuerna hacia arriba hasta la altura del hombro. La otra mano se puede mantener completamente extendida hacia un lado, en la cintura o agarrada a una superficie fija.",
+    "Rota la muñeca para que la palma de tu mano mire hacia adelante. Esta es tu posición inicial.",
+    "Mientras exhalas, empuja la mancuerna hacia arriba hasta que tu brazo esté completamente extendido.",
+    "Tras una pausa de un segundo, baja lentamente a la posición inicial mientras inhalas.",
+    "Repite por el número recomendado de repeticiones y luego cambia de brazo."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

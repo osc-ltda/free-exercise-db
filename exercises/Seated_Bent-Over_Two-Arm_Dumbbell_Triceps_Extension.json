@@ -1,5 +1,6 @@
 {
   "name": "Triceps Extension (Seated Bent-Over Two-Arm Dumbbell)",
+  "nameEs": "Extensión de tríceps (Sentado inclinado con dos mancuernas)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Keeping the upper arms stationary, use the triceps to lift the weight as you exhale until the forearms are parallel to the floor and the whole arm is extended. Like many other arm exercises, only the forearm moves.",
     "After a second contraction at the top, slowly lower the dumbbells back to the starting position as you inhale.",
     "Repeat the movement for the prescribed amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Siéntate en el extremo de un banco plano con una mancuerna en ambos brazos usando un agarre neutro (las palmas de la mano hacia ti).",
+    "Flexiona tus rodillas ligeramente e inclina tu torso hacia adelante desde la cintura, manteniendo la espalda recta hasta que esté casi paralela al suelo. Asegúrate de mantener la cabeza en alto.",
+    "Los brazos con las mancuernas deben estar cerca del torso y alineados con este (levantados hasta estar paralelos al suelo mientras los antebrazos apuntan hacia el piso mientras las manos sostienen los pesos). Consejo: Debe haber un ángulo de 90 grados entre los antebrazos y el brazo. Esta es tu posición de inicio.",
+    "Manteniendo los brazos estáticos, usa los tríceps para levantar el peso al exhalar hasta que los antebrazos estén paralelos al suelo y todo el brazo esté extendido. Como en muchos otros ejercicios de brazos, solo se mueve el antebrazo.",
+    "Tras una contracción de un segundo arriba, baja lentamente las mancuernas a la posición de inicio mientras inhalas.",
+    "Repite el movimiento por la cantidad prescrita de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

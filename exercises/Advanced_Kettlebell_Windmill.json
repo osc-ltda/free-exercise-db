@@ -1,5 +1,6 @@
 {
   "name": "Advanced Kettlebell Windmill",
+  "nameEs": "Molino avanzado con Pesa rusa",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -17,6 +18,12 @@
     "Keeping the kettlebell locked out at all times, push your butt out in the direction of the locked out kettlebell. Keep the non-working arm behind your back and turn your feet out at a forty-five degree angle from the arm with the kettlebell.",
     "Lower yourself as far as possible.",
     "Pause for a second and reverse the motion back to the starting position."
+  ],
+  "instructionsEs": [
+    "Realiza un clean y press con una Pesa rusa por encima de la cabeza con un brazo.",
+    "Manteniendo la Pesa rusa bloqueada en todo momento, empuja los glúteos hacia el lado de la Pesa rusa bloqueada. Mantén el brazo que no trabaja detrás de tu espalda y gira los pies en un ángulo de cuarenta y cinco grados respecto al brazo con la Pesa rusa.",
+    "Baja tu cuerpo tanto como sea posible.",
+    "Haz una pausa de un segundo e invierte el movimiento de regreso a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

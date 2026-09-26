@@ -1,5 +1,6 @@
 {
   "name": "Dips (Bench)",
+  "nameEs": "Fondos (Banco)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Slowly lower your body as you inhale by bending at the elbows until you lower yourself far enough to where there is an angle slightly smaller than 90 degrees between the upper arm and the forearm. Tip: Keep the elbows as close as possible throughout the movement. Forearms should always be pointing down.",
     "Using your triceps to bring your torso up again, lift yourself back to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Para este ejercicio, deberás colocar un banco detrás de tu espalda. Con el banco perpendicular a tu cuerpo y mirando hacia el lado opuesto, sujétate del borde del banco con las manos completamente extendidas y separadas al ancho de los hombros. Las piernas estarán extendidas hacia adelante, flexionadas a la altura de la cintura y perpendiculares a tu torso. Esta será tu posición inicial.",
+    "Baja lentamente tu cuerpo mientras inspiras flexionando los codos hasta que alcances un ángulo ligeramente inferior a 90 grados entre la parte superior del brazo y el antebrazo. Consejo: Mantén los codos lo más cerca posible durante todo el movimiento. Los antebrazos deben apuntar siempre hacia abajo.",
+    "Utiliza tus tríceps para volver a subir el torso, elevándote hasta la posición inicial.",
+    "Repite para el número recomendado de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

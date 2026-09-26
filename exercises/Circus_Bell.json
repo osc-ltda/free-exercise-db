@@ -1,5 +1,6 @@
 {
   "name": "Circus Bell",
+  "nameEs": "Campana de circo",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -20,6 +21,12 @@
     "Clean the dumbbell by extending through your hips and knees to deliver the implement to the desired shoulder, letting go with the extra hand.",
     "Ensure that you get one of the dumbbell heads behind the shoulder to keep from being thrown off balance. To raise it overhead, dip by flexing the knees, and the drive upwards as you extend the dumbbell overhead, leaning slightly away from it as you do so.",
     "Carefully guide the bell back to the floor, keeping it under control as much as possible. It is best to perform this event on a thick rubber mat to prevent damage to the floor."
+  ],
+  "instructionsEs": [
+    "La campana de circo es una mancuerna sobredimensionada con un mango grueso. Comienza con la mancuerna entre tus pies y sujeta el mango con ambas manos.",
+    "Realiza el carguen (clean) de la mancuerna extendiendo tus caderas y rodillas para llevar el implemento al hombro deseado, soltándolo con la mano adicional.",
+    "Asegúrate de que una de las cabezas de la mancuerna quede detrás del hombro para evitar perder el equilibrio. Para elevarla por encima de la cabeza, haz una flexión ligera doblando las rodillas y luego impulsa hacia arriba mientras extiendes la mancuerna por encima de la cabeza, inclinándote ligeramente hacia el lado contrario al hacerlo.",
+    "Guía con cuidado la campana de regreso al suelo, manteniéndola bajo control tanto como sea posible. Es mejor realizar este evento sobre una alfombrilla de goma gruesa para evitar daños en el suelo."
   ],
   "category": "strongman",
   "trackingType": "weight_reps",

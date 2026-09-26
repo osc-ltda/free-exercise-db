@@ -1,5 +1,6 @@
 {
   "name": "Row (Sled)",
+  "nameEs": "Remo (Trineo)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "With a handle in each hand, bend the knees slightly, keep your head and chest up, and begin with your arms extended.",
     "To initiate the movement, flex the elbow as you retract your shoulder blades, pulling the sled towards you.",
     "Take a step or two back to get tension in the line and repeat."
+  ],
+  "instructionsEs": [
+    "Conecta dos manijas a un trineo mediante una cuerda o cadena. Carga el trineo con un peso adecuado. Párate frente al trineo y retrocede hasta que haya tensión en la línea.",
+    "Con una manija en cada mano, dobla ligeramente las rodillas, mantén la cabeza y el pecho en alto, y comienza con los brazos extendidos.",
+    "Para iniciar el movimiento, flexiona el codo mientras retrae los omóplatos, tirando del trineo hacia ti.",
+    "Da un paso o dos hacia atrás para tensar la línea y repite."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

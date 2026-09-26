@@ -1,5 +1,6 @@
 {
   "name": "Overhead Slam",
+  "nameEs": "Overhead Slam",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,6 +14,12 @@
     "Initiate the countermovement by raising the ball above your head and fully extending your body.",
     "Reverse the motion, slamming the ball into the ground directly in front of you as hard as you can.",
     "Receive the ball with both hands on the bounce and repeat the movement."
+  ],
+  "instructionsEs": [
+    "Sostén un balón medicinal con ambas manos y párate con los pies al ancho de los hombros. Esta será tu posición inicial.",
+    "Inicia el contramovimiento elevando el balón por encima de tu cabeza y extendiendo completamente tu cuerpo.",
+    "Revierte el movimiento, lanzando el balón con fuerza contra el suelo directamente frente a ti tan duro como puedas.",
+    "Recibe el balón con ambas manos en el rebote y repite el movimiento."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

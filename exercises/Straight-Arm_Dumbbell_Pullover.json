@@ -1,5 +1,6 @@
 {
   "name": "Pullover (Straight-Arm Dumbbell)",
+  "nameEs": "Pullover (Mancuerna con brazos rectos)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,6 +20,14 @@
     "While keeping your arms straight, lower the weight slowly in an arc behind your head while breathing in until you feel a stretch on the chest.",
     "At that point, bring the dumbbell back to the starting position using the arc through which the weight was lowered and exhale as you perform this movement.",
     "Hold the weight on the initial position for a second and repeat the motion for the prescribed number of repetitions."
+  ],
+  "instructionsEs": [
+    "Coloca una mancuerna verticalmente sobre un banco plano.",
+    "Asegurándote de que la mancuerna se mantenga colocada de forma segura en la parte superior del banco, acuéstate perpendicularmente al banco (con el torso cruzado como formando una cruz) apoyando solo tus hombros en la superficie. Las caderas deben quedar por debajo del banco y las piernas dobladas con los pies firmemente en el suelo. La cabeza también quedará fuera del banco.",
+    "Agarra la mancuerna con ambas manos y sostenla directamente sobre tu pecho con los brazos extendidos. Ambas palmas deben presionar contra la parte inferior de uno de los lados de la mancuerna. Esta será tu posición inicial.\nPrecaución: Asegúrate siempre de que la mancuerna utilizada para este ejercicio esté segura. Usar una mancuerna con discos flojos puede hacer que se desarmen y caigan sobre tu cara.",
+    "Mientras mantienes tus brazos rectos, baja el peso lentamente en un arco detrás de tu cabeza mientras inhalas hasta que sientas un estiramiento en el pecho.",
+    "En ese punto, regresa la mancuerna a la posición inicial utilizando el arco por el cual bajó el peso y exhala mientras realizas este movimiento.",
+    "Mantén el peso en la posición inicial durante un segundo y repite el movimiento por el número prescrito de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

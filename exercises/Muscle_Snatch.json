@@ -1,5 +1,6 @@
 {
   "name": "Snatch (Muscle)",
+  "nameEs": "Snatch (Muscle)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,6 +19,11 @@
     "Begin with a loaded barbell held at the mid thigh position with a wide grip. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar. This will be the starting position.",
     "Begin the pull by driving through the front of the heels, raising the bar. Transition into the second pull by extending through the hips knees and ankles, driving the bar up as quickly as possible. The bar should be close to the body.",
     "Continue raising the bar to the overhead position, without rebending the knees."
+  ],
+  "instructionsEs": [
+    "Comienza con una barra cargada sostenida a la altura del muslo medio con un agarre ancho. Los pies deben estar directamente debajo de las caderas, con las puntas apuntando hacia afuera según sea necesario. Baja las caderas, con el pecho hacia adelante y la cabeza mirando al frente. Los hombros deben estar justo en frente de la barra. Esta será la posición inicial.",
+    "Comienza el tirón impulsándote a través de la parte delantera de los talones, elevando la barra. Transiciona al segundo tirón extendiendo las caderas, rodillas y tobillos, impulsando la barra hacia arriba lo más rápido posible. La barra debe mantenerse cerca del cuerpo.",
+    "Continúa elevando la barra hasta la posición por encima de la cabeza, sin volver a flexionar las rodillas."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

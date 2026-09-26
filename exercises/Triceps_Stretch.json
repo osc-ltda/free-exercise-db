@@ -1,5 +1,6 @@
 {
   "name": "Triceps Stretch",
+  "nameEs": "Estiramiento de tríceps",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -12,6 +13,9 @@
   ],
   "instructions": [
     "Reach your hand behind your head, grasp your elbow and gently pull. Hold for 10 to 20 seconds, then switch sides."
+  ],
+  "instructionsEs": [
+    "Lleva tu mano detrás de la cabeza, agárrate el codo y tira suavemente. Mantén la posición de 10 a 20 segundos, luego cambia de lado."
   ],
   "category": "stretching",
   "trackingType": "time",

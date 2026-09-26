@@ -1,5 +1,6 @@
 {
   "name": "Preacher Curl (E-Z Bar)",
+  "nameEs": "Preacher Curl (Barra Z)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "As you breathe in, slowly lower the bar until your upper arm is extended and the biceps is fully stretched.",
     "As you exhale, use the biceps to curl the weight up until your biceps is fully contracted and the bar is at shoulder height. Squeeze the biceps hard and hold this position for a second.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Para realizar este movimiento necesitarás un banco scott y una barra Z. Agarra la barra Z por el mango interior cerrado (lo preferible es que alguien te entregue la barra o tómala desde el soporte delantero que ofrecen la mayoría de los bancos scott). Las palmas de tus manos deben mirar hacia adelante y estar levemente inclinadas hacia adentro debido a la forma de la barra.",
+    "Con la parte superior de los brazos apoyada contra la almohadilla del banco scott y el pecho contra él, sostén la barra Z a la altura de los hombros. Esta será tu posición inicial.",
+    "Mientras inspiras, baja lentamente la barra hasta que tu brazo esté extendido y el bíceps esté totalmente estirado.",
+    "Mientras exhalas, usa los bíceps para hacer un curl del peso hacia arriba hasta que el bíceps esté totalmente contraído y la barra esté a la altura de los hombros. Contrae el bíceps con fuerza y mantén esta posición durante un segundo.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

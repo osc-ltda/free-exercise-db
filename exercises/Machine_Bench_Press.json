@@ -1,5 +1,6 @@
 {
   "name": "Bench Press (Machine)",
+  "nameEs": "Press de banca (Máquina)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -19,6 +20,15 @@
     "Push the handles away from you as you flex your pecs and you breathe out. Hold the contraction for a second before going back to the starting position.",
     "Repeat for the recommended amount of reps.",
     "When finished step on the lever again and slowly get the handles back to their original place."
+  ],
+  "instructionsEs": [
+    "Siéntate en la máquina de press de pecho y selecciona el peso.",
+    "Pisa la palanca provista por la máquina, ya que te ayudará a llevar los mangos hacia adelante para que puedas agarrarlos y extender completamente los brazos.",
+    "Agarra los mangos con las Palmas hacia abajo y levanta los codos para que tus brazos queden paralelos al piso a los lados de tu torso. Consejo: Tus antebrazos apuntarán hacia adelante ya que estás agarrando los mangos. Una vez que lleves los mangos hacia adelante y extiendas los brazos, estarás en la posición inicial.",
+    "Ahora acerca los mangos hacia ti mientras inhalas.",
+    "Aleja los mangos de ti mientras flexionas los pectorales y exhalas. Mantén la contracción durante un segundo antes de regresar a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones.",
+    "Cuando termines, vuelve a pisar la palanca y regresa lentamente los mangos a su lugar original."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Leg Extensions",
+  "nameEs": "Extensión de piernas",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "Using your quadriceps, extend your legs to the maximum as you exhale. Ensure that the rest of the body remains stationary on the seat. Pause a second on the contracted position.",
     "Slowly lower the weight back to the original position as you inhale, ensuring that you do not go past the 90-degree angle limit.",
     "Repeat for the recommended amount of times."
+  ],
+  "instructionsEs": [
+    "Para este ejercicio necesitarás usar una máquina de extensión de piernas. Primero elige tu peso y siéntate en la máquina con tus piernas bajo el cojín (pies apuntando hacia adelante) y las manos sujetando las barras laterales. Esta será tu posición inicial. Consejo: Necesitarás ajustar el cojín para que caiga encima de tu pierna inferior (justo arriba de tus pies). Además, asegúrate de que tus piernas formen un ángulo de 90 grados entre la parte inferior y superior de la pierna. Si el ángulo es menor de 90 grados, significa que la rodilla está sobre los dedos de los pies, lo que a su vez crea un estrés indebido en la articulación de la rodilla. Si la máquina está diseñada así, busca otra máquina o asegúrate de que cuando empieces a ejecutar el ejercicio dejes de bajar una vez que alcances el ángulo de 90 grados.",
+    "Usando tus cuádriceps, extiende tus piernas al máximo mientras exhalas. Asegúrate de que el resto del cuerpo permanezca inmóvil en el asiento. Haz una pausa de un segundo en la posición contraída.",
+    "Baja lentamente el peso de vuelta a la posición original mientras inhalas, asegurándote de no pasar el límite del ángulo de 90 grados.",
+    "Repite por la cantidad de veces recomendada."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

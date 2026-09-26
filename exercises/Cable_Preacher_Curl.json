@@ -1,5 +1,6 @@
 {
   "name": "Preacher Curl (Cable)",
+  "nameEs": "Curl predicador (Polea)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -18,6 +19,15 @@
     "Now start pilling the weight up towards your shoulders and squeeze the biceps hard at the top of the movement. Exhale as you perform this motion. Also, hold for a second at the top.",
     "Now slowly lower the weight to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Coloca un banco predicador a unos 2 pies en frente de una máquina de polea.",
+    "Conecta una barra recta a la polea baja.",
+    "Siéntate en el banco predicador con tus codos y brazos firmemente sobre la almohadilla del banco y pídele a alguien que te entregue la barra desde la polea baja.",
+    "Agarra la barra y extiende completamente tus brazos sobre la almohadilla del banco predicador. Esta será tu posición inicial.",
+    "Ahora comienza a subir el peso hacia tus hombros y aprieta los bíceps con fuerza en la parte alta del movimiento. Exhala al realizar este movimiento. Asimismo, mantén un segundo arriba.",
+    "Ahora baja lentamente el peso a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

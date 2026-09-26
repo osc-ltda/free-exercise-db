@@ -1,5 +1,6 @@
 {
   "name": "Push-Up (Plyo)",
+  "nameEs": "Flexión de brazos (Pliométrica)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,6 +19,14 @@
     "At the bottom, reverse the motion by pushing yourself up through elbow extension as quickly as possible. Attempt to push your upper body up until your hands leave the ground.",
     "Return to the starting position and repeat the exercise.",
     "For added difficulty, add claps into the movement while you are air borne."
+  ],
+  "instructionsEs": [
+    "Colócate boca abajo en el suelo, soportando tu peso sobre las manos y las puntas de los pies.",
+    "Tus brazos deben estar completamente extendidos con las manos aproximadamente al ancho de los hombros. Mantén tu cuerpo recto durante todo el movimiento. Esta será tu posición inicial.",
+    "Desciende flexionando el codo, bajando el pecho hacia el suelo.",
+    "En la parte baja, invierte el movimiento empujándote hacia arriba mediante la extensión de los codos lo más rápido posible. Intenta empujar la parte superior de tu cuerpo hasta que tus manos se despeguen del suelo.",
+    "Regresa a la posición inicial y repite el ejercicio.",
+    "Para mayor dificultad, añade aplausos en el movimiento mientras estás en el aire."
   ],
   "category": "plyometrics",
   "trackingType": "bodyweight_reps",

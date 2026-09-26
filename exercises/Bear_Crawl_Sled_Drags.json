@@ -1,5 +1,6 @@
 {
   "name": "Bear Crawl Sled Drags",
+  "nameEs": "Bear Crawl Sled Drags",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,10 @@
   "instructions": [
     "Wearing either a harness or a loose weight belt, attach the chain to the back so that you will be facing away from the sled. Bend down so that your hands are on the ground. Your back should be flat and knees bent. This is your starting position.",
     "Begin by driving with legs, alternating left and right. Use your hands to maintain balance and to help pull. Try to keep your back flat as you move over a given distance."
+  ],
+  "instructionsEs": [
+    "Llevando puesto un arnés o un cinturón de peso suelto, conecta la cadena a la parte trasera de modo que quedes de espaldas al trineo. Agáchate de manera que tus manos estén en el suelo. Tu espalda debe estar plana y las rodillas flexionadas. Esta es tu posición inicial.",
+    "Comienza empujando con las piernas, alternando izquierda y derecha. Usa tus manos para mantener el equilibrio y ayudar a tirar. Intenta mantener la espalda plana mientras te desplazas una distancia determinada."
   ],
   "category": "strongman",
   "trackingType": "weight_reps",

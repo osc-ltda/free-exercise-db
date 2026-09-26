@@ -1,5 +1,6 @@
 {
   "name": "Triceps Extension (Machine)",
+  "nameEs": "Extensión de tríceps (Máquina)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "Perform the movement by extending the elbow, pulling your lower arm away from your upper arm.",
     "Pause at the completion of the movement, and then slowly return the weight to the starting position.",
     "Avoid returning the weight all the way to the stops until the set is complete to keep tension on the muscles being worked."
+  ],
+  "instructionsEs": [
+    "Ajusta el asiento a la altura adecuada y selecciona tu peso. Coloca la parte superior de tus brazos contra las almohadillas y agarra las manijas. Esta será tu posición inicial.",
+    "Realiza el movimiento extendiendo el codo, alejando tu antebrazo de la parte superior del brazo.",
+    "Haz una pausa al finalizar el movimiento y luego regresa lentamente el peso a la posición inicial.",
+    "Evita regresar el peso completamente hasta los topes hasta que la serie esté completa para mantener la tensión en los músculos que estás trabajando."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

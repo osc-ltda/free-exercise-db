@@ -1,5 +1,6 @@
 {
   "name": "Curl (Lying Cable)",
+  "nameEs": "Curl (Polea acostado)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "While keeping your upper arms stationary and the elbows close to your body, curl the bar up slowly toward your chest as you breathe out and you squeeze the biceps.",
     "After a second squeeze at the top of the movement, slowly return to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Agarra una barra recta o accesorio de barra Z unido a la polea baja con ambas manos, usando un agarre en supinación (palmas hacia arriba) al ancho de los hombros.",
+    "Acuéstate boca arriba sobre una esterilla de ejercicio frente a la torre de pesas con los pies planos contra el marco de la máquina de polea y las piernas estiradas.",
+    "Con los brazos extendidos y los codos cerca del cuerpo, flexiona ligeramente los brazos. Esta será tu posición inicial.",
+    "Mientras mantienes los brazos fijos y los codos cerca del cuerpo, haz un curl de la barra hacia arriba lentamente hacia tu pecho mientras exhalas y contraes los bíceps.",
+    "Después de una contracción de un segundo en la parte superior del movimiento, regresa lentamente a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

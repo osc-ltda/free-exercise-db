@@ -1,5 +1,6 @@
 {
   "name": "Bent Over Row (Two-Dumbbell With Palms In)",
+  "nameEs": "Remo inclinado (Dos mancuernas con palmas hacia adentro)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "While keeping the torso stationary, lift the dumbbells to your side as you breathe out, squeezing your shoulder blades together. On the top contracted position, squeeze the back muscles and hold for a second.",
     "Slowly lower the weight again to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Con una mancuerna en cada mano (palmas enfrentadas), flexiona un poco las rodillas e inclina el torso hacia adelante desde la cintura, manteniendo la espalda recta hasta que esté casi paralela al piso. Consejo: asegúrate de mantener la cabeza en alto. Los pesos deben colgar directamente frente a ti mientras tus brazos cuelgan perpendiculares al piso y a tu torso. Esta es tu posición inicial.",
+    "Mientras mantienes el torso quieto, eleva las mancuernas hacia tus costados al exhalar, contrayendo los omóplatos. En la posición superior de contracción, aprieta los músculos de la espalda y mantén durante un segundo.",
+    "Baja lentamente el peso de nuevo a la posición inicial al inhalar.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

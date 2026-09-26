@@ -1,5 +1,6 @@
 {
   "name": "Cable Iron Cross",
+  "nameEs": "Cruz de hierro en polea",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Keeping the elbows extended, pull your arms straight to your sides.",
     "Return your arms back to the starting position after a pause at the peak contraction.",
     "Continue the movement for the prescribed number of repetitions."
+  ],
+  "instructionsEs": [
+    "Comienza moviendo las poleas a la posición alta, selecciona la resistencia a utilizar y toma un mango en cada mano.",
+    "Párate directamente entre ambas poleas con tus brazos extendidos hacia los lados. Tu cabeza y tu pecho deben estar levantados mientras tus brazos forman una \"T\". Esta será tu posición inicial.",
+    "Manteniendo los codos extendidos, tira de tus brazos directamente hacia tus costados.",
+    "Regresa tus brazos a la posición inicial después de una pausa en la máxima contracción.",
+    "Continúa el movimiento por el número prescrito de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

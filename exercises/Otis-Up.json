@@ -1,5 +1,6 @@
 {
   "name": "Otis-Up",
+  "nameEs": "Otis-Up",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "Initiate the movement by flexing the hips and spine to raise your torso up from the ground.",
     "As you move up, press the weight up so that it is above your head at the top of the movement.",
     "Return the weight to your chest as you reverse the sit-up motion, ensuring not to go all the way down to the floor."
+  ],
+  "instructionsEs": [
+    "Asegura tus pies y acuéstate boca arriba en el suelo. Tus rodillas deben estar dobladas. Sostén un peso con ambas manos contra tu pecho. Esta será tu posición inicial.",
+    "Inicia el movimiento flexionando las caderas y la columna para elevar tu torso del suelo.",
+    "A medida que subes, presiona el peso hacia arriba para que quede por encima de tu cabeza en la parte alta del movimiento.",
+    "Regresa el peso a tu pecho mientras reviertes el movimiento del abdominal, asegurándote de no bajar completamente hasta el suelo."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

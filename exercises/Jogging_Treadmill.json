@@ -1,5 +1,6 @@
 {
   "name": "Jogging, Treadmill",
+  "nameEs": "Trote en cinta",
   "force": null,
   "level": "beginner",
   "mechanic": null,
@@ -14,6 +15,10 @@
   "instructions": [
     "To begin, step onto the treadmill and select the desired option from the menu. Most treadmills have a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. Elevation can be adjusted to change the intensity of the workout.",
     "Treadmills offer convenience, cardiovascular benefits, and usually have less impact than jogging outside. A 150 lb person will burn almost 250 calories jogging for 30 minutes, compared to more than 450 calories running. Maintain proper posture as you jog, and only hold onto the handles when necessary, such as when dismounting or checking your heart rate."
+  ],
+  "instructionsEs": [
+    "Para empezar, súbete a la cinta de correr y selecciona la opción deseada en el menú. La mayoría de las cintas tienen un ajuste manual o puedes seleccionar un programa. Por lo general, puedes ingresar tu edad y peso para estimar la cantidad de calorías quemadas durante el ejercicio. La inclinación se puede ajustar para cambiar la intensidad del entrenamiento.",
+    "Las cintas ofrecen comodidad, beneficios cardiovasculares y generalmente tienen menos impacto que trotar al aire libre. Una persona de 150 lb quemará casi 250 calorías trotando durante 30 minutos, en comparación con más de 450 calorías corriendo. Mantén una postura adecuada mientras trotas y agárrate de los mangos solo cuando sea necesario, como al bajarte o al medir tu frecuencia cardíaca."
   ],
   "category": "cardio",
   "trackingType": "time",

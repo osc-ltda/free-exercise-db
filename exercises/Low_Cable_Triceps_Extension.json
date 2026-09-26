@@ -1,5 +1,6 @@
 {
   "name": "Triceps Extension (Low Cable)",
+  "nameEs": "Extensión de tríceps (Polea baja)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "As you breathe out, extend your lower arms until they are straight and vertical. The upper arms and elbows remain stationary throughout the movement. Only the forearms should move. Contract the triceps hard for a second.",
     "As you breathe in slowly return to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Selecciona el peso deseado y acuéstate boca arriba en el banco de una máquina de remo sentado que tenga una cuerda acoplada. Tu cabeza debe apuntar hacia el accesorio.",
+    "Agarra el exterior de los extremos de la cuerda con las palmas enfrentadas (agarre neutro).",
+    "Coloca tus codos doblados en un ángulo de 90 grados y los brazos perpendiculares (ángulo de 90 grados) a tu torso. Consejo: Mantén los codos pegados y asegúrate de que la parte superior de los brazos apunte al techo mientras los antebrazos apuntan hacia la polea sobre tu cabeza. Esta será tu posición inicial.",
+    "Al exhalar, extiende los antebrazos hasta que estén rectos y verticales. La parte superior de los brazos y los codos permanecen estáticos durante todo el movimiento. Solo deben moverse los antebrazos. Contrae los tríceps con fuerza durante un segundo.",
+    "Al inspirar, regresa lentamente a la posición inicial.",
+    "Repite por el número de repeticiones recomendado."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

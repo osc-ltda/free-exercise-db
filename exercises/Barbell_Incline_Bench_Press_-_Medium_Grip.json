@@ -1,5 +1,6 @@
 {
   "name": "Bench Press (Barbell Incline - Medium Grip)",
+  "nameEs": "Press de banca (Barra Inclinado - Agarre medio)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your chest muscles. Lock your arms in the contracted position, squeeze your chest, hold for a second and then start coming down slowly again. Tip: it should take at least twice as long to go down than to come up.",
     "Repeat the movement for the prescribed amount of repetitions.",
     "When you are done, place the bar back in the rack."
+  ],
+  "instructionsEs": [
+    "Recuéstate en un banco inclinado. Usando un agarre de ancho medio (un agarre que crea un ángulo de 90 grados en la mitad del movimiento entre los antebrazos y la parte superior de los brazos), levanta la barra del soporte y sostenla directamente sobre ti con los brazos bloqueados. Esta será tu posición inicial.",
+    "Mientras exhalas... perdón, mientras inha... as, baja lentamente hasta que sientas la barra en tu pecho superior.",
+    "Después de una pausa de un segundo, regresa la barra a la posición inicial mientras exhalas y empujas la barra usando los músculos de tu pecho. Bloquea tus brazos en la posición contraída, aprieta tu pecho, mantén durante un segundo y luego comienza a bajar lentamente de nuevo. Consejo: debe tomar al menos el doble de tiempo bajar que subir.",
+    "Repite el movimiento por la cantidad prescrita de repeticiones.",
+    "Cuando termines, coloca la barra de vuelta en el soporte."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

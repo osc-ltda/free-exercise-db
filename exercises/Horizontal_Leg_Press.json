@@ -1,5 +1,6 @@
 {
   "name": "Leg Press Horizontal (Machine)",
+  "nameEs": "Press de pierna horizontal (Máquina)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "Release the safeties and take the weight with your legs, knees tracking over your toes.",
     "Bend your knees to bring the platform in until your thighs are close to your torso, without letting your hips roll off the seat.",
     "Press back out until your legs are straight but not locked."
+  ],
+  "instructionsEs": [
+    "Siéntate con la espalda apoyada contra el respaldo y coloca los pies en la plataforma separados aproximadamente a la distancia de las caderas.",
+    "Libera los seguros y recibe el peso con las piernas, asegurándote de que las rodillas sigan la línea de los dedos de los pies.",
+    "Dobla las rodillas para acercar la plataforma hasta que tus muslos estén cerca de tu torso, sin permitir que las caderas se levanten del asiento.",
+    "Empuja hacia afuera hasta que tus piernas estén estiradas pero no bloqueadas."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

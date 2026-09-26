@@ -1,5 +1,6 @@
 {
   "name": "Bench Press (Smith Machine)",
+  "nameEs": "Press de banca (Máquina Smith)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your chest muscles. Lock your arms in the contracted position, hold for a second and then start coming down slowly again. Tip: It should take at least twice as long to go down than to come up.",
     "Repeat the movement for the prescribed amount of repetitions.",
     "When you are done, lock the bar back in the rack."
+  ],
+  "instructionsEs": [
+    "Coloca un banco plano debajo de la máquina Smith. Luego, coloca la barra a una altura que puedas alcanzar al acostarte y con tus brazos casi completamente extendidos. Una vez seleccionado el peso que necesitas, acuéstate en el banco plano. Usando un agarre pronado más ancho que el ancho de los hombros, desbloquea la barra del soporte y sostenla directamente sobre ti con los brazos bloqueados. Esta será tu posición inicial.",
+    "Mientras inspiras, baja lentamente hasta que sientas la barra en la parte media de tu pecho.",
+    "Después de una pausa de un segundo, regresa la barra a la posición inicial mientras exhala y empuja la barra usando los músculos del pecho. Bloquea tus brazos en la posición contraída, mantén durante un segundo y luego comienza a bajar lentamente de nuevo. Consejo: Debería tomar al menos el doble de tiempo bajar que subir.",
+    "Repite el movimiento por la cantidad prescrita de repeticiones.",
+    "Cuando hayas terminado, bloquea la barra nuevamente en el soporte."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

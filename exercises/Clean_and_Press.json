@@ -1,5 +1,6 @@
 {
   "name": "Clean and Press",
+  "nameEs": "Clean and Press",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -27,6 +28,15 @@
     "As the bar hits terminal height, rotate your elbows around and under the bar. Rack the bar across the front of the shoulders while keeping the torso erect and flexing the hips and knees to absorb the weight of the bar.",
     "Stand to full height, holding the bar in the clean position.",
     "Without moving your feet, press the bar overhead as you exhale. Lower the bar under control ."
+  ],
+  "instructionsEs": [
+    "Adopta una postura con separación al ancho de los hombros, con las rodillas por dentro de los brazos. Ahora, manteniendo la espalda plana, flexiona las rodillas y las caderas para poder agarrar la barra con los brazos completamente extendidos y un agarre pronado ligeramente más ancho que el ancho de los hombros. Apunta los codos hacia los lados. La barra debe estar cerca de las espinillas. Posiciona los hombros sobre o ligeramente por delante de la barra. Establece una postura con la espalda plana. Esta será tu posición inicial.",
+    "Comienza a tirar de la barra extendiendo las rodillas. Mueve tus caderas hacia adelante y eleva los hombros al mismo ritmo mientras mantienes constante el ángulo de la espalda; continúa levantando la barra en línea recta manteniéndola cerca de tu cuerpo.",
+    "A medida que la barra pasa la rodilla, extiende los tobillos, rodillas y caderas con fuerza, de manera similar a un movimiento de salto. Al hacerlo, continúa guiando la barra con tus manos, encogiendo los hombros y usando el momento de tu movimiento para tirar de la barra lo más alto posible. La barra debe viajar cerca de tu cuerpo y debes mantener los codos hacia afuera.",
+    "A la elevación máxima, tus pies deben despegar del piso y debes comenzar a meterte debajo de la barra. La mecánica de esto puede cambiar ligeramente dependiendo del peso utilizado. Debes descender a una posición de sentadilla mientras te metes debajo de la barra.",
+    "A medida que la barra alcanza su altura límite, rota tus codos alrededor y por debajo de la barra. Apoya la barra a lo largo de la parte frontal de los hombros mientras mantienes el torso erecto y flexionas caderas y rodillas para absorber el peso de la barra.",
+    "Ponte de pie a altura completa, sosteniendo la barra en la posición de clean.",
+    "Sin mover los pies, haz un press de la barra por encima de la cabeza mientras exhalas. Baja la barra con control."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

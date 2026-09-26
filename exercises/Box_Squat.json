@@ -1,5 +1,6 @@
 {
   "name": "Squat (Box)",
+  "nameEs": "Sentadilla (Box)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,6 +20,12 @@
     "Begin by stepping under the bar and placing it across the back of the shoulders. Squeeze your shoulder blades together and rotate your elbows forward, attempting to bend the bar across your shoulders. Remove the bar from the rack, creating a tight arch in your lower back, and step back into position. Place your feet wider for more emphasis on the back, glutes, adductors, and hamstrings, or closer together for more quad development. Keep your head facing forward.",
     "With your back, shoulders, and core tight, push your knees and butt out and you begin your descent. Sit back with your hips until you are seated on the box. Ideally, your shins should be perpendicular to the ground. Pause when you reach the box, and relax the hip flexors. Never bounce off of a box.",
     "Keeping the weight on your heels and pushing your feet and knees out, drive upward off of the box as you lead the movement with your head. Continue upward, maintaining tightness head to toe."
+  ],
+  "instructionsEs": [
+    "La sentadilla (box) te permite hacer una sentadilla a la profundidad deseada y desarrollar fuerza explosiva en el movimiento de la sentadilla. Empieza en una jaula de potencia con una caja a la altura adecuada detrás de ti. Por lo general, debes apuntar a una altura de caja que te lleve a una sentadilla paralela, pero puedes entrenar más alto o más bajo si lo deseas.",
+    "Comienza colocándote debajo de la barra y apoyándola en la parte posterior de los hombros. Junta los omóplatos y gira los codos hacia adelante, intentando doblar la barra sobre tus hombros. Saca la barra de la estructura, creando un arco tenso en la parte baja de la espalda y da un paso atrás para colocarte en posición. Coloca los pies más separados para dar más énfasis a la espalda, los glúteos, los aductores y los isquiotibiales, o más juntos para un mayor desarrollo de los cuádriceps. Mantén la cabeza hacia adelante.",
+    "Con la espalda, los hombros y el core tensos, empuja las rodillas y los glúteos hacia afuera mientras inicias el descenso. Echa las caderas hacia atrás hasta que te sientes en la caja. Idealmente, tus espinillas deben estar perpendiculares al suelo. Haz una pausa cuando llegues a la caja y relaja los flexores de la cadera. Nunca rebotes en una caja.",
+    "Manteniendo el peso en los talones y empujando los pies y las rodillas hacia afuera, impúlsate hacia arriba desde la caja mientras guías el movimiento con la cabeza. Continúa hacia arriba, manteniendo la tensión de la cabeza a los pies."
   ],
   "category": "powerlifting",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Overhead Stretch",
+  "nameEs": "Estiramiento por encima de la cabeza",
   "force": "static",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,10 @@
   "instructions": [
     "Standing straight up, lace your fingers together and open your palms to the ceiling. Keep your shoulders down as you extend your arms up.",
     "To create a full torso stretch, pull your tailbone down and stabilize your torso as you do this. Stretch the muscles on both the front and the back of the torso."
+  ],
+  "instructionsEs": [
+    "De pie y derecho, entrelaza los dedos y abre las palmas hacia el techo. Mantén los hombros abajo mientras extiendes los brazos hacia arriba.",
+    "Para lograr un estiramiento completo del torso, baja el coxis y estabiliza el torso mientras lo haces. Estira los músculos tanto de la parte delantera como de la trasera del torso."
   ],
   "category": "stretching",
   "trackingType": "time",

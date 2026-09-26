@@ -1,5 +1,6 @@
 {
   "name": "Push-Up (Suspended)",
+  "nameEs": "Flexión de brazos (Suspendida)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Leaning into the straps, take a handle in each hand and move into a push-up plank position. You should be as close to parallel to the ground as you can manage with your arms fully extended, maintaining good posture.",
     "Maintaining a straight, rigid torso, descend slowly by allowing the elbows to flex.",
     "Continue until your elbows break 90 degrees, pausing before you extend to return to the starting position."
+  ],
+  "instructionsEs": [
+    "Ancla tus correas de suspensión de forma segura en la parte superior de un rack u otro objeto.",
+    "Inclinándote hacia las correas, toma un mango en cada mano y colócate en posición de plancha para flexión de brazos. Debes estar lo más cerca posible del paralelo al suelo que puedas con los brazos completamente extendidos, manteniendo una buena postura.",
+    "Manteniendo un torso recto y rígido, desciende lentamente permitiendo que los codos se flexionen.",
+    "Continúa hasta que tus codos superen los 90 grados, haciendo una pausa antes de extender para volver a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

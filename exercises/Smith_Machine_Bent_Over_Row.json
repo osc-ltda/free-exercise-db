@@ -1,5 +1,6 @@
 {
   "name": "Row (Smith Machine Bent Over)",
+  "nameEs": "Remo (Máquina Smith inclinado)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -19,6 +20,14 @@
     "While keeping the torso stationary, lift the barbell as you breathe out, keeping the elbows close to the body and not doing any force with the forearm other than holding the weights. On the top contracted position, squeeze the back muscles and hold for a second.",
     "Slowly lower the weight again to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Ajusta la barra unida a la máquina Smith a una altura que esté aproximadamente a 2 pulgadas por debajo de tus rodillas.",
+    "Flexiona ligeramente las rodillas y lleva tu torso hacia adelante doblándote por la cintura, mientras mantienes la espalda recta hasta que esté casi paralela al suelo. Consejo: Asegúrate de mantener la cabeza en alto.",
+    "Ahora agarra la barra usando un agarre en pronación y desblóquela del soporte de la máquina Smith. Luego déjala colgar directamente frente a ti mientras tus brazos cuelgan extendidos perpendiculares al suelo y a tu torso. Esta es tu posición inicial.",
+    "Mientras mantienes el torso estacionario, levanta la barra mientras exhalas, manteniendo los codos cerca del cuerpo y sin hacer ninguna fuerza con el antebrazo que no sea sostener los pesos. En la posición superior contraída, aprieta los músculos de la espalda y mantén durante un segundo.",
+    "Baja lentamente el peso nuevamente a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

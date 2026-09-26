@@ -1,5 +1,6 @@
 {
   "name": "Hack Squat (Barbell)",
+  "nameEs": "Sentadilla Hack (Barra)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "While keeping your head and eyes up and back straight, squat until your upper thighs are parallel to the floor. Breathe in as you slowly go down.",
     "Pressing mainly with the heel of the foot and squeezing the thighs, go back up as you breathe out.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Párate derecho mientras sostienes una barra detrás de ti con los brazos estirados y los pies separados a la anchura de los hombros. Consejo: un agarre a la anchura de los hombros es mejor con las palms de las manos hacia atrás. Puedes usar muñequeras para este ejercicio para un mejor agarre. Esta será tu posición inicial.",
+    "Mientras mantienes la cabeza y la vista hacia arriba y la espalda recta, haz una sentadilla hasta que tus muslos estén paralelos al suelo. Inhala mientras bajas lentamente.",
+    "Empujando principalmente con el talón del pie y contrayendo los muslos, vuelve a subir mientras exhalas.",
+    "Repite para la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

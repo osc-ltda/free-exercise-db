@@ -1,5 +1,6 @@
 {
   "name": "Side Hop-Sprint",
+  "nameEs": "Salto lateral-Sprint",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,11 @@
     "Stand to the side of a cone or hurdle.",
     "Begin this drill by hopping sideways over the obstacle, rebounding out of your landing to hop back to where you started.",
     "Hop for a prescribed number or repetitions as quickly as possible, and finish this drill by sprinting a short distance upon landing the last hop."
+  ],
+  "instructionsEs": [
+    "Párate al lado de un cono o valla.",
+    "Comienza este ejercicio saltando de lado sobre el obstáculo, rebotando al aterrizar para volver al punto de partida.",
+    "Salta durante un número prescrito de repeticiones lo más rápido posible y finaliza este ejercicio haciendo un sprint a corta distancia al aterrizar el último salto."
   ],
   "category": "plyometrics",
   "trackingType": "time",

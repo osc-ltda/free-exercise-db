@@ -1,5 +1,6 @@
 {
   "name": "Squat (Kneeling)",
+  "nameEs": "Sentadilla (De rodillas)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,6 +17,11 @@
     "Set the bar to the proper height in a power rack. Kneel behind the bar; it may be beneficial to put a mat down to pad your knees. Slide under the bar, racking it across the back of your shoulders. Your shoulder blades should be retracted and the bar tight across your back. Unrack the weight.",
     "With your head looking forward, sit back with your butt until you touch your calves.",
     "Reverse the motion, returning the torso to an upright position."
+  ],
+  "instructionsEs": [
+    "Ajusta la barra a la altura adecuada en una jaula de potencia. Arrodíllate detrás de la barra; puede ser útil colocar una esterilla para acolchar tus rodillas. Deslízate bajo la barra, apoyándola en la parte posterior de tus hombros. Tus omóplatos deben estar retraídos y la barra firme sobre tu espalda. Desengancha el peso.",
+    "Con la cabeza mirando hacia adelante, lleva los glúteos hacia atrás hasta tocar tus pantorrillas.",
+    "Invierte el movimiento y regresa el torso a la posición vertical."
   ],
   "category": "powerlifting",
   "trackingType": "weight_reps",

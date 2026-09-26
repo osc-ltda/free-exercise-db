@@ -1,5 +1,6 @@
 {
   "name": "Wrist Rotations with Straight Bar",
+  "nameEs": "Rotaciones de muñeca con barra recta",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -12,6 +13,11 @@
     "Hold a barbell with both hands and your palms facing down; hands spaced about shoulder width. This will be your starting position.",
     "Alternating between each of your hands, perform the movement by extending the wrist as though you were rolling up a newspaper. Continue alternating back and forth until failure.",
     "Reverse the motion by flexing the wrist, rolling the opposite direction. Continue the alternating motion until failure."
+  ],
+  "instructionsEs": [
+    "Sostén una barra con ambas manos y las palmas hacia abajo; las manos separadas aproximadamente a la distancia de los hombros. Esta será tu posición inicial.",
+    "Alternando entre cada una de tus manos, realiza el movimiento extendiendo la muñeca como si estuvieras enrollando un periódico. Continúa alternando de un lado a otro hasta el fallo.",
+    "Invierte el movimiento flexionando la muñeca y enrollando en la dirección opuesta. Continúa el movimiento alternado hasta el fallo."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Reverse Hyperextension",
+  "nameEs": "Hiperextensión inversa",
   "force": "pull",
   "level": "intermediate",
   "mechanic": null,
@@ -17,6 +18,13 @@
     "Reverse the motion by extending the hips, kicking the leg back. It is very important not to over-extend the hip on this movement, stopping short of your full range of motion.",
     "Return by again flexing the hip, pulling the carriage forward as far as you can.",
     "Repeat for the desired number of repetitions."
+  ],
+  "instructionsEs": [
+    "Coloca tus pies entre las almohadillas después de cargar un peso adecuado. Acuéstate en la almohadilla superior, permitiendo que tus caderas cuelguen del borde trasero, mientras agarras las manijas para mantener tu posición.",
+    "Para comenzar el movimiento, flexiona las caderas, tirando de las piernas hacia adelante.",
+    "Revierte el movimiento extendiendo las caderas, pateando la pierna hacia atrás. Es muy importante no sobreextender la cadera en este movimiento, deteniéndote antes de alcanzar tu rango de movimiento completo.",
+    "Regresa flexionando nuevamente la cadera, tirando del carro hacia adelante tanto como puedas.",
+    "Repite por el número deseado de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

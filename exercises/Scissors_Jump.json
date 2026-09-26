@@ -1,5 +1,6 @@
 {
   "name": "Scissors Jump",
+  "nameEs": "Salto en tijera",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Ensure that the front knee is over the midline of the foot. Extending through both legs, jump as high as possible, swinging your arms to gain lift.",
     "As you jump as high as you can, switch the position of your legs, moving your front leg to the back and the rear leg to the front.",
     "As you land, absorb the impact through the legs by adopting the lunge position, and repeat."
+  ],
+  "instructionsEs": [
+    "Adopta una posición de zancada con un pie hacia adelante con la rodilla flexionada y la rodilla trasera casi tocando el suelo.",
+    "Asegúrate de que la rodilla delantera esté sobre la línea media del pie. Extiende ambas piernas y salta lo más alto posible, balanceando los brazos para ganar impulso.",
+    "Mientras saltas lo más alto que puedas, cambia la posición de tus piernas, moviendo la pierna delantera hacia atrás y la pierna trasera hacia adelante.",
+    "Al aterrizar, absorbe el impacto a través de las piernas adoptando la posición de zancada y repite."
   ],
   "category": "plyometrics",
   "trackingType": "bodyweight_reps",

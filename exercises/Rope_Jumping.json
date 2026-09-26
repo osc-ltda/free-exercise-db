@@ -1,5 +1,6 @@
 {
   "name": "Rope Jumping",
+  "nameEs": "Salto con cuerda",
   "force": null,
   "level": "intermediate",
   "mechanic": null,
@@ -14,6 +15,10 @@
   "instructions": [
     "Hold an end of the rope in each hand. Position the rope behind you on the ground. Raise your arms up and turn the rope over your head bringing it down in front of you. When it reaches the ground, jump over it. Find a good turning pace that can be maintained. Different speeds and techniques can be used to introduce variation.",
     "Rope jumping is exciting, challenges your coordination, and requires a lot of energy. A 150 lb person will burn about 350 calories jumping rope for 30 minutes, compared to over 450 calories running."
+  ],
+  "instructionsEs": [
+    "Sostén un extremo de la cuerda en cada mano. Coloca la cuerda detrás de ti en el suelo. Eleva tus brazos y gira la cuerda por encima de tu cabeza bajándola frente a ti. Cuando llegue al suelo, salta por encima de ella. Encuentra un buen ritmo de giro que puedas mantener. Se pueden usar diferentes velocidades y técnicas para introducir variación.",
+    "Saltar la cuerda es emocionante, desafía tu coordinación y requiere mucha energía. Una persona de 150 lb quemará unas 350 calorías saltando la cuerda durante 30 minutos, en comparación con más de 450 calorías corriendo."
   ],
   "category": "cardio",
   "trackingType": "time",

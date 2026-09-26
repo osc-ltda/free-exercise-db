@@ -1,5 +1,6 @@
 {
   "name": "Shoulder Press (Barbell)",
+  "nameEs": "Press de hombros (Barra)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "Lower the bar down to the shoulders slowly as you inhale.",
     "Lift the bar back up to the starting position as you exhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Siéntate en un banco con respaldo en un soporte para sentadillas. Coloca una barra a una altura justo por encima de tu cabeza. Agarra la barra con un agarre pronado (con las palmas hacia adelante).",
+    "Una vez que recojas la barra con el ancho de agarre correcto, levántala por encima de tu cabeza extendiendo los brazos. Sosténla a la altura de los hombros y ligeramente frente a tu cabeza. Esta es tu posición inicial.",
+    "Baja la barra lentamente hacia los hombros mientras inhalas.",
+    "Vuelve a levantar la barra hasta la posición inicial mientras exhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

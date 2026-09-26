@@ -1,5 +1,6 @@
 {
   "name": "Iron Cross",
+  "nameEs": "Cruz de hierro",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,6 +17,7 @@
     "traps"
   ],
   "instructions": [],
+  "instructionsEs": [],
   "category": "strength",
   "trackingType": "weight_reps",
   "images": [

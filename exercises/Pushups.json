@@ -1,5 +1,6 @@
 {
   "name": "Pushups",
+  "nameEs": "Flexión de brazos",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Next, lower yourself downward until your chest almost touches the floor as you inhale.",
     "Now breathe out and press your upper body back up to the starting position while squeezing your chest.",
     "After a brief pause at the top contracted position, you can begin to lower yourself downward again for as many repetitions as needed."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca abajo en el piso y coloca tus manos a unos 90 cm de distancia mientras mantienes tu torso elevado con los brazos estirados.",
+    "Luego, baja tu cuerpo hasta que tu pecho casi toque el piso mientras inhalas.",
+    "Ahora exhala y empuja la parte superior de tu cuerpo de regreso a la posición inicial mientras contraes tu pecho.",
+    "Después de una breve pausa en la posición contraída superior, puedes comenzar a bajar tu cuerpo nuevamente para tantas repeticiones como necesites."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

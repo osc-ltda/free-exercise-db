@@ -1,5 +1,6 @@
 {
   "name": "Row (One-Arm Kettlebell)",
+  "nameEs": "Remo (Pesa rusa de un brazo)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,6 +14,9 @@
   ],
   "instructions": [
     "Place a kettlebell in front of your feet. Bend your knees slightly and then push your butt out as much as possible as you bend over to get in the starting position. Grab the kettlebell and pull it to your stomach, retracting your shoulder blade and flexing the elbow. Keep your back straight. Lower and repeat."
+  ],
+  "instructionsEs": [
+    "Coloca una pesa rusa frente a tus pies. Dobla ligeramente las rodillas y luego empuja los glúteos hacia atrás tanto como puedas al inclinarte para adoptar la posición inicial. Toma la pesa rusa y llévala hacia tu estómago, retrayendo tu omóplato y flexionando el codo. Mantén tu espalda recta. Baja y repite."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

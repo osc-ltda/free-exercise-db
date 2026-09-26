@@ -1,5 +1,6 @@
 {
   "name": "Deadlift (Stiff-Legged Dumbbell)",
+  "nameEs": "Peso muerto (Mancuerna con piernas rígidas)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "Keeping the knees stationary, lower the dumbbells to over the top of your feet by bending at the waist while keeping your back straight. Keep moving forward as if you were going to pick something from the floor until you feel a stretch on the hamstrings. Exhale as you perform this movement",
     "Start bringing your torso up straight again by extending your hips and waist until you are back at the starting position. Inhale as you perform this movement.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Agarra un par de mancuernas sosteniéndolas a los lados con los brazos estirados.",
+    "Párate con el torso derecho y las piernas separadas a la distancia de los hombros o una postura más estrecha. Las rodillas deben estar ligeramente dobladas. Esta es tu posición inicial.",
+    "Manteniendo las rodillas estáticas, baja las mancuernas por encima de la parte superior de los pies doblando la cintura mientras mantienes la espalda recta. Sigue moviéndote hacia adelante como si fueras a recoger algo del piso hasta que sientas un estiramiento en los isquiotibiales. Exhala mientras realizas este movimiento.",
+    "Comienza a enderezar el torso nuevamente extendiendo las caderas y la cintura hasta regresar a la posición inicial. Inhala mientras realizas este movimiento.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

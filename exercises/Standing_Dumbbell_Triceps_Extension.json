@@ -1,5 +1,6 @@
 {
   "name": "Triceps Extension (Standing Dumbbell)",
+  "nameEs": "Extensión de tríceps (Mancuerna de pie)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Keeping your upper arms close to your head with elbows in and perpendicular to the floor, lower the resistance in a semicircular motion behind your head until your forearms touch your biceps. Tip: The upper arms should remain stationary and only the forearms should move. Breathe in as you perform this step.",
     "Go back to the starting position by using the triceps to raise the dumbbell. Breathe out as you perform this step.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Para empezar, ponte de pie con una mancuerna sostenida por ambas manos. Tus pies deben estar separados aproximadamente a la distancia de los hombros. Usa lentamente ambas manos para agarrar la mancuerna y levantarla por encima de tu cabeza hasta que ambos brazos estén completamente extendidos.",
+    "La resistencia debe descansar en las palmas de tus manos con tus pulgares rodeándola. La palma de las manos debe apuntar hacia arriba, hacia el techo. Esta será tu posición inicial.",
+    "Manteniendo tus brazos cerca de tu cabeza con los codos hacia adentro y perpendiculares al piso, baja la resistencia en un movimiento semicircular detrás de tu cabeza hasta que tus antebrazos toquen tus bíceps. Consejo: Los brazos deben permanecer estacionarios y solo los antebrazos deben moverse. Inhala mientras realizas este paso.",
+    "Regresa a la posición inicial usando los tríceps para elevar la mancuerna. Exhala mientras realizas este paso.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

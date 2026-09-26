@@ -1,5 +1,6 @@
 {
   "name": "Row (Lying Cambered Barbell)",
+  "nameEs": "Remo (Barra angulada acostado)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -17,6 +18,12 @@
     "Lie face down on the exercise bench and grab the bar using a palms down (pronated grip) that is wider than shoulder width. This will be your starting position.",
     "As you exhale row the bar up as you keep the elbows close to your body to either your chest, in order to target the upper mid back, or to your stomach if targeting the lats is your goal.",
     "After a second hold at the top, lower back down to the starting position slowly as you inhale."
+  ],
+  "instructionsEs": [
+    "Coloca una barra angulada debajo de un banco de ejercicio.",
+    "Acuéstate boca abajo en el banco de ejercicio y agarra la barra usando un agarre en pronación (palmas hacia abajo) que sea más ancho que el ancho de los hombros. Esta será tu posición inicial.",
+    "Mientras exhalas, haz un remo de la barra hacia arriba manteniendo los codos cerca del cuerpo, ya sea hacia tu pecho para enfocar la parte superior media de la espalda, o hacia tu estómago si tu objetivo son los dorsales.",
+    "Después de mantener un segundo arriba, baja lentamente a la posición inicial mientras inhalas."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

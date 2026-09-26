@@ -1,5 +1,6 @@
 {
   "name": "Shoulder Press (Dumbbell)",
+  "nameEs": "Press de hombro (Mancuerna)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,14 @@
     "Now, exhale and push the dumbbells upward until they touch at the top.",
     "Then, after a brief pause at the top contracted position, slowly lower the weights back down to the starting position while inhaling.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Mientras sostienes una mancuerna en cada mano, siéntate en un banco para press militar o un banco multiusos que tenga soporte para la espalda. Coloca las mancuernas en posición vertical encima de tus muslos.",
+    "Ahora eleva las mancuernas a la altura de los hombros una a la vez usando tus muslos para ayudar a impulsarlas hasta su posición.",
+    "Asegúrate de rotar tus muñecas para que las palmas de tus manos estén orientadas hacia adelante. Esta es tu posición inicial.",
+    "Ahora, exhala y empuja las mancuernas hacia arriba hasta que se toquen en la parte superior.",
+    "Luego, después de una breve pausa en la posición contraída superior, baja lentamente los pesos de regreso a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

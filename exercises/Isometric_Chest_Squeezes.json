@@ -1,5 +1,6 @@
 {
   "name": "Isometric Chest Squeezes",
+  "nameEs": "Isometric Chest Squeezes",
   "force": "static",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "Hold for the recommended number of seconds.",
     "Now release the tension slowly.",
     "Rest for the recommended amount of time and repeat."
+  ],
+  "instructionsEs": [
+    "Ya sea sentado o de pie, dobla tus brazos en un ángulo de 90 grados y junta las palmas de las manos frente a tu pecho. Consejo: Tus manos deben estar abiertas con las palmas juntas y los dedos hacia adelante (perpendiculares a tu torso).",
+    "Empuja ambas manos una contra la otra mientras contraes tu pecho. Comienza con una tensión lenta y aumenta despacio. Sigue respirando normalmente mientras ejecutas esta contracción.",
+    "Mantén durante el número recomendado de segundos.",
+    "Ahora libera la tensión lentamente.",
+    "Descansa durante el tiempo recomendado y repite."
   ],
   "category": "plyometrics",
   "trackingType": "time",

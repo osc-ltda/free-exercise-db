@@ -1,5 +1,6 @@
 {
   "name": "Calf Stretch Hands Against Wall",
+  "nameEs": "Estiramiento de pantorrilla con manos contra la pared",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -12,6 +13,11 @@
     "Stand facing a wall from several feet away. Stagger your stance, placing one foot forward.",
     "Lean forward and rest your hands on the wall, keeping your heel, hip and head in a straight line.",
     "Attempt to keep your heel on the ground. Hold for 10-20 seconds and then switch sides."
+  ],
+  "instructionsEs": [
+    "Párate frente a una pared a varios pies de distancia. Alterna tu postura colocando un pie hacia adelante.",
+    "Inclínate hacia adelante y apoya las manos en la pared, manteniendo el talón, la cadera y la cabeza en línea recta.",
+    "Intenta mantener el talón en el suelo. Mantén la posición durante 10-20 segundos y luego cambia de lado."
   ],
   "category": "stretching",
   "trackingType": "time",

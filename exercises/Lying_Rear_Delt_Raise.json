@@ -1,5 +1,6 @@
 {
   "name": "Rear Delt Raise (Lying)",
+  "nameEs": "Elevación de deltoides posterior (acostado)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Now raise the arms to the side until your elbows are at shoulder height and your arms are roughly parallel to the floor as you exhale. Tip: Maintain your arms perpendicular to the torso while keeping them extended throughout the movement. Also, keep the contraction at the top for a second.",
     "Slowly lower the dumbbells to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions and then switch to the other arm."
+  ],
+  "instructionsEs": [
+    "Mientras sostienes una mancuerna en cada mano, acuéstate con el pecho hacia abajo en un banco plano.",
+    "Coloca las palmas de las manos de manera neutral (palmas mirando hacia tu torso) mientras mantienes los brazos extendidos con los codos ligeramente flexionados. Esta será tu posición inicial.",
+    "Ahora eleva los brazos hacia los lados hasta que tus codos estén a la altura de los hombros y tus brazos estén aproximadamente paralelos al suelo mientras exhalas. Consejo: Mantén tus brazos perpendiculares al torso mientras los mantienes extendidos durante todo el movimiento. Además, mantén la contracción en la parte superior durante un segundo.",
+    "Baja lentamente las mancuernas a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones y luego cambia al otro brazo."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

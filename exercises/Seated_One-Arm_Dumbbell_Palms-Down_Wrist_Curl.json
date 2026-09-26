@@ -1,5 +1,6 @@
 {
   "name": "Wrist Curl (Seated One-Arm Dumbbell Palms-Down)",
+  "nameEs": "Curl de muñeca con mancuerna a un brazo sentado (con palmas hacia abajo)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Lower the dumbbell as far as possible as you keep a tight grip on the dumbbell. Inhale as you perform this movement.",
     "Now curl the dumbbell as high as possible as you contract the forearms and as you exhale. Keep the contraction for a second before you lower again. Tip: The only movement should happen at the wrist.",
     "Perform for the recommended amount of repetitions, switch arms and repeat the movement."
+  ],
+  "instructionsEs": [
+    "Siéntate en un banco plano con una mancuerna en la mano derecha.",
+    "Coloca los pies planos en el suelo, a una distancia ligeramente mayor que el ancho de los hombros.",
+    "Incliínate hacia adelante y coloca tu antebrazo derecho encima de tu muslo derecho superior con la palma hacia abajo. Consejo: Asegúrate de que la parte posterior de la muñeca descanse sobre tus rodillas. Esta será tu posición inicial.",
+    "Baja la mancuerna tanto como sea posible mientras mantienes un agarre firme en la mancuerna. Inhala mientras realizas este movimiento.",
+    "Ahora haz un curl con la mancuerna lo más alto posible mientras contraes los antebrazos y exhalas. Mantén la contracción por un segundo antes de volver a bajar. Consejo: El único movimiento debe ocurrir en la muñeca.",
+    "Realiza la cantidad recomendada de repeticiones, cambia de brazo y repite el movimiento."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

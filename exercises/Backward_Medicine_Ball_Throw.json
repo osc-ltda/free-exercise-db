@@ -1,5 +1,6 @@
 {
   "name": "Throw (Backward Medicine Ball)",
+  "nameEs": "Lanzamiento (Balón medicinal hacia atrás)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,6 +14,12 @@
     "Begin standing a few meters in front of your partner, both facing the same direction. Begin holding the ball between your legs.",
     "Squat down and then forcefully reverse direction, coming to full extension and you toss the ball over your head to your partner.",
     "Your partner can then roll the ball back to you. Repeat for the desired number of repetitions."
+  ],
+  "instructionsEs": [
+    "Este ejercicio se realiza mejor con un compañero. Si no tienes compañero, puedes lanzar y recuperar el balón o lanzarlo contra una pared.",
+    "Comienza de pie unos metros delante de tu compañero, ambos mirando en la misma dirección. Empieza sosteniendo el balón entre tus piernas.",
+    "Haz una sentadilla y luego invierte la dirección con fuerza, llegando a la extensión completa mientras lanzas el balón por encima de tu cabeza hacia tu compañero.",
+    "Tu compañero puede luego hacer rodar el balón de vuelta hacia ti. Repite por el número deseado de repeticiones."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

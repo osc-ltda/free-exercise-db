@@ -1,5 +1,6 @@
 {
   "name": "Cable Judo Flip",
+  "nameEs": "Judo flip en polea",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -14,6 +15,13 @@
     "Shift your weight between your feet as you twist and crunch forward, pulling the cable downward.",
     "Return to the starting position and repeat until failure.",
     "Then, reposition and repeat the same series of movements on the opposite side."
+  ],
+  "instructionsEs": [
+    "Conecta un accesorio de cuerda a una torre y mueve el cable a la posición de polea más baja. Párate de lado respecto al cable con una postura amplia y sujeta la cuerda con ambas manos.",
+    "Gira tu cuerpo alejándote de la polea mientras pasas la cuerda por encima de tu hombro como si estuvieras realizando una proyección de judo.",
+    "Cambia tu peso entre tus pies mientras giras y haces un abdominal hacia adelante, tirando del cable hacia abajo.",
+    "Regresa a la posición inicial y repite hasta el fallo.",
+    "Luego, reposiciónate y repite la misma serie de movimientos en el lado opuesto."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

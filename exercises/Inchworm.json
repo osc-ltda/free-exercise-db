@@ -1,5 +1,6 @@
 {
   "name": "Inchworm",
+  "nameEs": "Gusano (Inchworm)",
   "force": null,
   "level": "beginner",
   "mechanic": "compound",
@@ -14,6 +15,13 @@
     "Keep going until your body is parallel to the ground in a pushup position.",
     "Now, keep your hands in place and slowly take short steps with your feet, moving only a few inches at a time.",
     "Continue walking until your feet are by hour hands, keeping your legs straight as you do so."
+  ],
+  "instructionsEs": [
+    "Párate con los pies juntos. Manteniendo las piernas rectas, estírate hacia abajo y coloca las manos en el suelo directamente en frente de ti. Esta será tu posición inicial.",
+    "Comienza caminando con las manos hacia adelante lentamente, alternando la izquierda y la derecha. Al hacerlo, dóblate únicamente por la cadera, manteniendo las piernas rectas.",
+    "Continúa hasta que tu cuerpo esté paralelo al suelo en una posición de flexión de brazos.",
+    "Ahora, mantén las manos en su lugar y da lentamente pasos cortos con los pies, moviéndote solo unos centímetros a la vez.",
+    "Continúa caminando hasta que tus pies estén junto a tus manos, manteniendo las piernas rectas al hacerlo."
   ],
   "category": "stretching",
   "trackingType": "time",

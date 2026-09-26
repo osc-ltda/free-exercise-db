@@ -1,5 +1,6 @@
 {
   "name": "Press (Pin)",
+  "nameEs": "Press con pines (Barra)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -21,6 +22,14 @@
     "You can take a standard bench grip, or shoulder width to focus on the triceps. The bar, wrist, and elbow should stay in line at all times. Focus on squeezing the bar and trying to pull it apart.",
     "Drive the bar up with as much force as possible. The elbows should be tucked in until lockout.",
     "Return the bar to the pins, pausing before beginning the next repetition."
+  ],
+  "instructionsEs": [
+    "Los press con pines eliminan la fase excéntrica del press de banca, desarrollando la fuerza inicial. También te permiten entrenar un rango de movimiento deseado.",
+    "El banco debe colocarse en un rack de potencia. Ajusta los pines en el punto deseado de tu rango de movimiento, ya sea justo en el bloqueo o a una pulgada de tu pecho. La barra debe colocarse en los pines y prepararse para el levantamiento.",
+    "Comienza acostándote en el banco, con la barra directamente encima del punto de contacto durante tu press de banca regular. Coloca tus pies debajo de ti y arquea tu espalda. Usando la barra para ayudar a sostener tu peso, levanta tus hombros del banco y retráelos, juntando los omóplatos. Usa tus pies para empujar tus trapecios contra el banco. Mantén esta posición corporal tensa durante todo el movimiento.",
+    "Puedes tomar un agarre de banca estándar o al ancho de los hombros para concentrarte en los tríceps. La barra, la muñeca y el codo deben mantenerse en línea en todo momento. Concéntrate en apretar la barra e intentar separarla.",
+    "Empuja la barra hacia arriba con la mayor fuerza posible. Los codos deben mantenerse cerca del cuerpo hasta el bloqueo.",
+    "Regresa la barra a los pines, haciendo una pausa antes de comenzar la siguiente repetición."
   ],
   "category": "powerlifting",
   "trackingType": "weight_reps",

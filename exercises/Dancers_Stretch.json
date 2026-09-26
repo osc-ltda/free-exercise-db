@@ -1,5 +1,6 @@
 {
   "name": "Dancer's Stretch",
+  "nameEs": "Estiramiento de bailarín",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -16,6 +17,12 @@
     "Cross your right leg over your left, keeping the knee bent. Your left leg is straight and down on the floor.",
     "Place your left arm on your right leg and your right hand on the floor.",
     "Rotate your upper body to the right, and hold for 10-20 seconds. Switch sides."
+  ],
+  "instructionsEs": [
+    "Siéntate en el suelo.",
+    "Cruza la pierna derecha sobre la izquierda, manteniendo la rodilla doblada. Tu pierna izquierda está estirada y apoyada en el suelo.",
+    "Coloca el brazo izquierdo sobre la pierna derecha y la mano derecha en el suelo.",
+    "Rota la parte superior del cuerpo hacia la derecha y mantén la posición durante 10-20 segundos. Cambia de lado."
   ],
   "category": "stretching",
   "trackingType": "time",

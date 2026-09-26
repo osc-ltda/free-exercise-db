@@ -1,5 +1,6 @@
 {
   "name": "Press (Double Kettlebell Push)",
+  "nameEs": "Press con impulso (Doble pesa rusa)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,6 +17,11 @@
     "Clean two kettlebells to your shoulders.",
     "Squat down a few inches and reverse the motion rapidly. Use the momentum from the legs to drive the kettlebells overhead.",
     "Once the kettlebells are locked out, lower the kettlebells to your shoulders and repeat."
+  ],
+  "instructionsEs": [
+    "Haz un clean con dos pesas rusas hacia tus hombros.",
+    "Realiza una sentadilla corta de unos centímetros e invierte el movimiento rápidamente. Usa la inercia de las piernas para impulsar las pesas rusas por encima de la cabeza.",
+    "Una vez que las pesas rusas estén bloqueadas arriba, bájalas hacia tus hombros y repite."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

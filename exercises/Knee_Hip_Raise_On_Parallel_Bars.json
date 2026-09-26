@@ -1,5 +1,6 @@
 {
   "name": "Knee/Hip Raise (On Parallel Bars)",
+  "nameEs": "Knee/Hip Raise (On Parallel Bars)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Now as you breathe out, lift your legs up as you keep them extended. Continue this movement until your legs are roughly parallel to the floor and then hold the contraction for a second. Tip: Do not use any momentum or swinging as you perform this exercise.",
     "Slowly go back to the starting position as you breathe in.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Coloca tu cuerpo en el banco de elevación vertical de piernas de modo que tus antebrazos reposen en las almohadillas junto al torso y sujetando las manijas. Tus brazos estarán doblados en un ángulo de 90 grados.",
+    "El torso debe estar derecho con la zona baja de la espalda presionada contra la almohadilla de la máquina y las piernas extendidas apuntando hacia el suelo. Esta será tu posición inicial.",
+    "Ahora, al exhalar, eleva las piernas manteniéndolas extendidas. Continúa este movimiento hasta que tus piernas estén aproximadamente paralelas al suelo y luego mantén la contracción durante un segundo. Consejo: No uses impulso ni balanceo al realizar este ejercicio.",
+    "Regresa lentamente a la posición inicial mientras inhalas.",
+    "Repite por la cantidad de repeticiones recomendada."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

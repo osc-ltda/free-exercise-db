@@ -1,5 +1,6 @@
 {
   "name": "Single-Leg Hop Progression",
+  "nameEs": "Progresión de salto a una pierna",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,6 +19,12 @@
     "Hop forward, jumping and landing with the same leg over the cone.",
     "Use a countermovement jump to hop from cone to cone.",
     "At the end, turn around and go back on the other leg."
+  ],
+  "instructionsEs": [
+    "Organiza una línea de conos frente a ti. Adopta una posición de pie relajada, equilibrada sobre una pierna. Eleva la rodilla de la pierna opuesta. Esta será tu posición inicial.",
+    "Salta hacia adelante, despegando y aterrizando con la misma pierna por encima del cono.",
+    "Usa un salto con contramovimiento para saltar de cono en cono.",
+    "Al final, date la vuelta y regresa usando la otra pierna."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

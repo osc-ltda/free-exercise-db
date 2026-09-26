@@ -1,5 +1,6 @@
 {
   "name": "Triceps Extension (One Arm Pronated Dumbbell)",
+  "nameEs": "Extensión de tríceps (Mancuerna a un brazo con agarre pronado)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Then, begin lifting the dumbbell upward as you contract the triceps. Remember to breathe out during the concentric (lifting part of the exercise).",
     "Repeat until you have performed your set repetitions.",
     "Switch arms and repeat the movement."
+  ],
+  "instructionsEs": [
+    "Acuéstate de forma plana en un banco mientras sostienes una mancuerna con el brazo extendido. Tu brazo debe estar perpendicular a tu cuerpo. La palma de tu mano debe mirar hacia tus pies, ya que se requiere un agarre pronado para realizar este ejercicio.",
+    "Coloca tu mano que no levanta peso sobre tu bíceps para soporte.",
+    "Comienza lentamente a bajar la mancuerna mientras inspiras.",
+    "Luego, comienza a levantar la mancuerna hacia arriba mientras contraes el tríceps. Recuerda exhalar durante la fase concéntrica (la parte de elevación del ejercicio).",
+    "Repite hasta que hayas realizado tus repeticiones establecidas.",
+    "Cambia de brazo y repite el movimiento."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

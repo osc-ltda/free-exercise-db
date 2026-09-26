@@ -1,5 +1,6 @@
 {
   "name": "Pulldown (V-Bar)",
+  "nameEs": "Jalón (Barra V)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,6 +20,14 @@
     "Using your lats, pull the bar down as you squeeze your shoulder blades. Continue until your chest nearly touches the V-bar. Exhale as you execute this motion. Tip: Keep the torso stationary throughout the movement.",
     "After a second hold on the contracted position, slowly bring the bar back to the starting position as you breathe in.",
     "Repeat for the prescribed number of repetitions."
+  ],
+  "instructionsEs": [
+    "Siéntate en una máquina de polea con una barra en V sujeta a la polea superior.",
+    "Ajusta el soporte para las rodillas de la máquina a tu altura. Estos soportes evitarán que tu cuerpo se eleve por la resistencia unida a la barra.",
+    "Agarra la barra en V con las palmas enfrentadas (un agarre neutro). Saca el pecho y echa el cuerpo ligeramente hacia atrás (alrededor de 30 grados) para involucrar mejor los dorsales. Esta será tu posición inicial.",
+    "Usando tus dorsales, baja la barra mientras contraes tus omóplatos. Continúa hasta que tu pecho casi toque la barra en V. Exhala mientras realizas este movimiento. Consejo: Mantén el torso estático durante todo el movimiento.",
+    "Después de mantener un segundo la posición de contracción, lleva lentamente la barra de regreso a la posición inicial mientras inspiras.",
+    "Repite para el número de repeticiones prescrito."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

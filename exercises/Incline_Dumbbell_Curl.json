@@ -1,5 +1,6 @@
 {
   "name": "Curl (Incline Dumbbell)",
+  "nameEs": "Curl (Inclinado Mancuerna)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "While holding the upper arm stationary, curl the weights forward while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second.",
     "Slowly begin to bring the dumbbells back to starting position as your breathe in.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Siéntate en un banco inclinado con una mancuerna en cada mano sostenida con los brazos extendidos. Mantén tus codos cerca de tu torso y rota las palmas de tus manos hasta que estén orientadas hacia adelante. Esta será tu posición inicial.",
+    "Mientras mantienes la parte superior del brazo estática, haz un curl con los pesos hacia adelante mientras contraes los bíceps al exhalar. Solo los antebrazos deben moverse. Continúa el movimiento hasta que tus bíceps estén completamente contraídos y las mancuernas estén a la altura de los hombros. Mantén la posición contraída durante un segundo.",
+    "Comienza a llevar lentamente las mancuernas de regreso a la posición inicial mientras inhalas.",
+    "Repite para la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

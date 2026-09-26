@@ -1,5 +1,6 @@
 {
   "name": "Pull (Face)",
+  "nameEs": "Remo al rostro (Face Pull)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,6 +13,9 @@
   ],
   "instructions": [
     "Facing a high pulley with a rope or dual handles attached, pull the weight directly towards your face, separating your hands as you do so. Keep your upper arms parallel to the ground."
+  ],
+  "instructionsEs": [
+    "De frente a una polea alta con una cuerda o dos manijas acopladas, tira del peso directamente hacia tu rostro, separando tus manos mientras lo haces. Mantén la parte superior de tus brazos paralela al suelo."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

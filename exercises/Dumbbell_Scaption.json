@@ -1,5 +1,6 @@
 {
   "name": "Dumbbell Scaption",
+  "nameEs": "Scaption con mancuernas",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,11 @@
     "This corrective exercise strengthens the muscles that stabilize your shoulder blade. Hold a light weight in each hand, hanging at your sides. Your thumbs should pointing up.",
     "Begin the movement raising your arms out in front of you, about 30 degrees off center. Your arms should be fully extended as you perform the movement.",
     "Continue until your arms are parallel to the ground, and then return to the starting position."
+  ],
+  "instructionsEs": [
+    "Este ejercicio correctivo fortalece los músculos que estabilizan tu omóplato. Sostén un peso ligero en cada mano, colgando a los lados. Tus pulgares deben apuntar hacia arriba.",
+    "Comienza el movimiento elevando tus brazos frente a ti, a unos 30 grados fuera del centro. Tus brazos deben estar completamente extendidos mientras realizas el movimiento.",
+    "Continúa hasta que tus brazos estén paralelos al suelo y luego regresa a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

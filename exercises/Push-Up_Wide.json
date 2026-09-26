@@ -1,5 +1,6 @@
 {
   "name": "Push-Up (Wide)",
+  "nameEs": "Flexión de brazos (Ancha)",
   "force": null,
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "To begin, allow the elbows to flex, lowering your chest to the floor as you inhale.",
     "Using your pectoral muscles, press your upper body back up to the starting position by extending the elbows. Exhale as you perform this step.",
     "After pausing at the contracted position, repeat the movement for the prescribed amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Con las manos muy separadas, apoya tu cuerpo sobre las puntas de tus pies y tus manos en una posición de plancha. Tus rodillas no, tus codos deben estar extendidos y tu cuerpo recto. No permitas que tus caderas caigan. Esta será tu posición inicial.",
+    "Para comenzar, permite que los codos se flexionen, bajando tu pecho hacia el suelo mientras inhalas.",
+    "Usando tus músculos pectorales, empuja la parte superior de tu cuerpo de regreso a la posición inicial extendiendo los codos. Exhala mientras realizas este paso.",
+    "Después de hacer una pausa en la posición contraída, repite el movimiento por la cantidad de repeticiones prescrita."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

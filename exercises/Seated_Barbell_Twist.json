@@ -1,5 +1,6 @@
 {
   "name": "Twist (Seated Barbell)",
+  "nameEs": "Giro (Sentado con barra)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "While keeping your feet and head stationary, move your waist from side to side so that your oblique muscles feel the contraction. Only move from side to side as far as your waist will allow you to go. Stretching or moving too far can cause an injury to occur. Tip: Use a slow and controlled motion.",
     "Remember to breathe out while twisting your body to the side and in when moving back to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Comienza sentándote en el extremo de un banco plano con una barra colocada sobre tus muslos. Tus pies deben estar separados al ancho de los hombros.",
+    "Agarra la barra con las palmas hacia abajo y asegúrate de que tus manos estén más separadas que el ancho de los hombros. Comienza a levantar la barra por encima de tu cabeza hasta que tus brazos estén completamente extendidos.",
+    "Ahora baja la barra detrás de tu cabeza hasta que descanse a lo largo de la base de tu cuello. Esta es la posición inicial.",
+    "Manteniendo tus pies y cabeza estáticos, mueve tu cintura de un lado a otro para que tus músculos oblicuos sientan la contracción. Mévete de lado a lado solo hasta donde tu cintura te lo permita. Estirarse o moverse demasiado puede causar una lesión. Consejo: Utiliza un movimiento lento y controlado.",
+    "Recuerda exhalar mientras giras tu cuerpo hacia un lado e inhalar al regresar a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

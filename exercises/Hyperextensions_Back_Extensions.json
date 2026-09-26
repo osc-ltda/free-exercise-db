@@ -1,5 +1,6 @@
 {
   "name": "Back Extensions (Hyperextensions)",
+  "nameEs": "Extensiones de espalda (hiperextensiones)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -18,6 +19,14 @@
     "Start bending forward slowly at the waist as far as you can while keeping your back flat. Inhale as you perform this movement. Keep moving forward until you feel a nice stretch on the hamstrings and you can no longer keep going without a rounding of the back. Tip: Never round the back as you perform this exercise. Also, some people can go farther than others. The key thing is that you go as far as your body allows you to without rounding the back.",
     "Slowly raise your torso back to the initial position as you inhale. Tip: Avoid the temptation to arch your back past a straight line. Also, do not swing the torso at any time in order to protect the back from injury.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca abajo en un banco de hiperextensiones, asegurando tus tobillos firmemente bajo las almohadillas para los pies.",
+    "Ajusta la almohadilla superior si es posible para que tus muslos superiores queden planos sobre la almohadilla ancha, dejando suficiente espacio para que puedas doblarte por la cintura sin ninguna restricción.",
+    "Con el cuerpo recto, cruza los brazos frente a ti (mi preferencia) o detrás de tu cabeza. Esta será tu posición de inicio. Consejo: También puedes sostener un disco de peso para mayor resistencia frente a ti bajo tus brazos cruzados.",
+    "Comienza a doblarte hacia adelante lentamente por la cintura tanto como puedas mientras mantienes la espalda plana. Inhala al realizar este movimiento. Sigue moviéndote hacia adelante hasta que sientas un buen estiramiento en los isquiotibiales y ya no puedas continuar sin redondear la espalda. Consejo: Nunca redondees la espalda al realizar este ejercicio. Además, algunas personas pueden llegar más lejos que otras. La clave es que llegues tan lejos como tu cuerpo te lo permita sin redondear la espalda.",
+    "Eleva lentamente tu torso de regreso a la posición inicial mientras exhalas. Consejo: Evita la tentación de arquear la espalda más allá de una línea recta. Además, no balancees el torso en ningún momento para proteger la espalda de lesiones.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

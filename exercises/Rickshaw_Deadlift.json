@@ -1,5 +1,6 @@
 {
   "name": "Deadlift (Rickshaw)",
+  "nameEs": "Peso muerto (Rickshaw)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,6 +19,11 @@
     "Load the frame with the desired weight. Center yourself between the handles. You feet should be about hip width apart. Bend at the hips to grip the handles, allowing your shoulder blades to protract.",
     "With your feet and your grip set, take a big breath and then lower your hips and flex the knees. Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward. As the weight comes up, pull your shoulder blades together as you drive your hips forward.",
     "Lower the weight by bending at the hips and guiding it to the ground."
+  ],
+  "instructionsEs": [
+    "Carga el armazón con el peso deseado. Colócate en el centro entre los mangos. Tus pies deben estar separados aproximadamente a la altura de las caderas. Flexiona las caderas para agarrar los mangos, permitiendo que tus omóplatos se protraigan.",
+    "Con los pies y el agarre listos, toma una gran respiración y luego baja las caderas y flexiona las rodillas. Mira hacia adelante con la cabeza, mantén el pecho hacia arriba y la espalda arqueada, y comienza a empujar a través de los talones para mover el peso hacia arriba. A medida que el peso sube, junta los omóplatos mientras impulsas tus caderas hacia adelante.",
+    "Baja el peso flexionando las caderas y guiándolo hacia el suelo."
   ],
   "category": "strongman",
   "trackingType": "weight_reps",

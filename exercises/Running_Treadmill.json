@@ -1,5 +1,6 @@
 {
   "name": "Running, Treadmill",
+  "nameEs": "Correr en cinta",
   "force": null,
   "level": "beginner",
   "mechanic": null,
@@ -15,6 +16,10 @@
   "instructions": [
     "To begin, step onto the treadmill and select the desired option from the menu. Most treadmills have a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. Elevation can be adjusted to change the intensity of the workout.",
     "Treadmills offer convenience, cardiovascular benefits, and usually have less impact than running outside. A 150 lb person will burn over 450 calories running 8 miles per hour for 30 minutes. Maintain proper posture as you run, and only hold onto the handles when necessary, such as when dismounting or checking your heart rate."
+  ],
+  "instructionsEs": [
+    "Para empezar, súbete a la cinta y selecciona la opción deseada en el menú. La mayoría de las cintas tienen una configuración manual o puedes seleccionar un programa para correr. Por lo general, puedes ingresar tu edad y peso para estimar la cantidad de calorías quemadas durante el ejercicio. La elevación se puede ajustar para cambiar la intensidad del entrenamiento.",
+    "Las cintas ofrecen comodidad, beneficios cardiovasculares y, por lo general, tienen menos impacto que correr al aire libre. Una persona de 150 lb quemará más de 450 calorías corriendo a 8 millas por hora durante 30 minutos. Mantén una postura adecuada mientrascorres y sujeta los mangos solo cuando sea necesario, como al bajarte o comprobar tu frecuencia cardíaca."
   ],
   "category": "cardio",
   "trackingType": "time",

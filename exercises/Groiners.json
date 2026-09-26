@@ -1,5 +1,6 @@
 {
   "name": "Groiners",
+  "nameEs": "Groiners",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,6 +13,11 @@
     "Begin in a pushup position on the floor. This will be your starting position.",
     "Using both legs, jump forward landing with your feet next to your hands. Keep your head up as you do so.",
     "Return to the starting position and immediately repeat the movement, continuing for 10-20 repetitions."
+  ],
+  "instructionsEs": [
+    "Comienza en una posición de flexión de brazos en el piso. Esta será tu posición inicial.",
+    "Usando ambas piernas, salta hacia adelante aterrizando con tus pies al lado de tus manos. Mantén la cabeza en alto mientras lo haces.",
+    "Regresa a la posición inicial e inmediatamente repite el movimiento, continuando de 10 a 20 repeticiones."
   ],
   "category": "stretching",
   "trackingType": "time",

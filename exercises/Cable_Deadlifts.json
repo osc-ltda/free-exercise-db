@@ -1,5 +1,6 @@
 {
   "name": "Deadlifts (Cable)",
+  "nameEs": "Peso muerto (Polea)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,6 +19,12 @@
     "To begin, squat down be flexing your hips and knees until you can reach the handles.",
     "After grasping them, begin your ascent. Driving through your heels extend your hips and knees keeping your hands hanging at your side. Keep your head and chest up throughout the movement.",
     "After reaching a full standing position, Return to the starting position and repeat."
+  ],
+  "instructionsEs": [
+    "Mueve los cables hacia la parte inferior de las torres y selecciona un peso apropiado. Párate justo en medio de los soportes.",
+    "Para comenzar, haz una sentadilla flexionando tus caderas y rodillas hasta que puedas alcanzar los mangos.",
+    "Después de agarrarlos, comienza tu ascenso. Empujando a través de tus talones, extiende tus caderas y rodillas manteniendo tus manos colgando a tu costado. Mantén tu cabeza y pecho hacia arriba durante todo el movimiento.",
+    "Después de alcanzar una posición totalmente de pie, regresa a la posición inicial y repite."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

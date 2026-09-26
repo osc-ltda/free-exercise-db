@@ -1,5 +1,6 @@
 {
   "name": "Standing Olympic Plate Hand Squeeze",
+  "nameEs": "Apretón de manos con disco olímpico de pie",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,12 @@
     "Lower the plates until the fingers are nearly extended but can still hold weights. Inhale as you lower the plates.",
     "Now raise the plates back to the starting position as you exhale by closing your hands.",
     "Repeat for the recommended amount of repetitions prescribed in your program."
+  ],
+  "instructionsEs": [
+    "Para empezar, ponte de pie manteniendo el cuerpo recto mientras sostienes un disco de peso por el borde con los brazos extendidos a los lados, usando un agarre neutro (con las palmas hacia adentro). Tus pies deben estar separados a la anchura de los hombros. Esta será tu posición inicial.",
+    "Baja los discos hasta que los dedos estén casi extendidos pero aún puedan sostener el peso. Inhala mientras bajas los discos.",
+    "Ahora eleva los discos de vuelta a la posición inicial mientras exhalas cerrando las manos.",
+    "Repite por la cantidad recomendada de repeticiones prescrita en tu programa."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

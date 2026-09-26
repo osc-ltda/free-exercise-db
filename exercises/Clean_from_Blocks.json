@@ -1,5 +1,6 @@
 {
   "name": "Clean (from Blocks)",
+  "nameEs": "Clean (desde bloques)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,6 +20,12 @@
     "Begin the first pull by driving through the heels, extending your knees. Your back angle should stay the same, and your arms should remain straight with the elbows pointed out.",
     "As full extension is achieved, transition into the receiving position by aggressively shrugging and flexing the arms with the elbows up and out. Aggressively pull yourself down, rotating your elbows under the bar as you do so. Receive the bar in a front squat position, the depth of which is dependent upon the height of the bar at the end of the third pull. The bar should be racked onto the protracted shoulders, lightly touching the throat with the hands relaxed. Continue to descend to the bottom squat position, which will help in the recovery.",
     "Immediately recover by driving through the heels, keeping the torso upright and elbows up. Continue until you have risen to a standing position. Return the weight to the boxes for the next rep."
+  ],
+  "instructionsEs": [
+    "Con una barra sobre cajas o soportes a la altura deseada, toma un agarre prono o de gancho justo por fuera de las piernas. Baja las caderas con el peso enfocado en los talones, la espalda recta, la cabeza al frente, el pecho arriba y los hombros justo frente a la barra. Esta será tu posición inicial.",
+    "Comienza el primer tirón empujando a través de los talones y extendiendo las rodillas. El ángulo de tu espalda debe mantenerse igual y tus brazos deben permanecer rectos con los codos apuntando hacia afuera.",
+    "Una vez lograda la extensión completa, haz la transición a la posición de recepción encogiéndote de hombros agresivamente y flexionando los brazos con los codos hacia arriba y afuera. Jálate hacia abajo agresivamente, rotando tus codos por debajo de la barra mientras lo haces. Recibe la barra en una posición de sentadilla frontal, cuya profundidad dependerá de la altura de la barra al final del tercer tirón. La barra debe apoyarse sobre los hombros protraídos, tocando ligeramente la garganta con las manos relajadas. Continúa descendiendo hasta la posición más baja de la sentadilla, lo cual ayudará en la recuperación.",
+    "Recupérate inmediatamente empujando a través de los talones, manteniendo el torso erguido y los codos arriba. Continúa hasta que hayas ascendido a una posición de pie. Regresa el peso a las cajas para la siguiente repetición."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

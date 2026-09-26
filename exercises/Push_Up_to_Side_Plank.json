@@ -1,5 +1,6 @@
 {
   "name": "Push-Up to Side Plank",
+  "nameEs": "Flexión de brazos a plancha lateral",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,6 +19,13 @@
     "Do one pushup and as you come up, shift your weight on the left side of the body, twist to the side while bringing the right arm up towards the ceiling in a side plank.",
     "Lower the arm back to the floor for another pushup and then twist to the other side.",
     "Repeat the series, alternating each side, for 10 or more reps."
+  ],
+  "instructionsEs": [
+    "Colócate en posición de flexión sobre la punta de los pies con las manos justo por fuera del ancho de los hombros.",
+    "Realiza una flexión permitiendo que los codos se flexionen. Mientras bajas, mantén tu cuerpo recto.",
+    "Haz una flexión y, al subir, desplaza tu peso hacia el lado izquierdo del cuerpo, gira hacia un lado mientras elevas el brazo derecho hacia el techo en una plancha lateral.",
+    "Baja el brazo de vuelta al suelo para hacer otra flexión y luego gira hacia el otro lado.",
+    "Repite la serie, alternando cada lado, durante 10 o más repeticiones."
   ],
   "category": "strength",
   "trackingType": "time",

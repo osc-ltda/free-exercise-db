@@ -1,5 +1,6 @@
 {
   "name": "Seated Calf Stretch",
+  "nameEs": "Estiramiento de pantorrilla sentado",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -16,6 +17,12 @@
     "Bend one knee and put that foot on the floor to stabilize the torso.",
     "Straighten your other leg and flex your ankle.",
     "Using a band, towel, or your hand if you can reach, pull the toes toward you. Hold for 10 to 20 seconds, then switch sides."
+  ],
+  "instructionsEs": [
+    "Siéntate derecho en una esterilla de ejercicio.",
+    "Dobla una rodilla y coloca ese pie en el suelo para estabilizar el torso.",
+    "Estira tu otra pierna y flexiona el tobillo.",
+    "Usando una banda, una toalla o tu mano si puedes alcanzarla, tira de los dedos de los pies hacia ti. Mantén durante 10 a 20 segundos, luego cambia de lado."
   ],
   "category": "stretching",
   "trackingType": "time",

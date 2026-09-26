@@ -1,5 +1,6 @@
 {
   "name": "Lower Back-SMR",
+  "nameEs": "Zona lumbar - Liberación miofascial",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -11,6 +12,10 @@
   "instructions": [
     "In a seated position, place a foam roll under your lower back. Cross your arms in front of you and protract your shoulders. This will be your starting position.",
     "Raise your hips off of the floor and lean back, keeping your weight on your lower back. Now shift your weight slightly to one side, keeping your weight off of the spine and on the muscles to the side of it. Roll over your lower back, holding points of tension for 10-30 seconds. Repeat on the other side."
+  ],
+  "instructionsEs": [
+    "En una posición sentada, coloca un rodillo de espuma debajo de la zona lumbar. Cruza tus brazos frente a ti y protruye tus hombros. Esta será tu posición inicial.",
+    "Eleva tus caderas del suelo e inclínate hacia atrás, manteniendo tu peso sobre la zona lumbar. Ahora desplaza tu peso ligeramente hacia un lado, manteniendo el peso fuera de la columna y sobre los músculos a los lados de esta. Rueda sobre la zona lumbar, manteniendo los puntos de tensión durante 10-30 segundos. Repite en el otro lado."
   ],
   "category": "stretching",
   "trackingType": "time",

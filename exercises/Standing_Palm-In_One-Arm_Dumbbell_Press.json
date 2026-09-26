@@ -1,5 +1,6 @@
 {
   "name": "Press (Standing Palm-In One-Arm Dumbbell)",
+  "nameEs": "Press (Mancuerna a un brazo de pie con palma hacia adentro)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,6 +19,15 @@
     "Feel the contraction for a second and then lift the weight back up towards the starting position while exhaling. Remember to hold on to the incline bench and keep your feet positioned to keep balance during the exercise.",
     "Repeat for the recommended amount of repetitions.",
     "Switch arms and repeat the exercise."
+  ],
+  "instructionsEs": [
+    "Comienza teniendo una mancuerna en una mano con el brazo completamente extendido hacia un lado usando un agarre neutro. Usa tu otro brazo para sostenerte de un banco inclinado para mantener el equilibrio.",
+    "Tus pies deben estar separados a la distancia de los hombros. Ahora levanta lentamente la mancuerna hasta formar un ángulo de 90 grados con tu brazo. Nota: Tu antebrazo debe estar perpendicular al suelo. Sigue manteniendo un agarre neutro durante todo el ejercicio.",
+    "Levanta lentamente la mancuerna hasta que tu brazo esté completamente extendido. Esta es la posición inicial.",
+    "Mientras inspiras, baja el peso hasta que tu brazo vuelva a estar en un ángulo de 90 grados.",
+    "Siente la contracción durante un segundo y luego vuelve a levantar el peso hacia la posición inicial mientras exhalas. Recuerda sostenerte del banco inclinado y mantener los pies bien posicionados para guardar el equilibrio durante el ejercicio.",
+    "Repite por la cantidad recomendada de repeticiones.",
+    "Cambia de brazo y repite el ejercicio."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Lat Pulldown (One Arm)",
+  "nameEs": "Jalón para dorsal (A un brazo)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Pull the handle down, squeezing your elbow to your side as you flex the elbow.",
     "Pause at the bottom of the motion, and then slowly return the handle to the starting position.",
     "For multiple repetitions, avoid completely returning the weight to keep tension on the muscles being worked."
+  ],
+  "instructionsEs": [
+    "Selecciona un peso adecuado y ajusta el soporte para las rodillas para ayudarte a mantenerte abajo. Agarra el mango con un agarre pronado. Esta será tu posición inicial.",
+    "Jala el mango hacia abajo, apretando el codo hacia tu costado a medida que flexionas el codo.",
+    "Haz una pausa en la parte inferior del movimiento y luego regresa lentamente el mango a la posición inicial.",
+    "Para múltiples repeticiones, evita regresar completamente el peso para mantener la tensión en los músculos que estás trabajando."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

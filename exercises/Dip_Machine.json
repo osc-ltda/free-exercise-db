@@ -1,5 +1,6 @@
 {
   "name": "Dip (Machine)",
+  "nameEs": "Fondo (Máquina)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "As you contract the triceps, extend your arms downwards as you exhale. Tip: At the bottom of the movement, focus on keeping a little bend in your arms to keep tension on the triceps muscle.",
     "Now slowly let your arms come back up to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Siéntate de forma segura en una máquina para fondos, selecciona el peso y agarra firmemente los mangos.",
+    "Ahora mantén los codos pegados a los costados para poner énfasis en los tríceps. Los codos deben estar flexionados en un ángulo de 90 grados.",
+    "Mientras contraes los tríceps, extiende los brazos hacia abajo mientras exhalas. Consejo: en la parte baja del movimiento, concéntrate en mantener una ligera flexión en los brazos para conservar la tensión en el músculo del tríceps.",
+    "Ahora deja que tus brazos regresen lentamente a la posición inicial mientras inhalas.",
+    "Repite por la cantidad de repeticiones recomendada."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

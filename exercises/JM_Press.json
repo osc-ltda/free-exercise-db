@@ -1,5 +1,6 @@
 {
   "name": "Press (JM)",
+  "nameEs": "Press (JM)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "As you exhale, press the bar back up by using the triceps to perform a close grip bench press.",
     "Now go back to the starting position and start over.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Comienza el ejercicio de la misma manera que harías un press de banca con agarre cerrado. Acuéstate en un banco plano mientras sostienes una barra con los brazos extendidos y los codos hacia adentro. Sin embargo, en lugar de tener los brazos perpendiculares al torso, asegúrate de que la barra esté colocada en línea recta sobre la parte superior del pecho. Esta será tu posición inicial.",
+    "Ahora, comenzando desde una posición totalmente extendida, baja la barra como si realizaras una extensión de tríceps acostado. Inhala mientras realizas este movimiento. Cuando llegues a la mitad del recorrido, deja que la barra ruede hacia atrás aproximadamente una pulgada moviendo la parte superior de los brazos hacia tus piernas hasta que queden perpendiculares al torso. Consejo: mantén la flexión de los codos constante mientras llevas la parte superior de los brazos hacia adelante.",
+    "Mientras exhalas, empuja la barra hacia arriba usando los tríceps para realizar un press de banca con agarre cerrado.",
+    "Ahora vuelve a la posición inicial y comienza de nuevo.",
+    "Repite durante la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

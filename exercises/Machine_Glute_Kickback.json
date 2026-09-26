@@ -1,5 +1,6 @@
 {
   "name": "Glute Kickback (Machine)",
+  "nameEs": "Patada de glúteo (Máquina)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,12 @@
     "Hold the handles, brace your abdominals and keep your lower back flat.",
     "Drive the foot back and up with your glute until your hip is straight.",
     "Squeeze at the top, then return under control. Finish all the reps on one leg before swapping."
+  ],
+  "instructionsEs": [
+    "Ajusta la plataforma para que tu pierna de trabajo comience con la rodilla debajo de tu cadera.",
+    "Sostén las manijas, contrae tu abdomen y mantén tu zona lumbar plana.",
+    "Empuja el pie hacia atrás y hacia arriba con tu glúteo hasta que tu cadera esté recta.",
+    "Aprieta arriba y luego regresa de forma controlada. Termina todas las repeticiones en una pierna antes de cambiar."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

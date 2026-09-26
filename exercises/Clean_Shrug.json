@@ -1,5 +1,6 @@
 {
   "name": "Shrug (Clean)",
+  "nameEs": "Encogimiento (Clean)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -14,6 +15,10 @@
   "instructions": [
     "Begin with a shoulder width, double overhand or hook grip, with the bar hanging at the mid thigh position. Your back should be straight and inclined slightly forward.",
     "Shrug your shoulders towards your ears. While this exercise can usually by loaded with heavier weight than a clean, avoid overloading to the point that the execution slows down."
+  ],
+  "instructionsEs": [
+    "Comienza con una separación al ancho de los hombros, con un agarre doble prono o de gancho, con la barra colgando a la altura de la mitad de los muslos. Tu espalda debe estar recta e inclinada ligeramente hacia adelante.",
+    "Realiza un encogimiento de hombros hacia tus orejas. Aunque este ejercicio normalmente se puede cargar con más peso que un clean, evita sobrecargarlo al punto de que la ejecución se vuelva lenta."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

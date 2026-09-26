@@ -1,5 +1,6 @@
 {
   "name": "Intermediate Hip Flexor and Quad Stretch",
+  "nameEs": "Estiramiento de flexores de cadera y cuádriceps intermedio",
   "force": "static",
   "level": "intermediate",
   "mechanic": "compound",
@@ -11,6 +12,10 @@
   "instructions": [
     "Lie face down on the floor, with a rope, belt, or band looped around one foot.",
     "Flex the knee and extend the hip of the leg to be stretched, using both hands to pull on the belt. Your knee and your hip should come off of the floor, creating tension in the hip flexors and quadriceps. Hold the stretch for 10-20 seconds, and repeat on the other leg."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca abajo en el suelo con una cuerda, cinturón o banda alrededor de un pie.",
+    "Flexiona la rodilla y extiende la cadera de la pierna que vas a estirar, usando ambas manos para tirar del cinturón. Tu rodilla y tu cadera deben separarse del suelo, generando tensión en los flexores de cadera y cuádriceps. Mantén el estiramiento durante 10-20 segundos y repite con la otra pierna."
   ],
   "category": "stretching",
   "trackingType": "time",

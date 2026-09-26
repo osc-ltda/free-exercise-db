@@ -1,5 +1,6 @@
 {
   "name": "Clean (Power from Blocks)",
+  "nameEs": "Clean (Power desde bloques)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,6 +17,13 @@
     "In a jumping motion, accelerate by extending the hips, knees, and ankles, using speed to move the bar upward. There should be no need to actively pull through the arms to accelerate the weight. At the end of the second pull, the body should be fully extended, leaning slightly back, with the arms still extended.",
     "As full extension is achieved, transition into the third pull by aggressively shrugging and flexing the arms with the elbows up and out. At peak extension, pull yourself under the bar far enough that it can be racked onto the shoulders, rotating your elbows under the bar as you do so. The bar should be racked onto the protracted shoulders, lightly touching the throat with the hands relaxed.",
     "Immediately recover by driving through the heels, keeping the torso upright and elbows up. Continue until you have risen to a standing position, and complete the repetition by returning the weight to the boxes."
+  ],
+  "instructionsEs": [
+    "Con una barra sobre cajones de la altura deseada, toma un agarre justo por fuera de las piernas. Baja tus caderas con el peso enfocado en los talones, la espalda recta, la cabeza al frente, el pecho arriba y los hombros justo en frente de la barra. Esta será tu posición inicial.",
+    "Comienza el primer tirón empujando a través de los talones y extendiendo las rodillas. El ángulo de tu espalda debe mantenerse igual y tus brazos deben permanecer rectos. A medida que la barra se acerque a la posición del muslo medio, comienza a extender las caderas.",
+    "En un movimiento de salto, acelera extendiendo las caderas, rodillas y tobillos, usando la velocidad para mover la barra hacia arriba. No debería ser necesario tirar activamente con los brazos para acelerar el peso. Al final del segundo tirón, el cuerpo debe estar completamente extendido, inclinado ligeramente hacia atrás, con los brazos aún extendidos.",
+    "Una vez lograda la extensión completa, haz la transición al tercer tirón encogiéndote de hombros agresivamente y flexionando los brazos con los codos hacia arriba y hacia afuera. En la extensión máxima,iciónate debajo de la barra lo suficiente como para colocarla sobre los hombros, girando los codos por debajo de la barra al hacerlo. La barra debe apoyarse sobre los hombros protraídos, tocando ligeramente la garganta con las manos relajadas.",
+    "Recupérate inmediatamente empujando a través de los talones, manteniendo el torso erguido y los codos arriba. Continúa hasta que te hayas levantado a una posición de pie y completa la repetición devolviendo el peso a los cajones."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

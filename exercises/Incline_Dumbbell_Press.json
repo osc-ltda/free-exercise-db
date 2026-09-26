@@ -1,5 +1,6 @@
 {
   "name": "Press (Incline Dumbbell)",
+  "nameEs": "Press (Mancuerna Inclinado)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -19,6 +20,15 @@
     "Lock your arms at the top, hold for a second, and then start slowly lowering the weight. Tip Ideally, lowering the weights should take about twice as long as raising them.",
     "Repeat the movement for the prescribed amount of repetitions.",
     "When you are done, place the dumbbells back on your thighs and then on the floor. This is the safest manner to release the dumbbells."
+  ],
+  "instructionsEs": [
+    "Recuéstate en un banco inclinado con una mancuerna en cada mano sobre tus muslos. Las palmas de tus manos se mirarán entre sí.",
+    "Luego, usando tus muslos para ayudar a empujar las mancuernas hacia arriba, levántalas una a la vez para poder sostenerlas al ancho de los hombros.",
+    "Una vez que hayas levantado las mancuernas al ancho de los hombros, gira tus muñecas hacia adelante para que las palmas de tus manos miren hacia afuera. Esta será tu posición inicial.",
+    "Asegúrate de mantener el control total de las mancuernas en todo momento. Luego exhala y empuja las mancuernas hacia arriba con el pecho.",
+    "Bloquea tus brazos en la parte superior, mantén la postura por un segundo y luego comienza a bajar lentamente el peso. Consejo: idealmente, bajar los pesos debería tomar aproximadamente el doble de tiempo que subirlos.",
+    "Repite el movimiento durante la cantidad de repeticiones prescrita.",
+    "Cuando termines, vuelve a colocar las mancuernas en tus muslos y luego en el piso. Esta es la forma más segura de soltar las mancuernas."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

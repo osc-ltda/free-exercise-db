@@ -1,5 +1,6 @@
 {
   "name": "Hip Flexion with Band",
+  "nameEs": "Flexión de cadera con banda",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,6 +14,12 @@
     "Face away from the attachment point of the band.",
     "Keeping your head and your chest up, raise your knee up to 90 degrees and pause.",
     "Return the leg to the starting position."
+  ],
+  "instructionsEs": [
+    "Fija un extremo de la banda a la parte inferior de un poste y sujeta el otro al tobillo.",
+    "Dale la espalda al punto de fijación de la banda.",
+    "Manteniendo la cabeza y el pecho erguidos, eleva la rodilla hasta los 90 grados y haz una pausa.",
+    "Regresa la pierna a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

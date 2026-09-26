@@ -1,5 +1,6 @@
 {
   "name": "Front Squats (With Two Kettlebells)",
+  "nameEs": "Sentadillas frontales (Con dos pesas rusas)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,6 +16,11 @@
     "Clean two kettlebells to your shoulders. Clean the kettlebells to your shoulders by extending through the legs and hips as you pull the kettlebells towards your shoulders. Rotate your wrists as you do so.",
     "Looking straight ahead at all times, squat as low as you can and pause at the bottom. As you squat down, push your knees out. You should squat between your legs, keeping an upright torso, with your head and chest up.",
     "Rise back up by driving through your heels and repeat."
+  ],
+  "instructionsEs": [
+    "Realiza una cargada de dos pesas rusas hacia tus hombros. Sube las pesas rusas a tus hombros extendiendo las piernas y las caderas mientras tiras de las pesas rusas hacia tus hombros. Rota tus muñecas al hacerlo.",
+    "Mirando al frente en todo momento, haz una sentadilla tan abajo como puedas y haz una pausa en la parte baja. Mientras bajas en la sentadilla, empuja tus rodillas hacia afuera. Debes hacer la sentadilla entre tus piernas, manteniendo el torso erguido, con la cabeza y el pecho hacia arriba.",
+    "Vuelve a subir empujando a través de los talones y repite."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Clean and Jerk",
+  "nameEs": "Clean and Jerk",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -25,6 +26,16 @@
     "The second phase is the jerk, which raises the weight overhead. Standing with the weight racked on the front of the shoulders, begin with the dip. With your feet directly under your hips, flex the knees without moving the hips backward. Go down only slightly, and reverse direction as powerfully as possible.",
     "Drive through the heels create as much speed and force as possible, and be sure to move your head out of the way as the bar leaves the shoulders.",
     "At this moment as the feet leave the floor, the feet must be placed into the receiving position as quickly as possible. In the brief moment the feet are not actively driving against the platform, the athletes effort to push the bar up will drive them down. The feet should be split, with one foot forward, and one foot back. Receive the bar with the arms locked out overhead. Return to a standing position."
+  ],
+  "instructionsEs": [
+    "Con una barra en el suelo cerca de las espinillas, toma un agarre prono o de gancho justo por fuera de las piernas. Baja las caderas con el peso enfocado en los talones, la espalda recta, la cabeza al frente, el pecho arriba y los hombros justo frente a la barra. Esta será tu posición inicial.",
+    "Comienza el primer tirón empujando a través de los talones y extendiendo las rodillas. El ángulo de tu espalda debe mantenerse igual y tus brazos deben permanecer rectos. Mueve el peso con control a medida que continúas por encima de las rodillas.",
+    "Luego viene el segundo tirón, la fuente principal de aceleración para el clean. A medida que la barra se acerque a la posición de la mitad del muslo, comienza a extender las caderas. En un movimiento de salto, acelera extendiendo caderas, rodillas y tobillos, usando velocidad para mover la barra hacia arriba. No debería ser necesario tirar activamente con los brazos para acelerar el peso; al final del segundo tirón, el cuerpo debe estar completamente extendido, inclinándose ligeramente hacia atrás, con los brazos aún extendidos.",
+    "Una vez lograda la extensión completa, haz la transición al tercer tirón encogiéndote de hombros agresivamente y flexionando los brazos con los codos hacia arriba y afuera. En la extensión máxima, jálate hacia abajo agresivamente, rotando tus codos por debajo de la barra mientras lo haces. Recibe la barra en una posición de sentadilla frontal, cuya profundidad dependerá de la altura de la barra al final del tercer tirón. La barra debe apoyarse sobre los hombros protraídos, tocando ligeramente la garganta con las manos relajadas. Continúa descendiendo hasta la posición más baja de la sentadilla, lo cual ayudará en la recuperación.",
+    "Recupérate inmediatamente empujando a través de los talones, manteniendo el torso erguido y los codos arriba. Continúa hasta que hayas ascendido a una posición de pie.",
+    "La segunda fase es el jerk, que eleva el peso por encima de la cabeza. De pie con el peso apoyado en la parte delantera de los hombros, comienza con el dip. Con tus pies directamente bajo tus caderas, flexiona las rodillas sin mover las caderas hacia atrás. Baja solo ligeramente e invierte la dirección con la mayor potencia posible.",
+    "Empuja a través de los talones para generar la mayor velocidad y fuerza posibles, y asegúrate de quitar la cabeza del camino a medida que la barra abandona los hombros.",
+    "En este momento, a medida que los pies dejan el suelo, deben colocarse en la posición de recepción lo más rápido posible. En el breve momento en que los pies no están empujando activamente contra la plataforma, el esfuerzo del atleta por empujar la barra hacia arriba lo impulsará hacia abajo. Los pies deben quedar en posición dividida, con un pie adelante y otro atrás. Recibe la barra con los brazos bloqueados por encima de la cabeza. Regresa a la posición de pie."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Press (Machine Shoulder Military)",
+  "nameEs": "Press militar de hombro (Máquina)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,13 @@
     "Now lift the handles as you exhale and you extend the arms fully. At the top of the position make sure that you hold the contraction for a second.",
     "Lower the handles slowly back to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Siéntate en la máquina de Press de hombro y selecciona el peso.",
+    "Agarra las manijas a los lados mientras mantienes los codos flexionados y alineados con tu torso. Esta será tu posición inicial.",
+    "Ahora levanta las manijas mientras exhalas y extiendes los brazos por completo. En la parte superior de la posición, asegúrate de mantener la contracción por un segundo.",
+    "Baja las manijas lentamente de regreso a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

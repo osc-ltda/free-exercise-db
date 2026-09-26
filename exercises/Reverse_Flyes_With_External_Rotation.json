@@ -1,5 +1,6 @@
 {
   "name": "Reverse Flyes (With External Rotation)",
+  "nameEs": "Aperturas inversas (Con rotación externa)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -16,6 +17,15 @@
     "The arms should be elevated until they are level with the head.",
     "Feel the contraction and slowly lower the weights back down to the starting position while inhaling.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Para empezar, acuéstate en un banco inclinado ajustado a un ángulo de 30 grados con el pecho y el estómago presionando contra la inclinación.",
+    "Sostén una mancuerna en cada mano con las palmas apuntando hacia el suelo. Tus brazos deben estar frente a ti de manera que queden perpendiculares al ángulo del banco. Consejo: tus codos deben tener una ligera flexión. Las piernas deben estar inmóviles mientras aplicas presión con la bola de tus pies (tus talones no deben tocar el suelo). Esta es la posición inicial.",
+    "Manteniendo la ligera flexión de los codos, mueve los pesos hacia afuera y alejándolos entre sí en un movimiento de arco mientras exhalas.",
+    "A medida que levantas el peso, tu muñeca debe rotar externamente 90 grados para pasar de un agarre con las palmas hacia abajo (pronado) a un agarre con las palmas enfrentadas (neutro). Consejo: intenta juntar tus omóplatos para obtener los mejores resultados de este ejercicio.",
+    "Los brazos deben elevarse hasta quedar a la altura de la cabeza.",
+    "Siente la contracción y baja lentamente los pesos de regreso a la posición inicial mientras inspiras.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Landmine 180's",
+  "nameEs": "Landmine 180's",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,6 +19,13 @@
     "Perform the movement by rotating the trunk and hips as you swing the weight all the way down to one side. Keep your arms extended throughout the exercise.",
     "Reverse the motion to swing the weight all the way to the opposite side.",
     "Continue alternating the movement until the set is complete."
+  ],
+  "instructionsEs": [
+    "Coloca una barra en un soporte de landmine o anclala de forma segura en una esquina. Carga la barra con un peso adecuado.",
+    "Eleva la barra desde el suelo, llevándola a la altura de los hombros con ambas manos y con los brazos extendidos frente a ti. Adopta una postura amplia. Esta será tu posición inicial.",
+    "Realiza el movimiento rotando el torso y las caderas mientras balanceas el peso hacia un lado. Mantén los brazos extendidos durante todo el ejercicio.",
+    "Invierte el movimiento para balancear el peso completamente hacia el lado opuesto.",
+    "Continúa alternando el movimiento hasta que complete la serie."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

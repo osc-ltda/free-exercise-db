@@ -1,5 +1,6 @@
 {
   "name": "Deadlift (Clean)",
+  "nameEs": "Peso muerto (Clean)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -19,6 +20,11 @@
     "Begin standing with a barbell close to your shins. Your feet should be directly under your hips with your feet turned out slightly. Grip the bar with a double overhand grip or hook grip, about shoulder width apart. Squat down to the bar. Your spine should be in full extension, with a back angle that places your shoulders in front of the bar and your back as vertical as possible.",
     "Begin by driving through the floor through the front of your heels. As the bar travels upward, maintain a constant back angle. Flare your knees out to the side to help keep them out of the bar's path.",
     "After the bar crosses the knees, complete the lift by driving the hips into the bar until your hips and knees are extended."
+  ],
+  "instructionsEs": [
+    "Comienza de pie con una barra cerca de tus espinillas. Tus pies deben estar directamente debajo de tus caderas con las puntas apuntando ligeramente hacia afuera. Sujeta la barra con un doble agarre prono o agarre de gancho, aproximadamente al ancho de los hombros. Agáchate hacia la barra. Tu columna debe estar en extensión completa, con un ángulo de espalda que coloque tus hombros frente a la barra y tu espalda lo más vertical posible.",
+    "Comienza empujando el suelo a través de la parte delantera de tus talones. A medida que la barra asciende, mantén un ángulo de espalda constante. Abre tus rodillas hacia afuera para ayudar a mantenerlas fuera de la trayectoria de la barra.",
+    "Después de que la barra cruce las rodillas, completa el levantamiento impulsando las caderas hacia la barra hasta que tus caderas y rodillas estén extendidas."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

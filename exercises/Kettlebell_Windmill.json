@@ -1,5 +1,6 @@
 {
   "name": "Kettlebell Windmill",
+  "nameEs": "Kettlebell Windmill",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,11 @@
     "Place a kettlebell in front of your lead foot and clean and press it overhead with your opposite arm. Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulders. Rotate your wrist as you do so, so that the palm faces forward. Press it overhead by extending the elbow.",
     "Keeping the kettlebell locked out at all times, push your butt out in the direction of the locked out kettlebell. Turn your feet out at a forty-five degree angle from the arm with the locked out kettlebell. Bending at the hip to one side, sticking your butt out, slowly lean until you can touch the floor with your free hand. Keep your eyes on the kettlebell that you hold over your head at all times.",
     "Pause for a second after reaching the ground and reverse the motion back to the starting position."
+  ],
+  "instructionsEs": [
+    "Coloca una pesa rusa frente a tu pie adelantado, haz un clean y presiona la pesa rusa por encima de la cabeza con el brazo opuesto. Realiza el clean llevando la pesa rusa hacia tu hombro mediante la extensión de las piernas y las caderas mientras tiras de la pesa rusa hacia tus hombros. Rota tu muñeca al hacerlo para que la palma mire hacia adelante. Presiónala hacia arriba extendiendo el codo.",
+    "Manteniendo la pesa rusa bloqueada en todo momento, empuja tus glúteos hacia afuera en dirección a la pesa rusa bloqueada. Gira tus pies hacia afuera en un ángulo de cuarenta y cinco grados respecto al brazo con la pesa rusa bloqueada. Flexiona la cadera hacia un lado, sacando los glúteos, e inclínate lentamente hasta que puedas tocar el suelo con la mano libre. Mantén la mirada en la pesa rusa que sostienes sobre tu cabeza en todo momento.",
+    "Haz una pausa de un segundo al tocar el suelo y revierte el movimiento para volver a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

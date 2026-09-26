@@ -1,5 +1,6 @@
 {
   "name": "Renegade Row (Alternating)",
+  "nameEs": "Renegade Row (Alternado)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -18,6 +19,11 @@
     "Place two kettlebells on the floor about shoulder width apart. Position yourself on your toes and your hands as though you were doing a pushup, with the body straight and extended. Use the handles of the kettlebells to support your upper body. You may need to position your feet wide for support.",
     "Push one kettlebell into the floor and row the other kettlebell, retracting the shoulder blade of the working side as you flex the elbow, pulling it to your side.",
     "Then lower the kettlebell to the floor and begin the kettlebell in the opposite hand. Repeat for several reps."
+  ],
+  "instructionsEs": [
+    "Coloca dos pesas russa en el suelo separadas aproximadamente a la distancia de los hombros. Colócate sobre la punta de tus pies y tus manos como si fueras a hacer una flexión de brazos, con el cuerpo recto y extendido. Usa las asas de las pesas russa para sostener tu parte superior. Es posible que debas separar tus pies para mayor estabilidad.",
+    "Empuja una pesa russa contra el suelo y haz el remo con la otra pesa russa, retrayendo la escápula del lado que trabaja mientras flexionas el codo y la tiras hacia tu costado.",
+    "Luego baja la pesa russa al suelo y comienza con la pesa russa de la mano opuesta. Repite por varias repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

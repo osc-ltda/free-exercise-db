@@ -1,5 +1,6 @@
 {
   "name": "Kneeling Forearm Stretch",
+  "nameEs": "Estiramiento de antebrazo arrodillado",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,6 +12,10 @@
   "instructions": [
     "Start by kneeling on a mat with your palms flat and your fingers pointing back toward your knees.",
     "Slowly lean back keeping your palms flat on the floor until you feel a stretch in your wrists and forearms. Hold for 20-30 seconds."
+  ],
+  "instructionsEs": [
+    "Comienza arrodillado en una esterilla con las palmas planas y los dedos apuntando hacia tus rodillas.",
+    "Inclínate lentamente hacia atrás manteniendo las palmas planas en el suelo hasta que sientas un estiramiento en las muñecas y los antebrazos. Mantén durante 20-30 segundos."
   ],
   "category": "stretching",
   "trackingType": "time",

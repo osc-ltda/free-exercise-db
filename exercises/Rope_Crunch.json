@@ -1,5 +1,6 @@
 {
   "name": "Crunch (Rope)",
+  "nameEs": "Abdominal (con cuerda)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "To begin, flex at the spine, attempting to bring your rib cage to your legs as you pull the cable down.",
     "Pause at the bottom of the motion, and then slowly return to the starting position.",
     "These can be done with twists or to the side to hit the obliques."
+  ],
+  "instructionsEs": [
+    "Arrodíllate a 1-2 pies frente a un sistema de polea con una cuerda adjunta.",
+    "Después de seleccionar un peso adecuado, agarra la cuerda con ambas manos pasando por encima de la cabeza. Tu torso debe estar erguido en la posición inicial.",
+    "Para comenzar, flexiona la columna intentando llevar tu caja torácica hacia tus piernas mientras tiras de la polea hacia abajo.",
+    "Haz una pausa en la parte inferior del movimiento y luego regresa lentamente a la posición inicial.",
+    "Estos se pueden hacer con giros o hacia un lado para trabajar los oblicuos."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

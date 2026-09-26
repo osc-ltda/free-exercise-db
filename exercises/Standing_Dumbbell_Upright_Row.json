@@ -1,5 +1,6 @@
 {
   "name": "Upright Row (Standing Dumbbell)",
+  "nameEs": "Remo vertical (Mancuerna de pie)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Use your side shoulders to lift the dumbbells as you exhale. The dumbbells should be close to the body as you move it up and the elbows should drive the motion. Continue to lift them until they nearly touch your chin. Tip: Your elbows should drive the motion. As you lift the dumbbells, your elbows should always be higher than your forearms. Also, keep your torso stationary and pause for a second at the top of the movement.",
     "Lower the dumbbells back down slowly to the starting position. Inhale as you perform this portion of the movement.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Agarra una mancuerna en cada mano con un agarre pronado (palmas hacia adelante) que sea ligeramente menor que el ancho de los hombros. Las mancuernas deben descansar sobre la parte superior de tus muslos. Tus brazos deben estar extendidos con una ligera flexión en los codos y tu espalda debe estar recta. Esta será tu posición inicial.",
+    "Usa los hombros laterales para levantar las mancuernas mientras exhalas. Las mancuernas deben estar cerca del cuerpo a medida que las subes y los codos deben guiar el movimiento. Continúa levantándolas hasta que casi toquen tu barbilla. Consejo: Tus codos deben guiar el movimiento. Al levantar las mancuernas, tus codos siempre deben estar más altos que tus antebrazos. Además, mantén tu torso inmóvil y haz una pausa de un segundo en la parte superior del movimiento.",
+    "Baja las mancuernas lentamente de regreso a la posición inicial. Inhala mientras realizas esta parte del movimiento.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

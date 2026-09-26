@@ -1,5 +1,6 @@
 {
   "name": "One Arm Against Wall",
+  "nameEs": "Estiramiento de un brazo contra la pared",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,6 +12,10 @@
   "instructions": [
     "From a standing position, place a bent arm against a wall or doorway.",
     "Slowly lean toward your arm until you feel a stretch in your lats."
+  ],
+  "instructionsEs": [
+    "Desde una posición de pie, coloca un brazo flexionado contra una pared o marco de puerta.",
+    "Inclínate lentamente hacia tu brazo hasta que sientas un estiramiento en tus dorsales."
   ],
   "category": "stretching",
   "trackingType": "time",

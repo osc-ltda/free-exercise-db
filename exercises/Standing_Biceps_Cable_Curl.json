@@ -1,5 +1,6 @@
 {
   "name": "Biceps Curl (Standing Cable)",
+  "nameEs": "Curl de bíceps (Polea de pie)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "While holding the upper arms stationary, curl the weights while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second as you squeeze the muscle.",
     "Slowly begin to bring the curl bar back to starting position as your breathe in.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Párate con el torso erguido mientras sostienes una barra para curl conectada a una polea baja. Agarra la barra de la polea al ancho de los hombros y mantén los codos cerca del torso. La palma de tus manos debe mirar hacia arriba (agarre supinado). Esta será tu posición inicial.",
+    "Mientras mantienes los brazos estáticos, haz un curl con los pesos mientras contraes los bíceps al exhalar. Solo los antebrazos deben moverse. Continúa el movimiento hasta que tus bíceps estén completamente contraídos y la barra esté a la altura de los hombros. Mantén la posición contraída durante un segundo mientras aprietas el músculo.",
+    "Comienza a llevar lentamente la barra de vuelta a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

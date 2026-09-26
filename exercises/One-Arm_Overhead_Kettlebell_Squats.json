@@ -1,5 +1,6 @@
 {
   "name": "Squats (One-Arm Overhead Kettlebell)",
+  "nameEs": "Sentadilla (Pesa rusa por encima de la cabeza a una mano)",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -17,6 +18,11 @@
     "Clean and press a kettlebell with one arm. Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulder. Rotate your wrist as you do so. Press the weight overhead by extending through the elbow.This will be your starting position.",
     "Looking straight ahead and keeping a kettlebell locked out above you, flex the knees and hips and lower your torso between your legs, keeping your head and chest up.",
     "Pause at the bottom position for a second before rising back to the top, driving through the heels of your feet."
+  ],
+  "instructionsEs": [
+    "Haz un clean y press con una pesa rusa a un brazo. Lleva la pesa rusa a tu hombro extendiendo las piernas y caderas mientras tiras de la pesa rusa hacia tu hombro. Rota tu muñeca al hacerlo. Presiona el peso por encima de la cabeza extendiendo el codo. Esta será tu posición inicial.",
+    "Mirando al frente y manteniendo la pesa rusa bloqueada arriba, flexiona las rodillas y caderas y baja tu torso entre tus piernas, manteniendo la cabeza y el pecho en alto.",
+    "Haz una pausa en la posición inferior por un segundo antes de volver a subir, empujando a través de los talones de tus pies."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

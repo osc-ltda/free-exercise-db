@@ -1,5 +1,6 @@
 {
   "name": "Seated Hamstring and Calf Stretch",
+  "nameEs": "Estiramiento de isquiotibiales y pantorrilla sentado",
   "force": "static",
   "level": "intermediate",
   "mechanic": null,
@@ -13,6 +14,10 @@
   "instructions": [
     "Loop a belt, rope, or band around one foot. Sit down with both legs extended . This will be your starting position.",
     "Leaning forward slightly, pull on the belt to draw the toes of your foot back. Hold this position for 10-20 seconds and then repeat with the other leg."
+  ],
+  "instructionsEs": [
+    "Coloca un cinturón, cuerda o banda alrededor de un pie. Siéntate con ambas piernas extendidas. Esta será tu posición inicial.",
+    "Inclinándote ligeramente hacia adelante, tira del cinturón para llevar los dedos de tu pie hacia atrás. Mantén esta posición durante 10-20 segundos y luego repite con la otra pierna."
   ],
   "category": "stretching",
   "trackingType": "time",

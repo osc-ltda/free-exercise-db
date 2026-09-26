@@ -1,5 +1,6 @@
 {
   "name": "Bent Over Row (Two-Arm Long Bar)",
+  "nameEs": "Remo (Inclinado a dos brazos con barra larga)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,6 +19,14 @@
     "Pull the bar straight up with your elbows in (to maximize back stimulation) until the plates touch your lower chest. Squeeze the back muscles as you lift the weight up and hold for a second at the top of the movement. Breathe out as you lift the weight. Tip: Use a stirrup or double handle cable attachment by hooking it under the end of the bar.",
     "Slowly lower the bar to the starting position getting a nice stretch on the lats. Tip: Do not let the plates touch the floor. To ensure the best range of motion, I recommend using small plates (25-lb ones) as opposed to larger plates (like 35-45lb ones).",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Coloca peso en uno de los extremos de una barra olímpica. Asegúrate de colocar el otro extremo de la barra en la esquina de dos paredes, o pon un objeto pesado en el suelo para que la barra no pueda deslizarse hacia atrás.",
+    "Inclínate hacia adelante hasta que tu torso esté lo más cerca posible de estar paralelo al suelo y mantén las rodillas ligeramente flexionadas.",
+    "Ahora sujeta la barra con ambos brazos justo detrás de los discos en el lado donde se colocó el peso y pon tu otra mano en tu rodilla. Esta será tu posición inicial.",
+    "Tira de la barra hacia arriba con los codos pegados (para maximizar la estimulación de la espalda) hasta que los discos toquen tu pecho inferior. Aprieta los músculos de la espalda al levantar el peso y mantén durante un segundo en la parte superior del movimiento. Exhala al levantar el peso. Consejo: Utiliza un accesorio de estribo o doble mango de polea enganchándolo debajo del extremo de la barra.",
+    "Baja lentamente la barra hasta la posición inicial consiguiendo un buen estiramiento en los dorsales. Consejo: No dejes que los discos toquen el suelo. Para asegurar el mejor rango de movimiento, recomiendo usar discos pequeños (de 25 lb) en lugar de discos más grandes (como de 35 a 45 lb).",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

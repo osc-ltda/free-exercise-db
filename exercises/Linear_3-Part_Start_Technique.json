@@ -1,5 +1,6 @@
 {
   "name": "Linear 3-Part Start Technique",
+  "nameEs": "Técnica de salida lineal en 3 partes",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Place your right hand onto the line, and thing bring your nose close to your left knee.",
     "Squat down as you lean foward, your head being lower than your hips and your weight loaded onto the left leg. This will be your starting position.",
     "Take your left hand up so that it is parallel to the ground, pointing behind you, and explode out when ready."
+  ],
+  "instructionsEs": [
+    "Este ejercicio te ayuda a acelerar lo más rápido posible hacia un sprint desde una parada total. Ayuda usar una línea para comenzar. Empieza con ambos pies en la línea. Coloca tu pie izquierdo con la punta al lado de tu tobillo derecho. Coloca tu pie derecho de 4 a 6 pulgadas detrás del izquierdo.",
+    "Coloca tu mano derecha en la línea y luego acerca tu nariz a tu rodilla izquierda.",
+    "Haz una sentadilla mientras te inclinas hacia adelante, con la cabeza más baja que las caderas y tu peso cargado en la pierna izquierda. Esta será tu posición inicial.",
+    "Lleva tu mano izquierda hacia arriba para que quede paralela al suelo, apuntando hacia atrás, y sal explosivamente cuando estés listo."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

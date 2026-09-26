@@ -1,5 +1,6 @@
 {
   "name": "Squats (Sit)",
+  "nameEs": "Sentadilla (Sentado)",
   "force": "push",
   "level": "beginner",
   "mechanic": null,
@@ -16,6 +17,11 @@
     "Stand with your feet shoulder width apart. This will be your starting position.",
     "Begin the movement by flexing your knees and hips, sitting back with your hips.",
     "Continue until you have squatted a portion of the way down, but are above parallel, and quickly reverse the motion until you return to the starting position. Repeat for 5-10 repetitions."
+  ],
+  "instructionsEs": [
+    "Párate con los pies separados a la distancia de los hombros. Esta será tu posición inicial.",
+    "Comienza el movimiento flexionando las rodillas y las caderas, echando las caderas hacia atrás.",
+    "Continúa hasta que hayas bajado una parte del camino, pero estés por encima del paralelo, y revierte rápidamente el movimiento hasta regresar a la posición inicial. Repite de 5 a 10 repeticiones."
   ],
   "category": "stretching",
   "trackingType": "time",

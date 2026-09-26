@@ -1,5 +1,6 @@
 {
   "name": "Press (Kettlebell Seated)",
+  "nameEs": "Press (Pesa rusa sentado)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -14,6 +15,11 @@
     "Sit on the floor and spread your legs out comfortably.",
     "Clean one kettlebell to your shoulder.",
     "Press the kettlebell up and out until it is locked out overhead. Return to the starting position."
+  ],
+  "instructionsEs": [
+    "Siéntate en el suelo y separa las piernas cómodamente.",
+    "Lleva una pesa rusa a tu hombro con un movimiento de cargada.",
+    "Presiona la pesa rusa hacia arriba y hacia afuera hasta que esté completamente extendida por encima de la cabeza. Regresa a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

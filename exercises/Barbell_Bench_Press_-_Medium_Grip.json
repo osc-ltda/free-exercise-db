@@ -1,5 +1,6 @@
 {
   "name": "Bench Press (Barbell - Medium Grip)",
+  "nameEs": "Press de banca (Barra - Agarre medio)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "After a brief pause, push the bar back to the starting position as you breathe out. Focus on pushing the bar using your chest muscles. Lock your arms and squeeze your chest in the contracted position at the top of the motion, hold for a second and then start coming down slowly again. Tip: Ideally, lowering the weight should take about twice as long as raising it.",
     "Repeat the movement for the prescribed amount of repetitions.",
     "When you are done, place the bar back in the rack."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca arriba en un banco plano. Usando un agarre de ancho medio (un agarre que cree un ángulo de 90 grados en el medio del movimiento entre los antebrazos y los brazos), levanta la barra del rack y sostenla directamente sobre ti con los brazos bloqueados. Esta será tu posición inicial.",
+    "Desde la posición inicial, inhala y comienza a bajar lentamente hasta que la barra toque la parte media de tu pecho.",
+    "Después de una breve pausa, empuja la barra de regreso a la posición inicial mientras exhalas. Concéntrate en empujar la barra usando los músculos del pecho. Bloquea tus brazos y aprieta el pecho en la posición contraída en la parte superior del movimiento, mantén durante un segundo y luego comienza a bajar lentamente de nuevo. Consejo: idealmente, bajar el peso debería tomar el doble de tiempo que levantarlo.",
+    "Repite el movimiento por la cantidad de repeticiones prescrita.",
+    "Cuando hayas terminado, vuelve a colocar la barra en el rack."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

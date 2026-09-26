@@ -1,5 +1,6 @@
 {
   "name": "Single-Cone Sprint Drill",
+  "nameEs": "Ejercicio de sprint con un cono",
   "force": "push",
   "level": "beginner",
   "mechanic": null,
@@ -16,6 +17,11 @@
     "This drill teaches quick foot action. You need a single cone. Begin standing next to the cone with one arm back and one arm forward.",
     "Chop the feet as quickly as possible, blocking with the arms. Circle the cone, keep your knees up, with violent foot action.",
     "Rest after three trips around the cone."
+  ],
+  "instructionsEs": [
+    "Este ejercicio enseña una acción rápida de pies. Necesitas un solo cono. Empieza de pie junto al cono con un brazo hacia atrás y un brazo hacia adelante.",
+    "Mueve los pies lo más rápido posible, bloqueando con los brazos. Da la vuelta al cono, mantén las rodillas arriba, con una acción de pies violenta.",
+    "Descansa después de tres viajes alrededor del cono."
   ],
   "category": "plyometrics",
   "trackingType": "time",

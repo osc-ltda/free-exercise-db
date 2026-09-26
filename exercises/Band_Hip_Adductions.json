@@ -1,5 +1,6 @@
 {
   "name": "Band Hip Adductions",
+  "nameEs": "Aducciones de cadera con banda",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Keeping the knee straight, raise your right legs out to the side as far as you can.",
     "Return to the starting position and repeat for the desired rep count.",
     "Switch sides."
+  ],
+  "instructionsEs": [
+    "Ancla una banda alrededor de un poste sólido u otro objeto.",
+    "Párate con el lado izquierdo hacia el poste y pasa tu pie derecho por la banda, colocándola alrededor del tobillo.",
+    "Párate derecho y sostente del poste si es necesario. Esta será tu posición inicial.",
+    "Manteniendo la rodilla recta, eleva tu pierna derecha hacia un lado tanto como puedas.",
+    "Regresa a la posición inicial y repite para el número de repeticiones deseado.",
+    "Cambia de lado."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

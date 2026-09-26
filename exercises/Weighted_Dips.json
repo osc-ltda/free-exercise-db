@@ -1,5 +1,6 @@
 {
   "name": "Weighted Dips",
+  "nameEs": "Fondos con peso",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Take the parallel bars and press up to straight arms.",
     "Lower until your upper arms are about level with the floor, leaning forward to favour the chest or staying upright to favour the triceps.",
     "Press back up to the top under control. Log the weight you added, not your bodyweight."
+  ],
+  "instructionsEs": [
+    "Cuelga el peso de un cinturón para fondos, o sostén una mancuerna entre tus pies.",
+    "Toma las barras paralelas y empuja hacia arriba hasta estirar los brazos.",
+    "Baja hasta que tus brazos estén aproximadamente al nivel del suelo, inclinarte hacia adelante para favorecer el pecho o mantenerte erguido para favorecer los tríceps.",
+    "Empuja de vuelta hacia arriba de forma controlada. Registra el peso que añadiste, no tu peso corporal."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

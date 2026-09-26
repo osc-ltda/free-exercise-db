@@ -1,5 +1,6 @@
 {
   "name": "Front Raise And Pullover",
+  "nameEs": "Elevación frontal y pullover",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,6 +19,13 @@
     "Now raise the weight using a semicircular motion and keeping your arms straight as you inhale. Continue the same movement until the bar is on the other side above your head . (Tip: the bar will travel approximately 180-degrees). At this point your arms should be parallel to the floor with the palms of your hands facing the ceiling.",
     "Now return the barbell to the starting position by reversing the motion as you exhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate en un banco plano mientras sostienes una barra usando un agarre con las palmas hacia abajo que esté separado por unas 15 pulgadas.",
+    "Coloca la barra sobre tus muslos superiores, extiende tus brazos y bloquéalos manteniendo una ligera flexión en los codos. Esta será tu posición inicial.",
+    "Ahora levanta el peso usando un movimiento semicircular y manteniendo tus brazos rectos mientras inhalas. Continúa el mismo movimiento hasta que la barra esté al otro lado por encima de tu cabeza. (Consejo: la barra recorrerá aproximadamente 180 grados). En este punto, tus brazos deben estar paralelos al suelo con las palmas de tus manos mirando hacia el techo.",
+    "Ahora regresa la barra a la posición inicial invirtiendo el movimiento mientras exhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

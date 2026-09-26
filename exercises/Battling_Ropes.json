@@ -1,5 +1,6 @@
 {
   "name": "Battling Ropes",
+  "nameEs": "Battling Ropes",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Initiate the movement by rapidly raising one arm to shoulder level as quickly as you can.",
     "As you let that arm drop to the starting position, raise the opposite side.",
     "Continue alternating your left and right arms, whipping the ropes up and down as fast as you can."
+  ],
+  "instructionsEs": [
+    "Para este ejercicio necesitarás una cuerda pesada anclada en su centro a 15-20 pies de distancia. De pie frente a la cuerda, toma un extremo en cada mano con los brazos extendidos a los lados. Esta será tu posición inicial.",
+    "Inicia el movimiento levantando rápidamente un brazo a la altura del hombro lo más rápido que puedas.",
+    "Mientras dejas que ese brazo baje a la posición inicial, levanta el lado opuesto.",
+    "Continúa alternando tu brazo izquierdo y derecho, azotando las cuerdas hacia arriba y hacia abajo lo más rápido que puedas."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

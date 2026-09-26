@@ -1,5 +1,6 @@
 {
   "name": "Shoulder Raise",
+  "nameEs": "Elevación de hombro",
   "force": "pull",
   "level": "beginner",
   "mechanic": null,
@@ -12,6 +13,9 @@
   ],
   "instructions": [
     "Relax your arms to your sides and raise your shoulders up toward your ears, then back down."
+  ],
+  "instructionsEs": [
+    "Relaja los brazos a los costados y eleva los hombros hacia tus orejas, luego bájalos."
   ],
   "category": "stretching",
   "trackingType": "time",

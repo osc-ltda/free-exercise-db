@@ -1,5 +1,6 @@
 {
   "name": "Board Press",
+  "nameEs": "Press de banca con tablas",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,6 +19,12 @@
     "Tuck your feet underneath you and arch your back. Using the bar to help support your weight, lift your shoulder off the bench and retract them, squeezing the shoulder blades together. Use your feet to drive your traps into the bench. Maintain this tight body position throughout the movement.",
     "You can take a standard bench grip, or shoulder width to focus on the triceps. Pull the bar out of the rack without protracting your shoulders. The bar, wrist, and elbow should stay in line at all times. Focus on squeezing the bar and trying to pull it apart.",
     "Lower the bar to the boards, and then drive the bar up with as much force as possible. The elbows should be tucked in until lockout."
+  ],
+  "instructionsEs": [
+    "Comienza recostándote en el banco, sacando la cabeza más allá de la barra si es posible. De una a cinco tablas, hechas de listones de 2x6, se pueden atornillar y mantener en su lugar mediante un compañero de entrenamiento, bandas o simplemente metidas debajo de tu camisa.",
+    "Coloca tus pies debajo de ti y arquea la espalda. Usando la barra para ayudar a sostener tu peso, levanta los hombros del banco y retráelos, juntando los omóplatos. Usa tus pies para clavar tus trapecios en el banco. Mantén esta posición corporal tensa durante todo el movimiento.",
+    "Puedes tomar un agarre de press de banca estándar o al ancho de los hombros para concentrarte en los tríceps. Saca la barra del rack sin protruir los hombros. La barra, la muñeca y el codo deben mantenerse alineados en todo momento. Concéntrate en apretar la barra e intentar separarla.",
+    "Baja la barra hasta las tablas y luego impulsa la barra hacia arriba con la mayor fuerza posible. Los codos deben mantenerse pegados hasta el bloqueo."
   ],
   "category": "powerlifting",
   "trackingType": "weight_reps",

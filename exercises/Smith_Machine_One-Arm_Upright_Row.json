@@ -1,5 +1,6 @@
 {
   "name": "Upright Row (Smith Machine One-Arm)",
+  "nameEs": "Remo vertical (Máquina Smith a un brazo)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "Begin the movement by flexing the elbow, raising the upper arm with the elbow pointed out. Continue until your upper arm is parallel to the floor.",
     "After a brief pause, return the weight to the starting position.",
     "Repeat for the desired number of repetitions before engaging the hooks to rack the weight."
+  ],
+  "instructionsEs": [
+    "Con la barra a la altura de los muslos, carga un peso adecuado.",
+    "Toma la barra con un agarre ancho y desengancha el peso, retirando tu otra mano de la barra. Tu brazo debe estar extendido mientras te parientes derecho con la cabeza y el pecho hacia arriba. Esta será tu posición inicial.",
+    "Comienza el movimiento flexionando el codo, elevando la parte superior del brazo con el codo apuntando hacia afuera. Continúa hasta que la parte superior de tu brazo esté paralela al suelo.",
+    "Después de una breve pausa, regresa el peso a la posición inicial.",
+    "Repite para el número deseado de repeticiones antes de enganchar los seguros para colocar la barra."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

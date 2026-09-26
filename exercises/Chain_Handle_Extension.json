@@ -1,5 +1,6 @@
 {
   "name": "Chain Handle Extension",
+  "nameEs": "Extensión con mango de cadena",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -12,6 +13,11 @@
     "You will need two cable handle attachments and a flat bench, as well as chains, for this exercise. Clip the middle of the chains to the handles, and position yourself on the flat bench. Your elbows should be pointing straight up.",
     "Begin by extending through the elbow, keeping your upper arm still, with your wrists pronated.",
     "Pause at the lockout, and reverse the motion to return to the starting position."
+  ],
+  "instructionsEs": [
+    "Necesitarás dos accesorios de manija de polea y un banco plano, así como cadenas, para este ejercicio. Engancha el centro de las cadenas a las manijas y colócate en el banco plano. Tus codos deben apuntar directamente hacia arriba.",
+    "Comienza extendiendo el codo, manteniendo la parte superior del brazo quieta, con tus muñecas pronadas.",
+    "Haz una pausa en la extensión completa e invierte el movimiento para volver a la posición inicial."
   ],
   "category": "powerlifting",
   "trackingType": "weight_reps",

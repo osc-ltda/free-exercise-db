@@ -1,5 +1,6 @@
 {
   "name": "Triceps Extension (Standing Bent-Over One-Arm Dumbbell)",
+  "nameEs": "Extensión de tríceps (Mancuerna a un brazo de pie inclinado)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -17,6 +18,14 @@
     "After a second contraction at the top, slowly lower the dumbbell back to the starting position as you inhale.",
     "Repeat the movement for the prescribed amount of repetitions.",
     "Switch arms and repeat the exercise."
+  ],
+  "instructionsEs": [
+    "Con una mancuerna en una mano y la palma mirando hacia tu torso, flexiona ligeramente las rodillas e inclina tu torso hacia adelante doblando la cintura, mientras mantienes la espalda recta hasta que esté casi paralela al suelo. Asegúrate de mantener la cabeza en alto.",
+    "El brazo debe estar cerca del torso y paralelo al suelo mientras el antebrazo apunta hacia el suelo mientras la mano sostiene el peso. Consejo: Debe haber un ángulo de 90 grados entre el antebrazo y el brazo. Esta es tu posición inicial.",
+    "Manteniendo los brazos estáticos, usa los tríceps para levantar los pesos mientras exhalas hasta que los antebrazos estén paralelos al suelo y todo el brazo esté extendido. Al igual que en muchos otros ejercicios de brazos, solo se mueve el antebrazo.",
+    "Después de una contracción de un segundo en la parte alta, baja lentamente la mancuerna de vuelta a la posición inicial mientras inhalas.",
+    "Repite el movimiento por la cantidad prescrita de repeticiones.",
+    "Cambia de brazo y repite el ejercicio."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

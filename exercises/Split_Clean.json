@@ -1,5 +1,6 @@
 {
   "name": "Clean (Split)",
+  "nameEs": "Clean (Split)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -23,6 +24,14 @@
     "As full extension is achieved, transition into the third pull by aggressively shrugging and flexing the arms with the elbows up and out. At peak extension, aggressively pull yourself down, rotating your elbows under the bar as you do so.",
     "Receive the bar with the feet split, aggressively moving one foot forward and one foot back. The bar should be racked onto the protracted shoulders, lightly touching the throat with the hands relaxed. Continue to descend to the bottom position, which will help in the recovery.",
     "Immediately recover by driving through the heels, keeping the torso upright and elbows up. Bring the feet together as you stand up."
+  ],
+  "instructionsEs": [
+    "Con una barra en el suelo cerca de las espinillas, toma un agarre pronado justo por fuera de las piernas. Baja tus caderas con el peso enfocado en los talones, la espalda derecha, la cabeza mirando hacia adelante, el pecho arriba, y tus hombros justo por delante de la barra. Esta será tu posición de inicio.",
+    "Comienza el primer tirón empujando a través de los talones y extendiendo tus rodillas. El ángulo de tu espalda debe mantenerse igual y tus brazos deben permanecer derechos. Mueve el peso con control mientras continúes hasta por encima de las rodillas.",
+    "A continuación viene el segundo tirón, la fuente principal de aceleración para el clean. A medida que la barra se acerque a la posición del muslo medio, comienza a extender a través de las caderas. En un movimiento de salto, acelera extendiendo las caderas, las rodillas y los tobillos, usando la velocidad para mover la barra hacia arriba. No debería ser necesario tirar activamente con los brazos para acelerar el peso; al final del segundo tirón, el cuerpo debe estar completamente extendido, inclinado ligeramente hacia atrás, con los brazos todavía extendidos.",
+    "Una vez lograda la extensión completa, haz la transición al tercer tirón encogiéndote de hombros agresivamente y flexionando los brazos con los codos hacia arriba y hacia afuera. En la extensión máxima, tira de ti mismo hacia abajo agresivamente, rotando tus codos debajo de la barra al hacerlo.",
+    "Recibe la barra con los pies en split, moviendo agresivamente un pie hacia adelante y uno hacia atrás. La barra debe quedar apoyada sobre los hombros protraídos, tocando ligeramente la garganta con las manos relajadas. Continúa descendiendo hasta la posición más baja, lo que ayudará en la recuperación.",
+    "Recupérate inmediatamente empujando a través de los talones, manteniendo el torso erguido y los codos arriba. Junta los pies mientras te levantas."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

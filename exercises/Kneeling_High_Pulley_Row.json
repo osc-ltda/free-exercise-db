@@ -1,5 +1,6 @@
 {
   "name": "Row (Kneeling High Pulley)",
+  "nameEs": "Remo (Polea alta de rodillas)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,11 @@
     "Select the appropriate weight using a pulley that is above your head. Attach a rope to the cable and kneel a couple of feet away, holding the rope out in front of you with both arms extended. This will be your starting position.",
     "Initiate the movement by flexing the elbows and fully retracting your shoulders, pulling the rope toward your upper chest with your elbows out.",
     "After pausing briefly, slowly return to the starting position."
+  ],
+  "instructionsEs": [
+    "Selecciona el peso adecuado usando una polea que esté por encima de tu cabeza. Coloca una cuerda en el cable y arrodíllate a un par de pies de distancia, sosteniendo la cuerda al frente con ambos brazos extendidos. Esta será tu posición inicial.",
+    "Inicia el movimiento flexionando los codos y retrayendo por completo tus hombros, tirando de la cuerda hacia la parte superior de tu pecho con los codos hacia afuera.",
+    "Después de una breve pausa, regresa lentamente a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

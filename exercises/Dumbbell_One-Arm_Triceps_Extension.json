@@ -1,5 +1,6 @@
 {
   "name": "Triceps Extension (Dumbbell One-Arm)",
+  "nameEs": "Extensión de tríceps (Mancuerna a un brazo)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Slowly lower the dumbbell behind your head as you hold the upper arm stationary. Inhale as you perform this movement and pause when your triceps are fully stretched.",
     "Return to the starting position by flexing your triceps as you breathe out. Tip: It is imperative that only the forearm moves. The upper arm should remain at all times stationary next to your head.",
     "Repeat for the recommended amount of repetitions and switch arms."
+  ],
+  "instructionsEs": [
+    "Agarra una mancuerna y siéntate en un banco de press militar o en un banco multiusos con respaldo mientras colocas las mancuernas en posición vertical encima de tus muslos, o ponte de pie.",
+    "Lleva la mancuerna hacia arriba hasta la altura del hombro y luego extiende el brazo por encima de tu cabeza para que todo el brazo quede perpendicular al suelo y junto a tu cabeza. La mancuerna debe quedar encima de ti. La otra mano se puede mantener completamente extendida hacia un lado, en la cintura, sosteniendo el brazo que tiene la mancuerna o agarrada a una superficie fija.",
+    "Rota la muñeca para que la palma de tu mano mire hacia adelante y el dedo meñique mire hacia el techo. Esta será tu posición inicial.",
+    "Baja lentamente la mancuerna detrás de tu cabeza mientras mantienes el brazo inmóvil. Inhala al realizar este movimiento y haz una pausa cuando tus tríceps estén completamente estirados.",
+    "Regresa a la posición inicial flexionando tus tríceps mientras exhalas. Consejo: Es imperativo que solo se mueva el antebrazo. El brazo debe permanecer inmóvil junto a tu cabeza en todo momento.",
+    "Repite por el número recomendado de repeticiones y cambia de brazo."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

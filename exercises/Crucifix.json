@@ -1,5 +1,6 @@
 {
   "name": "Crucifix",
+  "nameEs": "Crucifix",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,10 @@
   "instructions": [
     "In the crucifix, you statically hold weights out to the side for time. While the event can be practiced using dumbbells, it is best to practice with one of the various implements used, such as axes and hammers, as it feels different.",
     "Begin standing, and raise your arms out to the side holding the implements. Your arms should be parallel to the ground. In competition, judges or sensors are used to let you know when you break parallel. Hold for as long as you can. Typically, the weights should be heavy enough that you fail in 30-60 seconds."
+  ],
+  "instructionsEs": [
+    "En el crucifijo, mantienes pesos estáticamente hacia un lado durante un tiempo. Si bien el evento se puede practicar usando mancuernas, es mejor practicarlo con una de las diversas herramientas utilizadas, como hachas y martillos, ya que se siente diferente.",
+    "Comienza de pie y eleva tus brazos hacia el lado sosteniendo los implementos. Tus brazos deben estar paralelos al suelo. En la competencia, se usan jueces o sensores para avisarte cuando rompes la paralela. Mantén la posición todo el tiempo que puedas. Por lo general, los pesos deben ser lo suficientemente pesados como para que falles en 30-60 segundos."
   ],
   "category": "strongman",
   "trackingType": "weight_reps",

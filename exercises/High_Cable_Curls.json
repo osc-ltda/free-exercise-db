@@ -1,5 +1,6 @@
 {
   "name": "Curls (High Cable)",
+  "nameEs": "Curl (Polea alta)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,6 +14,12 @@
     "Curl the handles towards you until they are next to your ears. Make sure that as you do so you flex your biceps and exhale. The upper arms should remain stationary and only the forearms should move. Hold for a second in the contracted position as you squeeze the biceps.",
     "Slowly bring back the arms to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Párate entre un par de poleas altas y toma un mango en cada brazo. Coloca tus brazos de manera que queden paralelos al suelo con las palmas de tus manos hacia ti. Esta será tu posición inicial.",
+    "Haz un curl con los mangos hacia ti hasta que estén al lado de tus orejas. Asegúrate de flexionar los biceps y exhalar mientras lo haces. Los brazos deben permanecer estáticos y solo deben moverse los antebrazos. Mantén un segundo en la posición contraída mientras aprietas los biceps.",
+    "Lentamente regresa los brazos a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

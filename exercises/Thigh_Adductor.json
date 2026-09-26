@@ -1,5 +1,6 @@
 {
   "name": "Thigh Adductor",
+  "nameEs": "Aductor de muslos",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,12 @@
     "Slowly press against the machine with your legs to move them towards each other while exhaling.",
     "Feel the contraction for a second and begin to move your legs back to the starting position while breathing in. Note: Remember to keep your upper body stationary and avoid fast jerking motions in order to prevent any injuries from occurring.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Para empezar, siéntate en la máquina de aductores y selecciona un peso con el que te sientas cómodo. Cuando tus piernas estén posicionadas correctamente en las almohadillas para piernas de la máquina, agarra las manijas de cada lado. Todo la parte superior de tu cuerpo (de la cintura hacia arriba) debe estar estática. Esta es la posición inicial.",
+    "Presiona lentamente contra la máquina con tus piernas para acercarlas entre sí mientras exhalas.",
+    "Siente la contracción por un segundo y comienza a regresar tus piernas a la posición inicial mientras inspiras. Nota: Recuerda mantener la parte superior de tu cuerpo estática y evita movimientos rápidos y bruscos para prevenir que ocurran lesiones.",
+    "Repite durante la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

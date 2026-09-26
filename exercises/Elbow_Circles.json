@@ -1,5 +1,6 @@
 {
   "name": "Elbow Circles",
+  "nameEs": "Círculos de codos",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,11 @@
     "Sit or stand with your feet slightly apart.",
     "Place your hands on your shoulders with your elbows at shoulder level and pointing out.",
     "Slowly make a circle with your elbows. Breathe out as you start the circle and breathe in as you complete the circle."
+  ],
+  "instructionsEs": [
+    "Siéntate o párate con los pies ligeramente separados.",
+    "Coloca tus manos sobre tus hombros con los codos a la altura de los hombros y apuntando hacia afuera.",
+    "Haz un círculo lentamente con tus codos. Exhala al comenzar el círculo e inhala al completarlo."
   ],
   "category": "stretching",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Triceps Extension (Cable Rope Overhead)",
+  "nameEs": "Extensión de tríceps (Polea con cuerda por encima de la cabeza)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Slowly lower the rope behind your head as you hold the upper arms stationary. Inhale as you perform this movement and pause when your triceps are fully stretched.",
     "Return to the starting position by flexing your triceps as you breathe out.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acopla una cuerda a la polea baja de la máquina de poleas.",
+    "Tomando la cuerda con ambas manos, extiende tus brazos con las manos directamente sobre tu cabeza usando un agarre neutro (las palmas se enfrentan). Tus codos deben estar cerca de la cabeza y los brazos deben quedar perpendiculares al suelo con los nudillos apuntando hacia el techo. Esta será tu posición inicial.",
+    "Baja lentamente la cuerda detrás de la cabeza mientras mantienes la parte superior de los brazos estática. Inhala al realizar este movimiento y haz una pausa cuando tus tríceps estén completamente estirados.",
+    "Regresa a la posición inicial flexionando tus tríceps mientras exhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

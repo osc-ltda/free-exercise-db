@@ -1,5 +1,6 @@
 {
   "name": "Flutter Kicks",
+  "nameEs": "Flutter Kicks",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,13 @@
     "Start the movement by lifting the left leg higher than the right leg.",
     "Then lower the left leg as you lift the right leg.",
     "Continue alternating in this manner (as though you are doing a flutter kick in water) until you have done the recommended amount of repetitions for each leg. Make sure that you keep a controlled movement at all times. Tip: You will breathe normally as you perform this movement."
+  ],
+  "instructionsEs": [
+    "En un banco plano, acuéstate boca abajo con las caderas en el borde del banco, las piernas estiradas con los dedos de los pies levantados del suelo y los brazos sobre el banco sosteniendo el borde delantero.",
+    "Aprieta tus glúteos e isquiotibiales y endereza las piernas hasta que estén niveladas con las caderas. Esta será tu posición inicial.",
+    "Comienza el movimiento levantando la pierna izquierda más alto que la pierna derecha.",
+    "Luego baja la pierna izquierda mientras levantas la pierna derecha.",
+    "Continúa alternando de esta manera (como si estuvieras haciendo una patada de crol en el agua) hasta que hayas hecho la cantidad recomendada de repeticiones para cada pierna. Asegúrate de mantener un movimiento controlado en todo momento. Consejo: respirarás normalmente mientras realizas este movimiento."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Bench Press (One Arm Dumbbell)",
+  "nameEs": "Press de banca (mancuerna a un brazo)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -19,6 +20,15 @@
     "As you breathe out, push the dumbbells up using your pectoral muscles. Lock your arms in the contracted position, squeeze your chest, hold for a second and then start coming down slowly. Tip: It should take at least twice as long to go down than to come up.",
     "Repeat the movement for the prescribed amount of repetitions of your training program.",
     "Switch arms and repeat the movement."
+  ],
+  "instructionsEs": [
+    "Acuéstate en un banco plano con una mancuerna en una mano sobre tu muslo.",
+    "Usando tu muslo para ayudarte a subir la mancuerna,impúlsala para poder sostenerla frente a ti a la anchura de los hombros. Usa la mano con la que no estás levantando para ayudarte a colocar la mancuerna sobre ti adecuadamente.",
+    "Una vez a la anchura de los hombros, gira tu muñeca hacia adelante para que la palma de tu mano mire hacia afuera. Esta será tu posición inicial.",
+    "Baja los pesos lentamente hacia tu costado mientras inspiras. Mantén el control total de la mancuerna en todo momento. Consejo: usa la mano con la que no levantas peso para ayudar a mantener el equilibrio de la mancuerna, ya que al principio te puede costar un poco. Usa tu mano libre solo si es necesario; de lo contrario, mantenla descansando a un lado.",
+    "A medida que exhalas, empuja las mancuernas hacia arriba usando tus músculos pectorales. Bloquea tus brazos en la posición contraída, aprieta el pecho, mantén la posición durante un segundo y luego comienza a bajar lentamente. Consejo: debe tomarte al menos el doble de tiempo bajar que subir.",
+    "Repite el movimiento por la cantidad de repeticiones prescrita en tu programa de entrenamiento.",
+    "Cambia de brazo y repite el movimiento."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

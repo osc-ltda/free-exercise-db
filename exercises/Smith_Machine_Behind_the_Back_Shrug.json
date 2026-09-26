@@ -1,5 +1,6 @@
 {
   "name": "Shrug (Smith Machine Behind the Back)",
+  "nameEs": "Encogimiento (Máquina Smith detrás de la espalda)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,13 @@
     "Initiate the movement by shrugging your shoulders straight up. Do not flex the arms or wrist during the movement.",
     "After a brief pause return the weight to the starting position.",
     "Repeat for the desired number of repetitions before engaging the hooks to rack the weight."
+  ],
+  "instructionsEs": [
+    "Con la barra a la altura de los muslos, carga un peso adecuado.",
+    "Párate con la barra detrás de ti, tomando un agarre pronado al ancho de los hombros en la barra y desengancha el peso. Debes estar de pie, derecho, con la cabeza y el pecho hacia arriba y los brazos extendidos. Esta será tu posición inicial.",
+    "Inicia el movimiento encogiendo los hombros directamente hacia arriba. No flexiones los brazos ni las muñecas durante el movimiento.",
+    "Después de una breve pausa, regresa el peso a la posición inicial.",
+    "Repite por el número deseado de repeticiones antes de enganchar los ganchos para colocar la barra."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Bench Press (Powerlifting)",
+  "nameEs": "Press de banca (Powerlifting)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,6 +19,12 @@
     "However wide your grip, it should cover the ring on the bar. Pull the bar out of the rack without protracting your shoulders. Focus on squeezing the bar and trying to pull it apart.",
     "Lower the bar to your lower chest or upper stomach. The bar, wrist, and elbow should stay in line at all times.",
     "Pause when the barbell touches your torso, and then drive the bar up with as much force as possible. The elbows should be tucked in until lockout."
+  ],
+  "instructionsEs": [
+    "Comienza recostándote en el banco, pasando la cabeza más allá de la barra si es posible. Coloca los pies debajo de ti y arquea la espalda. Utilizando la barra para ayudar a sostener tu peso, levanta los hombros del banco y retráelos, juntando los omóplatos. Usa tus pies para empujar tus trapecios contra el banco. Mantén esta posición corporal firme durante todo el movimiento.",
+    "Sin importar qué tan ancho sea tu agarre, debe cubrir el anillo de la barra. Saca la barra del soporte sin protraer los hombros. Concéntrate en apretar la barra e intentar separarla.",
+    "Baja la barra hacia la parte baja del pecho o la parte superior del abdomen. La barra, la muñeca y el codo deben mantenerse alineados en todo momento.",
+    "Haz una pausa cuando la barra toque tu torso y luego empuja la barra hacia arriba con la mayor fuerza posible. Los codos deben mantenerse pegados hasta el bloqueo."
   ],
   "category": "powerlifting",
   "trackingType": "weight_reps",

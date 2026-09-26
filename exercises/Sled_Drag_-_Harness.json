@@ -1,5 +1,6 @@
 {
   "name": "Sled Drag - Harness",
+  "nameEs": "Arrastre de trineo - Arnés",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,10 @@
   "instructions": [
     "To begin, load the sled with the desired weight and attach the pulling strap. You can pull with handles, use a harness, or attach the pulling strap to a weight belt.",
     "Whether pulling forwards or backwards, lean in the direction of travel and progress by extending through the hips and knees."
+  ],
+  "instructionsEs": [
+    "Para comenzar, carga el trineo con el peso deseado y sujeta la correa de tracción. Puedes tirar con asas, usar un arnés o sujetar la correa de tracción a un cinturón de peso.",
+    "Ya sea tirando hacia adelante o hacia atrás, inclínate en la dirección del desplazamiento y avanza extendiendo las caderas y las rodillas."
   ],
   "category": "strongman",
   "trackingType": "weight_reps",

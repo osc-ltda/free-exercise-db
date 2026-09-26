@@ -1,5 +1,6 @@
 {
   "name": "T-bar Row (Lying)",
+  "nameEs": "Remo con barra T (acostado)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,6 +19,14 @@
     "As you exhale slowly pull the weight up and squeeze your back at the top of the movement. Tip: Keep the upper arms as close to the torso as possible throughout the movement in order to better engage the back muscles. Also, do not lift your body off of the pad at any time and refrain from using the biceps to lift the weight.",
     "After a second contraction at the top of the movement, as you inhale, slowly go back down to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Carga la Máquina de remo con barra T con el peso deseado y ajusta la altura de las piernas para que tu pecho superior quede en la parte superior de la almohadilla. Consejo: En algunas máquinas, todo lo que puedes hacer es pararte en el escalón adecuado que te permita estar a una altura donde el pecho superior quede en la parte superior de la almohadilla.",
+    "Acuéstate boca abajo en la almohadilla y agarra las manijas. Puedes usar una posición con las palmas hacia abajo, las palmas hacia arriba o las palmas hacia adentro, dependiendo de qué parte de tu espalda quieras enfatizar.",
+    "Levanta la barra del soporte y extiende tus brazos frente a ti. Esta será tu posición inicial.",
+    "Mientras exhalas, tira lentamente del peso hacia arriba y aprieta tu espalda en la parte superior del movimiento. Consejo: Mantén la parte superior de los brazos lo más cerca posible del torso durante todo el movimiento para involucrar mejor los músculos de la espalda. Además, no levantes tu cuerpo de la almohadilla en ningún momento y abstente de usar los bíceps para levantar el peso.",
+    "Después de una contracción de un segundo en la parte superior del movimiento, mientras inhalas, baja lentamente a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

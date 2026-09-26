@@ -1,5 +1,6 @@
 {
   "name": "Runner's Stretch",
+  "nameEs": "Estiramiento del corredor",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -14,6 +15,11 @@
     "It's easiest to get into this stretch if you start standing up, put one leg behind you, and slowly lower your torso down to the floor.",
     "Keep the front heel on the floor (if it lifts up, scoot your other leg further back).",
     "Place your hands on either side of your front leg. To get more out of this stretch, push your butt up toward the ceiling, and then gradually lower it back toward the floor. You'll Stretch the hip flexor of the back leg and the hamstring and buttocks of the front."
+  ],
+  "instructionsEs": [
+    "Es más fácil entrar en este estiramiento si comienzas de pie, colocas una pierna detrás de ti y bajas lentamente tu torso hacia el piso.",
+    "Mantén el talón delantero en el piso (si se levanta, aleja más tu otra pierna hacia atrás).",
+    "Coloca tus manos a cada lado de tu pierna delantera. Para aprovechar más este estiramiento, empuja tus glúteos hacia el techo y luego bájalos gradualmente de regreso hacia el piso. Estirarás el flexor de la cadera de la pierna trasera y los isquiotibiales y glúteos de la delantera."
   ],
   "category": "stretching",
   "trackingType": "time",

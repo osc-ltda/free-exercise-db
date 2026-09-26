@@ -1,5 +1,6 @@
 {
   "name": "Hammer Curls (Cable - Rope Attachment)",
+  "nameEs": "Curl martillo (Polea - Accesorio de cuerda)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Using your biceps, pull your arms up as you exhale until your biceps touch your forearms. Tip: Remember to keep the elbows in and your upper arms stationary.",
     "After a 1 second contraction where you squeeze your biceps, slowly start to bring the weight back to the original position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Conecta un accesorio de cuerda a una polea baja y párate frente a la máquina a unas 12 pulgadas de distancia.",
+    "Agarra la cuerda con un agarre neutro (palmas hacia adentro) y párate completamente derecho manteniendo la curvatura natural de la espalda y tu torso estático.",
+    "Coloca tus codos pegados a tus costados y mantenlos ahí fijos durante todo el movimiento. Consejo: Solo los antebrazos deben moverse, no tus brazos. Esta será tu posición inicial.",
+    "Usando tus bíceps, eleva tus brazos mientras exhalas hasta que tus bíceps toquen tus antebrazos. Consejo: Recuerda mantener los codos pegados y tus brazos estáticos.",
+    "Después de una contracción de 1 segundo donde aprietas tus bíceps, comienza lentamente a llevar el peso de regreso a la posición original.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

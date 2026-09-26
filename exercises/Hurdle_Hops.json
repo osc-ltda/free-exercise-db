@@ -1,5 +1,6 @@
 {
   "name": "Hurdle Hops",
+  "nameEs": "Saltos de vallas",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -19,6 +20,12 @@
     "Stand in front of the first hurdle with your feet shoulder width apart. This will be your starting position.",
     "Begin by jumping with both feet over the first hurdle, swinging both arms as you jump.",
     "Absorb the impact of landing by bending the knees, rebounding out of the first leap by jumping over the next hurdle. Continue until you have jumped over all of the hurdles."
+  ],
+  "instructionsEs": [
+    "Coloca una fila de vallas u otros obstáculos pequeños, situándolos a unos cuantos pies de distancia.",
+    "Párate frente a la primera valla con los pies separados a la distancia de los hombros. Esta será tu posición de inicio.",
+    "Comienza saltando con ambos pies por encima de la primera valla, balanceando ambos brazos al saltar.",
+    "Absorbe el impacto del aterrizaje doblando las rodillas, impulsándote desde el primer salto para saltar la siguiente valla. Continúa hasta que hayas saltado todas las vallas."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

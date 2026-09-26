@@ -1,5 +1,6 @@
 {
   "name": "Push-Ups (Close Triceps Position)",
+  "nameEs": "Flexiones de brazos (Posición cerrada para tríceps)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Lower yourself until your chest almost touches the floor as you inhale.",
     "Using your triceps and some of your pectoral muscles, press your upper body back up to the starting position and squeeze your chest. Breathe out as you perform this step.",
     "After a second pause at the contracted position, repeat the movement for the prescribed amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca abajo en el suelo y coloca tus manos más juntas que el ancho de los hombros para una posición de manos cerrada. Asegúrate de sostener tu torso con los brazos extendidos.",
+    "Baja tu cuerpo hasta que tu pecho casi toque el suelo mientras inhalas.",
+    "Usando tus tríceps y algunos de tus músculos pectorales, empuja la parte superior de tu cuerpo de regreso a la posición inicial y contrae tu pecho. Exhala mientras realizas este paso.",
+    "Después de una pausa de un segundo en la posición contraída, repite el movimiento por la cantidad de repeticiones prescrita."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

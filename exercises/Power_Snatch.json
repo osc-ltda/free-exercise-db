@@ -1,5 +1,6 @@
 {
   "name": "Snatch (Power)",
+  "nameEs": "Snatch (Power)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -22,6 +23,13 @@
     "Transition into the second pull by extending through the hips knees and ankles, driving the bar up as quickly as possible. The bar should be close to the body. At peak extension, shrug the shoulders and allow the elbows to flex to the side.",
     "As you move your feet into the receiving position, a slightly wider position, pull yourself below the bar as you elevate the bar overhead. The bar should be received in a partial squat. Continue raising the bar to the overhead position, receiving the bar locked out overhead.",
     "Return to a standing position with the weight over head."
+  ],
+  "instructionsEs": [
+    "Comienza con una barra cargada en el suelo. La barra debe estar cerca o tocando las espinillas, y se debe tomar un agarre ancho en la barra. Los pies deben estar directamente debajo de las caderas, con las puntas hacia afuera según sea necesario. Baja las caderas, con el pecho arriba y la cabeza mirando hacia adelante. Los hombros deben estar justo en frente de la barra. Esta será la posición inicial.",
+    "Comienza el primer tirón empujando a través de la parte delantera de los talones, levantando la barra del suelo. El ángulo de la espalda debe mantenerse igual hasta que la barra pase las rodillas.",
+    "Haz la transición al segundo tirón extendiendo las caderas, rodillas y tobillos, impulsando la barra hacia arriba lo más rápido posible. La barra debe estar cerca del cuerpo. En la extensión máxima, encoje los hombros y permite que los codos se flexionen hacia el lado.",
+    "A medida que mueves los pies a la posición de recepción, una posición ligeramente más ancha, tírate debajo de la barra mientras la elevas por encima de la cabeza. La barra debe recibirse en una sentadilla parcial. Continúa elevando la barra a la posición por encima de la cabeza, recibiéndola bloqueada por encima.",
+    "Regresa a una posición de pie con el peso por encima de la cabeza."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

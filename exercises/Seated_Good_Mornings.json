@@ -1,5 +1,6 @@
 {
   "name": "Seated Good Mornings",
+  "nameEs": "Good Morning sentado",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,6 +16,12 @@
     "Remove the bar from the rack, creating a tight arch in your lower back. Keep your head facing forward. With your back, shoulders, and core tight, push your knees and butt out and you begin your descent. Sit back with your hips until you are seated on the box. This will be your starting position.",
     "Keeping the bar tight, bend forward at the hips as much as possible. If you set the pins to what would be parallel, you not only have a safety if you fail, but know when to stop.",
     "Pause just above the pins and reverse the motion until your torso it upright."
+  ],
+  "instructionsEs": [
+    "Prepara un cajón en un rack de potencia. Los seguros deben colocarse a una altura adecuada. Comienza pasando por debajo de la barra y colocándola en la parte posterior de los hombros, no encima de los trapecios. Junta tus escápulas y rota los codos hacia adelante, intentando doblar la barra sobre tus hombros.",
+    "Saca la barra del rack creando un arco tenso en la parte baja de la espalda. Mantén la cabeza hacia adelante. Con la espalda, los hombros y el core firmes, empuja las rodillas y los glúteos hacia afuera al comenzar el descenso. Siéntate hacia atrás con las caderas hasta quedar sentado en el cajón. Esta será tu posición inicial.",
+    "Manteniendo la barra firme, inclínate hacia adelante desde la cadera tanto como sea posible. Si ajustas los seguros a lo que sería una altura paralela, no solo tendrás seguridad si fallas, sino que sabrás cuándo parar.",
+    "Haz una pausa justo por encima de los seguros e invierte el movimiento hasta que tu torso esté erguido."
   ],
   "category": "powerlifting",
   "trackingType": "weight_reps",

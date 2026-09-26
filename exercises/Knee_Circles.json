@@ -1,5 +1,6 @@
 {
   "name": "Knee Circles",
+  "nameEs": "Knee Circles",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,11 @@
     "Stand with your legs together and hands by your waist.",
     "Now move your knees in a circular motion as you breathe normally.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Párate con las piernas juntas y las manos en la cintura.",
+    "Ahora mueve las rodillas en un movimiento circular mientras respiras con normalidad.",
+    "Repite por la cantidad de repeticiones recomendada."
   ],
   "category": "stretching",
   "trackingType": "bodyweight_reps",

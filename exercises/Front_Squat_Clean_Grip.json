@@ -1,5 +1,6 @@
 {
   "name": "Squat (Front Clean Grip)",
+  "nameEs": "Sentadilla (Front Clean Grip)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "Lift the bar off the rack by first pushing with your legs and at the same time straightening your torso. Step away from the rack and position your legs using a shoulder width medium stance with the toes slightly pointed out. Keep your head and elbows up at all times. This will be your starting position.",
     "Bend at the knees, sitting down between your legs. Continue down until your hamstrings are on your calves. Keep your knees aligned with your feet by consciously using your abductors to push your knees out as you squat.",
     "Begin to raise the bar as you exhale by pushing the floor mainly with the heel or middle of your foot as you straighten the legs again and return to the starting position."
+  ],
+  "instructionsEs": [
+    "Para empezar, primero coloca la barra en un soporte ligeramente por debajo del nivel de los hombros. Apoya la barra sobre los deltoides, empujando hacia las clavículas y rozando ligeramente la garganta. Tus manos deben estar en un agarre de cargada, tocando la barra solo con los dedos para ayudar a mantenerla en su posición.",
+    "Levanta la barra del soporte empujando primero con las piernas y al mismo tiempo enderezando el torso. Aléjate del soporte y coloca tus piernas usando una postura media al ancho de los hombros con las puntas de los pies ligeramente hacia afuera. Mantén la cabeza y los codos arriba en todo momento. Esta será tu posición de inicial.",
+    "Flexiona las rodillas, bajando el cuerpo entre tus piernas. Continúa bajando hasta que tus isquiotibiales estén sobre tus pantorrillas. Mantén tus rodillas alineadas con tus pies usando conscientemente tus abductores para empujar las rodillas hacia afuera mientras haces la sentadilla.",
+    "Comienza a elevar la barra mientras exhalas empujando el piso principalmente con el talón o la parte media del pie mientras enderezas las piernas nuevamente y regresas a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

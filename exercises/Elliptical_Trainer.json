@@ -1,5 +1,6 @@
 {
   "name": "Elliptical Trainer",
+  "nameEs": "Entrenador elíptico",
   "force": null,
   "level": "intermediate",
   "mechanic": null,
@@ -15,6 +16,10 @@
   "instructions": [
     "To begin, step onto the elliptical and select the desired option from the menu. Most ellipticals have a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. Elevation can be adjusted to change the intensity of the workout.",
     "The handles can be used to monitor your heart rate to help you stay at an appropriate intensity."
+  ],
+  "instructionsEs": [
+    "Para comenzar, súbete a la elíptica y selecciona la opción deseada en el menú. La mayoría de las elípticas tienen una configuración manual o puedes seleccionar un programa. Por lo general, puedes ingresar tu edad y peso para estimar la cantidad de calorías quemadas durante el ejercicio. La elevación se puede ajustar para cambiar la intensidad del entrenamiento.",
+    "Los mangos se pueden usar para monitorear tu frecuencia cardíaca y ayudarte a mantener una intensidad adecuada."
   ],
   "category": "cardio",
   "trackingType": "time",

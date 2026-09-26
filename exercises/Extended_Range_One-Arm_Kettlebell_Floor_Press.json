@@ -1,5 +1,6 @@
 {
   "name": "Press (Extended Range One-Arm Kettlebell Floor)",
+  "nameEs": "Press (Pesa rusa a un brazo en el suelo de rango extendido)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -14,6 +15,10 @@
   "instructions": [
     "Lie on the floor and position a kettlebell for one arm to press. The kettlebell should be held by the handle. The leg on the same side that you are pressing should be bent, with the knee crossing over the midline of the body.",
     "Press the kettlebell by extending the elbow and adducting the arm, pressing it above your body. Return to the starting position."
+  ],
+  "instructionsEs": [
+    "Acuéstate en el suelo y coloca una pesa rusa para que un brazo realice el press. La pesa rusa debe sostenerse por el asa. La pierna del mismo lado que estás usando para hacer press debe estar doblada, con la rodilla cruzando la línea media del cuerpo.",
+    "Haz press con la pesa rusa extendiendo el codo y aduciendo el brazo, elevándolo por encima de tu cuerpo. Regresa a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

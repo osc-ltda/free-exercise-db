@@ -1,5 +1,6 @@
 {
   "name": "Bench Sprint",
+  "nameEs": "Sprint en banco",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "Push off with your foot on top of the bench, extending through the hip and knee.",
     "Land with the opposite foot on top of the box, returning your other foot back to the start position.",
     "Continue alternating from one foot to another to complete the set."
+  ],
+  "instructionsEs": [
+    "Párate en el suelo con un pie apoyado en un banco o cajón con el talón cerca del borde.",
+    "Impúlsate con el pie que está encima del banco, extendiendo la cadera y la rodilla.",
+    "Aterriza con el pie opuesto encima del cajón y regresa el otro pie a la posición inicial.",
+    "Continúa alternando de un pie a otro para completar la serie."
   ],
   "category": "plyometrics",
   "trackingType": "time",

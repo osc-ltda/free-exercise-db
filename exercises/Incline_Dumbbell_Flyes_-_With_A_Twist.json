@@ -1,5 +1,6 @@
 {
   "name": "Flyes (Incline Dumbbell - With A Twist)",
+  "nameEs": "Aperturas (Inclinado Mancuerna - Con un giro)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,14 @@
     "As you breathe in, start to slowly lower the arms to the side while keeping the arms extended and while rotating the wrists until the palms of the hand are facing each other. Tip: At the end of the movement the arms will be by your side with the palms facing the ceiling.",
     "As you exhale start to bring the dumbbells back up to the starting position by reversing the motion and rotating the hands so that the pinky fingers are next to each other again. Tip: Keep in mind that the movement will only happen at the shoulder joint and at the wrist. There is no motion that happens at the elbow joint.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Sostén una mancuerna en cada mano y acuéstate en un banco inclinado que esté ajustado a un ángulo de inclinación de no más de 30 grados.",
+    "Extiende tus brazos por encima de ti con una ligera flexión en los codos.",
+    "Ahora rota las muñecas para que las palmas de tus manos estén orientadas hacia ti. Consejo: Los dedos meñiques deben estar uno al lado del otro. Esta será tu posición inicial.",
+    "A medida que inhalas, comienza a bajar lentamente los brazos hacia el costado mientras mantienes los brazos extendidos y mientras rotas las muñecas hasta que las palmas de la mano estén orientadas entre sí. Consejo: Al final del movimiento, los brazos estarán a tus costados con las palmas orientadas hacia el techo.",
+    "A medida que exhalas, comienza a subir las mancuernas de regreso a la posición inicial invirtiendo el movimiento y rotando las manos para que los dedos meñiques vuelvan a estar uno al lado del otro. Consejo: Ten en cuenta que el movimiento solo ocurrirá en la articulación del hombro y en la muñeca. No hay movimiento que ocurra en la articulación del codo.",
+    "Repite para la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

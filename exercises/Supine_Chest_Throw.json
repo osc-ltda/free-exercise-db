@@ -1,5 +1,6 @@
 {
   "name": "Throw (Supine Chest)",
+  "nameEs": "Lanzamiento (pecho en supino)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Begin with the ball on your chest, held with both hands on the bottom.",
     "Explode up, extending through the elbow to throw the ball directly above you as high as possible.",
     "Catch the ball with both hands as it comes down."
+  ],
+  "instructionsEs": [
+    "Este ejercicio es excelente para pases de pecho cuando te falta un compañero o una pared con suficiente resistencia. Acuéstate en el suelo boca arriba con las rodillas dobladas.",
+    "Comienza con el balón en tu pecho, sujeto con ambas manos por la parte inferior.",
+    "Explota hacia arriba, extendiendo a través del codo para lanzar el balón directamente por encima de ti lo más alto posible.",
+    "Atrapa el balón con ambas manos cuando baje."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Curl (Barbell)",
+  "nameEs": "Curl (Barra)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,13 @@
     "Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second and squeeze the biceps hard.",
     "Slowly begin to bring the bar back to starting position as your breathe in.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Párate con el torso erguido mientras sostienes una barra con un agarre al ancho de los hombros. Las palmas de tus manos deben apuntar hacia adelante y los codos deben estar cerca del torso. Esta será tu posición inicial.",
+    "Mientras mantienes la parte superior de los brazos estática, haz un curl con los pesos hacia adelante mientras contraes los bíceps al exhalar. Consejo: solo deben moverse los antebrazos.",
+    "Continúa el movimiento hasta que tus bíceps estén completamente contraídos y la barra esté a la altura de los hombros. Mantén la posición contraída durante un segundo y aprieta los bíceps con fuerza.",
+    "Comienza a llevar lentamente la barra de regreso a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

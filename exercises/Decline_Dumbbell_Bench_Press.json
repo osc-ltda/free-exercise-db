@@ -1,5 +1,6 @@
 {
   "name": "Bench Press (Decline Dumbbell)",
+  "nameEs": "Press de banca (Mancuerna declinada)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,6 +19,14 @@
     "Bring down the weights slowly to your side as you breathe out. Keep full control of the dumbbells at all times. Tip: Throughout the motion, the forearms should always be perpendicular to the floor.",
     "As you breathe out, push the dumbbells up using your pectoral muscles. Lock your arms in the contracted position, squeeze your chest, hold for a second and then start coming down slowly. Tip: It should take at least twice as long to go down than to come up..",
     "Repeat the movement for the prescribed amount of repetitions of your training program."
+  ],
+  "instructionsEs": [
+    "Asegura tus piernas al final del banco declinado y acuéstate con una mancuerna en cada mano sobre tus muslos. Las palmas de tus manos se estarán mirando entre sí.",
+    "Una vez que estés acostado, mueve las mancuernas frente a ti al ancho de los hombros.",
+    "Una vez al ancho de los hombros, gira tus muñecas hacia adelante para que las palmas de tus manos señalen hacia el frente. Esta será tu posición inicial.",
+    "Baja los pesos lentamente hacia tus lados mientras exhalas. Mantén el control total de las mancuernas en todo momento. Consejo: durante todo el movimiento, los antebrazos siempre deben estar perpendiculares al suelo.",
+    "A medida que exhalas, empuja las mancuernas hacia arriba usando tus músculos pectorales. Bloquea tus brazos en la posición contraída, contrae tu pecho, mantén durante un segundo y luego comienza a bajar lentamente. Consejo: debe tomar al menos el doble de tiempo bajar que subir.",
+    "Repite el movimiento por la cantidad de repeticiones prescrita de tu programa de entrenamiento."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Bridge (Physioball Hip)",
+  "nameEs": "Puente de cadera (Balón suizo)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -14,6 +15,11 @@
     "Lay on a ball so that your upper back is on the ball with your hips unsupported. Both feet should be flat on the floor, hip width apart or wider. This will be your starting position.",
     "Begin by extending the hips using your glutes and hamstrings, raising your hips upward as you bridge.",
     "Pause at the top of the motion and return to the starting position."
+  ],
+  "instructionsEs": [
+    "Acuéstate sobre un balón de modo que tu parte superior de la espalda esté apoyada en él y tus caderas queden sin apoyo. Ambos pies deben estar apoyados en el suelo, separados a la distancia de las caderas o más. Esta será tu posición inicial.",
+    "Comienza extendiendo las caderas usando tus glúteos e isquiotibiales, elevando las caderas hacia arriba mientras haces el puente.",
+    "Haz una pausa en la parte superior del movimiento y regresa a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Jerk (One-Arm Kettlebell Split)",
+  "nameEs": "Jerk (Pesa rusa de un brazo en tijera)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,6 +20,13 @@
     "Immediately reverse direction, driving through the heels, in essence jumping to create momentum. As you do so, press the kettlebell overhead to lockout by extending the arms, using your body's momentum to move the weight.",
     "Receive the weight overhead by returning to a squat position underneath the weight, positioning one leg in front of you and one leg behind you.",
     "Keeping the weight overhead, return to a standing position and bring your feet together. Lower the weight to perform the next repetition."
+  ],
+  "instructionsEs": [
+    "Sostén una pesa rusa por el asa. Realiza un clean de la pesa rusa hacia tu hombro extendiendo las piernas y las caderas mientras tiras de la pesa rusa hacia tu hombro. Gira la muñeca al hacerlo para que la palma mire hacia adelante. Esta será tu posición inicial.",
+    "Flexiona tu cuerpo doblando las rodillas, manteniendo tu torso erguido.",
+    "Invierte la dirección de inmediato, empujando a través de los talones, esencialmente saltando para crear impulso. Al hacerlo, haz press con la pesa rusa por encima de la cabeza hasta bloquear los brazos, utilizando el impulso de tu cuerpo para mover el peso.",
+    "Recibe el peso por encima de la cabeza volviendo a una posición de sentadilla debajo del peso, colocando una pierna frente a ti y una pierna detrás de ti.",
+    "Manteniendo el peso por encima de la cabeza, regresa a una posición de pie y junta tus pies. Baja el peso para realizar la siguiente repetición."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

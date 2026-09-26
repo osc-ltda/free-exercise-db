@@ -1,5 +1,6 @@
 {
   "name": "Return Push from Stance",
+  "nameEs": "Empuje de retorno desde postura",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "At the signal, move into a position to receive the pass from your partner.",
     "Catch the medicine ball with both hands and immediately throw it back to your partner.",
     "You can modify this drill by running different routes."
+  ],
+  "instructionsEs": [
+    "Necesitarás un compañero para este ejercicio.",
+    "Comienza en una postura atlética de 2 o 3 puntos.",
+    "A la señal, muévete a una posición para recibir el pase de tu compañero.",
+    "Atrapa el balón medicinal con ambas manos y devuélvelo inmediatamente a tu compañero.",
+    "Puedes modificar este ejercicio corriendo diferentes rutas."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "One Knee To Chest",
+  "nameEs": "One Knee To Chest",
   "force": "static",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Extend one leg straight and pull the other knee to your chest. Hold under the knee joint to protect the kneecap.",
     "Gently tug that knee toward your nose.",
     "Switch sides. This stretches the buttocks and lower back of the bent leg and the hip flexor of the straight leg."
+  ],
+  "instructionsEs": [
+    "Comienza acostándote en el suelo.",
+    "Extiende una pierna recta y lleva la otra rodilla hacia tu pecho. Sostén debajo de la articulación de la rodilla para proteger la rótula.",
+    "Tira suavemente de esa rodilla hacia tu nariz.",
+    "Cambia de lado. Esto estira los glúteos y la parte baja de la espalda de la pierna doblada y el flexor de la cadera de la pierna recta."
   ],
   "category": "stretching",
   "trackingType": "time",

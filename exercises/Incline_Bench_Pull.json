@@ -1,5 +1,6 @@
 {
   "name": "Pull (Incline Bench)",
+  "nameEs": "Remo (Banco Inclinado)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -19,6 +20,15 @@
     "As you breathe out, start to pull the dumbbells up as if you are doing a reverse bench press. You will do this by bending at the elbows and bringing the upper arms up as you let the forearms hang. Continue this motion until the upper arms are at the same level as your back. Tip: The elbows will come out to the side and your upper arms and torso should make the letter \"T\" at the top of the movement. Hold the contraction at the top for a second.",
     "Slowly go back down to the starting position as you breathe in.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Toma una mancuerna en cada mano y acuéstate boca abajo en un banco con una inclinación de aproximadamente 30 grados.",
+    "Deja que los brazos cuelguen a tus lados totalmente extendidos apuntando hacia el piso.",
+    "Gira las muñecas hasta que tus manos tengan un agarre pronado (palmas hacia abajo).",
+    "Ahora abre los codos hacia afuera. Esta será tu posición inicial.",
+    "Mientras exhalas, comienza a levantar las mancuernas como si estuvieras haciendo un press de banca invertido. Harás esto doblando los codos y levantando la parte superior de los brazos mientras dejas colgar los antebrazos. Continúa este movimiento hasta que la parte superior de los brazos esté al mismo nivel que tu espalda. Consejo: Los codos saldrán hacia los lados y la parte superior de los brazos y el torso deben formar la letra \"T\" en la parte superior del movimiento. Mantén la contracción arriba durante un segundo.",
+    "Regresa lentamente a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

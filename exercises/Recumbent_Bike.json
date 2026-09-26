@@ -1,5 +1,6 @@
 {
   "name": "Recumbent Bike",
+  "nameEs": "Bicicleta reclinada",
   "force": null,
   "level": "beginner",
   "mechanic": null,
@@ -16,6 +17,11 @@
     "To begin, seat yourself on the bike and adjust the seat to your height.",
     "Select the desired option from the menu. You may have to start pedaling to turn it on. You can use the manual setting, or you can select a program to use. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. The level of resistance can be changed throughout the workout. The handles can be used to monitor your heart rate to help you stay at an appropriate intensity.",
     "Recumbent bikes offer convenience, cardiovascular benefits, and have less impact than other activities. A 150 lb person will burn about 230 calories cycling at a moderate rate for 30 minutes, compared to 450 calories or more running."
+  ],
+  "instructionsEs": [
+    "Para empezar, siéntate en la bicicleta y ajusta el asiento a tu altura.",
+    "Selecciona la opción deseada en el menú. Es posible que tengas que empezar a pedalear para encenderla. Puedes usar la configuración manual o seleccionar un programa. Por lo general, puedes ingresar tu edad y peso para estimar la cantidad de calorías quemadas durante el ejercicio. El nivel de resistencia se puede cambiar durante todo el entrenamiento. Los mangos se pueden usar para monitorear tu frecuencia cardíaca y ayudarte a mantener una intensidad adecuada.",
+    "Las bicicletas reclinadas ofrecen comodidad, beneficios cardiovasculares y tienen menos impacto que otras actividades. Una persona de 150 lb quemará alrededor de 230 calorías pedaleando a un ritmo moderado durante 30 minutos, en comparación con 450 calorías o más corriendo."
   ],
   "category": "cardio",
   "trackingType": "time",

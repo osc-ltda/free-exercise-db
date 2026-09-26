@@ -1,5 +1,6 @@
 {
   "name": "Pallof Press",
+  "nameEs": "Press Pallof",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -19,6 +20,14 @@
     "Press the cable away from your chest, fully extending both arms. You core should be tight and engaged.",
     "Hold the repetition for several seconds before returning to the starting position.",
     "At the conclusion of the set, repeat facing the other direction."
+  ],
+  "instructionsEs": [
+    "Conecta un agarradero estándar a una torre y, si es posible, coloca la polea a la altura de los hombros. Si no, una polea baja será suficiente.",
+    "De lado a la polea, toma el agarradero con ambas manos y aléjate de la torre. Debes estar aproximadamente a la distancia de un brazo de la polea, con la tensión del peso en el cable.",
+    "Con los pies separados a la distancia de las caderas y las rodillas ligeramente flexionadas, mantén el cable en el centro de tu pecho. Esta será tu posición inicial.",
+    "Empuja el cable alejándolo de tu pecho, extendiendo completamente ambos brazos. Tu centro debe estar tenso y activado.",
+    "Mantén la repetición durante varios segundos antes de regresar a la posición inicial.",
+    "Al concluir la serie, repite mirando hacia la otra dirección."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

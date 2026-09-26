@@ -1,5 +1,6 @@
 {
   "name": "Pullover (Bent-Arm Dumbbell)",
+  "nameEs": "Pullover (Mancuerna con brazos flexionados)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,6 +20,14 @@
     "While keeping your arms locked in the bent arm position, lower the weight slowly in an arc behind your head while breathing in until you feel a stretch on the chest.",
     "At that point, bring the dumbbell back to the starting position using the arc through which the weight was lowered and exhale as you perform this movement.",
     "Hold the weight on the initial position for a second and repeat the motion for the prescribed number of repetitions."
+  ],
+  "instructionsEs": [
+    "Coloca una mancuerna verticalmente sobre un banco plano.",
+    "Asegurándote de que la mancuerna se mantenga colocada de forma segura en la parte superior del banco, acuéstate perpendicular al banco (con el torso cruzado como formando una cruz) con solo tus hombros apoyados en la superficie. Las caderas deben estar debajo del banco y las piernas flexionadas con los pies firmemente en el suelo. La cabeza también quedará fuera del banco.",
+    "Agarra la mancuerna con ambas manos y sostenla recta sobre tu pecho con una flexión en los brazos. Ambas palmas deben estar presionando contra la parte inferior de uno de los lados de la mancuerna. Esta será tu posición inicial. Precaución: Asegúrate siempre de que la mancuerna utilizada para este ejercicio sea segura. Usar una mancuerna con discos sueltos puede hacer que se desarmen y caigan en tu cara.",
+    "Mientras mantienes tus brazos bloqueados en la posición flexionada, baja el peso lentamente en un arco detrás de tu cabeza mientras inhalas hasta que sientas un estiramiento en el pecho.",
+    "En ese punto, regresa la mancuerna a la posición inicial usando el arco por el cual bajó el peso y exhala mientras realizas este movimiento.",
+    "Mantén el peso en la posición inicial durante un segundo y repite el movimiento para el número prescrito de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

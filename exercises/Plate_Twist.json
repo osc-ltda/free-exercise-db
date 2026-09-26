@@ -1,5 +1,6 @@
 {
   "name": "Twist (Plate)",
+  "nameEs": "Giro (Disco)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -14,6 +15,13 @@
     "Move the plate to the left side and touch the floor with it. Breathe out as you perform that movement.",
     "Come back to the starting position as you breathe in and then repeat the movement but this time to the right side of the body. Tip: Use a slow controlled movement at all times. Jerking motions can injure the back.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate en el suelo o en una esterilla de ejercicio con las piernas completamente extendidas y el tren superior erguido. Toma el disco por sus lados con ambas manos al frente de tus abdominales con los brazos ligeramente doblados.",
+    "Cruza lentamente las piernas cerca de los tobillos y levántalas del suelo. Tus rodillas también deben estar ligeramente dobladas. Nota: Mueve tu tren superior un poco hacia atrás para ayudarte a mantener el equilibrio durante este ejercicio. Esta es la posición inicial.",
+    "Mueve el disco hacia el lado izquierdo y toca el suelo con él. Exhala mientras realizas ese movimiento.",
+    "Regresa a la posición inicial mientras inhalas y luego repite el movimiento, pero esta vez hacia el lado derecho del cuerpo. Consejo: Usa un movimiento lento y controlado en todo momento. Los movimientos bruscos pueden lesionar la espalda.",
+    "Repite durante la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

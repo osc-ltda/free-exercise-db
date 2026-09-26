@@ -1,5 +1,6 @@
 {
   "name": "Butt-Ups",
+  "nameEs": "Butt-Ups",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -14,6 +15,13 @@
     "Raise your glutes toward the ceiling, squeezing your abs tightly to close the distance between your ribcage and hips. The end result will be that you'll end up in a high bridge position. Exhale as you perform this portion of the movement.",
     "Lower back down slowly to your starting position as you breathe in. Tip: Don't let your back sag downwards.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Adopta una posición de flexión de brazos pero con los codos en el suelo y apoyado sobre tus antebrazos. Tus brazos deben estar doblados en un ángulo de 90 grados.",
+    "Arquea ligeramente la espalda hacia afuera en lugar de mantenerla completamente recta.",
+    "Eleva los glúteos hacia el techo, apretando el abdomen con fuerza para acortar la distancia entre tu caja torácica y las caderas. El resultado final será que terminarás en una posición de puente alto. Exhala al realizar esta porción del movimiento.",
+    "Vuelve a bajar lentamente a tu posición inicial mientras inspiras. Consejo: No permitas que tu espalda se hunda hacia abajo.",
+    "Repite para la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

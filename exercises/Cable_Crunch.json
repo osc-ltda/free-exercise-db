@@ -1,5 +1,6 @@
 {
   "name": "Crunch (Cable)",
+  "nameEs": "Abdominal (Polea)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "With the hips stationary, flex the waist as you contract the abs so that the elbows travel towards the middle of the thighs. Exhale as you perform this portion of the movement and hold the contraction for a second.",
     "Slowly return to the starting position as you inhale. Tip: Make sure that you keep constant tension on the abs throughout the movement. Also, do not choose a weight so heavy that the lower back handles the brunt of the work.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Arrodíllate debajo de una polea alta que contenga un accesorio de cuerda.",
+    "Agarra el accesorio de cuerda de la polea y baja la cuerda hasta que tus manos queden al lado de tu cara.",
+    "Flexiona ligeramente tus caderas y permite que el peso hiperextienda la parte baja de la espalda. Esta será tu posición inicial.",
+    "Con las caderas estáticas, flexiona la cintura mientras contraes los abdominales para que los codos se dirijan hacia la mitad de los muslos. Exhala al realizar esta porción del movimiento y mantén la contracción durante un segundo.",
+    "Regresa lentamente a la posición inicial mientras inhalas. Consejo: Asegúrate de mantener una tensión constante en los abdominales durante todo el movimiento. Asimismo, no elijas un peso tan pesado que la parte baja de la espalda cargue con el peso principal del trabajo.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

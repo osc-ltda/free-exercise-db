@@ -1,5 +1,6 @@
 {
   "name": "Platform Hamstring Slides",
+  "nameEs": "Deslizamientos de isquiotibiales en plataforma",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,12 @@
     "Begin the movement by flexing the knee, keeping your other leg straight.",
     "Continue bringing the heel closer to you, sliding it on the floor.",
     "At full knee flexion, reverse the movement to return to the starting position."
+  ],
+  "instructionsEs": [
+    "Para este movimiento se necesita un piso de madera o similar. Acuéstate boca arriba con las piernas extendidas. Coloca una toalla de gimnasio o un peso ligero debajo de tu talón. Esta será tu posición inicial.",
+    "Comienza el movimiento flexionando la rodilla, manteniendo la otra pierna recta.",
+    "Continúa acercando el talón hacia ti, deslizándolo por el suelo.",
+    "A la máxima flexión de rodilla, invierte el movimiento para regresar a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

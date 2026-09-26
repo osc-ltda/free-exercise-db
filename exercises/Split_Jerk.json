@@ -1,5 +1,6 @@
 {
   "name": "Jerk (Split)",
+  "nameEs": "Jerk (Split)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,6 +19,12 @@
     "Go down only slightly, and reverse direction as powerfully as possible. Drive through the heels create as much speed and force as possible, and be sure to move your head out of the way as the bar leaves the shoulders. At this moment as the feet leave the floor, the feet must be placed into the receiving position as quickly as possible.",
     "In the brief moment the feet are not actively driving against the platform, the athlete's effort to push the bar up will drive them down. The feet should be moved to a split stance, one foot forward, one foot back, with the knees partially bent. Receive the bar with the arms locked out overhead.",
     "Return to a standing position, bringing the feet together."
+  ],
+  "instructionsEs": [
+    "De pie con el peso apoyado en la parte delantera de los hombros, comienza con el dip. Con tus pies directamente bajo tus caderas, flexiona las rodillas sin mover las caderas hacia atrás.",
+    "Baja solo ligeramente y revierte la dirección con la mayor potencia posible. Empuja a través de los talones para generar tanta velocidad y fuerza como puedas, y asegúrate de quitar tu cabeza del camino cuando la barra deje los hombros. En este momento, a medida que los pies dejan el suelo, deben colocarse en la posición de recepción lo más rápido posible.",
+    "En el breve momento en que los pies no están empujando activamente contra la plataforma, el esfuerzo del atleta por empujar la barra hacia arriba lo impulsará hacia abajo. Los pies deben moverse a una postura de split, un pie adelante, un pie atrás, con las rodillas parcialmente flexionadas. Recibe la barra con los brazos bloqueados por encima de la cabeza.",
+    "Regresa a la posición de pie, juntando los pies."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

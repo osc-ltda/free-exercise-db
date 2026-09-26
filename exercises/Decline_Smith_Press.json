@@ -1,5 +1,6 @@
 {
   "name": "Press (Decline Smith)",
+  "nameEs": "Press (Máquina Smith declinado)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "After a brief pause, bring the bar back to the starting position by extending the elbows, exhaling as you do so.",
     "Repeat the movement for the prescribed amount of repetitions.",
     "When the set is complete, lock the bar back in the rack."
+  ],
+  "instructionsEs": [
+    "Coloca un banco declinado debajo de la máquina Smith. Luego, coloca la barra a una altura que puedas alcanzar al acostarte y con tus brazos casi completamente extendidos. Usando un agarre prono que sea más ancho que el ancho de los hombros, desbloquea la barra del soporte y sostenla directamente sobre ti con los brazos extendidos. Esta será tu posición inicial.",
+    "Mientras inhalas, baja la barra de manera controlada permitiendo que los codos se flexionen, rozando ligeramente el torso.",
+    "Después de una breve pausa, regresa la barra a la posición inicial extendiendo los codos y exhala al hacerlo.",
+    "Repite el movimiento por la cantidad de repeticiones prescrita.",
+    "Cuando la serie esté completa, vuelve a bloquear la barra en el soporte."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

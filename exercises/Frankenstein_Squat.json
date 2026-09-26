@@ -1,5 +1,6 @@
 {
   "name": "Squat (Frankenstein)",
+  "nameEs": "Sentadilla (Frankenstein)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,6 +19,12 @@
     "Place the barbell on the front of the shoulders, releasing your grip and extending your arms out in front of you. The shoulders should be pushed forward to create a shelf, and the bar should be in contact with the throat. Ensure that you only move your shoulder blades forward; don't round the thoracic spine.",
     "Squat by flexing the knees and hips, sitting in between your legs. Keep the torso upright, the arms up, and the shoulders forward, and the bar should stay in place. Go to the bottom of the squat, until your hamstrings contact your calves.",
     "Return to the upright position by driving through the front of the heel and extending the knees and hips."
+  ],
+  "instructionsEs": [
+    "Este ejercicio te enseña la posición adecuada tanto de la barra como de tu cuerpo durante el clean y la sentadilla frontal.",
+    "Coloca la barra en la parte delantera de los hombros, liberando el agarre y extendiendo los brazos al frente. Los hombros deben empujarse hacia adelante para crear un soporte, y la barra debe estar en contacto con la garganta. Asegúrate de mover solo los omóplatos hacia adelante; no redondees la columna torácica.",
+    "Haz la sentadilla flexionando las rodillas y las caderas, sentándote entre tus piernas. Mantén el torso erguido, los brazos arriba y los hombros hacia adelante, y la barra debe mantenerse en su lugar. Baja hasta el fondo de la sentadilla, hasta que tus isquiotibiales toquen tus pantorrillas.",
+    "Regresa a la posición erguida impulsándote a través de la parte delantera del talón y extendiendo las rodillas y las caderas."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

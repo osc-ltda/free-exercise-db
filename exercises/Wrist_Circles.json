@@ -1,5 +1,6 @@
 {
   "name": "Wrist Circles",
+  "nameEs": "Círculos de muñeca",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -12,6 +13,11 @@
     "Start by standing straight with your feet being shoulder width apart from each other. Elevate your arms to the side of you until they are fully extended and parallel to the floor at a height that is evenly aligned with your shoulders. Tip: Your torso and arms should form the letter \"T: Your palms should be facing down. This is the starting position.",
     "Keeping your entire body stationary except for the wrists, begin to rotate both wrists forward in a circular motion. Tip: Pretend that you are trying to draw circles by using your hands as the brush. Breathe normally as you perform this exercise.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Comienza de pie con los pies separados a la distancia de los hombros. Eleva tus brazos hacia los costados hasta que estén completamente extendidos y paralelos al suelo a una altura alineada uniformemente con tus hombros. Consejo: tu torso y brazos deben formar la letra \"T\". Tus palms deben mirar hacia abajo. Esta es la posición inicial.",
+    "Manteniendo todo tu cuerpo inmóvil excepto las muñecas, comienza a girar ambas muñecas hacia adelante en un movimiento circular. Consejo: finge que estás intentando dibujar círculos usando tus manos como pincel. Respira normalmente mientras realizas este ejercicio.",
+    "Repite por la cantidad de repeticiones recomendada."
   ],
   "category": "stretching",
   "trackingType": "bodyweight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Chest Push from 3 point stance",
+  "nameEs": "Empuje de pecho desde posición de 3 puntos",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,11 @@
     "Begin in a three point stance, squatted down with your back flat and one hand on the ground. Place the medicine ball directly in front of you.",
     "To begin, take your first step as you pull the ball to your chest, positioning both hands to prepare for the throw.",
     "As you execute the second step, explosively release the ball forward as hard as possible."
+  ],
+  "instructionsEs": [
+    "Comienza en una posición de tres puntos, en cuclillas con la espalda plana y una mano en el suelo. Coloca el balón medicinal directamente frente a ti.",
+    "Para empezar, da tu primer paso mientras llevas el balón hacia tu pecho, posicionando ambas manos para preparar el lanzamiento.",
+    "Al ejecutar el segundo paso, lanza el balón hacia adelante de manera explosiva con tanta fuerza como sea posible."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

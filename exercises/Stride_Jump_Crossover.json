@@ -1,5 +1,6 @@
 {
   "name": "Stride Jump Crossover",
+  "nameEs": "Salto con zancada cruzada",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,6 +19,12 @@
     "Begin by swinging the arms upward as you push through the top leg, jumping upward as high as possible. Attempt to drive the opposite knee upward.",
     "Land in the opposite position that you started, on the opposite side of the box. The foot that was initially on the box will now be on the ground, with the opposite foot now on the box.",
     "Repeat the movement, crossing back over to the other side."
+  ],
+  "instructionsEs": [
+    "Párate al lado de un cajón con tu pie interno apoyado arriba, cerca del borde.",
+    "Comienza balanceando los brazos hacia arriba mientras impulsas con la pierna superior, saltando lo más alto posible. Intenta llevar la rodilla opuesta hacia arriba.",
+    "Aterriza en la posición opuesta a la que empezaste, al otro lado del cajón. El pie que inicialmente estaba en el cajón ahora estará en el suelo, y el pie opuesto ahora estará en el cajón.",
+    "Repite el movimiento, cruzando de vuelta hacia el otro lado."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

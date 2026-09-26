@@ -1,5 +1,6 @@
 {
   "name": "Press (Kettlebell Arnold)",
+  "nameEs": "Press (Pesa rusa Arnold)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -14,6 +15,11 @@
     "Clean a kettlebell to your shoulder. Clean the kettlebell to your shoulder by extending through the legs and hips as you raise the kettlebell towards your shoulder. The palm should be facing inward.",
     "Looking straight ahead, press the kettlebell out and overhead, rotating your wrist so that your palm faces forward at the top of the motion.",
     "Return the kettlebell to the starting position, with the palm facing in."
+  ],
+  "instructionsEs": [
+    "Haz un clean con una pesa rusa hacia tu hombro. Realiza el clean extendiendo las piernas y caderas mientras subes la pesa rusa hacia tu hombro. La palma debe mirar hacia adentro.",
+    "Mirando hacia el frente, haz un press con la pesa rusa hacia afuera y por encima de la cabeza, girando tu muñeca para que la palma mire hacia adelante en la parte superior del movimiento.",
+    "Regresa la pesa rusa a la posición inicial, con la palma mirando hacia adentro."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

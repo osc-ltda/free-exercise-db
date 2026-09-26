@@ -1,5 +1,6 @@
 {
   "name": "Leg Raises (Rear)",
+  "nameEs": "Elevaciones de pierna (traseras)",
   "force": "push",
   "level": "beginner",
   "mechanic": null,
@@ -11,6 +12,10 @@
   "instructions": [
     "Place yourself on your hands knees on an exercise mat. Your head should be looking forward and the bend of the knees should create a 90-degree angle between the hamstrings and the calves. This will be your starting position.",
     "Extend one leg up and behind you. The knee and hip should both extend. Repeat for 5-10 repetitions, and then switch sides."
+  ],
+  "instructionsEs": [
+    "Colócate en el suelo sobre tus manos y rodillas en una esterilla de ejercicio. Tu cabeza debe mirar hacia adelante y la flexión de las rodillas debe crear un ángulo de 90 grados entre los isquiotibiales y las pantorrillas. Esta será tu posición inicial.",
+    "Extiende una pierna hacia arriba y detrás de ti. La rodilla y la cadera deben extenderse. Repite de 5 a 10 repeticiones y luego cambia de lado."
   ],
   "category": "stretching",
   "trackingType": "time",

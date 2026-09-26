@@ -1,5 +1,6 @@
 {
   "name": "Pushups (Close and Wide Hand Positions)",
+  "nameEs": "Flexión de brazos (Posiciones de manos cerrada y abierta)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Lower yourself until your chest almost touches the floor as you inhale.",
     "Using your pectoral muscles, press your upper body back up to the starting position and squeeze your chest. Breathe out as you perform this step.",
     "After a second pause at the contracted position, repeat the movement for the prescribed amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca abajo en el piso con el cuerpo recto, los dedos de los pies en el piso y las manos más separadas que el ancho de los hombros para una posición abierta, y más juntas que el ancho de los hombros para una posición cerrada. Asegúrate de mantener tu torso elevado con los brazos estirados.",
+    "Baja tu cuerpo hasta que tu pecho casi toque el piso mientras inhalas.",
+    "Usando tus músculos pectorales, empuja la parte superior de tu cuerpo de regreso a la posición inicial y contrae tu pecho. Exhala mientras realizas este paso.",
+    "Después de una pausa de un segundo en la posición contraída, repite el movimiento por la cantidad de repeticiones prescrita."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

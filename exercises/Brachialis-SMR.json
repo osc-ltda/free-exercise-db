@@ -1,5 +1,6 @@
 {
   "name": "Brachialis-SMR",
+  "nameEs": "Brachialis-SMR",
   "force": "static",
   "level": "intermediate",
   "mechanic": null,
@@ -11,6 +12,10 @@
   "instructions": [
     "Lie on your side, with your upper arm against the foam roller. The upper arm should be more or less aligned with your body, with the outside of the bicep pressed against the foam roller.",
     "Raise your hips off of the floor, supporting your weight on your arm and on your feet. Hold for 10-30 seconds, and then switch sides."
+  ],
+  "instructionsEs": [
+    "Acuéstate de lado, con la parte superior del brazo contra el rodillo de espuma. La parte superior del brazo debe estar más o menos alineada con tu cuerpo, con la parte exterior del bíceps presionada contra el rodillo de espuma.",
+    "Eleva las caderas del suelo, apoyando tu peso en el brazo y en los pies. Mantén la posición durante 10-30 segundos y luego cambia de lado."
   ],
   "category": "stretching",
   "trackingType": "time",

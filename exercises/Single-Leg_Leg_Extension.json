@@ -1,5 +1,6 @@
 {
   "name": "Leg Extension (Single-Leg)",
+  "nameEs": "Extensión de pierna (A una pierna)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "Maintaining good posture, fully extend one leg, pausing at the top of the motion.",
     "Return to the starting position without letting the weight stop, keeping tension on the muscle.",
     "Repeat for the desired number of repetitions."
+  ],
+  "instructionsEs": [
+    "Siéntate en la máquina y ajústala para colocarte correctamente. El rodillo debe quedar contra la parte inferior de la espinilla, sin tocar el tobillo. Ajusta el asiento para que el punto de pivote esté alineado con tu rodilla. Selecciona un peso adecuado para tus capacidades.",
+    "Manteniendo una buena postura, extiende completamente una pierna y haz una pausa en la parte alta del movimiento.",
+    "Regresa a la posición inicial sin dejar que el peso se detenga, manteniendo la tensión en el músculo.",
+    "Repite durante el número deseado de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

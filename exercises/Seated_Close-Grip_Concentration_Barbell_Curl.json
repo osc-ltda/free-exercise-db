@@ -1,5 +1,6 @@
 {
   "name": "Concentration Curl (Seated Close-Grip Barbell)",
+  "nameEs": "Curl de concentración (con barra sentado de agarre cerrado)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "While holding the upper arms stationary, curl the weights forward while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second as you squeeze the biceps.",
     "Slowly begin to bring the barbell back to starting position as your breathe in. Tip: Avoid swinging motions at any time.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Siéntate en un banco plano con una barra o barra Z frente a ti, entre tus piernas. Tus piernas deben estar separadas con las rodillas dobladas y los pies en el suelo.",
+    "Usa tus brazos para levantar la barra y coloca la parte posterior de tus brazos superiores encima de la parte interna de tus muslos (a unas tres pulgadas y media del frente de la rodilla). Se necesita un agarre supinado más estrecho que el ancho de los hombros para realizar este ejercicio. Consejo: Tu brazo debe estar extendido a la longitud del brazo y la barra debe estar por encima del suelo. Esta será tu posición inicial.",
+    "Mientras mantienes los brazos superiores estáticos, haz un curl de los pesos hacia adelante mientras contraes los bíceps al exhalar. Solo los antebrazos deben moverse. Continúa el movimiento hasta que tus bíceps estén completamente contraídos y las mancuernas estén a la altura de los hombros. Mantén la posición contraída durante un segundo mientras aprietas los bíceps.",
+    "Comienza lentamente a llevar la barra de vuelta a la posición inicial mientras inhalas. Consejo: Evita los movimientos de balanceo en cualquier momento.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

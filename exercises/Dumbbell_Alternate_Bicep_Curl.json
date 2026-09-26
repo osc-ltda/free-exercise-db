@@ -1,5 +1,6 @@
 {
   "name": "Bicep Curl (Dumbbell Alternate)",
+  "nameEs": "Curl de bíceps (Mancuerna alternado)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,13 @@
     "Slowly begin to bring the dumbbell back to the starting position as your breathe in. Tip: Remember to twist the palms back to the starting position (facing your thighs) as you come down.",
     "Repeat the movement with the left hand. This equals one repetition.",
     "Continue alternating in this manner for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Párate (con el torso erguido) con una mancuerna en cada mano sostenida a la longitud de los brazos. Los codos deben estar cerca del torso y las palmas de tus manos deben estar orientadas hacia tus muslos.",
+    "Mientras mantienes la parte superior del brazo estática, haz un curl con el peso derecho mientras rotas la palma de las manos hasta que queden orientadas hacia adelante. En este punto, continúa contrayendo los bíceps mientras exhalas hasta que tu bíceps esté completamente contraído y las mancuernas estén a la altura de los hombros. Mantén la posición contraída durante un segundo mientras contraes los bíceps. Consejo: Solo los antebrazos deben moverse.",
+    "Comienza lentamente a llevar la mancuerna de regreso a la posición inicial mientras inhalas. Consejo: Recuerda girar las palmas de regreso a la posición inicial (orientadas hacia tus muslos) a medida que bajas.",
+    "Repite el movimiento con la mano izquierda. Esto equivale a una repetición.",
+    "Continúa alternando de esta manera para la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

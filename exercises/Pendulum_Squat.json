@@ -1,5 +1,6 @@
 {
   "name": "Pendulum Squat (Machine)",
+  "nameEs": "Sentadilla en péndulo (Máquina)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Place your feet on the platform, release the handles and take the weight.",
     "Sit down into the arc, letting the machine carry your hips back as your knees bend deep.",
     "Drive through your whole foot to come back up, keeping your back against the pad the whole way."
+  ],
+  "instructionsEs": [
+    "Ajusta la plataforma y las hombreras para que te pares erguido con la espalda plana contra el respaldo.",
+    "Coloca tus pies en la plataforma, libera las manijas y toma el peso.",
+    "Baja siguiendo el arco, permitiendo que la máquina lleve tus caderas hacia atrás mientras tus rodillas se flexionan profundamente.",
+    "Empuja a través de todo tu pie para volver a subir, manteniendo tu espalda contra el respaldo durante todo el recorrido."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

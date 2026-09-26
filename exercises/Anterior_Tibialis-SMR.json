@@ -1,5 +1,6 @@
 {
   "name": "Anterior Tibialis-SMR",
+  "nameEs": "Tibial anterior-SMR",
   "force": "static",
   "level": "intermediate",
   "mechanic": null,
@@ -11,6 +12,10 @@
   "instructions": [
     "Begin seated on the ground with your legs bent and your feet on the floor.",
     "Using a Muscle Roller or a rolling pin, apply pressure to the muscles on the outside of your shins. Work from just below the knee to above the ankle, pausing at points of tension for 10-30 seconds. Repeat on the other leg."
+  ],
+  "instructionsEs": [
+    "Empieza sentado en el suelo con las piernas flexionadas y los pies en el suelo.",
+    "Usando un rodillo muscular o un rodillo de amasar, aplica presión en los músculos de la parte externa de las espinillas. Trabaja desde justo debajo de la rodilla hasta encima del tobillo, haciendo una pausa en los puntos de tensión durante 10-30 segundos. Repite en la otra pierna."
   ],
   "category": "stretching",
   "trackingType": "time",

@@ -1,5 +1,6 @@
 {
   "name": "Hang Snatch (Below Knees)",
+  "nameEs": "Snatch colgante (Debajo de las rodillas)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -22,6 +23,12 @@
     "Aggressively extend through the legs and hips. At peak extension, shrug the shoulders and allow the elbows to flex to the side.",
     "As you move your feet into the receiving position, forcefully pull yourself below the bar as you elevate the bar overhead. Receive the bar with your body as low as possible and the arms fully extended overhead.",
     "Return to a standing position with the weight overhead, and then return the weight to the floor under control."
+  ],
+  "instructionsEs": [
+    "Comienza con un agarre ancho en la barra, con un agarre prono o de gancho. Los pies deben estar directamente debajo de las caderas con las puntas hacia afuera. Tus rodillas deben estar ligeramente flexionadas y el torso inclinado hacia adelante. La columna debe estar completamente extendida y la cabeza mirando hacia adelante. La barra debe estar justo debajo de las rodillas. Esta será tu posición inicial.",
+    "Extiende agresivamente a través de las piernas y las caderas. En el pico de extensión, encoge los hombros y permite que los codos se flexionen hacia el lado.",
+    "A medida que mueves tus pies a la posición de recepción, tira de ti mismo con fuerza por debajo de la barra mientras elevas la barra por encima de la cabeza. Recibe la barra con tu cuerpo lo más bajo posible y los brazos completamente extendidos por encima de la cabeza.",
+    "Regresa a una posición de pie con el peso por encima de la cabeza y luego devuelve el peso al suelo de forma controlada."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

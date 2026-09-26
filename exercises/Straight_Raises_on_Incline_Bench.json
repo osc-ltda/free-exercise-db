@@ -1,5 +1,6 @@
 {
   "name": "Straight Raises (on Incline Bench)",
+  "nameEs": "Elevaciones rectas (en banco inclinado)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,12 @@
     "Lay on the bench face down. With a pronated grip, pick the barbell up from the floor, keeping your arms straight. Allow the bar to hang straight down. This will be your starting position.",
     "To begin, raise the barbell out in front of your head while keeping your arms extended.",
     "Return to the starting position."
+  ],
+  "instructionsEs": [
+    "Coloca una barra en el suelo detrás de la cabecera de un banco inclinado.",
+    "Acuéstate boca abajo en el banco. Con un agarre pronado, levanta la barra del suelo manteniendo tus brazos rectos. Deja que la barra cuelgue directamente hacia abajo. Esta será tu posición inicial.",
+    "Para empezar, eleva la barra hacia el frente por encima de tu cabeza mientras mantienes tus brazos extendidos.",
+    "Regresa a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

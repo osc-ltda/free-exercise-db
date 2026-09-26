@@ -1,5 +1,6 @@
 {
   "name": "Single-Leg Stride Jump",
+  "nameEs": "Salto de zancada a una pierna",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,11 @@
     "Stand to the side of a box with your inside foot on top of it, close to the edge.",
     "Begin by swinging the arms upward as you push through the top leg, jumping upward as high as possible. Attempt to drive the opposite knee upward.",
     "Land in the same position that you started, using your inside leg to decelerate the impact."
+  ],
+  "instructionsEs": [
+    "Párate al lado de un cajón con tu pie interior apoyado encima, cerca del borde.",
+    "Comienza balanceando los brazos hacia arriba mientras empujas con la pierna superior, saltando lo más alto posible. Intenta impulsar la rodilla opuesta hacia arriba.",
+    "Aterriza en la misma posición en la que empezaste, usando tu pierna interior para amortiguar el impacto."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

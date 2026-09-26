@@ -1,5 +1,6 @@
 {
   "name": "Sit-Up",
+  "nameEs": "Abdominal (Sit-Up)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Elevate your upper body so that it creates an imaginary V-shape with your thighs. Breathe out when performing this part of the exercise.",
     "Once you feel the contraction for a second, lower your upper body back down to the starting position while inhaling.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate en el suelo colocando tus pies debajo de algo que no se mueva o pidiendo a un compañero que los sostenga. Tus piernas deben estar flexionadas por las rodillas.",
+    "Coloca tus manos detrás de la cabeza y enlázalas entrelazando los dedos. Esta es la posición inicial.",
+    "Eleva la parte superior de tu cuerpo de modo que forme una V imaginaria con tus muslos. Exhala al realizar esta parte del ejercicio.",
+    "Una vez que sientas la contracción durante un segundo, baja la parte superior del cuerpo de regreso a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Squat (Olympic)",
+  "nameEs": "Sentadilla (olímpica)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,6 +17,11 @@
     "Begin with a barbell supported on top of the traps. The chest should be up, and the head facing forward. Adopt a hip width stance with the feet turned out as needed.",
     "Descend by flexing the knees, refraining from moving the hips back as much as possible. This requires that the knees travel forward; ensure that they stay aligned with the feet. The goal is to keep the torso as upright as possible. Continue all the way down, keeping the weight on the front of the heel.",
     "At the moment the upper legs contact the lower, reverse the motion, driving the weight upward."
+  ],
+  "instructionsEs": [
+    "Comienza con una barra apoyada en la parte superior de los trapecios. El pecho debe estar hacia arriba y la cabeza mirando al frente. Adopta una postura con los pies separados al ancho de las caderas y apuntando hacia afuera según sea necesario.",
+    "Desciende flexionando las rodillas, evitando mover las caderas hacia atrás tanto como sea posible. Esto requiere que las rodillas se desplacen hacia adelante; asegúrate de que permanezcan alineadas con los pies. El objetivo es mantener el torso lo más erguido posible. Continúa todo el recorrido hacia abajo, manteniendo el peso en la parte delantera del talón.",
+    "En el momento en que la parte superior de las piernas toque la inferior, invierte el movimiento, impulsando el peso hacia arriba."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

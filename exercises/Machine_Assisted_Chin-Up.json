@@ -1,5 +1,6 @@
 {
   "name": "Chin-Up (Machine Assisted)",
+  "nameEs": "Dominada supina (Máquina Asistido)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Kneel or stand on the pad and take the handles with an underhand, shoulder-width grip.",
     "Pull until your chin clears your hands, keeping your chest up and your elbows driving down.",
     "Lower all the way to straight arms under control."
+  ],
+  "instructionsEs": [
+    "Ajusta el contrapeso. Más peso en el pin significa más ayuda, así que anota lo que está en la pila en lugar de lo que levantaste: el número debería disminuir a medida que te vuelves más fuerte.",
+    "Arrodíllate o párate en la plataforma y toma los mangos con un agarre supino al ancho de los hombros.",
+    "Tira hasta que tu barbilla rebase tus manos, manteniendo el pecho arriba y los codos apuntando hacia abajo.",
+    "Baja por completo hasta extender los brazos de forma controlada."
   ],
   "category": "strength",
   "trackingType": "assisted_reps",

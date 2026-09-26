@@ -1,5 +1,6 @@
 {
   "name": "Bicep Curl (Dumbbell)",
+  "nameEs": "Curl de bíceps (Mancuerna)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,12 @@
     "Now, keeping the upper arms stationary, exhale and curl the weights while contracting your biceps. Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps.",
     "Then, inhale and slowly begin to lower the dumbbells back to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Párate derecho con una mancuerna en cada mano a la longitud de los brazos. Mantén tus codos cerca de tu torso y rota las palmas de tus manos hasta que estén orientadas hacia adelante. Esta será tu posición inicial.",
+    "Ahora, manteniendo la parte superior de los brazos estática, exhala y haz un curl con los pesos mientras contraes tus bíceps. Continúa elevando los pesos hasta que tus bíceps estén completamente contraídos y las mancuernas estén a la altura de los hombros. Mantén la posición contraída durante una breve pausa mientras contraes tus bíceps.",
+    "Luego, inhala y comienza lentamente a bajar las mancuernas de regreso a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

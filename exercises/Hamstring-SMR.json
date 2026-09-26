@@ -1,5 +1,6 @@
 {
   "name": "Hamstring-SMR",
+  "nameEs": "Isquiotibiales - SMR",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -12,6 +13,11 @@
     "In a seated position, extend your legs over a foam roll so that it is position on the back of the upper legs. Place your hands to the side or behind you to help support your weight. This will be your starting position.",
     "Using your hands, lift your hips off of the floor and shift your weight on the foam roll to one leg. Relax the hamstrings of the leg you are stretching.",
     "Roll over the foam from below the hip to above the back of the knee, pausing at points of tension for 10-30 seconds. Repeat for the other leg."
+  ],
+  "instructionsEs": [
+    "En posición sentada, extiende tus piernas sobre un rodillo de espuma para que quede ubicado en la parte posterior de los muslos. Coloca tus manos a los lados o detrás de ti para ayudar a sostener tu peso. Esta será tu posición inicial.",
+    "Usando tus manos, levanta las caderas del suelo y desplaza tu peso sobre el rodillo de espuma hacia una pierna. Relaja los isquiotibiales de la pierna que estás estirando.",
+    "Rueda sobre la espuma desde debajo de la cadera hasta arriba de la parte posterior de la rodilla, deteniéndote en los puntos de tensión durante 10-30 segundos. Repite con la otra pierna."
   ],
   "category": "stretching",
   "trackingType": "time",

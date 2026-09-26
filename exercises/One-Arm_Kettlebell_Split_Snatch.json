@@ -1,5 +1,6 @@
 {
   "name": "Snatch (One-Arm Kettlebell Split)",
+  "nameEs": "Snatch (Pesa rusa de un brazo en tijera)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Squat towards the floor, and then reverse the motion, extending the hips, knees, and finally the ankles, to raise the kettlebell overhead.",
     "After fully extending the body, descend into a lunge position to receive the weights overhead, one leg forward and one leg back. Ensure you drive through with your hips and lock the ketttlebells overhead in one uninterrupted motion.",
     "Return to a standing position, holding the weight overhead, and bring the feet together. Lower the weight to return to the starting position."
+  ],
+  "instructionsEs": [
+    "Sostén una pesa rusa en una mano por el asa.",
+    "Haz una sentadilla hacia el suelo y luego invierte el movimiento, extendiendo las caderas, las rodillas y finalmente los tobillos para elevar la pesa rusa por encima de la cabeza.",
+    "Después de extender completamente el cuerpo, desciende a una posición de zancada para recibir los pesos por encima de la cabeza, con una pierna hacia adelante y otra hacia atrás. Asegúrate de empujar con las caderas y bloquear las pesas rusas por encima de la cabeza en un movimiento continuo.",
+    "Regresa a una posición de pie, sosteniendo el peso por encima de la cabeza, y junta los pies. Baja el peso para volver a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Calf Raise (Barbell Seated)",
+  "nameEs": "Elevación de pantorrilla sentado (Barra)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Raise up on your toes as high as possible as you squeeze the calves and as you breathe out.",
     "After a second contraction, slowly go back to the starting position. Tip: To get maximum benefit stretch your calves as far as you can.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Coloca un bloque a unas 12 pulgadas frente a un banco plano.",
+    "Siéntate en el banco y coloca la parte delantera de tus pies sobre el bloque.",
+    "Pide a alguien que coloque una barra sobre la parte superior de tus muslos, a unas 3 pulgadas por encima de tus rodillas, y que la sostenga allí. Esta será tu posición inicial.",
+    "Elévate sobre las puntas de tus pies lo más alto posible mientras contraes las pantorrillas y exhalas.",
+    "Después de una contracción de un segundo, regresa lentamente a la posición inicial. Consejo: Para obtener el máximo beneficio, estira las pantorrillas tanto como puedas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

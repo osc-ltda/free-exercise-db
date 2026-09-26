@@ -1,5 +1,6 @@
 {
   "name": "Row (Inverted with Straps)",
+  "nameEs": "Remo (invertido con correas)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Begin by flexing the elbow, pulling your chest to your hands. Retract your shoulder blades as you perform the movement.",
     "Pause at the top of the motion, and return yourself to the start position.",
     "Repeat for the desired number of repetitions."
+  ],
+  "instructionsEs": [
+    "Cuelga una cuerda o correas de suspensión de un soporte u otro objeto estable. Agarra los extremos y colócate en posición supina colgando de las cuerdas. Tu cuerpo debe estar recto con los talones en el suelo y los brazos completamente extendidos. Esta será tu posición inicial.",
+    "Comienza flexionando el codo y llevando tu pecho hacia tus manos. Retrae tus omóplatos mientras realizas el movimiento.",
+    "Haz una pausa en la parte superior del movimiento y regresa a la posición inicial.",
+    "Repite para el número deseado de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

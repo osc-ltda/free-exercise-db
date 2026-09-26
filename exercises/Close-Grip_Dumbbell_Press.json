@@ -1,5 +1,6 @@
 {
   "name": "Press (Close-Grip Dumbbell)",
+  "nameEs": "Press (Mancuerna - Agarre estrecho)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "Grasp the dumbbell with both hands and hold it straight over your chest at arm's length. Both palms should be pressing against the underside of the sides of the dumbbell. This will be your starting position.",
     "Initiate the movement by lowering the dumbbell to your chest.",
     "Return to the starting position by extending the elbows."
+  ],
+  "instructionsEs": [
+    "Coloca una mancuerna en posición vertical sobre un banco plano.",
+    "Asegurándote de que la mancuerna permanezca firmemente colocada en la parte superior del banco, acuéstate perpendicular al banco con solo tus hombros apoyados en la superficie. Las caderas deben estar por debajo del banco y tus piernas flexionadas con los pies firmemente en el suelo.",
+    "Agarra la mancuerna con ambas manos y sostenla directamente sobre tu pecho con los brazos extendidos. Ambas palmas deben presionar contra la parte inferior de los lados de la mancuerna. Esta será tu posición inicial.",
+    "Inicia el movimiento bajando la mancuerna hacia tu pecho.",
+    "Regresa a la posición inicial extendiendo los codos."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

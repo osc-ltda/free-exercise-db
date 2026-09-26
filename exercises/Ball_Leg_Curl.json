@@ -1,5 +1,6 @@
 {
   "name": "Leg Curl (Ball)",
+  "nameEs": "Curl de pierna (Balón)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -17,6 +18,13 @@
     "Raise your hips off of the ground, keeping your weight on the shoulder blades and your feet.",
     "Flex the knees, pulling the ball as close to you as you can, contracting the hamstrings.",
     "After a brief pause, return to the starting position."
+  ],
+  "instructionsEs": [
+    "Comienza en el suelo acostado boca arriba con tus pies encima del balón.",
+    "Coloca el balón de modo que, cuando tus piernas estén extendidas, tus tobillos estén encima del balón. Esta será tu posición inicial.",
+    "Eleva tus caderas del suelo, manteniendo tu peso sobre los omóplatos y tus pies.",
+    "Flexiona las rodillas, acercando el balón hacia ti tanto como puedas, contrayendo los isquiotibiales.",
+    "Después de una breve pausa, regresa a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

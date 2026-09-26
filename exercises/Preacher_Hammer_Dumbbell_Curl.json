@@ -1,5 +1,6 @@
 {
   "name": "Preacher Hammer Curl (Dumbbell)",
+  "nameEs": "Preacher Hammer Curl (Mancuerna)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,12 @@
     "As you breathe in, slowly lower the dumbbells until your upper arm is extended and the biceps is fully stretched.",
     "As you exhale, use the biceps to curl the weight up until your biceps is fully contracted and the dumbbells are at shoulder height.",
     "Squeeze the biceps hard for a second at the contracted position and repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Coloca la parte superior de ambos brazos encima del banco scott mientras sostienes una mancuerna en cada mano con las palmas mirándose entre sí (agarre neutral).",
+    "Mientras inspiras, baja lentamente las mancuernas hasta que tu brazo esté extendido y el bíceps esté totalmente estirado.",
+    "Mientras exhalas, usa los bíceps para hacer un curl del peso hacia arriba hasta que el bíceps esté totalmente contraído y las mancuernas estén a la altura de los hombros.",
+    "Contrae el bíceps con fuerza durante un segundo en la posición contraída y repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

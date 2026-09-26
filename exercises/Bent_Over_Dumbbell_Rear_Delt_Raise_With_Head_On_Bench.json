@@ -1,5 +1,6 @@
 {
   "name": "Rear Delt Raise (Bent Over Dumbbell With Head On Bench)",
+  "nameEs": "Elevación de deltoides posterior (Inclinado con mancuerna y cabeza en banco)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Keeping your torso forward and stationary, and the arms straight with a slight bend at the elbows, lift the dumbbells straight to the side until both arms are parallel to the floor. Exhale as you lift the weights. Caution: avoid swinging the torso or bringing the arms back as opposed to the side.",
     "After a one second contraction at the top, slowly lower the dumbbells back to the starting position.",
     "Repeat the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Párate derecho mientras sostienes una mancuerna en cada mano y con un banco inclinado frente a ti.",
+    "Mientras mantienes la espalda recta y conservas su arco natural, inclínate hacia adelante hasta que tu frente toque el banco frente a ti. Deja que los brazos cuelguen frente a ti perpendiculares al suelo. Las palmas de tus manos deben estar enfrentadas y tu torso debe estar paralelo al suelo. Esta será tu posición inicial.",
+    "Manteniendo el torso hacia adelante y estático, y los brazos rectos con una ligera flexión en los codos, eleva las mancuernas directamente hacia los lados hasta que ambos brazos estén paralelos al suelo. Exhala mientras levantas los pesos. Precaución: evita balancear el torso o llevar los brazos hacia atrás en lugar de hacia los lados.",
+    "Después de una contracción de un segundo en la parte superior, baja lentamente las mancuernas de regreso a la posición inicial.",
+    "Repite la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

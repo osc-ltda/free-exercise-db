@@ -1,5 +1,6 @@
 {
   "name": "Leg Raises (Side)",
+  "nameEs": "Elevación de pierna (Lateral)",
   "force": "pull",
   "level": "beginner",
   "mechanic": null,
@@ -12,6 +13,11 @@
     "Stand next to a chair, which you may hold onto as a support. Stand on one leg. This will be your starting position.",
     "Keeping your leg straight, raise it as far out to the side as possible, and swing it back down, allowing it to cross the opposite leg.",
     "Repeat this swinging motion 5-10 times, increasing the range of motion as you do so."
+  ],
+  "instructionsEs": [
+    "Párate al lado de una silla, la cual puedes sostener como apoyo. Párate sobre una pierna. Esta será tu posición inicial.",
+    "Manteniendo la pierna recta, levántala hacia el costado tanto como sea posible y balancéala hacia abajo, permitiendo que cruce la pierna opuesta.",
+    "Repite este movimiento de balanceo 5-10 veces, aumentando el rango de movimiento a medida que lo haces."
   ],
   "category": "stretching",
   "trackingType": "time",

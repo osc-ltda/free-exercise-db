@@ -1,5 +1,6 @@
 {
   "name": "Lat Pulldown (Full Range-Of-Motion)",
+  "nameEs": "Jalón para dorsal (De rango de movimiento completo)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,6 +16,10 @@
   "instructions": [
     "Either standing or seated on a high bench, grasp two stirrup cables that are attached to the high pulleys. Grab with the opposing hand so your arms are crisscrossed about you and your palms are facing forward.",
     "Keeping your chest up and maintaining a slight arch in your lower back, pull the handles down as if you were doing a regular pulldown. The range of motion will be more of an arc. During the movement, rotate your hands so that in the bottom position your palms face each other rather than forward. Return slowly to the starting position and repeat."
+  ],
+  "instructionsEs": [
+    "Ya sea de pie o sentado en un banco alto, agarra dos cables de estribo que están unidos a las poleas altas. Agarra con la mano contraria para que tus brazos queden cruzados alrededor de ti y tus palmas apunten hacia adelante.",
+    "Manteniendo el pecho hacia arriba y manteniendo un ligero arco en la parte baja de la espalda, jala las manijas hacia abajo como si estuvieras haciendo un jalón normal. El rango de movimiento será más en forma de arco. Durante el movimiento, rota tus manos de modo que en la posición inferior tus palmas se miren entre sí en lugar de hacia adelante. Regresa lentamente a la posición inicial y repite."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Side To Side Chins",
+  "nameEs": "Dominada supina de lado a lado",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -21,6 +22,15 @@
     "Now, pull your torso up while leaning to the right hand side until the bar almost touches your upper chest by drawing the shoulders and the upper arms down and back. Exhale as you perform this portion of the movement. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary as it moves through space and only the arms should move. The forearms should do no other work other than hold the bar.",
     "After a second of contraction, inhale as you go back to the starting position.",
     "Repeat steps 3-6 until you have performed the prescribed amount of repetitions for each side."
+  ],
+  "instructionsEs": [
+    "Agarra la barra de dominada supina con las palmas hacia adelante usando un agarre ancho.",
+    "Como tienes ambos brazos extendidos frente a ti sosteniendo la barra con un agarre ancho, lleva tu torso hacia atrás unos 30 grados más o menos mientras creas una curvatura en tu espalda baja y sacas el pecho. Esta es tu posición inicial.",
+    "Jala tu torso hacia arriba mientras te inclinas hacia el lado izquierdo hasta que la barra casi toque tu parte superior del pecho tirando de los hombros y los brazos hacia abajo y hacia atrás. Exhala mientras realizas esta porción del movimiento. Consejo: Concéntrate en contraer los músculos de la espalda una vez que alcances la posición de contracción completa. La parte superior del torso debe permanecer estacionaria mientras se mueve a través del espacio (sin balanceo) y solo los brazos deben moverse. Los antebrazos no deben hacer otro trabajo que no sea sostener la barra.",
+    "Después de un segundo de contracción, inhala mientras regresas a la posición inicial.",
+    "Ahora, jala tu torso hacia arriba mientras te inclinas hacia el lado derecho hasta que la barra casi toque tu parte superior del pecho tirando de los hombros y los brazos hacia abajo y hacia atrás. Exhala mientras realizas esta porción del movimiento. Consejo: Concéntrate en contraer los músculos de la espalda una vez que alcances la posición de contracción completa. La parte superior del torso debe permanecer estacionaria mientras se mueve a través del espacio y solo los brazos deben moverse. Los antebrazos no deben hacer otro trabajo que no sea sostener la barra.",
+    "Después de un segundo de contracción, inhala mientras regresas a la posición inicial.",
+    "Repite los pasos 3-6 hasta que hayas realizado la cantidad prescrita de repeticiones para cada lado."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

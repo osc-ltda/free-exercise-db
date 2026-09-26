@@ -1,5 +1,6 @@
 {
   "name": "Leg Pull-In (Seated Flat Bench)",
+  "nameEs": "Jalón de piernas (Banco plano sentado)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,6 +14,12 @@
     "Bring the knees in toward you as you move your torso closer to them at the same time. Breathe out as you perform this movement.",
     "After a second pause, go back to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Siéntate en un banco con las piernas estiradas frente a ti un poco por debajo del paralelo y tus brazos sujetando los lados del banco. Tu torso debe estar inclinado hacia atrás en un ángulo de aproximadamente 45 grados respecto al banco. Esta será tu posición inicial.",
+    "Lleva las rodillas hacia ti mientras acercas tu torso hacia ellas al mismo tiempo. Exhala mientras realizas este movimiento.",
+    "Después de una pausa de un segundo, regresa a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

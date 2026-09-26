@@ -1,5 +1,6 @@
 {
   "name": "Bicep Curl (Machine)",
+  "nameEs": "Curl de bíceps (Máquina)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "Perform the movement by flexing the elbow, pulling your lower arm towards your upper arm.",
     "Pause at the top of the movement, and then slowly return the weight to the starting position.",
     "Avoid returning the weight all the way to the stops until the set is complete to keep tension on the muscles being worked."
+  ],
+  "instructionsEs": [
+    "Ajusta el asiento a la altura adecuada y selecciona el peso. Coloca la parte superior de tus brazos contra las almohadillas y agarra los mangos. Esta será tu posición inicial.",
+    "Realiza el movimiento flexionando el codo, acercando tu antebrazo hacia la parte superior del brazo.",
+    "Haz una pausa en la parte superior del movimiento y luego regresa lentamente el peso a la posición inicial.",
+    "Evita regresar el peso por completo a los topes hasta que la serie termine para mantener la tensión en los músculos trabajados."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

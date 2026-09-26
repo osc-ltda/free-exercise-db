@@ -1,5 +1,6 @@
 {
   "name": "Dumbbell Raise",
+  "nameEs": "Elevación con mancuernas",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,12 @@
     "Use your side shoulders to lift the dumbbells as you exhale. The dumbbells should be to the side of the body as you move them up. Continue to lift it until the dumbbells are nearly in line with your chin. Tip: Your elbows should drive the motion. As you lift the dumbbell, your elbow should always be higher than your forearm. Also, keep your torso stationary and pause for a second at the top of the movement.",
     "Lower the dumbbells back down slowly to the starting position. Inhale as you perform this portion of the movement.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Agarra una mancuerna en cada brazo y ponte de pie con los brazos extendidos a los lados, con una ligera flexión en los codos y la espalda recta. Esta será tu posición inicial. Consejo: La mancuerna debe estar al lado de tus muslos con la palma de tus manos hacia atrás.",
+    "Usa tus hombros laterales para levantar las mancuernas mientras exhalas. Las mancuernas deben quedar a los lados del cuerpo a medida que las subes. Continúa levantándolas hasta que las mancuernas estén casi alineadas con tu barbilla. Consejo: Tus codos deben guiar el movimiento. Al levantar la mancuerna, tu codo siempre debe estar más alto que tu antebrazo. Asimismo, mantén tu torso inmóvil y haz una pausa de un segundo en la parte alta del movimiento.",
+    "Baja las mancuernas de regreso lentamente a la posición inicial. Inhala al realizar esta porción del movimiento.",
+    "Repite por el número recomendado de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

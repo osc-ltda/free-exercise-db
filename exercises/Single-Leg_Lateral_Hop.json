@@ -1,5 +1,6 @@
 {
   "name": "Single-Leg Lateral Hop",
+  "nameEs": "Salto lateral a una pierna",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,6 +19,12 @@
     "To begin, execute a counterjump to hop sideways over the cone.",
     "Land on your jumping leg, and immediately rebound out of it by jumping back to the start position.",
     "Continue hopping back and forth."
+  ],
+  "instructionsEs": [
+    "Párate al lado de un cono u obstáculo. Para adoptar la posición inicial, párate sobre una pierna con la rodilla levemente flexionada.",
+    "Para comenzar, ejecuta un contrasalto para saltar lateralmente por encima del cono.",
+    "Aterriza sobre la pierna con la que saltaste e impulsate inmediatamente hacia afuera saltando de regreso a la posición inicial.",
+    "Continúa saltando de un lado a otro."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

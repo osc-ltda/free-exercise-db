@@ -1,5 +1,6 @@
 {
   "name": "Tricep Press (Body)",
+  "nameEs": "Press de tríceps (Peso corporal)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Begin by flexing the elbow, lowering yourself towards the bar.",
     "Pause, and then reverse the motion by extending the elbows.",
     "Progress from bodyweight by adding chains over your shoulders."
+  ],
+  "instructionsEs": [
+    "Coloca una barra en un soporte a la altura del pecho.",
+    "De pie, toma la barra con un Agarre al ancho de los hombros y da uno o dos pasos hacia atrás, con los pies juntos y los brazos extendidos de modo que te apoyes en la barra. Esta será tu posición inicial.",
+    "Comienza flexionando el codo, bajando hacia la barra.",
+    "Haz una pausa y luego invierte el movimiento extendiendo los codos.",
+    "Progresa desde el peso corporal añadiendo cadenas sobre tus hombros."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

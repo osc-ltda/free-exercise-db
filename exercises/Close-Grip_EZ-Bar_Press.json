@@ -1,5 +1,6 @@
 {
   "name": "Press (Close-Grip EZ-Bar)",
+  "nameEs": "Press (Barra Z - Agarre estrecho)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "Now lower the bar down to your lower chest as you breathe in. Keep the elbows in as you perform this movement.",
     "Using the triceps to push the bar back up, press it back to the starting position by extending the elbows as you exhale.",
     "Repeat."
+  ],
+  "instructionsEs": [
+    "Acuéstate en un banco plano con una Barra Z cargada con un peso adecuado.",
+    "Usando un agarre estrecho, levanta la barra y sostenla directamente sobre tu torso con los codos hacia adentro. Los brazos deben estar perpendiculares al suelo. Esta será tu posición inicial.",
+    "Ahora baja la barra hacia la parte baja de tu pecho mientras inspiras. Mantén los codos hacia adentro al realizar este movimiento.",
+    "Usando los tríceps para empujar la barra hacia arriba, presiónala de regreso a la posición inicial extendiendo los codos mientras exhalas.",
+    "Repite."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

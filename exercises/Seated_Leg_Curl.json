@@ -1,5 +1,6 @@
 {
   "name": "Leg Curl (Seated)",
+  "nameEs": "Curl de pierna (sentado)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "As you exhale, pull the machine lever as far as possible to the back of your thighs by flexing at the knees. Keep your torso stationary at all times. Hold the contracted position for a second.",
     "Slowly return to the starting position as you breathe in.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Ajusta la palanca de la máquina para que se adapte a tu altura y siéntate en la máquina con la espalda apoyada en el cojín de soporte.",
+    "Coloca la parte posterior de la pierna inferior sobre la palanca acolchada (unas pocas pulgadas por debajo de las pantorrillas) y asegura el cojín para los muslos justo por encima de las rodillas. Luego, agarra las manijas laterales de la máquina mientras apuntas con los dedos de los pies hacia adelante (o también puedes usar cualquiera de las otras dos posturas) y asegúrate de que las piernas estén completamente estiradas justo en frente de ti. Esta será tu posición inicial.",
+    "Mientras exhalas, tira de la palanca de la máquina lo más lejos posible hacia la parte posterior de los muslos flexionando las rodillas. Mantén tu torso estático en todo momento. Sostén la posición contraída por un segundo.",
+    "Regresa lentamente a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

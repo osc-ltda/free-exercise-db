@@ -1,5 +1,6 @@
 {
   "name": "Hug A Ball",
+  "nameEs": "Abrazo al balón",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,11 @@
     "Seat yourself on the floor.",
     "Straddle an exercise ball between both legs and lower your hips down toward the floor.",
     "Hug your arms around the ball to support your body. Adjust your legs so that your feet are flat on the floor and your knees line up over your ankles. Keep a good grip on the ball so it doesn't roll away from you and send you back onto your buttocks."
+  ],
+  "instructionsEs": [
+    "Siéntate en el suelo.",
+    "Coloca un balón de ejercicio entre ambas piernas y baja las caderas hacia el suelo.",
+    "Abraza el balón con los brazos para sostener tu cuerpo. Ajusta tus piernas para que tus pies estén apoyados planos en el suelo y tus rodillas queden alineadas sobre los tobillos. Mantén un buen agarre en el balón para que no ruede y te haga caer sobre los glúteos."
   ],
   "category": "stretching",
   "trackingType": "time",

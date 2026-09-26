@@ -1,5 +1,6 @@
 {
   "name": "Groin and Back Stretch",
+  "nameEs": "Estiramiento de ingle y espalda",
   "force": "static",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,6 +13,11 @@
     "Sit on the floor with your knees bent and feet together.",
     "Interlock your fingers behind your head. This will be your starting position.",
     "Curl downwards, bringing your elbows to the inside of your thighs. After a brief pause, return to the starting position with your head up and your back straight. Repeat for 10-20 repetitions."
+  ],
+  "instructionsEs": [
+    "Siéntate en el piso con las rodillas flexionadas y los pies juntos.",
+    "Entrelaza tus dedos detrás de la cabeza. Esta será tu posición inicial.",
+    "Haz un encogimiento hacia abajo, llevando tus codos hacia la parte interna de los muslos. Después de una breve pausa, regresa a la posición inicial con la cabeza hacia arriba y la espalda recta. Repite de 10 a 20 repeticiones."
   ],
   "category": "stretching",
   "trackingType": "time",

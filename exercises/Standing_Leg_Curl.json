@@ -1,5 +1,6 @@
 {
   "name": "Leg Curl (Standing)",
+  "nameEs": "Curl de pierna (De pie)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "As you exhale, curl your right leg up as far as possible without lifting the upper leg from the pad. Once you hit the fully contracted position, hold it for a second.",
     "As you inhale, bring the legs back to the initial position. Repeat for the recommended amount of repetitions.",
     "Perform the same exercise now for the left leg."
+  ],
+  "instructionsEs": [
+    "Ajusta la palanca de la máquina para que se adapte a tu altura y acuéstate con el torso flexionado a la cintura mirando hacia adelante unos 30-45 grados (ya que una posición inclinada es más favorable para la reclutación de los isquiotibiales) con la almohadilla de la palanca en la parte posterior de tu pierna derecha (unas pocas pulgadas debajo de las pantorrillas) y la parte delantera de la pierna derecha encima de la almohadilla de la máquina.",
+    "Manteniendo el torso inclinado hacia adelante, asegúrate de que tu pierna esté completamente estirada y agarra las manijas laterales de la máquina. Coloca tus dedos del pie rectos. Esta será tu posición inicial.",
+    "Mientras exhalas, haz un curl con tu pierna derecha hacia arriba lo más lejos posible sin levantar la pierna superior de la almohadilla. Una vez que alcances la posición completamente contraída, mantenla por un segundo.",
+    "Mientras inhalas, regresa las piernas a la posición inicial. Repite por la cantidad recomendada de repeticiones.",
+    "Realiza el mismo ejercicio ahora para la pierna izquierda."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

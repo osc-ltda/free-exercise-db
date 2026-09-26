@@ -1,5 +1,6 @@
 {
   "name": "Reverse Crunch (Suspended)",
+  "nameEs": "Abdominal inverso (Suspendido)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "Place your feet into the handles. You should maintain a straight posture, not allowing the hips to sag. This will be your starting position.",
     "Begin the movement by flexing the knees and hips, drawing the knees to your torso. As you do so, anteriorly tilt your pelvis, allowing your spine to flex.",
     "At the top of the controlled motion, return to the starting position."
+  ],
+  "instructionsEs": [
+    "Asegura un juego de correas de suspensión con los mangos colgando a aproximadamente un pie del suelo. Colócate en posición de plancha para flexión de brazos de espaldas al rack.",
+    "Coloca tus pies en los mangos. Debes mantener una postura recta, sin permitir que las caderas se hundan. Esta será tu posición inicial.",
+    "Comienza el movimiento flexionando las rodillas y las caderas, acercando las rodillas a tu torso. Al hacerlo, inclina tu pelvis hacia adelante, permitiendo que tu columna se flexione.",
+    "En la parte alta del movimiento controlado, regresa a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Jerk (Power)",
+  "nameEs": "Jerk (Power)",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -21,6 +22,13 @@
     "At this moment as the feet leave the floor, the feet must be placed into the receiving position as quickly as possible. In the brief moment the feet are not actively driving against the platform, the athletes effort to push the bar up will drive them down. The feet should be moved to a slightly wider stance, with the knees partially bent.",
     "Receive the bar with the arms locked out overhead.",
     "Return to a standing position."
+  ],
+  "instructionsEs": [
+    "De pie con el peso apoyado en la parte delantera de los hombros, comienza con la flexión. Con tus pies directamente bajo tus caderas, flexiona las rodillas sin mover las caderas hacia atrás. Baja solo un poco e invierte la dirección con lamayor potencia posible.",
+    "Empuja a través de los talones para generar la mayor velocidad y fuerza posible, y asegúrate de quitar la cabeza del camino a medida que la barra deja los hombros.",
+    "En este momento, cuando los pies abandonan el suelo, deben colocarse en la posición de recepción lo más rápido posible. En el breve momento en que los pies no están empujando activamente contra la plataforma, el esfuerzo del atleta por empujar la barra hacia arriba lo impulsará hacia abajo. Los pies deben moverse a una postura un poco más ancha, con las rodillas parcialmente flexionadas.",
+    "Recibe la barra con los brazos bloqueados por encima de la cabeza.",
+    "Regresa a una posición de pie."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

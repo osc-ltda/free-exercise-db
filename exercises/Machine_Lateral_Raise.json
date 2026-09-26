@@ -1,5 +1,6 @@
 {
   "name": "Lateral Raise (Machine)",
+  "nameEs": "Elevación lateral (Máquina)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,12 @@
     "Sit tall against the back pad, take the handles and keep a soft bend in your elbows.",
     "Drive the pads out and up with the sides of your shoulders until your upper arms are level with the floor.",
     "Pause at the top, then lower under control without letting the stack touch down between reps."
+  ],
+  "instructionsEs": [
+    "Ajusta el asiento para que las almohadillas queden justo encima de tus codos y tus hombros se alineen con el pivote de la máquina.",
+    "Siéntate erguido contra el respaldo, toma las manijas y mantén una ligera flexión en los codos.",
+    "Empuja las almohadillas hacia afuera y hacia arriba con los lados de tus hombros hasta que tus brazos estén paralelos al suelo.",
+    "Haz una pausa arriba y luego baja de forma controlada sin dejar que las placas de peso se toquen entre repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

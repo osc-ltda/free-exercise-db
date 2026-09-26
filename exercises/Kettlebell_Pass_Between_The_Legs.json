@@ -1,5 +1,6 @@
 {
   "name": "Kettlebell Pass Between The Legs",
+  "nameEs": "Paso de pesa rusa entre las piernas",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,6 +16,10 @@
   "instructions": [
     "Place one kettlebell between your legs and take a comfortable stance. Bend over by pushing your butt out and keeping your back flat.",
     "Pick up a kettlebell and pass it to your other hand between your legs, in the fashion of a \"W\". Go back and forth for several repetitions."
+  ],
+  "instructionsEs": [
+    "Coloca una pesa rusa entre tus piernas y adopta una postura cómoda. Inclínate hacia adelante sacando los glúteos y manteniendo la espalda plana.",
+    "Toma una pesa rusa y pásala a tu otra mano entre las piernas, en forma de \"W\". Ve de un lado a otro durante varias repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

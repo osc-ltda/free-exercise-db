@@ -1,5 +1,6 @@
 {
   "name": "Bent Over Row (Barbell)",
+  "nameEs": "Remo inclinado (Barra)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "Now, while keeping the torso stationary, breathe out and lift the barbell to you. Keep the elbows close to the body and only use the forearms to hold the weight. At the top contracted position, squeeze the back muscles and hold for a brief pause.",
     "Then inhale and slowly lower the barbell back to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Sosteniendo una barra con un agarre pronado (palmas hacia abajo), flexiona ligeramente las rodillas y lleva tu torso hacia adelante doblando la cintura, manteniendo la espalda recta hasta que esté casi paralela al suelo. Consejo: Asegúrate de mantener la cabeza arriba. La barra debe colgar directamente frente a ti mientras tus brazos cuelgan perpendiculares al suelo y a tu torso. Esta es tu posición inicial.",
+    "Ahora, mientras mantienes el torso estático, exhala y levanta la barra hacia ti. Mantén los codos cerca del cuerpo y usa solo los antebrazos para sostener el peso. En la posición contraída superior, aprieta los músculos de la espalda y mantén una breve pausa.",
+    "Luego inhala y baja lentamente la barra de regreso a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

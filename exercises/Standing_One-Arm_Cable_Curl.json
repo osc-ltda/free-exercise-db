@@ -1,5 +1,6 @@
 {
   "name": "Curl (Standing One-Arm Cable)",
+  "nameEs": "Curl (Polea a un brazo de pie)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Hold the contraction position as you squeeze the bicep and then lower the single handle back down to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions.",
     "Switch arms while performing this exercise."
+  ],
+  "instructionsEs": [
+    "Comienza agarrando el mango individual junto a la máquina de polea baja. Asegúrate de estar lo suficientemente lejos de la máquina para que tu brazo soporte el peso.",
+    "Asegúrate de que tu brazo esté estático, perpendicular al suelo con los codos hacia adentro y las palmas hacia adelante. Tu brazo que no levanta debe estar apoyado en tu cintura. Esto te permitirá mantener el equilibrio.",
+    "Comienza lentamente a hacer un curl con el mango individual hacia arriba mientras mantienes el brazo estático hasta que tu antebrazo toque tu bíceps mientras exhalas. Consejo: Solo debe moverse el antebrazo.",
+    "Mantén la posición de contracción mientras aprietas el bíceps y luego baja el mango individual de regreso a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones.",
+    "Cambia de brazo al realizar este ejercicio."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

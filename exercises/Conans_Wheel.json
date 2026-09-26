@@ -1,5 +1,6 @@
 {
   "name": "Conan's Wheel",
+  "nameEs": "Rueda de Conan",
   "force": null,
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,6 +20,10 @@
   "instructions": [
     "With the weight loaded, take a zurcher hold on the end of the implement. Place the bar in the crook of the elbow and hold onto your wrist. Try to keep the weight off of the forearms.",
     "Begin by lifting the weight from the ground. Keep a tight, upright posture as you being to walk, taking short, fast steps. Look up and away as you turn in a circle. Do not hold your breath during the event. Continue walking until you complete one or more complete turns."
+  ],
+  "instructionsEs": [
+    "Con el peso cargado, toma un agarre Zurcher en el extremo del implemento. Coloca la barra en el pliegue del codo y sujeta tu muñeca. Intenta mantener el peso alejado de los antebrazos.",
+    "Comienza levantando el peso del suelo. Mantén una postura firme y erguida mientras comienzas a caminar, dando pasos cortos y rápidos. Mira hacia arriba y hacia adelante mientras giras en círculo. No contengas la respiración durante el evento. Continúa caminando hasta completar una o más vueltas completas."
   ],
   "category": "strongman",
   "trackingType": "weight_reps",

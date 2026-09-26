@@ -1,5 +1,6 @@
 {
   "name": "Hang Clean (Below the Knees)",
+  "nameEs": "Hang Clean (Debajo de las rodillas)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -21,6 +22,12 @@
     "Begin by aggressively extending through the hips, knees and ankles, driving the weight upward. As you do so, shrug your shoulders towards your ears. As full extension is achieved, transition into the third pull by aggressively shrugging and flexing the arms with the elbows up and out.",
     "At peak extension, aggressively pull yourself down, rotating your elbows under the bar as you do so. Receive the bar in a front squat position, the depth of which is dependent upon the height of the bar at the end of the third pull. The bar should be racked onto the protracted shoulders, lightly touching the throat with the hands relaxed. Continue to descend to the bottom squat position, which will help in the recovery.",
     "Immediately recover by driving through the heels, keeping the torso upright and elbows up. Continue until you have risen to a standing position."
+  ],
+  "instructionsEs": [
+    "Comienza con un agarre prono doble o de gancho con el ancho de los hombros, con la barra colgando justo debajo de las rodillas. Tu espalda debe estar recta e inclinada ligeramente hacia adelante.",
+    "Comienza extendiendo agresivamente a través de las cadera, las rodillas y los tobillos, impulsando el peso hacia arriba. A medida que lo haces, realiza un encogimiento de hombros hacia tus orejas. Una vez lograda la extensión completa, haz la transición al tercer tirón encogiéndote agresivamente y flexionando los brazos con los codos hacia arriba y hacia afuera.",
+    "En el pico de extensión, tira de ti mismo hacia abajo agresivamente, rotando tus codos debajo de la barra mientras lo haces. Recibe la barra en una posición de sentadilla frontal, cuya profundidad depende de la altura de la barra al final del tercer tirón. La barra debe apoyarse sobre los hombros protraídos, tocando ligeramente la garganta con las manos relajadas. Continúa descendiendo hasta la posición inferior de la sentadilla, lo cual ayudará en la recuperación.",
+    "Recupérate inmediatamente impulsándote a través de los talones, manteniendo el torso erguido y los codos arriba. Continúa hasta que te hayas levantado a una posición de pie."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

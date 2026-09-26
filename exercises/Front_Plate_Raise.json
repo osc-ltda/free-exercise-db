@@ -1,5 +1,6 @@
 {
   "name": "Front Raise (Plate)",
+  "nameEs": "Elevación frontal (Disco)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "Slowly raise the plate as you exhale until it is a little above shoulder level. Hold the contraction for a second. Tip: make sure that you do not swing the weight or bend at the elbows. Your torso should remain stationary throughout the movement as well.",
     "As you inhale, slowly lower the plate back down to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Mientras estás de pie y derecho, sostén un disco de barra con ambas manos en las posiciones de las 3 y las 9 en punto. Tus palmas deben estar una frente a la otra y tus brazos deben estar extendidos y bloqueados con una ligera flexión en los codos, y el disco debe estar abajo cerca de tu cintura frente a ti lo más lejos que puedas. Consejo: Los brazos permanecerán en esta posición durante todo el ejercicio. Esta será tu posición inicial.",
+    "Levanta lentamente el disco mientras exhalas hasta que esté un poco por encima del nivel de los hombros. Mantén la contracción durante un segundo. Consejo: asegúrate de no balancear el peso ni doblar los codos. Tu torso también debe permanecer estático durante todo el movimiento.",
+    "Mientras inhalas, baja lentamente el disco de regreso a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

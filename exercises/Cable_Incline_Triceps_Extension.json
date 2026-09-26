@@ -1,5 +1,6 @@
 {
   "name": "Triceps Extension (Cable Incline)",
+  "nameEs": "Extensión de tríceps (Inclinado en polea)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Keeping the upper arms stationary, extend the arms as you flex the triceps. Breathe out during this portion of the movement and hold the contraction for a second.",
     "Slowly go back to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate en un banco inclinado de espaldas a una máquina de polea alta que tenga un accesorio de barra recta.",
+    "Toma el accesorio de barra recta por encima de la cabeza con un agarre estrecho pronado (con las palmas hacia abajo, menor al ancho de los hombros) y mantén tus codos pegados a los costados. La parte superior de tus brazos debe formar un ángulo de unos 25 grados respecto al suelo.",
+    "Manteniendo la parte superior de los brazos estática, extiende los brazos mientras flexionas los tríceps. Exhala durante esta parte del movimiento y mantén la contracción durante un segundo.",
+    "Regresa lentamente a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

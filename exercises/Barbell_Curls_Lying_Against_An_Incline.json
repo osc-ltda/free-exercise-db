@@ -1,5 +1,6 @@
 {
   "name": "Curls (Barbell Lying Against An Incline)",
+  "nameEs": "Curl (Barra acostado contra un inclinado)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "While keeping the upper arms stationary, curl the weight up as high as you can while squeezing the biceps. Breathe out as you perform this portion of the movement. Tip: Only the forearms should move. Do not swing the arms.",
     "After a second contraction, slowly go back to the starting position as you inhale. Tip: Make sure that you go all of the way down.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate contra un banco inclinado, con tus brazos sosteniendo una barra y colgando hacia abajo en línea horizontal. Esta será tu posición inicial.",
+    "Mientras mantienes los brazos fijos, haz un curl del peso hacia arriba tanto como puedas mientras contraes los bíceps. Exhala mientras realizas esta parte del movimiento. Consejo: Solo deben moverse los antebrazos. No balancees los brazos.",
+    "Después de una contracción de un segundo, regresa lentamente a la posición inicial mientras inhalas. Consejo: Asegúrate de bajar por completo.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

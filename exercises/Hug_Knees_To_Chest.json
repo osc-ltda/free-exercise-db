@@ -1,5 +1,6 @@
 {
   "name": "Hug Knees To Chest",
+  "nameEs": "Abrazo de rodillas al pecho",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -14,6 +15,11 @@
     "Lie down on your back and pull both knees up to your chest.",
     "Hold your arms under the knees, not over (that would put to much pressure on your knee joints).",
     "Slowly pull the knees toward your shoulders. This also stretches your buttocks muscles."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca arriba y lleva ambas rodillas hacia tu pecho.",
+    "Sostén tus brazos por debajo de las rodillas, no por encima (eso pondría demasiada presión en las articulaciones de tus rodillas).",
+    "Lentamente tira de las rodillas hacia tus hombros. Esto también estira los músculos de los glúteos."
   ],
   "category": "stretching",
   "trackingType": "time",

@@ -1,5 +1,6 @@
 {
   "name": "Spider Curl",
+  "nameEs": "Spider Curl",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,15 @@
     "Slowly begin to lift the barbell upwards and exhale. Hold the contracted position for a second as you squeeze the biceps.",
     "Slowly begin to bring the barbell back to the starting position as your breathe in. .",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Empieza colocando la barra en la parte del banco Scott donde normalmente te sentarías. Asegúrate de alinear la barra correctamente para que esté equilibrada y no se caiga.",
+    "Muévete hacia la parte delantera del banco Scott (la parte donde normalmente descansan los brazos) y colócate para acostarte en una inclinación de 45 grados con tu torso y estómago presionados contra la parte delantera del banco.",
+    "Asegúrate de que tus pies (especialmente los dedos) estén bien posicionados en el suelo y coloca tus brazos sobre la almohadilla ubicada en la parte interior del banco Scott.",
+    "Usa tus brazos para agarrar la barra con un agarre supinado (palmas hacia arriba) a una distancia aproximada al ancho de los hombros o ligeramente más cerca la una de la otra.",
+    "Comienza lentamente a levantar la barra hacia arriba y exhala. Mantén la contracción durante un segundo mientras aprietas los bíceps.",
+    "Comienza lentamente a regresar la barra a la posición inicial mientras inspiras. .",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

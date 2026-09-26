@@ -1,5 +1,6 @@
 {
   "name": "Lateral Raise (One-Arm Incline)",
+  "nameEs": "Elevación lateral (Inclinado a un brazo)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "While inhaling lower the weight across your body back into the starting position.",
     "Repeat the movement for the prescribed amount of repetitions.",
     "Switch arms and repeat the movement."
+  ],
+  "instructionsEs": [
+    "Acuéstate de lado en un press de banca inclinado con una mancuerna en la mano. Asegúrate de que el hombro esté presionado contra el banco inclinado y el brazo esté cruzado sobre tu cuerpo con la palma alrededor de tu ombligo.",
+    "Sostén una mancuerna en tu brazo superior mientras lo mantienes extendido frente a ti en paralelo al piso. Esta es tu posición inicial.",
+    "Mientras mantienes la mancuerna paralela al piso en todo momento, realiza una elevación lateral. Tu brazo debe subir en línea recta hasta apuntar al techo. Consejo: Exhala al realizar este movimiento. Sostén la mancuerna en la posición y siente la contracción en los hombros durante un segundo.",
+    "Mientras inhalas, baja el peso cruzando tu cuerpo de regreso a la posición inicial.",
+    "Repite el movimiento por la cantidad de repeticiones prescrita.",
+    "Cambia de brazo y repite el movimiento."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

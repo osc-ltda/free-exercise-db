@@ -1,5 +1,6 @@
 {
   "name": "Deadlift (with Bands)",
+  "nameEs": "Peso muerto (con banda)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -19,6 +20,11 @@
     "To deadlift with short bands, simply loop them over the bar before you start, and step into them to set up. For long bands, they will need to be anchored to a secure base, such as heavy dumbbells or a rack.",
     "With your feet, and your grip set, take a big breath and then lower your hips and bend the knees until your shins contact the bar. Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward. After the bar passes the knees, aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar.",
     "Lower the bar by bending at the hips and guiding it to the floor."
+  ],
+  "instructionsEs": [
+    "Para hacer peso muerto con bandas cortas, simplemente pásalas alrededor de la barra antes de empezar y colócate dentro de ellas para prepararte. Para las bandas largas, deberán estar ancladas a una base segura, como mancuernas pesadas o un soporte.",
+    "Con los pies y el agarre colocados, toma una gran inspiración, baja las caderas y dobla las rodillas hasta que tus espinillas toquen la barra. Mira hacia adelante con la cabeza, mantén el pecho levantado y la espalda arqueada, y comienza a empujar a través de los talones para mover el peso hacia arriba. Después de que la barra pase las rodillas, tira de ella hacia atrás con energía, juntando los omóplatos mientras empujas las caderas hacia adelante contra la barra.",
+    "Baja la barra flexionando las caderas y guiándola hacia el suelo."
   ],
   "category": "powerlifting",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Front Raise (Two-Dumbbell)",
+  "nameEs": "Elevación frontal con dos mancuernas",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "While maintaining the torso stationary (no swinging), lift the dumbbells to the front with a slight bend on the elbow and the palms of the hands always facing down. Continue to go up until you arms are slightly above parallel to the floor. Exhale as you execute this portion of the movement and pause for a second at the top.",
     "As you inhale, lower the dumbbells back down slowly to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Toma un par de mancuernas y párate con el torso recto y las mancuernas al frente de tus muslos a la longitud de los brazos con las palmas de las manos hacia tus muslos. Esta será tu posición inicial.",
+    "Mientras mantienes el torso estático (sin balanceo), eleva las mancuernas hacia el frente con una ligera flexión en el codo y las palmas de las manos siempre apuntando hacia abajo. Continúa subiendo hasta que tus brazos estén ligeramente por encima del paralelo al piso. Exhala mientras ejecutas esta porción del movimiento y haz una pausa de un segundo en la parte superior.",
+    "Mientras exhalas, baja las mancuernas lentamente de regreso a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

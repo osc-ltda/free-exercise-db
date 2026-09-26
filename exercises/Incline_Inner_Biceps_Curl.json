@@ -1,5 +1,6 @@
 {
   "name": "Biceps Curl (Incline Inner)",
+  "nameEs": "Curl de bíceps (Inclinado interno)",
   "force": null,
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Now as you exhale curl the weight outward and up while keeping your forearms in line with your side deltoids. Continue the curl until the dumbbells are at shoulder height and to the sides of your deltoids. Tip: The end of the movement should look similar to a double biceps pose.",
     "After a second contraction at the top of the movement, start to inhale and slowly lower the weights back to the starting position using the same path used to bring them up.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Sostén una mancuerna en cada mano y recuéstate en un banco inclinado.",
+    "Las mancuernas deben estar a la longitud de los brazos colgando a tus lados y tus palmas deben mirar hacia afuera. Esta será tu posición inicial.",
+    "Ahora, mientras exhalas, haz un curl con el peso hacia afuera y hacia arriba mientras mantienes tus antebrazos alineados con tus deltoides laterales. Continúa el curl hasta que las mancuernas estén a la altura de los hombros y a los lados de tus deltoides. Consejo: el final del movimiento debe verse similar a una pose de doble bíceps.",
+    "Después de una contracción de un segundo en la parte superior del movimiento, comienza a inhalar y baja lentamente los pesos de regreso a la posición inicial usando el mismo camino que usaste para subirlos.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Pull-Up (Machine Assisted)",
+  "nameEs": "Dominada (Máquina Asistido)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Kneel or stand on the pad and take the handles with an overhand grip, wider than your shoulders.",
     "Pull your elbows down and back until your chin passes the bar.",
     "Lower all the way to straight arms under control."
+  ],
+  "instructionsEs": [
+    "Ajusta el contrapeso. Más peso en el pin significa más ayuda, así que anota lo que está en la pila en lugar de lo que levantaste: el número debería disminuir a medida que te vuelves más fuerte.",
+    "Arrodíllate o párate en la plataforma y toma los mangos con un agarre pronado, más ancho que tus hombros.",
+    "Lleva los codos hacia abajo y hacia atrás hasta que tu barbilla pase la barra.",
+    "Baja por completo hasta extender los brazos de forma controlada."
   ],
   "category": "strength",
   "trackingType": "assisted_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Row (Two-Arm Kettlebell)",
+  "nameEs": "Remo (Pesa rusa de dos brazos)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -14,6 +15,10 @@
   "instructions": [
     "Place two kettlebells in front of your feet. Bend your knees slightly and then push your butt out as much as possible as you bend over to get in the starting position.",
     "Grab both kettlebells and pull them to your stomach, retracting your shoulder blades and flexing the elbows. Keep your back straight. Lower and repeat."
+  ],
+  "instructionsEs": [
+    "Coloca dos pesas rusas frente a tus pies. Dobla ligeramente las rodillas y luego saca los glúteos tanto como sea posible mientras te inclinas para adoptar la posición inicial.",
+    "Agarra ambas pesas rusas y llévalas hacia tu estómago, retrayendo tus omóplatos y flexionando los codos. Mantén la espalda recta. Baja y repite."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

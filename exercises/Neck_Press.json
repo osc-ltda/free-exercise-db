@@ -1,5 +1,6 @@
 {
   "name": "Press (Neck)",
+  "nameEs": "Press (Cuello)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your chest muscles. Lock your arms and squeeze your chest in the contracted position, hold for a second and then start coming down slowly again. Tip: It should take at least twice as long to go down than to come up).",
     "Repeat the movement for the prescribed amount of repetitions.",
     "When you are done, place the bar back in the rack."
+  ],
+  "instructionsEs": [
+    "Recuéstate en un banco plano. Con un agarre de ancho medio (un agarre que crea un ángulo de 90 grados en el medio del movimiento entre los antebrazos y la parte superior de los brazos), levanta la barra del soporte y sostenla derecha sobre tu cuello con los brazos bloqueados. Esta será tu posición inicial.",
+    "Mientras inspiras, baja lentamente hasta que sientas la barra en tu cuello.",
+    "Después de una pausa de un segundo, lleva la barra de regreso a la posición inicial mientras exhalas y empujas la barra usando los músculos de tu pecho. Bloquea los brazos y contrae el pecho en la posición de contracción, mantén un segundo y luego comienza a bajar lentamente de nuevo. Consejo: Debería tomar al menos el doble de tiempo bajar que subir).",
+    "Repite el movimiento por la cantidad de repeticiones prescrita.",
+    "Cuando hayas terminado, vuelve a colocar la barra en el soporte."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

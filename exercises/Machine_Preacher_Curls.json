@@ -1,5 +1,6 @@
 {
   "name": "Preacher Curl (Machine)",
+  "nameEs": "Curl predicador (Máquina)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Now lift the handles as you exhale and you contract the biceps. At the top of the position make sure that you hold the contraction for a second. Tip: Only the forearms should move. The upper arms should remain stationary and on the pad at all times.",
     "Lower the handles slowly back to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Siéntate en la máquina de curl predicador y selecciona el peso.",
+    "Coloca la parte posterior de tus brazos (tus tríceps) en el cojín predicador provisto y agarra las manijas con un agarre supino (palmas hacia arriba). Consejo: Asegúrate de que al colocar los brazos en el cojín mantengas los codos hacia adentro. Esta será tu posición inicial.",
+    "Ahora levanta las manijas mientras exhalas y contraes el bíceps. En la parte superior de la posición, asegúrate de mantener la contracción durante un segundo. Consejo: Solo deben moverse los antebrazos. Los brazos deben permanecer inmóviles y sobre el cojín en todo momento.",
+    "Baja las manijas lentamente a la posición inicial mientras inhalas.",
+    "Repite por la cantidad de repeticiones recomendada."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

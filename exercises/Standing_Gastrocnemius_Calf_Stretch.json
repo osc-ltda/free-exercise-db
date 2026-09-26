@@ -1,5 +1,6 @@
 {
   "name": "Standing Gastrocnemius Calf Stretch",
+  "nameEs": "Estiramiento de pantorrilla gemelos de pie",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -14,6 +15,11 @@
     "Place your right heel on a step with your knee extended and lean forward to grab your right toe with your right hand. Your left knee should be slightly bent and your back should be straight.",
     "Support your weight on your left leg and place your left hand on your left thigh.",
     "Pull your right toes toward your knee until you feel a stretch in your calf."
+  ],
+  "instructionsEs": [
+    "Coloca tu talón derecho en un escalón con la rodilla extendida e inclínate hacia adelante para agarrar la punta de tu pie derecho con tu mano derecha. Tu rodilla izquierda debe estar ligeramente flexionada y tu espalda debe estar recta.",
+    "Apoya tu peso en tu pierna izquierda y coloca tu mano izquierda sobre tu muslo izquierdo.",
+    "Tira de los dedos de tu pie derecho hacia tu rodilla hasta que sientas un estiramiento en tu pantorrilla."
   ],
   "category": "stretching",
   "trackingType": "time",

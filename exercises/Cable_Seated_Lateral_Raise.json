@@ -1,5 +1,6 @@
 {
   "name": "Seated Lateral Raise (Cable)",
+  "nameEs": "Elevación lateral sentado (Polea)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -19,6 +20,15 @@
     "While keeping the arms stationary, raise the upper arms to the sides until they are parallel to the floor and at shoulder height. Exhale during the execution of this movement and hold the contraction for a second.",
     "Slowly lower your arms to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions. Tip: Maintain upper arms perpendicular to torso and a fixed elbow position (10 degree to 30 degree angle) throughout exercise."
+  ],
+  "instructionsEs": [
+    "Párate en medio de dos poleas bajas opuestas entre sí y coloca un banco plano justo detrás de ti (de forma perpendicular a ti; el borde estrecho del banco debe ser el que quede detrás). Selecciona el peso a utilizar en cada polea.",
+    "Ahora siéntate en el borde del banco plano detrás de ti con los pies colocados frente a tus rodillas.",
+    "Inclínate hacia adelante manteniendo la espalda plana y apoya el torso sobre los muslos.",
+    "Haz que alguien te entregue las manijas individuales unidas a las poleas. Toma la polea izquierda con la mano derecha y la polea derecha con la mano izquierda después de seleccionar tu peso. Las poleas deben pasar por debajo de tus rodillas y tus brazos estarán extendidos con las palmas enfrentadas y una ligera flexión en los codos. Esta será la posición inicial.",
+    "Mientras mantienes los brazos estáticos, eleva la parte superior de los brazos hacia los lados hasta que queden paralelos al suelo y a la altura de los hombros. Exhala durante la ejecución de este movimiento y mantén la contracción por un segundo.",
+    "Baja lentamente tus brazos a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones. Consejo: Mantén la parte superior de los brazos perpendicular al torso y una posición fija de los codos (ángulo de 10 a 30 grados) durante todo el ejercicio."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

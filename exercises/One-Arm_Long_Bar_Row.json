@@ -1,5 +1,6 @@
 {
   "name": "Row (One-Arm Long Bar)",
+  "nameEs": "Remo (Una mano barra larga)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "Assume a bent-knee stance with your hips back and your chest up. Your arm should be extended. This will be your starting position.",
     "Pull the weight to your side by retracting the shoulder and flexing the elbow. Do not jerk the weight or cheat during the movement.",
     "After a brief pause, return to the starting position."
+  ],
+  "instructionsEs": [
+    "Coloca una barra en un soporte landmine o en una esquina para evitar que se mueva. Carga un peso adecuado en el extremo.",
+    "Párate junto a la barra y tómala con una mano cerca del collar. Usando tus caderas y piernas, elévate hasta una posición de pie.",
+    "Adopta una postura con las rodillas flexionadas, las caderas hacia atrás y el pecho en alto. Tu brazo debe estar extendido. Esta será tu posición inicial.",
+    "Tira del peso hacia tu costado retrayendo el hombro y flexionando el codo. No des tirones ni hagas trampa durante el movimiento.",
+    "Después de una breve pausa, regresa a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

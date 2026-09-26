@@ -1,5 +1,6 @@
 {
   "name": "Snatch (Balance)",
+  "nameEs": "Snatch (De equilibrio)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,6 +20,12 @@
     "Pop the bar with an abrupt dip and drive of the knees, and aggressively drive under the bar, transitioning the feet into the receiving position.",
     "Receive the bar locked out overhead near the bottom of the squat. The torso should remain vertical, lowering the hips between the legs.",
     "Continue to descend to full depth, and return to a standing position. Carefully lower the weight."
+  ],
+  "instructionsEs": [
+    "Comienza con los pies en la posición de tirón, la barra apoyada en la parte posterior de los hombros y las manos colocadas en un agarre de snatch ancho.",
+    "Impulsa la barra con una flexión brusca y un empuje de rodillas, y métete agresivamente debajo de la barra, haciendo la transición de los pies a la posición de recepción.",
+    "Recibe la barra bloqueada por encima de la cabeza cerca del fondo de la sentadilla. El torso debe permanecer vertical, bajando las caderas entre las piernas.",
+    "Continúa descendiendo hasta la profundidad máxima y regresa a la posición de pie. Baja el peso con cuidado."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

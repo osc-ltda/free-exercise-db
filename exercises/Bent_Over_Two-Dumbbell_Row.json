@@ -1,5 +1,6 @@
 {
   "name": "Bent Over Row (Two-Dumbbell)",
+  "nameEs": "Remo (Inclinado con dos mancuernas)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "While keeping the torso stationary, lift the dumbbells to your side (as you breathe out), keeping the elbows close to the body (do not exert any force with the forearm other than holding the weights). On the top contracted position, squeeze the back muscles and hold for a second.",
     "Slowly lower the weight again to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Con una mancuerna en cada mano (palmas mirando hacia tu torso), flexiona ligeramente las rodillas e inclina tu torso hacia adelante doblando la cintura; mientras te flexionas, asegúrate de mantener la espalda recta hasta que esté casi paralela al suelo. Consejo: Asegúrate de mantener la cabeza en alto. Los pesos deben colgar directamente frente a ti mientras tus brazos cuelgan perpendiculares al suelo y a tu torso. Esta es tu posición inicial.",
+    "Mientras mantienes el torso estático, eleva las mancuernas hacia tus costados (mientras exhalas), manteniendo los codos cerca del cuerpo (no ejerzas ninguna fuerza con el antebrazo más allá de sostener los pesos). En la posición contraída superior, aprieta los músculos de la espalda y mantén durante un segundo.",
+    "Baja lentamente el peso de nuevo a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

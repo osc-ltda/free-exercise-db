@@ -1,5 +1,6 @@
 {
   "name": "All Fours Quad Stretch",
+  "nameEs": "Estiramiento de cuádriceps en cuatro apoyos",
   "force": "static",
   "level": "intermediate",
   "mechanic": null,
@@ -14,6 +15,11 @@
     "Start off on your hands and knees, then lift your leg off the floor and hold the foot with your hand.",
     "Use your hand to hold the foot or ankle, keeping the knee fully flexed, stretching the quadriceps and hip flexors.",
     "Focus on extending your hips, thrusting them towards the floor. Hold for 10-20 seconds and then switch sides."
+  ],
+  "instructionsEs": [
+    "Ponte en posición de manos y rodillas, luego levanta una pierna del suelo y sostén el pie con tu mano.",
+    "Usa tu mano para sostener el pie o el tobillo, manteniendo la rodilla completamente flexionada, estirando los cuádriceps y los flexores de la cadera.",
+    "Concéntrate en extender las caderas, empujándolas hacia el suelo. Mantén la posición durante 10-20 segundos y luego cambia de lado."
   ],
   "category": "stretching",
   "trackingType": "time",

@@ -1,5 +1,6 @@
 {
   "name": "90/90 Hamstring",
+  "nameEs": "90/90 Isquiotibiales",
   "force": "push",
   "level": "beginner",
   "mechanic": null,
@@ -15,6 +16,12 @@
     "With the other leg, bend the hip and knee to 90 degrees. You may brace your leg with your hands if necessary. This will be your starting position.",
     "Extend your leg straight into the air, pausing briefly at the top. Return the leg to the starting position.",
     "Repeat for 10-20 repetitions, and then switch to the other leg."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca arriba con una pierna extendida hacia adelante.",
+    "Con la otra pierna, flexiona la cadera y la rodilla a 90 grados. Puedes sostener tu pierna con las manos si es necesario. Esta será tu posición inicial.",
+    "Extiende tu pierna hacia arriba en el aire, haciendo una pausa breve en la parte alta. Regresa la pierna a la posición inicial.",
+    "Repite por 10-20 repeticiones y luego cambia a la otra pierna."
   ],
   "category": "stretching",
   "trackingType": "time",

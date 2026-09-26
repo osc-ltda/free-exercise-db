@@ -1,5 +1,6 @@
 {
   "name": "Drag Curl",
+  "nameEs": "Drag Curl",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,6 +16,12 @@
     "As you exhale, curl the bar up while keeping the elbows to the back as you \"Drag\" the bar up by keeping it in contact with your torso. Tip: As you can see, you will not be keeping the elbows pinned to your sides, but instead you will be bringing them back. Also, do not lift your shoulders.",
     "Slowly go back to the starting position as you keep the bar in contact with the torso at all times.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Agarra una barra con un agarre supinado (palmas hacia adelante) y coloca tus codos cerca del torso y hacia atrás. Esta será tu posición inicial.",
+    "Mientras exhalas, haz un curl de la barra hacia arriba manteniendo los codos hacia atrás mientras \"arrastras\" la barra hacia arriba manteniéndola en contacto con tu torso. Consejo: Como puedes ver, no mantendrás los codos fijos a los lados, sino que los llevarás hacia atrás. Además, no levantes los hombros.",
+    "Regresa lentamente a la posición inicial manteniendo la barra en contacto con el torso en todo momento.",
+    "Repite por el número recomendado de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

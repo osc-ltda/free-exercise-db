@@ -1,5 +1,6 @@
 {
   "name": "Shoulder Circles",
+  "nameEs": "Círculos de hombros",
   "force": "pull",
   "level": "beginner",
   "mechanic": null,
@@ -13,6 +14,10 @@
   "instructions": [
     "With shoulders relaxed and arms resting loosely at your sides (or in your lap if you're seated), gently roll your shoulders forward, up, back, and down.",
     "Reverse direction. You can do this exercise alternating shoulders or both at the same time."
+  ],
+  "instructionsEs": [
+    "Con los hombros relajados y los brazos descansando sueltos a los lados (o en tu regazo si estás sentado), rueda suavemente tus hombros hacia adelante, arriba, atrás y abajo.",
+    "Invierte la dirección. Puedes hacer este ejercicio alternando los hombros o ambos al mismo tiempo."
   ],
   "category": "stretching",
   "trackingType": "weight_reps",

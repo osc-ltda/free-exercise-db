@@ -1,5 +1,6 @@
 {
   "name": "Hamstring Curl (Seated Band)",
+  "nameEs": "Curl de isquiotibiales (Sentado con banda)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "Seat yourself on the bench and secure the band behind your ankles, beginning with your legs straight. This will be your starting position.",
     "Flex the knees, bringing your feet towards the bench. You may need to lean back slightly to keep your feet from striking the floor.",
     "Pause at the completion of the movement, and then slowly return to the starting position."
+  ],
+  "instructionsEs": [
+    "Fija una banda cerca del suelo y coloca un banco a un par de pies de distancia.",
+    "Siéntate en el banco y asegura la banda detrás de tus tobillos, comenzando con las piernas estiradas. Esta será tu posición inicial.",
+    "Flexiona las rodillas llevando los pies hacia el banco. Es posible que debas inclinarte un poco hacia atrás para evitar que tus pies golpeen el suelo.",
+    "Haz una pausa al finalizar el movimiento y luego regresa lentamente a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

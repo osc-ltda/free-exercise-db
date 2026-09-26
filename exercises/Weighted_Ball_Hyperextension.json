@@ -1,5 +1,6 @@
 {
   "name": "Weighted Ball Hyperextension",
+  "nameEs": "Hiperextensión con balón lastrado",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "Slowly raise your torso up by bending at the waist and lower back. Remember to exhale during this movement.",
     "Hold the contraction on your lower back for a second and lower your torso back down to the starting position while inhaling.",
     "Repeat for the recommended amount of repetitions prescribed in your program."
+  ],
+  "instructionsEs": [
+    "Para empezar, acuéstate sobre un balón de ejercicio con el torso presionado contra el balón y paralelo al suelo. La parte delantera de tus pies debe estar presionada contra el suelo para ayudarte a mantener el equilibrio. Coloca un disco de peso bajo tu barbilla o detrás de tu cuello. Esta es la posición inicial.",
+    "Eleva lentamente tu torso doblando la cintura y la parte baja de la espalda. Recuerda exhalar durante este movimiento.",
+    "Mantén la contracción en la parte baja de la espalda durante un segundo y baja tu torso de regreso a la posición inicial mientras inspiras.",
+    "Repite por la cantidad recomendada de repeticiones prescritas en tu programa."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

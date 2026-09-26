@@ -1,5 +1,6 @@
 {
   "name": "Bent-Over Rows (Reverse Grip)",
+  "nameEs": "Remo inclinado (Agarre inverso)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,6 +19,13 @@
     "While keeping the torso stationary, lift the barbell as you breathe out, keeping the elbows close to the body and not doing any force with the forearm other than holding the weights. On the top contracted position, squeeze the back muscles and hold for a second.",
     "Slowly lower the weight again to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Párate erguido mientras sostienes una barra con un agarre supinado (palmas hacia arriba).",
+    "Dobla ligeramente las rodillas e inclina tu torso hacia adelante desde la cintura, manteniendo la espalda recta hasta que esté casi paralela al suelo. Consejo: asegúrate de mantener la cabeza en alto. La barra debe colgar directamente frente a ti mientras tus brazos cuelgan perpendiculares al suelo y a tu torso. Esta es tu posición inicial.",
+    "Mientras mantienes el torso estático, levanta la barra mientras exhalas, manteniendo los codos cerca del cuerpo y sin hacer fuerza con el antebrazo más allá de sostener los pesos. En la posición superior de contracción, aprieta los músculos de la espalda y mantén durante un segundo.",
+    "Baja lentamente el peso de nuevo a la posición inicial mientras inspiras.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

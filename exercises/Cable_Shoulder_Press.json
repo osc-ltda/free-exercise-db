@@ -1,5 +1,6 @@
 {
   "name": "Shoulder Press (Cable)",
+  "nameEs": "Press de hombro (Polea)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,12 @@
     "Stand directly in between the uprights. Grasp the cables and hold them at shoulder height, palms facing forward. This will be your starting position.",
     "Keeping your head and chest up, extend through the elbow to press the handles directly over head.",
     "After pausing at the top, return to the starting position and repeat."
+  ],
+  "instructionsEs": [
+    "Mueve las poleas a la parte inferior de las torres y selecciona un peso adecuado.",
+    "Párate justo en medio de los soportes. Sujeta las poleas y mantenlas a la altura de los hombros con las palmas apuntando hacia adelante. Esta será tu posición inicial.",
+    "Manteniendo la cabeza y el pecho erguidos, extiende los codos para empujar los mangos directamente por encima de la cabeza.",
+    "Después de hacer una pausa en la parte superior, regresa a la posición inicial y repite."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Triceps Overhead Extension with Rope",
+  "nameEs": "Extensión de tríceps por encima de la cabeza con cuerda",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "Position your hands behind your head with your elbows point straight up. Your elbows should start out flexed, and you can stagger your stance and lean gently away from the machine to create greater stability. This will be your starting position.",
     "To perform the movement, extend through the elbow while keeping the upper arm in position, raising your hands above your head.",
     "Squeeze your triceps at the top of the movement, and slowly lower the weight back to the start position."
+  ],
+  "instructionsEs": [
+    "Conecta una cuerda a una polea baja. Después de seleccionar un peso adecuado, agarra la cuerda con ambas manos y dale la espalda a la polea.",
+    "Coloca tus manos detrás de tu cabeza con los codos apuntando directamente hacia arriba. Tus codos deben comenzar flexionados, y puedes escalonar tu postura e inclinarte suavemente hacia adelante alejándote de la máquina para crear mayor estabilidad. Esta será tu posición inicial.",
+    "Para realizar el movimiento, extiende a través del codo mientras mantienes el brazo en su posición, elevando tus manos por encima de tu cabeza.",
+    "Contrae tus tríceps en la parte superior del movimiento y baja lentamente el peso de regreso a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

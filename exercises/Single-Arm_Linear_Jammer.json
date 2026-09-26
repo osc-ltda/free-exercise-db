@@ -1,5 +1,6 @@
 {
   "name": "Single-Arm Linear Jammer",
+  "nameEs": "Jammer lineal a un brazo",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Raise the bar from the floor, taking it to your shoulders with one or both hands. Adopt a wide stance. This will be your starting position.",
     "Perform the movement by extending the elbow, pressing the weight up. Move explosively, extending the hips and knees fully to produce maximal force.",
     "Return to the starting position."
+  ],
+  "instructionsEs": [
+    "Coloca una barra en un soporte de mina terrestre o anclala de forma segura en una esquina. Carga la barra con un peso adecuado.",
+    "Levanta la barra desde el suelo, llevándola a tus hombros con una o ambas manos. Adopta una postura amplia. Esta será tu posición inicial.",
+    "Realiza el movimiento extendiendo el codo, presionando el peso hacia arriba. Muévete de forma explosiva, extendiendo las caderas y las rodillas por completo para producir la máxima fuerza.",
+    "Regresa a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

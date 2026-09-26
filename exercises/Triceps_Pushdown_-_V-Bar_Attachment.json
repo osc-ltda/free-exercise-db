@@ -1,5 +1,6 @@
 {
   "name": "Triceps Pushdown (V-Bar Attachment)",
+  "nameEs": "Extensión de tríceps en polea (Accesorio de barra V)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Using the triceps, bring the bar down until it touches the front of your thighs and the arms are fully extended perpendicular to the floor. The upper arms should always remain stationary next to your torso and only the forearms should move. Exhale as you perform this movement.",
     "After a second hold at the contracted position, bring the V-Bar slowly up to the starting point. Breathe in as you perform this step.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Conecta una barra V a una polea alta y agárrala con un agarre prono (palmas hacia abajo) al ancho de los hombros.",
+    "De pie, con el torso recto y una muy ligera inclinación hacia adelante, acerca los brazos a tu cuerpo y mantenlos perpendiculares al suelo. Los antebrazos deben apuntar hacia arriba, hacia la polea, mientras sostienen la barra. Los pulgares deben estar más altos que el dedo meñique. Esta es tu posición inicial.",
+    "Usando los tríceps, baja la barra hasta que toque la parte delantera de tus muslos y los brazos estén completamente extendidos y perpendiculares al suelo. Los brazos deben permanecer siempre inmóviles junto a tu torso y solo los antebrazos deben moverse. Exhala al realizar este movimiento.",
+    "Después de mantener la contracción durante un segundo, sube lentamente la barra V hasta el punto de partida. Inhala al realizar este paso.",
+    "Repite para la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

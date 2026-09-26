@@ -1,5 +1,6 @@
 {
   "name": "Chair Upper Body Stretch",
+  "nameEs": "Estiramiento del tren superior en silla",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -14,6 +15,10 @@
   "instructions": [
     "Sit on the edge of a chair, gripping the back of it.",
     "Straighten your arms, keeping your back straight, and pull your upper body forward so you feel a stretch. Hold for 20-30 seconds."
+  ],
+  "instructionsEs": [
+    "Siéntate en el borde de una silla, agarrando el respaldo de la misma.",
+    "Estira tus brazos, manteniendo la espalda recta, y tira de tu tren superior hacia adelante para sentir un estiramiento. Mantén durante 20-30 segundos."
   ],
   "category": "stretching",
   "trackingType": "time",

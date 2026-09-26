@@ -1,5 +1,6 @@
 {
   "name": "Press (Standing Barbell Behind Neck)",
+  "nameEs": "Press (Barra de pie detrás del cuello)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,14 @@
     "Elevate the barbell overhead by fully extending your arms while breathing out.",
     "Hold the contraction for a second and lower the barbell back down to the starting position by inhaling.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Este ejercicio se realiza mejor dentro de una jaula de sentadillas para levantar la barra con mayor facilidad. Para empezar, primero coloca la barra en un soporte que se ajuste mejor a tu altura. Una vez elegida la altura correcta y cargada la barra, colócate debajo de ella y apoya la parte posterior de tus hombros (ligeramente por debajo del cuello) sobre esta.",
+    "Sostén la barra con ambos brazos a cada lado y levántala del soporte empujando primero con las piernas y al mismo tiempo enderezando tu torso.",
+    "Aléjate del soporte y coloca tus piernas con una separación media al ancho de los hombros y las puntas de los pies ligeramente hacia afuera. Tu espalda debe mantenerse recta mientras realizas este ejercicio. Esta será tu posición inicial.",
+    "Eleva la barra por encima de la cabeza extendiendo completamente los brazos mientras exhalas.",
+    "Mantén la contracción durante un segundo y baja la barra de vuelta a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

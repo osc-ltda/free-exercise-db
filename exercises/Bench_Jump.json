@@ -1,5 +1,6 @@
 {
   "name": "Bench Jump",
+  "nameEs": "Salto al banco",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,6 +19,13 @@
     "Rebound out of this position, extending through the hips, knees, and ankles to jump as high as possible. Swing your arms forward and up.",
     "Jump over the bench, landing with the knees bent, absorbing the impact through the legs.",
     "Turn around and face the opposite direction, then jump back over the bench."
+  ],
+  "instructionsEs": [
+    "Comienza con una caja o banco a 1-2 pies frente a ti. Párate con los pies separados al ancho de los hombros. Esta será tu posición inicial.",
+    "Realiza una sentadilla corta en preparación para el salto; balancea tus brazos hacia atrás.",
+    "Impúlsate desde esta posición, extendiendo las caderas, las rodillas y los tobillos para saltar lo más alto posible. Balancea tus brazos hacia adelante y hacia arriba.",
+    "Salta sobre el banco, aterrizando con las rodillas flexionadas y absorbiendo el impacto a través de las piernas.",
+    "Date la vuelta hacia la dirección opuesta y luego vuelve a saltar sobre el banco."
   ],
   "category": "plyometrics",
   "trackingType": "bodyweight_reps",

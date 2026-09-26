@@ -1,5 +1,6 @@
 {
   "name": "Clean (One-Arm Kettlebell)",
+  "nameEs": "Clean (Pesa rusa a un brazo)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,11 @@
     "Place a kettlebell between your feet. As you bend down to grab the kettlebell, push your butt back and keep your eyes looking forward.",
     "Clean the kettlebell to your shoulders by extending through the legs and hips as you raise the kettlebell towards your shoulder. The wrist should rotate as you do so.",
     "Return the weight to the starting position."
+  ],
+  "instructionsEs": [
+    "Coloca una pesa rusa entre tus pies. Al agacharte para agarrar la pesa rusa, empuja tus pompas hacia atrás y mantén tus ojos mirando hacia adelante.",
+    "Haz un clean de la pesa rusa hacia tus hombros extendiendo las piernas y las caderas mientras subes la pesa rusa hacia tu hombro. La muñeca debe rotar mientras lo haces.",
+    "Regresa el peso a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

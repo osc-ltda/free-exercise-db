@@ -1,5 +1,6 @@
 {
   "name": "Chair Lower Back Stretch",
+  "nameEs": "Estiramiento de espalda baja en silla",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,11 @@
     "Sit upright on a chair.",
     "Bend to one side with your arm over your head. You can hold onto the chair with your free hand.",
     "Hold for 10 seconds, and repeat for your other side."
+  ],
+  "instructionsEs": [
+    "Siéntate derecho en una silla.",
+    "Inclínate hacia un lado con tu brazo por encima de la cabeza. Puedes sostenerte de la silla con tu mano libre.",
+    "Mantén durante 10 segundos y repite para tu otro lado."
   ],
   "category": "stretching",
   "trackingType": "time",

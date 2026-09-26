@@ -1,5 +1,6 @@
 {
   "name": "Mountain Climbers",
+  "nameEs": "Escaladores de montaña",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,10 @@
   "instructions": [
     "Begin in a pushup position, with your weight supported by your hands and toes. Flexing the knee and hip, bring one leg until the knee is approximately under the hip. This will be your starting position.",
     "Explosively reverse the positions of your legs, extending the bent leg until the leg is straight and supported by the toe, and bringing the other foot up with the hip and knee flexed. Repeat in an alternating fashion for 20-30 seconds."
+  ],
+  "instructionsEs": [
+    "Comienza en una posición de flexión de brazos, con tu peso sostenido por tus manos y los dedos de los pies. Flexionando la rodilla y la cadera, lleva una pierna hasta que la rodilla esté aproximadamente debajo de la cadera. Esta será tu posición inicial.",
+    "Invierte explosivamente las posiciones de tus piernas, extendiendo la pierna doblada hasta que la pierna esté recta y apoyada sobre la punta del pie, y acercando el otro pie con la cadera y la rodilla flexionadas. Repite de forma alternada durante 20-30 segundos."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

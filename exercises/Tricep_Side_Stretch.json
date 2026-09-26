@@ -1,5 +1,6 @@
 {
   "name": "Tricep Side Stretch",
+  "nameEs": "Estiramiento lateral de tríceps",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -12,6 +13,9 @@
   ],
   "instructions": [
     "Bring right arm across your body and over your left shoulder, holding your elbow with your left hand, until you feel a stretch in your tricep. Then repeat for your other arm."
+  ],
+  "instructionsEs": [
+    "Lleva el brazo derecho a través de tu cuerpo y sobre tu hombro izquierdo, sosteniendo tu codo con tu mano izquierda, hasta que sientas un estiramiento en tu tríceps. Luego repite con tu otro brazo."
   ],
   "category": "stretching",
   "trackingType": "time",

@@ -1,5 +1,6 @@
 {
   "name": "Kneeling Arm Drill",
+  "nameEs": "Kneeling Arm Drill",
   "force": "pull",
   "level": "beginner",
   "mechanic": null,
@@ -15,6 +16,12 @@
     "Begin by blocking the arms in long, pendulum like swings. Close the arm angle, blocking with the arms as you would when jogging, progressing to a run and finally a sprint.",
     "As soon as your hands pass the hip, accelerate them forward during the sprinting motion to move them as quickly as possible.",
     "Switch knees and repeat."
+  ],
+  "instructionsEs": [
+    "Este ejercicio ayuda a aumentar la eficiencia de los brazos durante la carrera. Comienza arrodillado, con el pie izquierdo al frente y la rodilla derecha abajo. Aplica presión a través del talón delantero para mantener activados los glúteos y los isquiotibiales.",
+    "Comienza balanceando los brazos en movimientos largos en forma de péndulo. Cierra el ángulo del brazo, bloqueando con los brazos como lo harías al trotar, progresando hacia una carrera y finalmente un sprint.",
+    "Tan pronto como tus manos pasen la cadera, aceléralas hacia adelante durante el movimiento de sprint para moverlas lo más rápido posible.",
+    "Cambia de rodilla y repite."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

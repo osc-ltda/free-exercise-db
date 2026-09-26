@@ -1,5 +1,6 @@
 {
   "name": "Bridge (Pelvic Tilt Into)",
+  "nameEs": "Puente (con basculación pélvica)",
   "force": "static",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,6 +13,11 @@
     "Lie down with your feet on the floor, heels directly under your knees.",
     "Lift only your tailbone to the ceiling to stretch your lower back. (Don't lift the entire spine yet.) Pull in your stomach.",
     "To go into a bridge, lift the entire spine except the neck."
+  ],
+  "instructionsEs": [
+    "Acuéstate con tus pies en el piso, con los talones directamente debajo de tus rodillas.",
+    "Eleva únicamente el coxis hacia el techo para estirar la parte baja de tu espalda (aún no levantes toda la columna). Contrae el abdomen.",
+    "Para pasar a un puente, levanta toda la columna excepto el cuello."
   ],
   "category": "stretching",
   "trackingType": "time",

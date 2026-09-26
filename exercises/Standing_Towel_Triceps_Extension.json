@@ -1,5 +1,6 @@
 {
   "name": "Triceps Extension (Standing Towel)",
+  "nameEs": "Extensión de tríceps (Toalla de pie)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "Now communicate with your partner so that he/she can grip the other side of the towel to apply resistance. Keeping your upper arms close to your head (elbows in) and perpendicular to the floor, lower the resistance in a semicircular motion behind your head until your forearms touch your biceps. Tip: The upper arms should remain stationary and only the forearms should move. Breathe in as you perform this step.",
     "Go back to the starting position by using the triceps to raise the towel. Breathe out as you perform this step.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Para empezar, ponte de pie con ambos brazos completamente extendidos por encima de la cabeza sosteniendo un extremo de una toalla con ambas manos. Tus codos deben estar hacia adentro y los brazos perpendiculares al suelo con las palmas enfrentadas, mientras tus pies están separados al ancho de los hombros. Esta es la posición inicial.",
+    "Ahora comunícate con tu compañero para que pueda agarrar el otro lado de la toalla y aplicar resistencia. Manteniendo tus brazos cerca de la cabeza (codos hacia adentro) y perpendiculares al suelo, baja la resistencia en un movimiento semicircular detrás de tu cabeza hasta que tus antebrazos toquen tus bíceps. Consejo: Los brazos deben permanecer estacionarios y solo deben moverse los antebrazos. Inhala al realizar este paso.",
+    "Regresa a la posición inicial usando los tríceps para elevar la toalla. Exhala al realizar este paso.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

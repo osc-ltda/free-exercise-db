@@ -1,5 +1,6 @@
 {
   "name": "Squat (Chair)",
+  "nameEs": "Sentadilla (Silla)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -19,6 +20,14 @@
     "Slowly lower the bar by bending the knees as you maintain a straight posture with the head up. Continue down until the angle between the upper and lower leg breaks 90 degrees.",
     "Begin to raise the bar as you exhale by pushing the floor with the heels of your feet, extending the knees and returning to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Para empezar, primero ajusta la barra a una posición que se adapte mejor a tu altura. Una vez cargada la barra, colócate debajo y sitúala en la parte posterior de tus hombros.",
+    "Toma la barra con las manos hacia adelante, desbútrala y levántala del soporte extendiendo tus piernas.",
+    "Mueve tus pies hacia adelante unos 45 cm frente a la barra. Coloca tus piernas con una separación al ancho de los hombros y los dedos de los pies ligeramente hacia afuera. Mira hacia adelante en todo momento y mantén la columna neutra o ligeramente arqueada. Esta será tu posición inicial.",
+    "Baja lentamente la barra doblando las rodillas mientras mantienes una postura recta con la cabeza en alto. Continúa bajando hasta que el ángulo entre la parte superior e inferior de la pierna supere los 90 grados.",
+    "Comienza a elevar la barra mientras exhalas empujando el suelo con los talones de tus pies, extendiendo las rodillas y volviendo a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

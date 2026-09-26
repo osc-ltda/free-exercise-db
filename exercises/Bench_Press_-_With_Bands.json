@@ -1,5 +1,6 @@
 {
   "name": "Bench Press (With Bands)",
+  "nameEs": "Press de banca (con bandas)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -19,6 +20,15 @@
     "Bring down the handles slowly until your elbow forms a 90 degree angle. Keep full control at all times.",
     "As you breathe out, bring the handles up using your pectoral muscles. Lock your arms in the contracted position, squeeze your chest, hold for a second and then start coming down slowly. Tip: It should take at least twice as long to go down than to come up.",
     "Repeat the movement for the prescribed amount of repetitions of your training program."
+  ],
+  "instructionsEs": [
+    "Usando un banco plano, asegura una banda debajo de la pata del banco que esté más cerca de tu cabeza.",
+    "Una vez que la banda esté segura, tómala por ambos mangos y acuéstate en el banco.",
+    "Extiende tus brazos de modo que sostengas los mangos de la banda frente a ti al ancho de los hombros.",
+    "Una vez al ancho de los hombros, rota tus muñecas hacia adelante para que las palmas de tus manos miren hacia afuera. Esta será tu posición inicial.",
+    "Baja los mangos lentamente hasta que tu codo forme un ángulo de 90 grados. Mantén el control total en todo momento.",
+    "Mientras exhalas, sube los mangos usando tus músculos pectorales. Bloquea tus brazos en la posición contraída, aprieta el pecho, mantén la posición por un segundo y luego comienza a bajar lentamente. Consejo: Debe tomarte al menos el doble de tiempo bajar que subir.",
+    "Repite el movimiento por la cantidad prescrita de repeticiones de tu programa de entrenamiento."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

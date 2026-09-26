@@ -1,5 +1,6 @@
 {
   "name": "Triceps Extension (Standing Low-Pulley One-Arm)",
+  "nameEs": "Extensión de tríceps a un brazo (De pie con polea baja)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -17,6 +18,13 @@
     "Go back to the starting position by using the triceps to raise the single handle. Breathe out as you perform this step.",
     "Repeat for the recommended amount of repetitions.",
     "Switch arms and repeat the exercise."
+  ],
+  "instructionsEs": [
+    "Agarra un mango individual con tu brazo izquierdo al lado de la máquina de polea baja. Gira alejándote de la máquina manteniendo el mango al lado de tu cuerpo con tu brazo completamente extendido. Ahora usa ambas manos para elevar el mango individual directamente sobre la cabeza con la palma hacia adelante. Mantén tu parte superior del brazo completamente vertical (perpendicular al suelo) y coloca tu mano derecha en tu codo izquierdo para ayudar a mantenerlo firme. Esta es la posición inicial.",
+    "Manteniendo tus brazos cerca de tu cabeza (codos hacia adentro) y perpendiculares al suelo, baja la resistencia en un movimiento semicircular detrás de tu cabeza hasta que tus antebrazos toquen tus bíceps. Consejo: Los brazos superiores deben permanecer estacionarios y solo deben moverse los antebrazos. Inhala al realizar este paso.",
+    "Regresa a la posición inicial usando los tríceps para levantar el mango individual. Exhala al realizar este paso.",
+    "Repite por la cantidad recomendada de repeticiones.",
+    "Cambia de brazo y repite el ejercicio."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

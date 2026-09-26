@@ -1,5 +1,6 @@
 {
   "name": "Standing Hamstring and Calf Stretch",
+  "nameEs": "Estiramiento de isquiotibiales y pantorrilla de pie",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -12,6 +13,11 @@
     "Being by looping a belt, band, or rope around one foot. While standing, place that foot forward.",
     "Bend your back leg, while keeping the front one straight. Now raise the toes of your front foot off of the ground and lean forward.",
     "Using the belt, pull on the top of the foot to increase the stretch in the calf. Hold for 10-20 seconds and repeat with the other foot."
+  ],
+  "instructionsEs": [
+    "Comienza colocando un cinturón, banda o cuerda alrededor de un pie. De pie, coloca ese pie hacia adelante.",
+    "Flexiona la pierna trasera mientras mantienes la delantera recta. Ahora eleva los dedos del pie delantero del suelo e inclínate hacia adelante.",
+    "Usando el cinturón, tira de la parte superior del pie para aumentar el estiramiento en la pantorrilla. Sostén durante 10-20 segundos y repite con el otro pie."
   ],
   "category": "stretching",
   "trackingType": "time",

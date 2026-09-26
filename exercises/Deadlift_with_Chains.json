@@ -1,5 +1,6 @@
 {
   "name": "Deadlift (with Chains)",
+  "nameEs": "Peso muerto (con cadenas)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -20,6 +21,12 @@
     "Approach the bar so that it is centered over your feet. You feet should be about hip width apart. Bend at the hip to grip the bar at shoulder width, allowing your shoulder blades to protract. Typically, you would use an overhand grip or an over/under grip on heavier sets. With your feet, and your grip set, take a big breath and then lower your hips and bend the knees until your shins contact the bar.",
     "Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward. After the bar passes the knees, aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar.",
     "Lower the bar by bending at the hips and guiding it to the floor."
+  ],
+  "instructionsEs": [
+    "Puedes fijar las cadenas a las mangas de la barra o simplemente colocar el centro sobre la barra para que haya un mayor incremento de peso a medida que levantas.",
+    "Acércate a la barra para que quede centrada sobre tus pies. Tus pies deben estar separados aproximadamente a la anchura de las caderas. Flexiona la cadera para agarrar la barra a la anchura de los hombros, permitiendo que tus omóplatos protruyan. Por lo general, usarías un agarre prono o un agarre mixto en series más pesadas. Con los pies y el agarre colocados, toma una gran inspiración, baja las caderas y dobla las rodillas hasta que tus espinillas toquen la barra.",
+    "Mira hacia adelante con la cabeza, mantén el pecho levantado y la espalda arqueada, y comienza a empujar a través de los talones para mover el peso hacia arriba. Después de que la barra pase las rodillas, tira de ella hacia atrás con energía, juntando los omóplatos mientras empujas las caderas hacia adelante contra la barra.",
+    "Baja la barra flexionando las caderas y guiándola hacia el suelo."
   ],
   "category": "powerlifting",
   "trackingType": "weight_reps",

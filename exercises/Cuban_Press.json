@@ -1,5 +1,6 @@
 {
   "name": "Press (Cuban)",
+  "nameEs": "Press (Cubano)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,6 +17,13 @@
     "Now press the dumbbells by extending at the elbows, straightening your arms overhead.",
     "Return to the starting position as you breathe in by reversing the steps.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Toma una mancuerna en cada mano con un agarre prono en una posición de pie. Eleva tus brazos de modo que queden paralelos al suelo, permitiendo que tus antebrazos cuelguen en la posición de \"espantapájaros\". Esta será tu posición inicial.",
+    "Para iniciar el movimiento, rota externamente los hombros para mover la parte superior del brazo 180 grados. Mantén la parte superior de los brazos en su lugar, rotándolos hasta que las muñecas estén directamente sobre los codos, con los antebrazos perpendiculares al suelo.",
+    "Ahora haz un press con las mancuernas extendiendo los codos, enderezando tus brazos por encima de la cabeza.",
+    "Regresa a la posición inicial mientras inspiras invirtiendo los pasos.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

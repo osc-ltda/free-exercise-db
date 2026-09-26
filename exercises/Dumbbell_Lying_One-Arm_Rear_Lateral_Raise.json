@@ -1,5 +1,6 @@
 {
   "name": "Lateral Raise (Dumbbell Lying One-Arm Rear)",
+  "nameEs": "Elevación lateral (Mancuerna acostado a un brazo posterior)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -16,6 +17,13 @@
     "Now raise the arm with the dumbbell to the side until your elbow is at shoulder height and your arm is roughly parallel to the floor as you exhale. Tip: Maintain your arm perpendicular to the torso while keeping your arm extended throughout the movement. Also, keep the contraction at the top for a second.",
     "Slowly lower the dumbbell to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Mientras sostienes una mancuerna en una mano, acuéstate boca abajo sobre un banco ajustable ligeramente inclinado (alrededor de 15 grados medidos desde el suelo). La otra mano se puede usar para sostenerse de la pata del banco para mayor estabilidad.",
+    "Coloca la palma de la mano que sostiene la mancuerna de manera neutral (con las palmas hacia tu torso) mientras mantienes el brazo extendido con el codo ligeramente flexionado. Esta será tu posición inicial.",
+    "Ahora eleva el brazo con la mancuerna hacia un lado hasta que tu codo esté a la altura del hombro y tu brazo esté más o menos paralelo al suelo mientras exhalas. Consejo: Mantén tu brazo perpendicular al torso mientras lo mantienes extendido durante todo el movimiento. Además, mantén la contracción en la parte superior durante un segundo.",
+    "Baja lentamente la mancuerna a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

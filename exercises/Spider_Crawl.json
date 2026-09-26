@@ -1,5 +1,6 @@
 {
   "name": "Spider Crawl",
+  "nameEs": "Spider Crawl",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,11 @@
     "Begin in a prone position on the floor. Support your weight on your hands and toes, with your feet together and your body straight. Your arms should be bent to 90 degrees. This will be your starting position.",
     "Initiate the movement by raising one foot off of the ground. Externally rotate the leg and bring the knee toward your elbow, as far forward as possible.",
     "Return this leg to the starting position and repeat on the opposite side."
+  ],
+  "instructionsEs": [
+    "Comienza en una posición prona en el suelo. Apoya tu peso sobre tus manos y dedos de los pies, con los pies juntos y el cuerpo recto. Tus brazos deben estar doblados a 90 grados. Esta será tu posición inicial.",
+    "Inicia el movimiento levantando un pie del suelo. Rota la pierna externamente y lleva la rodilla hacia tu codo, lo más adelante posible.",
+    "Regresa esta pierna a la posición inicial y repite en el lado opuesto."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

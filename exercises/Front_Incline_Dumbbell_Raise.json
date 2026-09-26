@@ -1,5 +1,6 @@
 {
   "name": "Front Raise (Incline Dumbbell)",
+  "nameEs": "Elevación frontal (Mancuerna en banco inclinado)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Slowly raise the dumbbells straight up until they are slightly above your shoulders, while keeping your elbows locked. Squeeze at the top for a second and make sure you breathe out during this portion of the movement. Tip: Keep your head resting down against the bench and your legs on the floor at all times.",
     "Lower the arms back to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Siéntate en un banco inclinado con la inclinación ajustada entre 30 y 60 grados mientras sostienes una mancuerna en cada mano. Consejo: Puedes cambiar el ángulo para trabajar el músculo de manera un poco diferente cada vez.",
+    "Extiende tus brazos rectos frente a ti y mantén las palmas hacia abajo con las mancuernas levantadas aproximadamente 1 pulgada por encima de tus muslos. Esta será tu posición inicial.",
+    "Levanta lentamente las mancuernas hacia arriba hasta que estén ligeramente por encima de tus hombros, manteniendo los codos bloqueados. Aprieta en la parte superior durante un segundo y asegúrate de exhalar durante esta porción del movimiento. Consejo: Mantén tu cabeza apoyada contra el banco y tus piernas en el suelo en todo momento.",
+    "Baja los brazos de regreso a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

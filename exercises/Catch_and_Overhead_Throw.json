@@ -1,5 +1,6 @@
 {
   "name": "Throw (Catch and Overhead)",
+  "nameEs": "Lanzamiento (Atrapar y por encima de la cabeza)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,11 @@
     "Begin standing while facing a wall or a partner.",
     "Using both hands, position the ball behind your head, stretching as much as possible, and forcefully throw the ball forward.",
     "Ensure that you follow your throw through, being prepared to receive your rebound from your throw. If you are throwing against the wall, make sure that you stand close enough to the wall to receive the rebound, and aim a little higher than you would with a partner."
+  ],
+  "instructionsEs": [
+    "Comienza de pie frente a una pared o a un compañero.",
+    "Usando ambas manos, coloca el balón detrás de tu cabeza, estirándote lo más posible, y lanza el balón hacia adelante con fuerza.",
+    "Asegúrate de realizar el seguimiento de tu lanzamiento, estando preparado para recibir el rebote. Si estás lanzando contra la pared, asegúrate de pararte lo suficientemente cerca de la pared para recibir el rebote y apunta un poco más alto de lo que lo harías con un compañero."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

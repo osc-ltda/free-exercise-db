@@ -1,5 +1,6 @@
 {
   "name": "Barbell Ab Rollout",
+  "nameEs": "Desplazamiento abdominal con barra",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "While keeping a slight arch on your back, lift your hips and roll the barbell towards your feet as you exhale. Tip: As you perform the movement, your glutes should be coming up, you should be keeping the abs tight and should maintain your back posture at all times. Also your arms should be staying perpendicular to the floor throughout the movement. If you don't, you will work out your shoulders and back more than the abs.",
     "After a second contraction at the top, start to roll the barbell back forward to the starting position slowly as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Para este ejercicio deberás colocarte en posición de flexión de brazos, pero en lugar de tener las manos en el suelo, estarás sujetando una barra olímpica (con 5-10 lbs a cada lado). Esta será tu posición inicial.",
+    "Mientras mantienes una ligera curvatura en la espalda, levanta las caderas y haz rodar la barra hacia tus pies mientrasexhalas. Consejo: al realizar el movimiento, tus glúteos deben subir, debes mantener los abdominales contraídos y conservar la postura de la espalda en todo momento. Asimismo, tus brazos deben permanecer perpendiculares al suelo durante todo el movimiento. Si no lo haces, trabajarás más los hombros y la espalda que los abdominales.",
+    "Después de una contracción de un segundo en la parte superior, comienza a hacer rodar la barra hacia adelante de regreso a la posición inicial lentamente mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "One Handed Hang",
+  "nameEs": "One Handed Hang",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -12,6 +13,9 @@
   ],
   "instructions": [
     "Grab onto a chinup bar with one hand, using a pronated grip. Keep your feet on the floor or a step. Allow the majority of your weight to hang from that hand, while keeping your feet on the ground. Hold for 10-20 seconds and switch sides."
+  ],
+  "instructionsEs": [
+    "Agarra una barra de dominada supina con una mano, usando un agarre prono. Mantén tus pies en el suelo o en un escalón. Permite que la mayor parte de tu peso cuelgue de esa mano, mientras mantienes tus pies en el suelo. Mantén durante 10-20 segundos y cambia de lado."
   ],
   "category": "stretching",
   "trackingType": "time",

@@ -1,5 +1,6 @@
 {
   "name": "Knee Across The Body",
+  "nameEs": "Knee Across The Body",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -14,6 +15,10 @@
   "instructions": [
     "Lie down on the floor with your right leg straight. Bend your left leg and lower it across your body, holding the knee down toward the floor with your right hand. (The knee doesn't need to touch the floor if you're tight.)",
     "Place your left arm comfortably beside you and turn your head to the left. Imagine you have a weight tied to your tailbone. let your tailbone fall back toward the floor as your chest reaches in the opposite direction to stretch your lower back. Switch sides."
+  ],
+  "instructionsEs": [
+    "Acuéstate en el suelo con la pierna derecha estirada. Dobla la pierna izquierda y bájala cruzando el cuerpo, sujetando la rodilla hacia el suelo con la mano derecha. (La rodilla no necesita tocar el suelo si tienes rigidez).",
+    "Coloca tu brazo izquierdo cómodamente a tu lado y gira la cabeza hacia la izquierda. Imagina que tienes un peso atado al coxis. Deja que tu coxis caiga hacia el suelo mientras tu pecho se estira en dirección opuesta para estirar la zona lumbar. Cambia de lado."
   ],
   "category": "stretching",
   "trackingType": "time",

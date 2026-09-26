@@ -1,5 +1,6 @@
 {
   "name": "Squat (Goblet)",
+  "nameEs": "Sentadilla (Goblet)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,11 @@
     "Stand holding a light kettlebell by the horns close to your chest. This will be your starting position.",
     "Squat down between your legs until your hamstrings are on your calves. Keep your chest and head up and your back straight.",
     "At the bottom position, pause and use your elbows to push your knees out. Return to the starting position, and repeat for 10-20 repetitions."
+  ],
+  "instructionsEs": [
+    "Párate sosteniendo una pesa rusa ligera por los cuernos cerca de tu pecho. Esta será tu posición inicial.",
+    "Baja en sentadilla entre tus piernas hasta que tus isquiotibiales toquen tus pantorrillas. Mantén tu pecho y cabeza arriba y tu espalda recta.",
+    "En la posición baja, haz una pausa y usa tus codos para empujar tus rodillas hacia afuera. Regresa a la posición inicial y repite de 10 a 20 repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

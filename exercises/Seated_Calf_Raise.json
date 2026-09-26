@@ -1,5 +1,6 @@
 {
   "name": "Calf Raise (Seated)",
+  "nameEs": "Elevación de pantorrilla (sentado)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Slowly lower your heels by bending at the ankles until the calves are fully stretched. Inhale as you perform this movement.",
     "Raise the heels by extending the ankles as high as possible as you contract the calves and breathe out. Hold the top contraction for a second.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Siéntate en la máquina y coloca las puntas de los pies en la parte inferior de la plataforma provista, con los talones sobresaliendo. Elige la posición de los pies que prefieras (hacia adelante, hacia adentro o hacia afuera) según el inicio de este capítulo.",
+    "Coloca tus muslos inferiores debajo de la almohadilla de la palanca, la cual deberá ajustarse según la altura de tus muslos. Ahora coloca tus manos encima de la almohadilla de la palanca para evitar que se deslice hacia adelante.",
+    "Levanta ligeramente la palanca empujando los talones hacia arriba y libera la barra de seguridad. Esta será tu posición inicial.",
+    "Baja lentamente los talones doblando los tobillos hasta que las pantorrillas estén completamente estiradas. Inhala mientras realizas este movimiento.",
+    "Eleva los talones extendiendo los tobillos lo más alto posible mientras contraes las pantorrillas y exhalas. Mantén la contracción superior durante un segundo.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Bridges (London)",
+  "nameEs": "Puentes (London)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "Stand on the bar, using the rope to balance yourself. This will be your starting position.",
     "Keeping your body straight, lean back and lower your body by slowly going hand over hand with the rope. Continue until you are perpendicular to the ground.",
     "Keeping your body straight, reverse the motion, going hand over hand back to the starting position."
+  ],
+  "instructionsEs": [
+    "Coloca una cuerda de escalada en una viga alta o travesaño. Debajo de ella, asegúrate de que la barra de la máquina Smith esté bloqueada en su lugar con los seguros y no pueda moverse. Alternativamente, también se podría utilizar una caja segura.",
+    "Párate sobre la barra, usando la cuerda para equilibrarte. Esta será tu posición inicial.",
+    "Manteniendo tu cuerpo derecho, inclínate hacia atrás y baja tu cuerpo avanzando lentamente mano a mano con la cuerda. Continúa hasta que estés perpendicular al suelo.",
+    "Manteniendo tu cuerpo derecho, revierte el movimiento, regresando mano a mano a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

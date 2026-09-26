@@ -1,5 +1,6 @@
 {
   "name": "Squat (Overhead)",
+  "nameEs": "Sentadilla (Overhead)",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -23,6 +24,14 @@
     "Slowly lower the weight by bending your knees until your thighs are parallel to the ground while inhaling. Tip: Keep your back straight while performing this exercise to avoid any injuries and your arms should remain extended and over your head at all times.",
     "Now use your feet and legs to help bring the weight back up to the starting position while exhaling.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Comienza teniendo una barra frente a ti en el suelo. Tus pies deben estar separados a una distancia mayor que el ancho de los hombros.",
+    "Dobla las rodillas y usa un agarre pronado (con las palmas hacia ti) para tomar la barra. Tus manos deben estar separadas a una distancia mayor que el ancho de los hombros antes de levantar. Una vez que estés en posición, levanta la barra hasta que puedas apoyarla en tu pecho.",
+    "Mueve la barra por encima y ligeramente detrás de tu cabeza y asegúrate de que tus brazos estén completamente extendidos. Mantén la cabeza en alto en todo momento y también mantén la espalda recta. Retrae tus omóplatos. Esta es tu posición inicial.",
+    "Baja lentamente el peso doblando las rodillas hasta que tus muslos estén paralelos al suelo mientras inhalas. Consejo: Mantén la espalda recta mientras realizas este ejercicio para evitar lesiones y tus brazos deben permanecer extendidos y por encima de tu cabeza en todo momento.",
+    "Ahora usa tus pies y piernas para ayudar a llevar el peso de vuelta a la posición inicial mientras exhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

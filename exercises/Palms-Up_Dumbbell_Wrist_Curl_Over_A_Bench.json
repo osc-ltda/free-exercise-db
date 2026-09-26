@@ -1,5 +1,6 @@
 {
   "name": "Wrist Curl (Palms-Up Dumbbell Over A Bench)",
+  "nameEs": "Curl de muñeca con mancuerna (con palmas hacia arriba sobre un banco)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,15 @@
     "Slowly lower your wrists back down to the starting position while inhaling. Make sure to inhale during this part of the exercise.",
     "Your forearms should be stationary as your wrist is the only movement needed to perform this exercise.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Comienza colocando dos mancuernas en un lado de un banco plano.",
+    "Arrodíllate sobre ambas rodillas de modo que tu cuerpo quede frente al banco plano.",
+    "Usa tus brazos para agarrar ambas mancuernas con un agarre supinado (palmas hacia arriba) y levántalas para que tus antebrazos descansen contra el banco plano. Tus muñecas deben quedar colgando del borde.",
+    "Comienza haciendo un curl con tu muñeca hacia arriba mientras exhalas.",
+    "Baja lentamente tus muñecas a la posición inicial mientras inhalas. Asegúrate de inhalar durante esta parte del ejercicio.",
+    "Tus antebrazos deben permanecer estáticos, ya que la muñeca es el único movimiento necesario para realizar este ejercicio.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

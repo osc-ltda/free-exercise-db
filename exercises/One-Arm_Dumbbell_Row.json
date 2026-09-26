@@ -1,5 +1,6 @@
 {
   "name": "Row (One-Arm Dumbbell)",
+  "nameEs": "Remo (con mancuerna a una mano)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,6 +21,15 @@
     "Lower the resistance straight down to the starting position. Breathe in as you perform this step.",
     "Repeat the movement for the specified amount of repetitions.",
     "Switch sides and repeat again with the other arm."
+  ],
+  "instructionsEs": [
+    "Elige un banco plano y coloca una mancuerna a cada lado de este.",
+    "Coloca la pierna derecha encima del extremo del banco, flexiona tu torso hacia adelante desde la cintura hasta que la parte superior de tu cuerpo esté paralela al suelo, y apoya tu mano derecha en el otro extremo del banco para mantener el equilibrio.",
+    "Usa la mano izquierda para tomar la mancuerna en el suelo y sujeta el peso manteniendo la zona lumbar recta. La palma de la mano debe estar orientada hacia tu torso. Esta será tu posición inicial.",
+    "Tira de la resistencia en línea recta hacia el lateral de tu pecho, manteniendo la parte superior del brazo cerca de tu costado y el torso estático. Exhala mientras realizas este paso. Consejo: Concéntrate en contraer los músculos de la espalda una vez que alcances la posición de máxima contracción. Asimismo, asegúrate de que la fuerza la realicen los músculos de la espalda y no los brazos. Por último, la parte superior del torso debe permanecer estática y solo deben moverse los brazos. Los antebrazos no deben realizar otro trabajo que no sea sostener la mancuerna; por lo tanto, no intentes subir la mancuerna usando los antebrazos.",
+    "Baja la resistencia en línea recta hacia la posición inicial. Inhala mientras realizas este paso.",
+    "Repite el movimiento durante el número de repeticiones especificado.",
+    "Cambia de lado y repite de nuevo con el otro brazo."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

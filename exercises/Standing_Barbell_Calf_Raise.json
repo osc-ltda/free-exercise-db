@@ -1,5 +1,6 @@
 {
   "name": "Calf Raise (Standing Barbell)",
+  "nameEs": "Elevación de pantorrilla (de pie con barra)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Raise your heels as you breathe out by extending your ankles as high as possible and flexing your calf. Ensure that the knee is kept stationary at all times. There should be no bending at any time. Hold the contracted position by a second before you start to go back down.",
     "Go back slowly to the starting position as you breathe in by lowering your heels as you bend the ankles until calves are stretched.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Este ejercicio se realiza mejor dentro de un soporte para sentadillas por motivos de seguridad. Para comenzar, primero ajusta la barra en un soporte que se adapte mejor a tu altura. Una vez elegida la altura correcta y cargada la barra, colócate debajo de la barra y colócala en la parte posterior de tus hombros (ligeramente por debajo del cuello).",
+    "Sostén la barra usando ambos brazos a cada lado y levántala del soporte empujando primero con las piernas y enderezando el torso al mismo tiempo.",
+    "Aléjate del soporte y coloca tus piernas usando una postura mediana al ancho de los hombros con los dedos de los pies ligeramente hacia afuera. Mantén la cabeza en alto en todo momento, ya que mirar hacia abajo te hará perder el equilibrio, y mantén también la espalda recta. Las rodillas deben mantenerse con una ligera flexión; nunca bloqueadas. Esta será tu posición inicial. Consejo: para un mejor rango de movimiento también puedes colocar la parte delantera de tus pies sobre un bloque de madera, pero ten cuidado ya que esta opción requiere más equilibrio y un bloque resistente.",
+    "Eleva tus talones mientras exhalas extendiendo los anhelos lo más alto posible y flexionando la pantorrilla. Asegúrate de que la rodilla se mantenga fija en todo momento. No debe haber flexión en ningún momento. Mantén la posición contraída durante un segundo antes de comenzar a bajar.",
+    "Regresa lentamente a la posición inicial mientras inhalas bajando los talones mientras flexionas los tobillos hasta que las pantorrillas estén estiradas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

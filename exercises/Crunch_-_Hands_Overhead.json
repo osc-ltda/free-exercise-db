@@ -1,5 +1,6 @@
 {
   "name": "Crunch (Hands Overhead)",
+  "nameEs": "Abdominal (Manos Arriba)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Curl your upper body forward and bring your shoulder blades just off the floor. At all times, keep your arms aligned with your head, neck and shoulder. Don't move them forward from that position. Exhale as you perform this portion of the movement and hold the contraction for a second.",
     "Slowly lower down to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate en el suelo con la espalda plana y las rodillas dobladas formando un ángulo de unos 60 grados entre los isquiotibiales y las pantorrillas.",
+    "Mantén tus pies planos en el suelo y estira tus brazos por encima de la cabeza con las palmas cruzadas. Esta será tu posición inicial.",
+    "Haz un curl con tu tren superior hacia adelante y separa tus omóplatos justo del suelo. En todo momento, mantén tus brazos alineados con tu cabeza, cuello y hombros. No los muevas hacia adelante desde esa posición. Exhala mientras realizas esta porción del movimiento y mantén la contracción por un segundo.",
+    "Baja lentamente a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

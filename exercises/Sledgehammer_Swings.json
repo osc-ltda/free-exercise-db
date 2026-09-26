@@ -1,5 +1,6 @@
 {
   "name": "Sledgehammer Swings",
+  "nameEs": "Golpes de mazo",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -19,6 +20,12 @@
     "If you are right handed, your left hand should be at the bottom of the handle, and your right hand should be choking up closer to the head.",
     "As you bring the sledge up, your right hand slides toward the head; as you swing down, your right hand will slide down to join your left hand. Slam it down as hard as you can against the tire. Control the bounce of the hammer off of the tire.",
     "Repeat on the other side."
+  ],
+  "instructionsEs": [
+    "Necesitarás un neumático y un mazo para este ejercicio. Párate frente al neumático a unos dos pies de distancia con una postura escalonada. Toma el mazo.",
+    "Si eres diestro, tu mano izquierda debe estar en la parte inferior del mango y tu mano derecha debe deslizarse más cerca de la cabeza.",
+    "Al levantar el mazo, tu mano derecha se desliza hacia la cabeza; al bajarlo, tu mano derecha se deslizará hacia abajo para unirse a tu mano izquierda. Golpea con tanta fuerza como puedas contra el neumático. Controla el rebote del martillo contra el neumático.",
+    "Repite del otro lado."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

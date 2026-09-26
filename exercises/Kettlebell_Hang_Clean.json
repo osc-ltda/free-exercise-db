@@ -1,5 +1,6 @@
 {
   "name": "Clean (Kettlebell Hang)",
+  "nameEs": "Clean (Pesa rusa Hang)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,6 +19,11 @@
     "Place kettlebell between your feet. To get in the starting position, push your butt back and look straight ahead.",
     "Clean kettlebell to your shoulder. Clean the kettlebell to your shoulders by extending through the legs and hips as you raise the kettlebell towards your shoulder. The wrist should rotate as you do so.",
     "Lower kettlebell to a hanging position between your legs while keeping the hamstrings loaded. Keep your head up at all times."
+  ],
+  "instructionsEs": [
+    "Coloca la pesa rusa entre tus pies. Para adoptar la posición inicial, empuja los glúteos hacia atrás y mira al frente.",
+    "Haz el Clean de la pesa rusa hacia tu hombro. Realiza el Clean de la pesa rusa hacia tus hombros extendiendo las piernas y las caderas mientras elevas la pesa rusa hacia tu hombro. La muñeca debe rotar a medida que lo haces.",
+    "Baja la pesa rusa a una posición colgante entre tus piernas mientras mantienes los isquiotibiales cargados. Mantén la cabeza en alto en todo momento."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

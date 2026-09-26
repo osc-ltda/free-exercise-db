@@ -1,5 +1,6 @@
 {
   "name": "Snatch",
+  "nameEs": "Snatch",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -24,6 +25,15 @@
     "Lift your shoulders back in a shrugging movement as you bring the bar up while lifting your elbows out to the side and keeping them above the bar for as long as possible.",
     "Now in a very quick but powerful motion, you have to get your body under the barbell when it has reached a high enough point where it can be controlled and drop while locking your arms and holding the barbell overhead as you assume a squat position.",
     "Finalize the movement by rising up out of the squat position to finish the lift. At the end of the lift both feet should be on line and the arms fully extended holding the barbell overhead."
+  ],
+  "instructionsEs": [
+    "Coloca tus pies en una postura al ancho de los hombros con la barra reposando justo por encima de la unión entre los dedos y el resto del pie.",
+    "Con un agarre con las palmas hacia abajo, flexiona las rodillas y, manteniendo la espalda plana, agarra la barra usando un agarre más ancho que el ancho de los hombros. Baja las caderas y asegúrate de que tu cuerpo descienda como si fueras a sentarte en una silla. Esta será tu posición inicial.",
+    "Empieza a empujar el suelo como si fuera una plataforma móvil con tus pies y simultáneamente comienza a levantar la barra manteniéndola cerca de tus piernas.",
+    "A medida que la barra llega a la mitad de tus muslos, empuja el suelo con tus piernas y levanta tu cuerpo a una extensión completa en un movimiento explosivo.",
+    "Echa tus hombros hacia atrás en un movimiento de encogimiento a medida que subes la barra mientras sacas los codos hacia los lados y los mantienes por encima de la barra el mayor tiempo posible.",
+    "Ahora, en un movimiento muy rápido pero potente, debes meter tu cuerpo debajo de la barra cuando esta haya alcanzado un punto lo suficientemente alto como para poder controlarla y descender mientras bloqueas los brazos y sostienes la barra por encima de la cabeza al tiempo que adoptas una posición de sentadilla.",
+    "Finaliza el movimiento incorporándote desde la posición de sentadilla para terminar el levantamiento. Al final del levantamiento, ambos pies deben estar alineados y los brazos completamente extendidos sosteniendo la barra por encima de la cabeza."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

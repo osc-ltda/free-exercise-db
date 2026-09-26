@@ -1,5 +1,6 @@
 {
   "name": "Kettlebell Figure 8",
+  "nameEs": "Pesa rusa Figure 8",
   "force": "pull",
   "level": "intermediate",
   "mechanic": null,
@@ -14,6 +15,10 @@
   "instructions": [
     "Place one kettlebell between your legs and take a wider than shoulder width stance. Bend over by pushing your butt out and keeping your back flat.",
     "Pick up a kettlebell and pass it to your other hand between your legs. The receiving hand should reach from behind the legs. Go back and forth for several repetitions."
+  ],
+  "instructionsEs": [
+    "Coloca una pesa rusa entre tus piernas y adopta una postura más ancha que el ancho de los hombros. Inclínate hacia adelante sacando los glúteos y manteniendo la espalda recta.",
+    "Toma una pesa rusa y pásala a tu otra mano entre tus piernas. La mano que recibe debe alcanzar desde detrás de las piernas. Ve de un lado a otro durante varias repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

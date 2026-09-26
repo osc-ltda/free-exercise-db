@@ -1,5 +1,6 @@
 {
   "name": "Bench Press (Hammer Grip Incline DB)",
+  "nameEs": "Press de banca (Mancuerna Inclinado - Agarre martillo)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -19,6 +20,15 @@
     "As you breathe out, push the dumbbells up using your pectoral muscles. Lock your arms in the contracted position, hold for a second and then start coming down slowly. Tip: It should take at least twice as long to go down than to come up.",
     "Repeat the movement for the prescribed amount of repetitions.",
     "When you are done, place the dumbbells back in your thighs and then on the floor. This is the safest manner to dispose of the dumbbells."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca arriba en un banco inclinado con una mancuerna en cada mano sobre tus muslos. Las palmas de tus manos se mirarán entre sí.",
+    "Usando tus muslos para ayudarte a subir las mancuernas, levántalas de un brazo a la vez para poder sostenerlas al ancho de los hombros.",
+    "Una vez al ancho de los hombros, mantén las palmas de tus manos con un agarre neutral (palmas enfrentadas). Mantén tus codos hacia afuera con los brazos alineados con los hombros (perpendiculares al torso) y los codos flexionados creando un ángulo de 90 grados entre el brazo y el antebrazo. Esta será tu posición inicial.",
+    "Ahora baja los pesos lentamente a tus lados mientras tomas aire. Mantén el control total de las mancuernas en todo momento.",
+    "Mientras exhalas, empuja las mancuernas hacia arriba usando tus músculos pectorales. Bloquea tus brazos en la posición contraída, mantén un segundo y luego comienza a bajar lentamente. Consejo: Debe tomar al menos el doble de tiempo bajar que subir.",
+    "Repite el movimiento por la cantidad de repeticiones prescrita.",
+    "Cuando termines, vuelve a colocar las mancuernas en tus muslos y luego en el suelo. Esta es la manera más segura de dejar las mancuernas."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

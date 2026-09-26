@@ -1,5 +1,6 @@
 {
   "name": "Backward Drag",
+  "nameEs": "Arrastre hacia atrás",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,10 @@
   "instructions": [
     "Load a sled with the desired weight, attaching a rope or straps to the sled that you can hold onto.",
     "Begin the exercise by moving backwards for a given distance. Leaning back, extend through the legs for short steps to move as quickly as possible."
+  ],
+  "instructionsEs": [
+    "Carga un trineo con el peso deseado, fijando una cuerda o correas al trineo que puedas sostener.",
+    "Comienza el ejercicio moviéndote hacia atrás durante una distancia determinada. Inclinándote hacia atrás, extiende las piernas con pasos cortos para moverte lo más rápido posible."
   ],
   "category": "strongman",
   "trackingType": "weight_reps",

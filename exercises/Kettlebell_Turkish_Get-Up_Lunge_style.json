@@ -1,5 +1,6 @@
 {
   "name": "Lunge (Kettlebell Turkish Get-Up style)",
+  "nameEs": "Get-Up turco (Pesa rusa estilo Zancada)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,11 @@
     "Lie on your back on the floor and press a kettlebell to the top position by extending the elbow. Bend the knee on the same side as the kettlebell.",
     "Keeping the kettlebell locked out at all times, pivot to the opposite side and use your non- working arm to assist you in driving forward to the lunge position. Using your free hand, push yourself to a seated position, then progressing to one knee.",
     "While looking up at the kettlebell, slowly stand up. Reverse the motion back to the starting position and repeat."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca arriba en el suelo y haz press con una pesa rusa hasta la posición superior extendiendo el codo. Flexiona la rodilla del mismo lado que la pesa rusa.",
+    "Manteniendo la pesa rusa bloqueada en todo momento, gira hacia el lado opuesto y usa tu brazo que no trabaja para ayudarte a impulsarte hacia adelante hasta la posición de zancada. Usando tu mano libre, empújate a una posición sentado y luego pasa a una rodilla.",
+    "Mientras miras hacia arriba a la pesa rusa, levántate lentamente. Invierte el movimiento para volver a la posición inicial y repite."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

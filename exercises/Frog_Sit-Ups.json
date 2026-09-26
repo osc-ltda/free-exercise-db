@@ -1,5 +1,6 @@
 {
   "name": "Sit-Ups (Frog)",
+  "nameEs": "Abdominal (Frog)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -16,6 +17,15 @@
     "As you exhale flatten your lower back to the floor while curling the torso upwards. Tip: This will be like performing the first 1/4 movement of a sit up. Hold at the top position for a second.",
     "As you inhale, slowly lower back to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Recuéstate con la espalda plana en el suelo (o esterilla de ejercicio) y las piernas extendidas frente a ti.",
+    "Ahora flexiona las rodillas y coloca los muslos exteriores cerca del suelo (o esterilla) mientras haces que las plantas de los pies se toquen entre sí.",
+    "Ahora intenta empujar ambas plantas y acercarlas lo más posible a ti mientras mantienes los muslos exteriores en el suelo (o al menos casi tocándolo). Consejo: en esta posición tus piernas deben formar una figura de diamante.",
+    "Ahora, cruza los brazos frente a ti tocando los hombros opuestos. Esta será tu posición inicial.",
+    "Mientras exhalas, aplana la parte baja de la espalda contra el suelo mientras flexionas el torso hacia arriba. Consejo: esto será como realizar el primer 1/4 de movimiento de un abdominal. Mantén la posición superior durante un segundo.",
+    "Mientras inhalas, baja lentamente a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

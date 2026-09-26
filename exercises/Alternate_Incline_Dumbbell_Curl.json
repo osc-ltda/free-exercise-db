@@ -1,5 +1,6 @@
 {
   "name": "Curl (Alternate Incline Dumbbell)",
+  "nameEs": "Curl (Mancuerna Inclinado Alterno)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,13 @@
     "Slowly begin to bring the dumbbell back to starting position as your breathe in.",
     "Repeat the movement with the left hand. This equals one repetition.",
     "Continue alternating in this manner for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Siéntate en un banco inclinado con una mancuerna en cada mano sostenida con los brazos estirados. Consejo: mantén los codos cerca del torso. Esta será tu posición inicial.",
+    "Mientras mantienes la parte superior del brazo fija, haz un curl con el peso derecho hacia adelante mientras contraes los bíceps al exhalar. Al hacerlo, gira la mano de modo que la palma quede hacia arriba. Continúa el movimiento hasta que tu bíceps esté completamente contraído y las mancuernas estén a la altura de los hombros. Mantén la posición contraída durante un segundo mientras aprietas los bíceps. Consejo: solo deben moverse los antebrazos.",
+    "Comienza a llevar lentamente la mancuerna de regreso a la posición inicial mientras inhalas.",
+    "Repite el movimiento con la mano izquierda. Esto equivale a una repetición.",
+    "Continúa alternando de esta manera por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

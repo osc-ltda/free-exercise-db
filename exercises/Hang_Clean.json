@@ -1,5 +1,6 @@
 {
   "name": "Clean (Hang)",
+  "nameEs": "Clean (Colgante)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -20,6 +21,11 @@
     "Begin with a shoulder width, double overhand or hook grip, with the bar hanging at the mid thigh position. Your back should be straight and inclined slightly forward.",
     "Begin by aggressively extending through the hips, knees and ankles, driving the weight upward. As you do so, shrug your shoulders towards your ears.",
     "Immediately recover by driving through the heels, keeping the torso upright and elbows up. Continue until you have risen to a standing position."
+  ],
+  "instructionsEs": [
+    "Comienza con un agarre prono o de gancho al ancho de los hombros, con la barra colgando a la altura media del muslo. Tu espalda debe estar recta y ligeramente inclinada hacia adelante.",
+    "Comienza extendiendo agresivamente las caderas, rodillas y tobillos, impulsando el peso hacia arriba. A medida que lo hagas, encoge los hombros hacia tus orejas.",
+    "Recupérate inmediatamente empujando a través de los talones, manteniendo el torso erguido y los codos arriba. Continúa hasta que hayas subido a una posición de pie."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

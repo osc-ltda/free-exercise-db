@@ -1,5 +1,6 @@
 {
   "name": "Pull-Up (Band Assisted)",
+  "nameEs": "Dominada (Banda Asistido)",
   "force": null,
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "Pull the end of the band down, and place one bent knee into the loop, ensuring it won't slip out. Take a medium to wide grip on the bar. This will be your starting position.",
     "Pull yourself upward by contracting the lats as you flex the elbow. The elbow should be driven to your side. Pull to the front, attempting to get your chin over the bar. Avoid swinging or jerking movements.",
     "After a brief pause, return to the starting position."
+  ],
+  "instructionsEs": [
+    "Pasa la banda alrededor del centro de la barra de dominadas. Puedes usar diferentes bandas para proporcionar distintos niveles de asistencia.",
+    "Jala el extremo de la banda hacia abajo y coloca una rodilla flexionada en el bucle, asegurándote de que no se resbale. Toma la barra con un agarre de medio a ancho. Esta será tu posición inicial.",
+    "Elévate contrayendo los dorsales mientras flexionas el codo. El codo debe dirigirse hacia tu costado. Sube hacia el frente, intentando que tu barbilla rebase la barra. Evita movimientos de balanceo o tirones.",
+    "Después de una breve pausa, regresa a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

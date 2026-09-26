@@ -1,5 +1,6 @@
 {
   "name": "Tricep Dumbbell Kickback",
+  "nameEs": "Patada de tríceps con mancuerna",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "Now, while keeping your upper arms stationary, exhale and use your triceps to lift the weights until the arm is fully extended. Focus on moving the forearm.",
     "After a brief pause at the top contraction, inhale and slowly lower the dumbbells back down to the starting position.",
     "Repeat the movement for the prescribed amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Comienza con una mancuerna en cada mano y las palmas mirando hacia tu torso. Mantén tu espalda recta con una ligera flexión en las rodillas e inclínate hacia adelante desde la cintura. Tu torso debe estar casi paralelo al suelo. Asegúrate de mantener la cabeza en alto. Tus brazos deben estar cerca de tu torso y paralelos al suelo. Tus antebrazos deben apuntar hacia el suelo mientras sostienes los pesos. Debe formarse un ángulo de 90 grados entre tu antebrazo y tu brazo. Esta es tu posición inicial.",
+    "Ahora, mientras mantienes tus brazos estáticos, exhala y usa tus tríceps para levantar los pesos hasta que el brazo esté completamente extendido. Concéntrate en mover el antebrazo.",
+    "Después de una breve pausa en la contracción superior, inhala y baja lentamente las mancuernas de regreso a la posición inicial.",
+    "Repite el movimiento por la cantidad de repeticiones prescrita."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Push-Up (Incline)",
+  "nameEs": "Flexión de brazos (Inclinada)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,11 @@
     "Stand facing bench or sturdy elevated platform. Place hands on edge of bench or platform, slightly wider than shoulder width.",
     "Position forefoot back from bench or platform with arms and body straight. Arms should be perpendicular to body. Keeping body straight, lower chest to edge of box or platform by bending arms.",
     "Push body up until arms are extended. Repeat."
+  ],
+  "instructionsEs": [
+    "Párate frente a un banco o plataforma elevada resistente. Coloca las manos en el borde del banco o plataforma, un poco más separadas que el ancho de los hombros.",
+    "Coloca la parte delantera de los pies hacia atrás del banco o plataforma con los brazos y el cuerpo rectos. Los brazos deben estar perpendiculares al cuerpo. Manteniendo el cuerpo recto, baja el pecho hacia el borde de la caja o plataforma doblando los brazos.",
+    "Empuja el cuerpo hacia arriba hasta que los brazos estén extendidos. Repite."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

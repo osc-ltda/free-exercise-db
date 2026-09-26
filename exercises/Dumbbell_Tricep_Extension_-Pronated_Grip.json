@@ -1,5 +1,6 @@
 {
   "name": "Dumbbell Tricep Extension -Pronated Grip",
+  "nameEs": "Extensión de tríceps con mancuerna - Agarre pronado",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "The palms of your hands should be facing forward, and your elbows should be tucked in. This will be your starting position.",
     "Now, inhale and slowly lower the dumbbells until they are near your ears. Be sure to keep your upper arms stationary and your elbows tucked in.",
     "Then, exhale and use your triceps to return the weight to the starting position."
+  ],
+  "instructionsEs": [
+    "Acuéstate en un banco plano sosteniendo dos mancuernas directamente sobre tus hombros. Tus brazos deben estar completamente extendidos y formar un ángulo de 90 grados respecto a tu torso y al suelo.",
+    "Las palmas de tus manos deben apuntar hacia adelante y tus codos deben estar pegados. Esta será tu posición inicial.",
+    "Ahora, inhala y baja lentamente las mancuernas hasta que estén cerca de tus orejas. Asegúrate de mantener la parte superior de tus brazos fija y los codos pegados.",
+    "Luego, exhala y usa tus tríceps para regresar el peso a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

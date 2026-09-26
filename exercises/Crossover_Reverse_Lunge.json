@@ -1,5 +1,6 @@
 {
   "name": "Reverse Lunge (Crossover)",
+  "nameEs": "Zancada inversa (Cruzada)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": null,
@@ -18,6 +19,11 @@
     "Stand with your feet shoulder width apart. This will be your starting position.",
     "Perform a rear lunge by stepping back with one foot and flexing the hips and front knee. As you do so, rotate your torso across the front leg.",
     "After a brief pause, return to the starting position and repeat on the other side, continuing in an alternating fashion."
+  ],
+  "instructionsEs": [
+    "Párate con los pies separados a la distancia de los hombros. Esta será tu posición inicial.",
+    "Realiza una zancada hacia atrás dando un paso atrás con un pie y flexionando las caderas y la rodilla delantera. Al hacerlo, rota tu torso a través de la pierna delantera.",
+    "Después de una breve pausa, regresa a la posición inicial y repite del otro lado, continuando de forma alternada."
   ],
   "category": "stretching",
   "trackingType": "weight_reps",

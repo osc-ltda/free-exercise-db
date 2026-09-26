@@ -1,5 +1,6 @@
 {
   "name": "Bench Press (Dumbbell)",
+  "nameEs": "Press de banca (Mancuerna)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "Once at shoulder width, rotate your wrists forward so that the palms of your hands are facing away from you. The dumbbells should be just to the sides of your chest, with your upper arm and forearm creating a 90 degree angle. Be sure to maintain full control of the dumbbells at all times. This will be your starting position.",
     "Then, as you breathe out, use your chest to push the dumbbells up. Lock your arms at the top of the lift and squeeze your chest, hold for a second and then begin coming down slowly. Tip: Ideally, lowering the weight should take about twice as long as raising it.",
     "Repeat the movement for the prescribed amount of repetitions of your training program."
+  ],
+  "instructionsEs": [
+    "Acuéstate en un banco plano con una mancuerna en cada mano descansando sobre la parte superior de tus muslos. Las palmas de tus manos estarán orientadas la una hacia la otra.",
+    "Luego, usando tus muslos para ayudar a elevar las mancuernas, levanta las mancuernas una a la vez para poder sostenerlas frente a ti al ancho de los hombros.",
+    "Una vez al ancho de los hombros, rota tus muñecas hacia adelante para que las palmas de tus manos estén orientadas en dirección contraria a ti. Las mancuernas deben estar justo a los lados de tu pecho, con la parte superior de tu brazo y tu antebrazo creando un ángulo de 90 grados. Asegúrate de mantener el control total de las mancuernas en todo momento. Esta será tu posición inicial.",
+    "Luego, al exhalar, usa tu pecho para empujar las mancuernas hacia arriba. Bloquea tus brazos en la parte superior del levantamiento y contrae tu pecho, mantén durante un segundo y luego comienza a bajar lentamente. Consejo: Idealmente, bajar el peso debería tomar aproximadamente el doble de tiempo que levantarlo.",
+    "Repite el movimiento por la cantidad de repeticiones prescrita en tu programa de entrenamiento."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

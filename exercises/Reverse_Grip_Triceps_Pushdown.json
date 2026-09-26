@@ -1,5 +1,6 @@
 {
   "name": "Triceps Pushdown (Reverse Grip)",
+  "nameEs": "Extensión de tríceps en polea (Agarre inverso)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Slowly elevate the bar attachment up as you inhale so it is aligned with your chest. Only the forearms should move and the elbows/upper arms should be stationary by your side at all times.",
     "Then begin to lower the cable bar back down to the original staring position while exhaling and contracting the triceps hard.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Comienza colocando un accesorio de barra (recta o barra Z) en una máquina de polea alta.",
+    "Frente al accesorio de barra, agárralo con las palmas hacia arriba (agarre supinado) al ancho de los hombros. Baja la barra usando tus dorsales hasta que tus brazos estén completamente extendidos a los lados. Consejo: los codos deben estar pegados a los costados y tus pies deben estar separados al ancho de los hombros. Esta es la posición inicial.",
+    "Eleva lentamente el accesorio de barra mientras inspiras de modo que quede alineado con tu pecho. Solo deben moverse los antebrazos y los codos/brazos superiores deben permanecer estáticos a tu costado en todo momento.",
+    "Luego comienza a bajar la barra de la polea de regreso a la posición de inicio original mientras exhalas y contraes los tríceps con fuerza.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

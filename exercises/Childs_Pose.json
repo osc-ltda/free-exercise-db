@@ -1,5 +1,6 @@
 {
   "name": "Child's Pose",
+  "nameEs": "Postura del niño",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -15,6 +16,11 @@
     "Get on your hands and knees, walk your hands in front of you.",
     "Lower your buttocks down to sit on your heels. Let your arms drag along the floor as you sit back to stretch your entire spine.",
     "Once you settle onto your heels, bring your hands next to your feet and relax. \"breathe\" into your back. Rest your forehead on the floor. Avoid this position if you have knee problems."
+  ],
+  "instructionsEs": [
+    "Colócate sobre tus manos y rodillas, y camina con tus manos hacia el frente.",
+    "Baja tus glúteos para sentarte sobre tus talones. Deja que tus brazos se arrastren por el suelo mientras te sientas hacia atrás para estirar toda tu columna.",
+    "Una vez que te acomodes sobre tus talones, lleva tus manos al lado de tus pies y relájate. \"Respira\" hacia tu espalda. Descansa tu frente en el suelo. Evita esta posición si tienes problemas en las rodillas."
   ],
   "category": "stretching",
   "trackingType": "time",

@@ -1,5 +1,6 @@
 {
   "name": "Squat (Jerk)",
+  "nameEs": "Sentadilla (envión)",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -18,6 +19,11 @@
     "Standing with the weight racked on the front of the shoulders, begin with the dip. With your feet directly under your hips, flex the knees without moving the hips backward. Go down only slightly, and reverse direction as powerfully as possible. Drive through the heels create as much speed and force as possible, and be sure to move your head out of the way as the bar leaves the shoulders.",
     "At this moment as the feet leave the floor, the feet must be placed into the receiving position as quickly as possible. In the brief moment the feet are not actively driving against the platform, the athlete's effort to push the bar up will drive them down. The feet should move forcefully to just outside the hips, turned out as necessary. Receive the bar with your body in a full squat and the arms fully extended overhead.",
     "Keeping the bar aligned over the front of the heels, your head and chest up, drive throught heels of the feet to move to a standing position. Carefully return the weight to floor."
+  ],
+  "instructionsEs": [
+    "De pie con el peso cargado en la parte delantera de los hombros, comienza con la flexión inicial. Con los pies directamente debajo de las caderas, flexiona las rodillas sin mover las caderas hacia atrás. Baja solo un poco e invierte la dirección con la mayor potencia posible. Empuja a través de los talones para generar la mayor velocidad y fuerza posible, y asegúrate de mover la cabeza para quitarla del camino a medida que la barra deja los hombros.",
+    "En este momento, a medida que los pies se separan del suelo, deben colocarse en la posición de recepción lo más rápido posible. En el breve momento en que los pies no empujan activamente contra la plataforma, el esfuerzo del atleta por empujar la barra hacia arriba lo impulsará hacia abajo. Los pies deben moverse con fuerza justo hacia el exterior de las caderas, girados hacia afuera según sea necesario. Recibe la barra con tu cuerpo en una sentadilla completa y los brazos completamente extendidos por encima de la cabeza.",
+    "Manteniendo la barra alineada sobre la parte delantera de los talones, con la cabeza y el pecho erguidos, empuja a través de los talones de los pies para pasar a una posición de pie. Devuelve cuidadosamente el peso al suelo."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

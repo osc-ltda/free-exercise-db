@@ -1,5 +1,6 @@
 {
   "name": "Lying Face Up Plate Neck Resistance",
+  "nameEs": "Resistencia de cuello con disco boca arriba",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "While keeping the plate secure on your forehead slowly lower your head back in a semi-circular motion as you breathe in.",
     "Raise your head back up to the starting position in a semi-circular motion as you breathe out. Hold the contraction for a second.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca arriba con todo tu cuerpo recto en un banco plano mientras sostienes un disco de peso en la parte superior de tu frente. Consejo: Debes ubicarte de manera que tus hombros queden ligeramente por encima del extremo de un banco plano para que los trapecios, el cuello y la cabeza queden fuera del banco. Esta será tu posición inicial.",
+    "Mientras mantienes el disco seguro en tu frente, baja lentamente la cabeza hacia atrás en un movimiento semicircular mientras inspiras.",
+    "Vuelve a levantar la cabeza a la posición inicial en un movimiento semicircular mientras exhalas. Mantén la contracción durante un segundo.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

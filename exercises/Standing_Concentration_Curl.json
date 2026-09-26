@@ -1,5 +1,6 @@
 {
   "name": "Concentration Curl (Standing)",
+  "nameEs": "Curl de concentración (De pie)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,12 @@
     "Flex the elbow to curl the weight, keeping the upper arm stationary. At the top of the repetition, flex the biceps and pause.",
     "Lower the dumbbell back to the starting position.",
     "Repeat the movement for the prescribed amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Tomando una mancuerna en tu mano de trabajo, inclínate hacia adelante. Permite que tu brazo de trabajo cuelgue perpendicular al suelo con el codo apuntando hacia afuera. Esta será tu posición inicial.",
+    "Flexiona el codo para hacer un curl con el peso, manteniendo la parte superior del brazo inmóvil. En la parte superior de la repetición, contrae los bíceps y haz una pausa.",
+    "Baja la mancuerna de regreso a la posición inicial.",
+    "Repite el movimiento durante la cantidad de repeticiones prescrita."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Swings (One-Arm Kettlebell)",
+  "nameEs": "Swings (Pesa rusa de un brazo)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -14,6 +15,7 @@
     "shoulders"
   ],
   "instructions": [],
+  "instructionsEs": [],
   "category": "strength",
   "trackingType": "weight_reps",
   "images": [

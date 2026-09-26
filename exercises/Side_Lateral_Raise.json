@@ -1,5 +1,6 @@
 {
   "name": "Lateral Raise (Dumbbells)",
+  "nameEs": "Elevación lateral (Mancuernas)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "While maintaining the torso in a stationary position (no swinging), lift the dumbbells to your side with a slight bend on the elbow and the hands slightly tilted forward as if pouring water in a glass. Continue to go up until you arms are parallel to the floor. Exhale as you execute this movement and pause for a second at the top.",
     "Lower the dumbbells back down slowly to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Toma un par de mancuernas y párate con el torso recto y las mancuernas a los lados con los brazos estirados y las palmas de las manos hacia ti. Esta será tu posición inicial.",
+    "Mientras mantienes el torso en una posición fija (sin balancearse), levanta las mancuernas hacia los lados con una ligera flexión en el codo y las manos ligeramente inclinadas hacia adelante como si estuvieras vertiendo agua en un vaso. Continúa subiendo hasta que tus brazos queden paralelos al suelo. Exhala mientras ejecutas este movimiento y haz una pausa de un segundo en la parte superior.",
+    "Baja las mancuernas lentamente de vuelta a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

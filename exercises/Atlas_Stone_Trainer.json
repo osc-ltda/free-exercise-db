@@ -1,5 +1,6 @@
 {
   "name": "Atlas Stone Trainer",
+  "nameEs": "Atlas Stone Trainer",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,6 +20,12 @@
     "Begin by loading the desired weight onto the bar. Straddle the weight, wrapping your arms around the implement, bending at the hips.",
     "Begin by pulling the weight up past the knees, extending through the hips. As the weight clears the knees, it can be lapped by resting it on your thighs and sitting back, hugging it tightly to your chest.",
     "Finish the movement by extending through your hips and knees to raise the weight as high as possible. The weight can be returned to the lap or to the ground for successive repetitions."
+  ],
+  "instructionsEs": [
+    "Este entrenador es efectivo para desarrollar fuerza en la piedra de Atlas para aquellos que no tienen acceso a piedras, y típicamente está hecho de extremos de barra o tubería pesada.",
+    "Comienza cargando el peso deseado en la barra. Colócate a horcajadas sobre el peso, envolviendo tus brazos alrededor del implemento, flexionando las caderas.",
+    "Empieza tirando del peso hacia arriba pasando las rodillas, extendiendo a través de las caderas. A medida que el peso supera las rodillas, se puede apoyar en los muslos recostándose hacia atrás y abrazándolo firmemente contra tu pecho.",
+    "Finaliza el movimiento extendiendo a través de tus caderas y rodillas para elevar el peso lo más alto posible. El peso se puede regresar al regazo o al suelo para repeticiones sucesivas."
   ],
   "category": "strongman",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Push-Up (Decline)",
+  "nameEs": "Flexión de brazos (Declinado)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Next, lower yourself downward until your chest almost touches the floor as you inhale.",
     "Now breathe out and press your upper body back up to the starting position while squeezing your chest.",
     "After a brief pause at the top contracted position, you can begin to lower yourself downward again for as many repetitions as needed."
+  ],
+  "instructionsEs": [
+    "Acuéstate en el suelo boca abajo y coloca tus manos a unos 36 pulgadas de distancia mientras sostienes tu torso a la longitud de tus brazos. Sube tus pies a un cajón o banco. Esta será tu posición inicial.",
+    "Luego, baja tu cuerpo hacia abajo hasta que tu pecho casi toque el suelo mientras inhalas.",
+    "Ahora exhala y empuja la parte superior de tu cuerpo de regreso a la posición inicial mientras contraes tu pecho.",
+    "Después de una breve pausa en la posición superior contraída, puedes comenzar a bajar tu cuerpo nuevamente para tantas repeticiones como sean necesarias."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

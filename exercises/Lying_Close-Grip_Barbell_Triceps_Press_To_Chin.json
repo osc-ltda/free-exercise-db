@@ -1,5 +1,6 @@
 {
   "name": "Press (Lying Close-Grip Barbell Triceps To Chin)",
+  "nameEs": "Press de tríceps (Barra con agarre cerrado hacia la barbilla acostado)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "As you inhale, lower the bar in a semi-circular motion by bending at the elbows and while keeping the upper arm stationary and elbows in. Keep lowering the bar until it lightly touches your chin.",
     "As you exhale bring the bar back up to the starting position by pushing the bar up in a semi-circular motion. Contract the triceps hard at the top of the movement for a second. Tip: Again, only the forearms should move. The upper arms should remain stationary at all times.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Mientras sostienes una barra o barra Z con un agarre en pronación (palmas hacia adelante), acuéstate boca arriba en un banco plano con la cabeza fuera del extremo del banco. Consejo: si sostienes una barra, agárrala con un agarre al ancho de los hombros y si usas una barra Z, agárrala por los mangos internos.",
+    "Extiende tus brazos frente a ti mientras sostienes la barra sobre tu pecho. Los brazos deben estar perpendiculares a tu torso (ángulo de 90 grados). Esta será tu posición inicial.",
+    "Mientras inhalas, baja la barra en un movimiento semicircular doblando los codos y manteniendo el brazo fijo y los codos hacia adentro. Sigue bajando la barra hasta que toque ligeramente tu barbilla.",
+    "Mientras exhalas, vuelve a subir la barra a la posición inicial empujándola hacia arriba en un movimiento semicircular. Contrae los tríceps con fuerza en la parte superior del movimiento durante un segundo. Consejo: de nuevo, solo deben moverse los antebrazos. Los brazos deben permanecer fijos en todo momento.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

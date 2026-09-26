@@ -1,5 +1,6 @@
 {
   "name": "Crunch (Ab Machine)",
+  "nameEs": "Abdominal (Máquina)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "At the same time, begin to lift the legs up as you crunch your upper torso. Breathe out as you perform this movement. Tip: Be sure to use a slow and controlled motion. Concentrate on using your abs to move the weight while relaxing your legs and feet.",
     "After a second pause, slowly return to the starting position as you breathe in.",
     "Repeat the movement for the prescribed amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Selecciona una resistencia ligera y siéntate en la máquina de abdominales colocando tus pies bajo los soportes provistos y tomando los mangos superiores. Tus brazos deben estar doblados en un ángulo de 90 grados mientras apoyas los tríceps en los cojines provistos. Esta será tu posición inicial.",
+    "Al mismo tiempo, comienza a levantar las piernas mientras haces un abdominal con tu torso superior. Exhala mientras realizas este movimiento. Consejo: Asegúrate de usar un movimiento lento y controlado. Concéntrate en usar tus abdominales para mover el peso mientras relajas tus piernas y pies.",
+    "Después de una pausa de un segundo, regresa lentamente a la posición inicial mientras inhalas.",
+    "Repite el movimiento por la cantidad prescrita de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

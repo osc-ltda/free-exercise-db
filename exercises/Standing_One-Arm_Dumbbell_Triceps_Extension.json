@@ -1,5 +1,6 @@
 {
   "name": "Triceps Extension (Standing One-Arm Dumbbell)",
+  "nameEs": "Extensión de tríceps (Mancuerna a un brazo de pie)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -18,6 +19,14 @@
     "Go back to the starting position by using the triceps to raise the dumbbell. Breathe out as you perform this step.",
     "Repeat for the recommended amount of repetitions.",
     "Switch arms and repeat the exercise."
+  ],
+  "instructionsEs": [
+    "Para empezar, ponte de pie con una mancuerna sostenida en una mano. Tus pies deben estar separados a la anchura de los hombros. Ahora extiende completamente el brazo con la mancuerna por encima de tu cabeza. Consejo: El dedo meñique de tu mano debe mirar hacia el techo y la palma de tu mano debe mirar hacia adelante. La mancuerna debe quedar por encima de tu cabeza.",
+    "Esta será tu posición inicial.",
+    "Manteniendo tu brazo cerca de la cabeza (codos hacia adentro) y perpendicular al suelo, baja la resistencia en un movimiento semicircular detrás de tu cabeza hasta que tu antebrazo toque tu bíceps. Consejo: El brazo debe permanecer estático y solo debe moverse el antebrazo. Inhala al realizar este paso.",
+    "Regresa a la posición inicial usando los tríceps para elevar la mancuerna. Exhala al realizar este paso.",
+    "Repite por la cantidad recomendada de repeticiones.",
+    "Cambia de brazo y repite el ejercicio."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

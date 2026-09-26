@@ -1,5 +1,6 @@
 {
   "name": "Preacher Curl (Zottman)",
+  "nameEs": "Curl predicador (Zottman)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -17,6 +18,14 @@
     "As you exhale, use your biceps to curl the weights up until they are fully contracted and the dumbbells are at shoulder height. Again, remember that to ensure full contraction you need to bring that small finger higher than the thumb.",
     "Squeeze the biceps hard for a second at the contracted position and rotate your wrists so that the palms are facing down again.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Toma una mancuerna en cada mano y coloca la parte superior de tus brazos sobre el banco predicador o el banco inclinado. Las mancuernas deben sostenerse a la altura de los hombros y los codos deben estar flexionados. Sostén las mancuernas con las palmas de las manos hacia abajo. Esta será tu posición inicial.",
+    "Mientras inspiras, baja lentamente las mancuernas manteniendo las palmas hacia abajo hasta que la parte superior de tu brazo esté extendida y tus bíceps estén completamente estirados.",
+    "Ahora gira tus muñecas una vez que estés en la parte inferior del movimiento para que las palmas de las manos queden hacia arriba.",
+    "Al exhalar, usa tus bíceps para elevar los pesos haciendo un curl hasta que estén completamente contraídos y las mancuernas estén a la altura de los hombros. Nuevamente, recuerda que para asegurar una contracción completa necesitas subir ese dedo meñique más alto que el pulgar.",
+    "Aprieta los bíceps con fuerza durante un segundo en la posición contraída y gira tus muñecas para que las palmas vuelvan a mirar hacia abajo.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

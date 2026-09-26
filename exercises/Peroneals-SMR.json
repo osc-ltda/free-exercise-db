@@ -1,5 +1,6 @@
 {
   "name": "Peroneals-SMR",
+  "nameEs": "Liberación miofascial de peroneos",
   "force": "static",
   "level": "intermediate",
   "mechanic": null,
@@ -11,6 +12,10 @@
   "instructions": [
     "Lay on your side, supporting your weight on your forearm and on a foam roller placed on the outside of your lower leg. Your upper leg can either be on top of your lower leg, or you can cross it in front of you. This will be your starting position.",
     "Raise your hips off of the ground and begin to roll from below the knee to above the ankle on the side of your leg, pausing at points of tension for 10-30 seconds. Repeat on the other leg."
+  ],
+  "instructionsEs": [
+    "Acuéstate de lado, apoyando tu peso en tu antebrazo y en un rodillo de espuma colocado en la parte externa de tu pierna inferior. Tu pierna superior puede estar encima de la inferior, o puedes cruzarla por delante de ti. Esta será tu posición inicial.",
+    "Eleva tus caderas del suelo y comienza a rodar desde debajo de la rodilla hasta encima del tobillo en el lateral de tu pierna, haciendo una pausa en los puntos de tensión durante 10-30 segundos. Repite con la otra pierna."
   ],
   "category": "stretching",
   "trackingType": "time",

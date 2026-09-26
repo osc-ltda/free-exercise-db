@@ -1,5 +1,6 @@
 {
   "name": "Glute Ham Raise",
+  "nameEs": "Glute Ham Raise",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,6 +16,11 @@
     "Begin by adjusting the equipment to fit your body. Place your feet against the footplate in between the rollers as you lie facedown. Your knees should be just behind the pad.",
     "Start from the bottom of the movement. Keep your back arched as you begin the movement by flexing the knees. Drive your toes into the foot plate as you do so. Keep your upper body straight, and continue until your body is upright.",
     "Return to the starting position, keeping your descent under control."
+  ],
+  "instructionsEs": [
+    "Comienza ajustando el equipo a tu cuerpo. Coloca tus pies contra la plataforma entre los rodillos mientras te acuestas boca abajo. Tus rodillas deben quedar justo detrás de la almohadilla.",
+    "Empieza desde la parte baja del movimiento. Mantén tu espalda arqueada al iniciar el movimiento flexionando las rodillas. Empuja con tus puntas de los pies contra la plataforma al hacerlo. Mantén tu tren superior recto y continúa hasta que tu cuerpo esté erguido.",
+    "Regresa a la posición inicial, manteniendo tu descenso bajo control."
   ],
   "category": "powerlifting",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Dips (Machine Assisted)",
+  "nameEs": "Fondo (Máquina Asistido)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Kneel or stand on the pad and take the dip handles with your arms straight.",
     "Lower until your upper arms are about level with the floor.",
     "Press back up to straight arms under control."
+  ],
+  "instructionsEs": [
+    "Ajusta el contrapeso. Más peso en el pin significa más ayuda, así que anota lo que está en la pila en lugar de lo que levantaste: el número debería disminuir a medida que te vuelves más fuerte.",
+    "Arrodíllate o párate en la plataforma y toma los mangos de fondos con los brazos extendidos.",
+    "Baja hasta que tus brazos queden aproximadamente paralelos al piso.",
+    "Empuja hacia arriba hasta extender los brazos de forma controlada."
   ],
   "category": "strength",
   "trackingType": "assisted_reps",

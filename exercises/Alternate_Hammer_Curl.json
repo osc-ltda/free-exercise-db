@@ -1,5 +1,6 @@
 {
   "name": "Curl (Alternate Hammer)",
+  "nameEs": "Curl (Martillo alterno)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -17,6 +18,14 @@
     "Slowly begin to bring the dumbbells back to starting position as your breathe in.",
     "Repeat the movement with the left hand. This equals one repetition.",
     "Continue alternating in this manner for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Ponte de pie con el torso erguido y una Mancuerna en cada mano sostenida a la longitud de los brazos. Los codos deben estar cerca del torso.",
+    "Las Palmas de las manos deben mirar hacia tu torso. Esta será tu posición inicial.",
+    "Mientras mantienes el brazo fijo, haz un Curl con el peso derecho hacia adelante contraer el bíceps mientras exhalas. Continúa el movimiento hasta que tu bíceps esté completamente contraído y las Mancuernas estén a la altura de los hombros. Mantén la posición contraída durante un segundo mientras aprietas el bíceps. Consejo: Solo deben moverse los antebrazos.",
+    "Comienza a llevar lentamente las Mancuernas de regreso a la posición inicial mientras inhalas.",
+    "Repite el movimiento con la mano izquierda. Esto equivale a una repetición.",
+    "Continúa alternando de esta manera durante la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

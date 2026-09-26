@@ -1,5 +1,6 @@
 {
   "name": "Wide Stance Stiff Legs",
+  "nameEs": "Peso muerto rígido (Postura amplia)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,6 +16,10 @@
   "instructions": [
     "Begin with a barbell loaded on the floor. Adopt a wide stance, and then bend at the hips to grab the bar. Your hips should be as far back as possible, and your legs nearly straight. Keep your back straight, and your head and chest up. This will be your starting position.",
     "Begin the movement be engaging the hips, driving them forward as you allow the arms to hang straight. Continue until you are standing straight up, and then slowly return the weight to the starting position. For successive reps, the weight need not touch the floor."
+  ],
+  "instructionsEs": [
+    "Comienza con una barra cargada en el suelo. Adopta una postura amplia y luego dóblate por las caderas para agarrar la barra. Tus caderas deben estar lo más atrás posible y tus piernas casi rectas. Mantén la espalda recta y la cabeza y el pecho en alto. Esta será tu posición inicial.",
+    "Comienza el movimiento activando las caderas, impulsándolas hacia adelante mientras permites que los brazos cuelguen rectos. Continúa hasta que estés de pie completamente derecho y luego regresa lentamente el peso a la posición inicial. Para repeticiones sucesivas, el peso no necesita tocar el suelo."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

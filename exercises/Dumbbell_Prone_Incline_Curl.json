@@ -1,5 +1,6 @@
 {
   "name": "Curl (Dumbbell Prone Incline)",
+  "nameEs": "Curl (Mancuerna inclinado boca abajo)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Raise the dumbbells by contracting the biceps until your arms are fully flexed. Exhale as you perform this portion of the movement and ensure that only the forearms move. The upper arms should remain stationary at all times.",
     "Lower the dumbbells until your arms are fully extended.",
     "Repeat for the recommended amount of times."
+  ],
+  "instructionsEs": [
+    "Agarra una mancuerna en cada mano y acuéstate boca abajo en un banco inclinado con tus hombros cerca de la parte superior de la inclinación. Tus rodillas pueden descansar en el asiento o tus piernas pueden abrirse hacia los lados (mi forma preferida).",
+    "Deja que tus brazos se extiendan y cuelguen naturalmente frente a ti para que queden perpendiculares al suelo.",
+    "Ahora mantén los codos pegados a los costados y orienta las palmas hacia adelante. Esta será tu posición inicial.",
+    "Eleva las mancuernas contrayendo los bíceps hasta que tus brazos estén completamente flexionados. Exhala al realizar esta porción del movimiento y asegúrate de que solo se muevan los antebrazos. Los brazos deben permanecer inmóviles en todo momento.",
+    "Baja las mancuernas hasta que tus brazos estén completamente extendidos.",
+    "Repite por el número de veces recomendado."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Throw (Standing Two-Arm Overhead)",
+  "nameEs": "Lanzamiento (De pie con dos brazos por encima de la cabeza)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,11 @@
     "Stand with your feet shoulder width apart holding a medicine ball in both hands. To begin, reach the medicine ball deep behind your head as you bend the knees slightly and lean back.",
     "Violently throw the ball forward, flexing at the hip and using your whole body to complete the movement.",
     "The medicine ball can be thrown to a partner or to a wall, receiving it as it bounces back."
+  ],
+  "instructionsEs": [
+    "Párate con los pies separados al ancho de los hombros sosteniendo un balón medicinal con ambas manos. Para comenzar, lleva el balón medicinal profundamente detrás de la cabeza mientras flexionas ligeramente las rodillas e inclinas el torso hacia atrás.",
+    "Lanza el balón hacia adelante con fuerza, flexionando la cadera y usando todo tu cuerpo para completar el movimiento.",
+    "El balón medicinal se puede lanzar a un compañero o a una pared, recibiéndolo a medida que rebota."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

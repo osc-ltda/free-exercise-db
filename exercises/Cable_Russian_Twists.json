@@ -1,5 +1,6 @@
 {
   "name": "Russian Twists (Cable)",
+  "nameEs": "Giros rusos (Polea)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,15 @@
     "Pause for a moment and in a slow and controlled manner reset to the starting position. You should still have side tension on the cable in the resting position.",
     "Repeat the same movement to failure.",
     "Then, reposition and repeat the same series of movements on the opposite side."
+  ],
+  "instructionsEs": [
+    "Conecta un accesorio de manija estándar y coloca la polea en una posición media.",
+    "Recuéstate sobre un balón de estabilidad de forma perpendicular a la polea y toma la manija con una mano. Debes estar aproximadamente a la distancia de un brazo de la polea, con la tensión del peso en el cable.",
+    "Toma la manija con ambas manos y extiende completamente tus brazos sobre el pecho. Tus manos deben estar directamente alineadas con la polea. Si no es así, ajusta la polea hacia arriba o hacia abajo hasta que lo estén.",
+    "Mantén tus caderas elevadas y el abdomen contraído. Rota tu torso alejándote de la polea completando un cuarto de giro. Tu cuerpo debe quedar plano desde la cabeza hasta las rodillas.",
+    "Haz una pausa por un momento y de forma lenta y controlada regresa a la posición inicial. Aún debes conservar la tensión lateral en el cable en la posición de descanso.",
+    "Repite el mismo movimiento hasta el fallo.",
+    "Luego, vuelve a posicionarte y repite la misma serie de movimientos hacia el lado opuesto."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Elevated Rows (Cable)",
+  "nameEs": "Remo (Polea, elevado)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,6 +20,15 @@
     "With your arms extended pull back until your torso is at a 90-degree angle from your legs. Your back should be slightly arched and your chest should be sticking out. You should be feeling a nice stretch on your lats as you hold the bar in front of you. This is the starting position of the exercise.",
     "Keeping the torso stationary, pull the handles back towards your torso while keeping the arms close to it until you touch the abdominals. Breathe out as you perform that movement. At that point you should be squeezing your back muscles hard. Hold that contraction for a second and slowly go back to the original position while breathing in.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Consigue una plataforma de algún tipo (puede ser una plataforma de step o para elevación de pantorrilla) que tenga entre 4 y 6 pulgadas de altura.",
+    "Colócala en el asiento de la máquina de remo con polea.",
+    "Siéntate en la máquina y coloca tus pies en la plataforma frontal o barra transversal provista, asegurándote de que tus rodillas estén ligeramente dobladas y no bloqueadas.",
+    "Inclínate hacia adelante manteniendo la alineación natural de tu espalda y agarra los mangos de la barra en V.",
+    "Con los brazos extendidos, tira hacia atrás hasta que tu torso forme un ángulo de 90 grados con respecto a tus piernas. Tu espalda debe estar ligeramente arqueada y tu pecho hacia afuera. Debes sentir un buen estiramiento en tus dorsales mientras sostienes la barra frente a ti. Esta es la posición inicial del ejercicio.",
+    "Manteniendo el torso estático, tira de los mangos hacia tu torso manteniendo los brazos pegados a este hasta tocar los abdominales. Exhala al realizar ese movimiento. En ese punto, debes contraer con fuerza los músculos de tu espalda. Mantén esa contracción durante un segundo y regresa lentamente a la posición original mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

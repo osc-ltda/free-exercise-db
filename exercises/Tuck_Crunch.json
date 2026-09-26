@@ -1,5 +1,6 @@
 {
   "name": "Crunch (Tuck)",
+  "nameEs": "Abdominal (Agrupado)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "While keeping your lower back pressed against the floor, slowly lift your torso. Remember to exhale while perform this part of the exercise.",
     "Slowly begin to lower your torso back down to the starting position while inhaling.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Para empezar, acuéstate en el suelo o en una esterilla de ejercicio con la espalda presionada contra el suelo. Tus brazos deben estar a los lados con las palmas hacia abajo.",
+    "Tus piernas deben estar cruzadas colocando un tobillo sobre el otro. Eleva lentamente las piernas en el aire hasta que tus muslos estén perpendiculares al suelo con una ligera flexión en las rodillas. Nota: Tus rodillas y los dedos de los pies deben estar paralelos al suelo en lugar de los muslos.",
+    "Mueve tus brazos del suelo y crúzalos para que descansen sobre tu pecho. Esta es la posición inicial.",
+    "Mientras mantienes la zona lumbar presionada contra el suelo, levanta lentamente el torso. Recuerda exhalar mientras realizas esta parte del ejercicio.",
+    "Comienza a bajar lentamente el torso de vuelta a la posición inicial mientras inhalas.",
+    "Repite para la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

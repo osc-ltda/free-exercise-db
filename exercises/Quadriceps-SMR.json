@@ -1,5 +1,6 @@
 {
   "name": "Quadriceps-SMR",
+  "nameEs": "Quadriceps-SMR",
   "force": "static",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -11,6 +12,10 @@
   "instructions": [
     "Lay facedown on the floor with your weight supported by your hands or forearms. Place a foam roll underneath one leg on the quadriceps, and keep the foot off of the ground. Make sure to relax the leg as much as possible. This will be your starting position.",
     "Shifting as much weight onto the leg to be stretched as is tolerable, roll over the foam from above the knee to below the hip, holding points of tension for 10-30 seconds. Switch sides."
+  ],
+  "instructionsEs": [
+    "Recuéstate boca abajo en el piso con tu peso soportado por tus manos o antebrazos. Coloca un rodillo de espuma debajo de una pierna en los cuádriceps y mantén el pie fuera del suelo. Asegúrate de relajar la pierna tanto como sea posible. Esta será tu posición inicial.",
+    "Transfiriendo tanto peso como sea tolerable a la pierna que se va a estirar, rueda sobre la espuma desde arriba de la rodilla hasta debajo de la cadera, manteniendo los puntos de tensión durante 10-30 segundos. Cambia de lado."
   ],
   "category": "stretching",
   "trackingType": "time",

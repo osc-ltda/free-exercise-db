@@ -1,5 +1,6 @@
 {
   "name": "Dumbbell Lying Pronation",
+  "nameEs": "Pronación acostado con mancuerna",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "As you breathe out, externally rotate your forearm so that the dumbbell is lifted forward as you maintain the 90 degree angle bend between the upper arms and the forearm. You will continue this external rotation until the forearm is parallel to the floor. At this point you will hold the contraction for a second.",
     "As you breathe in, slowly go back to the starting position.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca abajo en un banco plano con un brazo sosteniendo una mancuerna y la otra mano encima del banco doblada para que puedas apoyar tu cabeza en ella.",
+    "Flexiona los codos del brazo que sostiene la mancuerna para que cree un ángulo de 90 grados entre la parte superior del brazo y el antebrazo.",
+    "Ahora eleva la parte superior del brazo para que el antebrazo sea perpendicular al suelo y la parte superior del brazo sea perpendicular a tu torso. Consejo: La parte superior del brazo debe estar paralela al suelo y también crear un ángulo de 90 grados con tu torso. Esta será tu posición inicial.",
+    "Al exhalar, rota externamente tu antebrazo para que la mancuerna se levante hacia adelante mientras mantienes la flexión de 90 grados entre la parte superior de los brazos y el antebrazo. Continuarás esta rotación externa hasta que el antebrazo esté paralelo al suelo. En este punto mantendrás la contracción durante un segundo.",
+    "Al inhalar, regresa lentamente a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

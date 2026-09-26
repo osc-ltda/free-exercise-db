@@ -1,5 +1,6 @@
 {
   "name": "Lateral Box Jump",
+  "nameEs": "Salto lateral al cajón",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,6 +21,13 @@
     "Bring your knees high enough to ensure your feet have good clearance over the box.",
     "Land on the center of the box, using your legs to absorb the impact.",
     "Carefully jump down to the other side of the box, and continue going back and forth for several repetitions."
+  ],
+  "instructionsEs": [
+    "Adopta una posición de pie cómoda, con un cajón bajo colocado a tu lado. Esta será tu posición inicial.",
+    "Desciende rápidamente a un cuarto de sentadilla para iniciar el reflejo de estiramiento e inmediatamente invierte la dirección para saltar hacia arriba y hacia el lado.",
+    "Lleva tus rodillas lo suficientemente alto para asegurar que tus pies pasen con holgura por encima del cajón.",
+    "Aterriza en el centro del cajón, usando tus piernas para absorber el impacto.",
+    "Salta con cuidado hacia el otro lado del cajón y continúa yendo de un lado a otro durante varias repeticiones."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

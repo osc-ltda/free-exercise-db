@@ -1,5 +1,6 @@
 {
   "name": "Seated Floor Hamstring Stretch",
+  "nameEs": "Estiramiento de isquiotibiales sentado en el suelo",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -13,6 +14,10 @@
   "instructions": [
     "Sit on a mat with your right leg extended in front of you and your left leg bent with your foot against your right inner thigh.",
     "Lean forward from your hips and reach for your ankle until you feel a stretch in your hamstring. Hold for 15 seconds, then repeat for your other side."
+  ],
+  "instructionsEs": [
+    "Siéntate en una esterilla con la pierna derecha extendida frente a ti y la pierna izquierda doblada con el pie contra la parte interna de tu muslo derecho.",
+    "Inclínate hacia adelante desde las caderas y alcanza tu tobillo hasta que sientas un estiramiento en tu isquiotibial. Mantén durante 15 segundos, luego repite con el otro lado."
   ],
   "category": "stretching",
   "trackingType": "time",

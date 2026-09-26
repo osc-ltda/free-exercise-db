@@ -1,5 +1,6 @@
 {
   "name": "Drop Push",
+  "nameEs": "Flexión con caída (Drop Push)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,6 +16,11 @@
     "Position low boxes or other platforms 2-3 feet apart.",
     "Move to a pushup position between them, supporting yourself by placing your hands on the boxes.",
     "With good posture, drop from the platforms by pressing up and moving your hands to shoulder width, cushioning your landing by absorbing the impact through the arm."
+  ],
+  "instructionsEs": [
+    "Coloca cajas bajas u otras plataformas a una distancia de 2-3 pies.",
+    "Adopta una posición de flexión de brazos entre ellas, apoyándote colocando tus manos sobre las cajas.",
+    "Con buena postura, déjate caer desde las plataformas presionando hacia arriba y moviendo tus manos al ancho de los hombros, amortiguando tu aterrizaje absorbiendo el impacto a través del brazo."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

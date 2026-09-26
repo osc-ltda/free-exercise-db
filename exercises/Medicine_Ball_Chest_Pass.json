@@ -1,5 +1,6 @@
 {
   "name": "Medicine Ball Chest Pass",
+  "nameEs": "Pase de pecho con balón medicinal",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "Pull the ball to your chest, and reverse the motion by extending through the elbows. For sports applications, you can take a step as you throw.",
     "Your partner should catch the ball, and throw it back to you.",
     "Receive the throw with both hands at chest height."
+  ],
+  "instructionsEs": [
+    "Necesitarás un compañero para este ejercicio. A falta de uno, este movimiento se puede realizar contra una pared.",
+    "Comienza frente a tu compañero sosteniendo el balón medicinal a la altura de tu torso con ambas manos.",
+    "Lleva el balón hacia tu pecho y revierte el movimiento extendiendo los codos. Para aplicaciones deportivas, puedes dar un paso mientras lanzas.",
+    "Tu compañero debe atrapar el balón y lanzártelo de regreso.",
+    "Recibe el lanzamiento con ambas manos a la altura del pecho."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

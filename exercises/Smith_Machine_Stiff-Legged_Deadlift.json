@@ -1,5 +1,6 @@
 {
   "name": "Deadlift (Smith Machine Stiff-Legged)",
+  "nameEs": "Peso muerto (Máquina Smith de piernas rígidas)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "Keeping the knees stationary, lower the barbell to over the top of your feet by bending at the waist while keeping your back straight. Keep moving forward as if you were going to pick something from the floor until you feel a stretch on the hamstrings. Exhale as you perform this movement",
     "Start bringing your torso up straight again as soon as you feel the hamstrings stretch by extending your hips and waist until you are back at the starting position. Inhale as you perform this movement.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Para comenzar, coloca la barra en la máquina Smith a una altura que esté alrededor de la mitad de tus muslos. Una vez elegida la altura correcta y cargada la barra, agárrala usando un agarre pronado (palmas hacia adelante) separado al ancho de los hombros. Es posible que necesites muñequeras si usas una cantidad de peso significativa.",
+    "Eleva la barra extendiendo completamente los brazos mientras mantienes la espalda recta. Párate con el torso recto y las piernas separadas usando una postura al ancho de los hombros o más angosta. Las rodillas deben estar levemente flexionadas. Esta es tu posición inicial.",
+    "Manteniendo las rodillas estáticas, baja la barra sobre la parte superior de tus pies flexionando la cintura mientras mantienes la espalda recta. Sigue moviéndote hacia adelante como si fueras a recoger algo del suelo hasta que sientas un estiramiento en los isquiotibiales. Exhala al realizar este movimiento.",
+    "Empieza a enderezar tu torso nuevamente tan pronto como sientas el estiramiento en los isquiotibiales extendiendo tus caderas y cintura hasta volver a la posición inicial. Inhala al realizar este movimiento.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

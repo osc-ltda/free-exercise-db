@@ -1,5 +1,6 @@
 {
   "name": "Upright Row (With Bands)",
+  "nameEs": "Remo vertical (Con banda)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,6 +16,12 @@
     "Use your side shoulders to lift the handles as you exhale. The handles should be close to the body as you move them up. Continue to lift the handles until they nearly touches your chin. Tip: Your elbows should drive the motion. As you lift the handles, your elbows should always be higher than your forearms. Also, keep your torso stationary and pause for a second at the top of the movement.",
     "Lower the handles back down slowly to the starting position. Inhale as you perform this portion of the movement.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Para empezar, párate sobre una banda de ejercicio de modo que la tensión comience con los brazos estirados. Toma los mangos usando un agarre pronado (con las palmas hacia tus muslos) ligeramente menor que el ancho de los hombros. Los mangos deben descansar sobre la parte superior de tus muslos. Tus brazos deben estar extendidos con una ligera flexión en los codos y tu espalda debe estar recta. Esta será tu posición inicial.",
+    "Usa los lados de tus hombros para levantar los mangos mientras exhalas. Los mangos deben estar cerca del cuerpo a medida que los subes. Continúa levantando los mangos hasta que casi toquen tu barbilla. Consejo: tus codos deben guiar el movimiento. Al levantar los mangos, tus codos deben estar siempre más altos que tus antebrazos. Además, mantén el torso estático y haz una pausa de un segundo en la parte alta del movimiento.",
+    "Baja los mangos lentamente de regreso a la posición inicial. Inhala mientras realizas esta porción del movimiento.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

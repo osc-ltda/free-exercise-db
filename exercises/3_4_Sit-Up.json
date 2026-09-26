@@ -1,5 +1,6 @@
 {
   "name": "Sit-Up (3/4)",
+  "nameEs": "Abdominal (3/4)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -14,6 +15,13 @@
     "Flex your hips and spine to raise your torso toward your knees.",
     "At the top of the contraction your torso should be perpendicular to the ground. Reverse the motion, going only ¾ of the way down.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate en el suelo y asegura tus pies. Tus piernas deben estar dobladas por las rodillas.",
+    "Coloca tus manos detrás o al lado de tu cabeza. Comenzarás con tu espalda en el suelo. Esta será tu posición inicial.",
+    "Flexiona tus caderas y columna para elevar tu torso hacia tus rodillas.",
+    "En la parte alta de la contracción, tu torso debe estar perpendicular al suelo. Revierte el movimiento bajando solo ¾ del recorrido.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

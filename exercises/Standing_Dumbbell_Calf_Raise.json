@@ -1,5 +1,6 @@
 {
   "name": "Calf Raise (Standing Dumbbell)",
+  "nameEs": "Elevación de pantorrilla (Mancuerna de pie)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "With the toes pointing either straight (to hit all parts equally), inwards (for emphasis on the outer head) or outwards (for emphasis on the inner head), raise the heels off the floor as you exhale by contracting the calves. Hold the top contraction for a second.",
     "As you inhale, go back to the starting position by slowly lowering the heels.",
     "Repeat for the recommended amount of times."
+  ],
+  "instructionsEs": [
+    "Párate con el torso erguido sosteniendo dos mancuernas en tus manos a los lados. Coloca la parte delantera de la planta del pie sobre una tabla de madera resistente y estable (de unas 2 a 3 pulgadas de alto) mientras tus talones se extienden y tocan el suelo. Esta será tu posición inicial.",
+    "Con los dedos apuntando hacia adelante (para trabajar todas las partes por igual), hacia adentro (para enfatizar la cabeza externa) o hacia afuera (para enfatizar la cabeza interna), eleva los talones del suelo mientras exhalas contrayendo las pantorrillas. Mantén la contracción superior durante un segundo.",
+    "Mientras inhalas, regresa a la posición inicial bajando lentamente los talones.",
+    "Repite la cantidad de veces recomendada."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

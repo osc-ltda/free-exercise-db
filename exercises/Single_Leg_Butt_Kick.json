@@ -1,5 +1,6 @@
 {
   "name": "Single Leg Butt Kick",
+  "nameEs": "Patada de glúteo a una pierna",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Using a countermovement jump, take off upward by extending the hip, knee, and ankle of the grounded leg.",
     "Immediately flex the knee and attempt to touch your butt with the heel of your jumping leg.",
     "Return the leg to a partially bent position underneath the hips and land. Your opposite leg should stay in relatively the same position throughout the drill."
+  ],
+  "instructionsEs": [
+    "Comienza de pie sobre una pierna, con la rodilla flexionada levantada. Esta será tu posición de inicio.",
+    "Utilizando un salto con contramovimiento, impul hacia arriba extendiendo la cadera, rodilla y tobillo de la pierna apoyada.",
+    "Flexiona inmediatamente la rodilla e intenta tocar tu glúteo con el talón de la pierna con la que saltaste.",
+    "Regresa la pierna a una posición parcialmente flexionada debajo de las caderas y aterriza. Tu pierna opuesta debe permanecer en una posición relativamente igual durante todo el ejercicio."
   ],
   "category": "plyometrics",
   "trackingType": "bodyweight_reps",

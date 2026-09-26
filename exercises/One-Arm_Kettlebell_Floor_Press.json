@@ -1,5 +1,6 @@
 {
   "name": "Press (One-Arm Kettlebell Floor)",
+  "nameEs": "Press (Pesa rusa de un brazo en el suelo)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -14,6 +15,11 @@
     "Lie on the floor holding a kettlebell with one hand, with your upper arm supported by the floor. The palm should be facing in.",
     "Press the kettlebell straight up toward the ceiling, rotating your wrist.",
     "Lower the kettlebell back to the starting position and repeat."
+  ],
+  "instructionsEs": [
+    "Acuéstate en el suelo sosteniendo una pesa rusa con una mano, con la parte superior del brazo apoyada en el suelo. La palma debe mirar hacia adentro.",
+    "Haz un press con la pesa rusa directamente hacia arriba en dirección al techo, rotando la muñeca.",
+    "Baja la pesa rusa de regreso a la posición inicial y repite."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

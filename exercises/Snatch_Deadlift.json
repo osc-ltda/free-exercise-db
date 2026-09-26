@@ -1,5 +1,6 @@
 {
   "name": "Deadlift (Snatch)",
+  "nameEs": "Peso muerto (Snatch)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,6 +20,11 @@
     "The snatch deadlift strengthens the first pull of the snatch. Begin with a wide snatch grip with the barbell placed on the platform. The feet should be directly under the hips, with the feet turned out. Squat down to the bar, keeping the back in absolute extension with the head facing forward.",
     "Initiate the movement by driving through the heels, raising the hips. The back angle should remain the same until the bar passes the knees.",
     "At that point, drive your hips through the bar as you lay back. Return the bar to the platform by reversing the motion."
+  ],
+  "instructionsEs": [
+    "El peso muerto de arrancada fortalece el primer tirón de la arrancada. Comienza con un agarre ancho de arrancada con la barra colocada en la plataforma. Los pies deben estar directamente debajo de las caderas, con las puntas hacia afuera. Agáchate hacia la barra, manteniendo la espalda en absoluta extensión con la cabeza hacia adelante.",
+    "Inicia el movimiento empujando a través de los talones y elevando las caderas. El ángulo de la espalda debe permanecer igual hasta que la barra pase las rodillas.",
+    "En ese punto, impulsa tus caderas hacia la barra mientras te recuestas ligeramente hacia atrás. Regresa la barra a la plataforma revirtiendo el movimiento."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

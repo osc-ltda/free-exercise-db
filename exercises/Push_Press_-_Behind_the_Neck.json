@@ -1,5 +1,6 @@
 {
   "name": "Push Press (Behind the Neck)",
+  "nameEs": "Push Press (Detrás de la nuca)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,6 +17,11 @@
     "Standing with the weight racked on the back of the shoulders, begin with the dip. With your feet directly under your hips, flex the knees without moving the hips backward. Go down only slightly, and reverse direction as powerfully as possible. Drive through the heels create as much speed and force as possible, moving the bar in a vertical path.",
     "Using the momentum generated, finish pressing the weight overhead be extending through the arms.",
     "Return to the starting position, using your legs to absorb the impact."
+  ],
+  "instructionsEs": [
+    "De pie con el peso apoyado en la parte posterior de los hombros, comienza con la flexión inicial. Con los pies directamente debajo de las caderas, flexiona las rodillas sin mover las caderas hacia atrás. Baja solo un poco e invierte la dirección con la mayor potencia posible. Impúlsate a través de los talones para generar la mayor velocidad y fuerza posible, moviendo la barra en trayectoria vertical.",
+    "Usando el impulso generado, termina de presionar el peso por encima de la cabeza extendiendo los brazos.",
+    "Regresa a la posición inicial, usando tus piernas para absorber el impacto."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

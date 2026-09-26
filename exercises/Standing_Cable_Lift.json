@@ -1,5 +1,6 @@
 {
   "name": "Standing Cable Lift",
+  "nameEs": "Elevación con polea de pie",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -19,6 +20,16 @@
     "Retract your arms and then your body. Return to the neutral position in a slow and controlled manner.",
     "Repeat to failure.",
     "Then, reposition and repeat the same series of movements on the opposite side."
+  ],
+  "instructionsEs": [
+    "Conecta un maneral estándar en una torre y mueve el cable a la posición de polea más baja.",
+    "Con tu costado hacia el cable, agarra el maneral con una mano y aléjate de la torre. Debes estar aproximadamente a la distancia de un brazo de la polea, con la tensión del peso en el cable. Tu brazo extendido debe estar alineado con el cable.",
+    "Con tus pies colocados al ancho de los hombros, haz una sentadilla y agarra el maneral con ambas manos. Tus brazos aún deben estar completamente extendidos.",
+    "En un solo movimiento, tira del maneral hacia arriba y a través de tu cuerpo hasta que tus brazos estén en una posición completamente extendida por encima de tu cabeza.",
+    "Mantén tu espalda recta y tus brazos cerca de tu cuerpo mientras giras tu pie trasero y estiras las piernas para lograr un rango de movimiento completo.",
+    "Retrae tus brazos y luego tu cuerpo. Regresa a la posición neutral de manera lenta y controlada.",
+    "Repite hasta el fallo.",
+    "Luego, reposiciónate y repite la misma serie de movimientos en el lado opuesto."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

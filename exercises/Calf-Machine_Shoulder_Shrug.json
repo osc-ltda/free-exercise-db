@@ -1,5 +1,6 @@
 {
   "name": "Shoulder Shrug (Calf-Machine)",
+  "nameEs": "Encogimiento de hombro (Máquina de pantorrilla)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "Raise your shoulders up towards your ears as you exhale and hold the contraction for a full second.",
     "Slowly return to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Colócate en la máquina de pantorrilla de modo que las almohadillas para los hombros queden sobre ellos. Tu torso debe estar derecho con los brazos extendidos normalmente a los costados. Esta será tu posición inicial.",
+    "Eleva tus hombros hacia las orejas mientras exhalas y mantén la contracción por un segundo completo.",
+    "Regresa lentamente a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

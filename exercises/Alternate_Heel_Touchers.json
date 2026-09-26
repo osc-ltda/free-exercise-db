@@ -1,5 +1,6 @@
 {
   "name": "Alternate Heel Touchers",
+  "nameEs": "Tocadas de talón alternas",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Now go back slowly to the starting position as you inhale.",
     "Now crunch over your torso forward and up around 3-4 inches to the left side and touch your left heel as you hold the contraction for a second. Exhale while performing this movement and then go back to the starting position as you inhale. Now that both heels have been touched, that is considered 1 repetition.",
     "Continue alternating sides in this manner until all prescribed repetitions are done."
+  ],
+  "instructionsEs": [
+    "Acuéstate en el suelo con las rodillas dobladas y los pies apoyados en el suelo a una distancia de unas 18-24 pulgadas. Tus brazos deben estar extendidos a los costados. Esta será tu posición inicial.",
+    "Haz un abdominal elevando y flexionando tu torso hacia adelante y hacia arriba unas 3-4 pulgadas hacia el lado derecho y toca tu talón derecho mientras mantienes la contracción durante un segundo. Exhala mientras realizas este movimiento.",
+    "Ahora regresa lentamente a la posición inicial mientras inhalas.",
+    "Ahora haz un abdominal elevando y flexionando tu torso hacia adelante y hacia arriba unas 3-4 pulgadas hacia el lado izquierdo y toca tu talón izquierdo mientras mantienes la contracción durante un segundo. Exhala mientras realizas este movimiento y luego regresa a la posición inicial mientras inhalas. Ahora que has tocado ambos talones, eso se considera 1 repetición.",
+    "Continúa alternando los lados de esta manera hasta completar todas las repeticiones prescritas."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Dead Hang",
+  "nameEs": "Suspensión pasiva",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,12 @@
     "Step or jump off and let your bodyweight hang from straight arms.",
     "Keep your shoulders active rather than shrugged up into your ears, and your ribs down.",
     "Hold for time, then step down rather than dropping."
+  ],
+  "instructionsEs": [
+    "Toma una barra de dominada con un agarre prono, con las manos separadas aproximadamente a la distancia de los hombros.",
+    "Da un paso o salta y deja que tu peso corporal cuelgue de los brazos estirados.",
+    "Mantén los hombros activos en lugar de encogidos hacia las orejas, y las costillas hacia abajo.",
+    "Mantente colgado durante el tiempo indicado y luego baja dando un paso en lugar de dejarte caer."
   ],
   "category": "strength",
   "trackingType": "time",

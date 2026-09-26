@@ -1,5 +1,6 @@
 {
   "name": "Double Leg Butt Kick",
+  "nameEs": "Double Leg Butt Kick",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -19,6 +20,12 @@
     "Quickly squat a short distance, flexing the hips and knees, and immediately extend to jump for maximum vertical height.",
     "As you go up, tuck your heels by flexing the knees, attempting to touch the buttocks.",
     "Finish the motion by landing with the knees only partially bent, using your legs to absorb the impact."
+  ],
+  "instructionsEs": [
+    "Comienza de pie con las rodillas ligeramente flexionadas.",
+    "Haz una sentadilla rápida de poca distancia, flexionando las caderas y las rodillas, y extiéndete de inmediato para saltar a la máxima altura vertical.",
+    "Mientras subes, lleva los talones hacia atrás flexionando las rodillas, intentando tocar los glúteos.",
+    "Termina el movimiento aterrizando con las rodillas solo parcialmente flexionadas, usando tus piernas para absorber el impacto."
   ],
   "category": "plyometrics",
   "trackingType": "bodyweight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Crunch (Decline)",
+  "nameEs": "Abdominal (declinada)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Continue to push down as hard as you can with your lower back as you contract your abdominals and exhale. Your shoulders should come up off the bench only about four inches, and your lower back should remain on the bench. At the top of the movement, contract your abdominals hard and keep the contraction for a second. Tip: Focus on slow, controlled movement - don't cheat yourself by using momentum.",
     "After the one second contraction, begin to come down slowly again to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Asegura tus piernas al final del banco declinado y acuéstate.",
+    "Ahora coloca tus manos suavemente a cada lado de tu cabeza manteniendo los codos hacia adentro. Consejo: no cruces ni bloquees tus dedos detrás de la cabeza.",
+    "Mientras presionas la zona lumbar contra el banco para aislar mejor los músculos abdominales, comienza a despegar los hombros del mismo.",
+    "Continúa presionando hacia abajo con tanta fuerza como puedas con la parte baja de la espalda mientras contraes los abdominales y exhalas. Tus hombros deben elevarse del banco solo unas cuatro pulgadas, y la parte baja de la espalda debe permanecer en el banco. En la parte superior del movimiento, contrae los abdominales con fuerza y mantén la contracción durante un segundo. Consejo: concéntrate en un movimiento lento y controlado; no hagas trampa usando el impulso.",
+    "Después de la contracción de un segundo, comienza a bajar lentamente de nuevo a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

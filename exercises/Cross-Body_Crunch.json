@@ -1,5 +1,6 @@
 {
   "name": "Crunch (Cross-Body)",
+  "nameEs": "Abdominal (Cruzado)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -14,6 +15,13 @@
     "Now curl up and bring your right elbow and shoulder across your body while bring your left knee in toward your left shoulder at the same time. Reach with your elbow and try to touch your knee. Exhale as you perform this movement. Tip: Try to bring your shoulder up towards your knee rather than just your elbow and remember that the key is to contract the abs as you perform the movement; not just to move the elbow.",
     "Now go back down to the starting position as you inhale and repeat with the left elbow and the right knee.",
     "Continue alternating in this manner until all prescribed repetitions are done."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca arriba y flexiona las rodillas unos 60 grados.",
+    "Mantén los pies planos en el suelo y coloca tus manos suavemente detrás de la cabeza. Esta será tu posición inicial.",
+    "Ahora haz un abdominal y lleva tu codo y hombro derecho a través de tu cuerpo mientras llevas tu rodilla izquierda hacia tu hombro izquierdo al mismo tiempo. Estírate con el codo e intenta tocar tu rodilla. Exhala mientras realizas este movimiento. Consejo: Intenta llevar tu hombro hacia arriba en dirección a tu rodilla en lugar de solo el codo, y recuerda que la clave es contraer los abdominales al realizar el movimiento, no solo mover el codo.",
+    "Ahora regresa a la posición inicial mientras inhalas y repite con el codo izquierdo y la rodilla derecha.",
+    "Continúa alternando de esta manera hasta completar todas las repeticiones prescritas."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

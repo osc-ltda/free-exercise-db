@@ -1,5 +1,6 @@
 {
   "name": "Triceps Extension (Seated Bent-Over One-Arm Dumbbell)",
+  "nameEs": "Extensión de tríceps (Sentado inclinado con una mancuerna)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,15 @@
     "After a second contraction at the top, slowly lower the dumbbell back to the starting position as you inhale.",
     "Repeat the movement for the prescribed amount of repetitions.",
     "Switch arms and repeat the exercise."
+  ],
+  "instructionsEs": [
+    "Siéntate en el extremo de un banco plano con una mancuerna en un brazo usando un agarre neutro (palmas de las manos hacia ti).",
+    "Flexiona ligeramente las rodillas e inclina tu torso hacia adelante doblando la cintura, manteniendo la espalda recta hasta que esté casi paralela al suelo. Asegúrate de mantener la cabeza en alto.",
+    "El brazo superior con la mancuerna debe estar cerca del torso y alineado con este (levantado hasta que esté paralelo al suelo mientras los antebrazos apuntan hacia el piso mientras las manos sostienen los pesos). Consejo: Debe haber un ángulo de 90 grados entre los antebrazos y el brazo superior. Esta es tu posición inicial.",
+    "Manteniendo el brazo superior estático, usa los tríceps para levantar el peso mientras exhalas hasta que el antebrazo esté paralelo al suelo y todo el brazo esté extendido. Al igual que en muchos otros ejercicios de brazos, solo se mueve el antebrazo.",
+    "Después de una contracción de un segundo en la parte superior, baja lentamente la mancuerna a la posición inicial mientras inhalas.",
+    "Repite el movimiento por la cantidad prescrita de repeticiones.",
+    "Cambia de brazo y repite el ejercicio."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

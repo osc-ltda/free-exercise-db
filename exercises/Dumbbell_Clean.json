@@ -1,5 +1,6 @@
 {
   "name": "Clean (Dumbbell)",
+  "nameEs": "Clean (Mancuerna)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -22,6 +23,13 @@
     "To initiate the movement, violently jump upward by extending the hips, knees, and ankles to acclerate the weights upward. Maintaining a neutral grip on the dumbbells, keep the arms straight until full extension is reached.",
     "After full extension, rebend the hips and knees to receive the weight in a squat position. Allow the arms to bend, guiding the dumbbells to your shoulders.",
     "Upon receiving the weight in the squat position, extend the hips and knees to finish in a standing position with the weights on your shoulders."
+  ],
+  "instructionsEs": [
+    "Comienza de pie con una mancuerna en cada mano y los pies separados a la altura de los hombros.",
+    "Baja los pesos hacia el suelo flexionando las caderas y las rodillas, empujando las caderas hacia atrás hasta que las mancuernas lleguen al suelo. Esta será tu posición inicial.",
+    "Para iniciar el movimiento, salta hacia arriba con fuerza extendiendo las caderas, las rodillas y los tobillos para acelerar los pesos hacia arriba. Manteniendo un agarre neutro en las mancuernas, mantén los brazos rectos hasta alcanzar la extensión completa.",
+    "Después de la extensión completa, vuelve a flexionar las caderas y las rodillas para recibir el peso en posición de sentadilla. Permite que los brazos se flexionen, guiando las mancuernas hacia tus hombros.",
+    "Al recibir el peso en la posición de sentadilla, extiende las caderas y las rodillas para terminar en posición de pie con los pesos sobre tus hombros."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

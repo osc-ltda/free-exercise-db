@@ -1,5 +1,6 @@
 {
   "name": "Curl (Overhead Cable)",
+  "nameEs": "Curl (Polea alta)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "While exhaling, slowly squeeze the biceps on each side until your forearms and biceps touch.",
     "While inhaling, move your forearms back to the starting position. Note: Your entire body is stationary during this exercise except for the forearms.",
     "Repeat for the recommended amount of repetitions prescribed in your program."
+  ],
+  "instructionsEs": [
+    "Para empezar, ajusta un peso cómodo en cada lado de la máquina de polea. Nota: Asegúrate de que la cantidad de peso seleccionada sea la misma en cada lado.",
+    "Ahora ajusta la altura de las poleas en cada lado y asegúrate de que estén posicionadas a una altura mayor que la de tus hombros.",
+    "Párate en el medio de ambos lados y utiliza un agarre supino (con las palmas hacia el techo) para tomar cada maneral. Tus brazos deben estar completamente extendidos y paralelos al suelo con tus pies separados al ancho de los hombros. Tu cuerpo debe estar alineado de manera uniforme con los manerales. Esta es la posición inicial.",
+    "Mientras exhalas, contrae lentamente los bíceps de cada lado hasta que tus antebrazos y bíceps se toquen.",
+    "Mientras inhalas, regresa tus antebrazos a la posición inicial. Nota: Todo tu cuerpo permanece inmóvil durante este ejercicio, excepto los antebrazos.",
+    "Repite por la cantidad recomendada de repeticiones prescrita en tu programa."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

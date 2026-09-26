@@ -1,5 +1,6 @@
 {
   "name": "Dead Bug",
+  "nameEs": "Dead Bug",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,15 @@
     "Maintain the position of your lumbar and pelvis as you perform the movement, as your back is going to want to arch.",
     "Stay tight and return the working leg to the starting position.",
     "Repeat on the opposite side, alternating until the set is complete."
+  ],
+  "instructionsEs": [
+    "Comienza recostado boca arriba con las manos extendidas hacia el techo.",
+    "Eleva los pies, las rodillas y las caderas a 90 grados.",
+    "Exhala con fuerza para bajar la caja torácica y aplanar la espalda contra el suelo, rotando la pelvis hacia arriba y contrayendo los glúteos. Mantén esta posición durante todo el movimiento. Esta será tu posición inicial.",
+    "Inicia el ejercicio extendiendo una pierna, enderezando la rodilla y la cadera para colocar la pierna justo por encima del suelo.",
+    "Mantén la posición de la zona lumbar y la pelvis mientras realizas el movimiento, ya que tu espalda tenderá a arquearse.",
+    "Mantén la tensión y regresa la pierna que trabaja a la posición inicial.",
+    "Repite en el lado opuesto, alternando hasta completar la serie."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

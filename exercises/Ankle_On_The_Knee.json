@@ -1,5 +1,6 @@
 {
   "name": "Ankle On The Knee",
+  "nameEs": "Tobillo sobre la rodilla",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -12,6 +13,11 @@
     "From a lying position, bend your knees and keep your feet on the floor.",
     "Place your ankle of one foot on your opposite knee.",
     "Grasp the thigh or knee of the bottom leg and pull both of your legs into the chest. Relax your neck and shoulders. Hold for 10-20 seconds and then switch sides."
+  ],
+  "instructionsEs": [
+    "Desde una posición acostada, flexiona las rodillas y mantén los pies en el suelo.",
+    "Coloca el tobillo de un pie sobre tu rodilla opuesta.",
+    "Agarra el muslo o la rodilla de la pierna inferior y tira de ambas piernas hacia el pecho. Relaja el cuello y los hombros. Mantén durante 10-20 segundos y luego cambia de lado."
   ],
   "category": "stretching",
   "trackingType": "time",

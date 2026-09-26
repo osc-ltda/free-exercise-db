@@ -1,5 +1,6 @@
 {
   "name": "Double Kettlebell Windmill",
+  "nameEs": "Double Kettlebell Windmill",
   "force": "pull",
   "level": "intermediate",
   "mechanic": null,
@@ -18,6 +19,12 @@
     "Keeping the kettlebell locked out at all times, push your butt out in the direction of the locked out kettlebell. Turn your feet out at a forty-five degree angle from the arm with the locked out kettlebell.",
     "Bending at the hip to one side, sticking your butt out, slowly lean until you can retrieve the kettlebell from the floor. Keep your eyes on the kettlebell that you hold over your head at all times.",
     "Pause for a second after retrieving the kettlebell from the ground and reverse the motion back to the starting position."
+  ],
+  "instructionsEs": [
+    "Coloca una pesa rusa frente a tu pie delantero y haz un clean y press con otra pesa rusa por encima de la cabeza con tu brazo opuesto. Realiza el clean hacia tu hombro extendiendo las piernas y caderas mientras tiras de la pesa rusa hacia tus hombros. Rota tu muñeca al hacerlo para que la palma mire hacia adelante.",
+    "Manteniendo la pesa rusa bloqueada en todo momento, empuja los glúteos en dirección a la pesa rusa bloqueada. Gira tus pies en un ángulo de cuarenta y cinco grados respecto al brazo con la pesa rusa bloqueada.",
+    "Flexionando la cadera hacia un lado y sacando los glúteos, inclínate lentamente hasta que puedas recoger la pesa rusa del suelo. Mantén la vista en la pesa rusa que sostienes sobre tu cabeza en todo momento.",
+    "Haz una pausa de un segundo tras recoger la pesa rusa del suelo e invierte el movimiento para volver a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

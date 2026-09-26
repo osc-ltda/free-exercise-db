@@ -1,5 +1,6 @@
 {
   "name": "Rhomboids-SMR",
+  "nameEs": "Romboides-SMR",
   "force": "static",
   "level": "intermediate",
   "mechanic": null,
@@ -13,6 +14,10 @@
   "instructions": [
     "Lay down with your back on the floor. Place a foam roll underneath your upper back, and cross your arms in front of you, protracting your shoulders. This will be your starting position.",
     "Raise your hips off of the ground, placing your weight onto the foam roll. Shift your weight to one side at a time, rolling over your middle and upper back. Pause at points of tension for 10-30 seconds."
+  ],
+  "instructionsEs": [
+    "Acuéstate con la espalda en el suelo. Coloca un rodillo de espuma debajo de tu espalda alta y cruza los brazos frente a ti, protrayendo tus hombros. Esta será tu posición inicial.",
+    "Eleva tus caderas del suelo, colocando tu peso sobre el rodillo de espuma. Transfiere tu peso hacia un lado a la vez, rodando sobre tu espalda media y alta. Haz una pausa en los puntos de tensión durante 10-30 segundos."
   ],
   "category": "stretching",
   "trackingType": "time",

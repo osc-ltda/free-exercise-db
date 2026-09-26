@@ -1,5 +1,6 @@
 {
   "name": "Isometric Wipers",
+  "nameEs": "Isometric Wipers",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "Begin by shifting your body weight as far to one side as possible, allowing the elbow on that side to flex as you lower your body.",
     "Reverse the motion by extending the flexed arm, pushing yourself up and then dropping to the other side.",
     "Repeat for the desired number of repetitions."
+  ],
+  "instructionsEs": [
+    "Adopta una posición de flexión de brazos, apoyando tu peso en tus manos y punta de pies mientras mantienes tu cuerpo recto. Tus manos deben estar justo fuera del ancho de los hombros. Esta será tu posición inicial.",
+    "Comienza desplazando el peso de tu cuerpo lo más lejos posible hacia un lado, permitiendo que el codo de ese lado se flexione mientras bajas tu cuerpo.",
+    "Invierte el movimiento extendiendo el brazo flexionado, empujándote hacia arriba y luego bajando hacia el otro lado.",
+    "Repite por el número deseado de repeticiones."
   ],
   "category": "strength",
   "trackingType": "time",

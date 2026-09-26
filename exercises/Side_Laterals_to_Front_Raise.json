@@ -1,5 +1,6 @@
 {
   "name": "Side Laterals to Front Raise",
+  "nameEs": "Elevación lateral a frontal",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -17,6 +18,14 @@
     "Lower the weights with a controlled motion.",
     "On the next repetition, raise the weights in front of you to shoulder height before moving the weights laterally to your sides.",
     "Lower the weights to the starting position."
+  ],
+  "instructionsEs": [
+    "En posición de pie, sostén un par de mancuernas a tus lados. Esta será tu posición inicial.",
+    "Manteniendo los codos ligeramente flexionados, eleva los pesos directamente frente a ti a la altura de los hombros, evitando cualquier balanceo o trampa.",
+    "En la parte superior del ejercicio, mueve los pesos hacia los lados manteniendo tus brazos extendidos.",
+    "Baja los pesos con un movimiento controlado.",
+    "En la siguiente repetición, eleva los pesos frente a ti a la altura de los hombros antes de moverlos lateralmente hacia tus lados.",
+    "Baja los pesos a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

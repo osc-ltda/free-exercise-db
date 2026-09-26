@@ -1,5 +1,6 @@
 {
   "name": "Calf Raise (On A Dumbbell)",
+  "nameEs": "Elevación de pantorrilla (Sobre una mancuerna)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Lift the calf as you roll your foot over the top of the handle so that you get a full extension. Exhale during the execution of this movement. Contract the calf hard at the top and hold for a second. Tip: As you come up, roll the dumbbell slightly backward.",
     "Now inhale as you roll the dumbbell slightly forward as you come down to get a better stretch.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Súbete a un objeto resistente para mantener el equilibrio y párate sobre el mango de una mancuerna, preferiblemente uno con discos redondos para que ruede, ya que de esta manera tienes que trabajar más para estabilizarte, aumentando así la eficacia del ejercicio.",
+    "Ahora rueda tu pie ligeramente hacia adelante para que puedas conseguir un buen estiramiento de la pantorrilla. Esta será tu posición inicial.",
+    "Eleva la pantorrilla mientras ruedas tu pie sobre la parte superior del mango para conseguir una extensión completa. Exhala durante la ejecución de este movimiento. Contrae la pantorrilla con fuerza en la parte superior y mantén la posición durante un segundo. Consejo: Al subir, rueda la mancuerna ligeramente hacia atrás.",
+    "Ahora inhala mientras ruedas la mancuerna ligeramente hacia adelante al bajar para lograr un mejor estiramiento.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

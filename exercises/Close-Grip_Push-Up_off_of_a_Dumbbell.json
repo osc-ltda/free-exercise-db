@@ -1,5 +1,6 @@
 {
   "name": "Push-Up (Close-Grip off of a Dumbbell)",
+  "nameEs": "Flexión de brazos (Agarre estrecho sobre mancuerna)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "Lower your body, allowing the elbows to flex while you inhale. Keep your body straight, not allowing your hips to rise or sag.",
     "Press yourself back up to the starting position by extending the elbows. Breathe out as you perform this step.",
     "After a pause at the contracted position, repeat the movement for the prescribed amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Acuéstate en el suelo y coloca tus manos sobre una mancuerna vertical. Apoyando tu peso sobre tus punta de los pies y tus manos, mantén tu torso rígido y tus codos pegados con los brazos rectos. Esta será tu posición inicial.",
+    "Baja tu cuerpo permitiendo que los codos se flexionen mientras inhalas. Mantén tu cuerpo recto, sin permitir que tus caderas suban o bajen.",
+    "Impúlsate de regreso a la posición inicial extendiendo los codos. Exhala mientras realizas este paso.",
+    "Después de una pausa en la posición contraída, repite el movimiento por la cantidad de repeticiones prescrita."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

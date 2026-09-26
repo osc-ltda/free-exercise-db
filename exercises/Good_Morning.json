@@ -1,5 +1,6 @@
 {
   "name": "Good Morning",
+  "nameEs": "Good Morning",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,6 +17,11 @@
     "Begin with a bar on a rack at shoulder height. Rack the bar across the rear of your shoulders as you would a power squat, not on top of your shoulders. Keep your back tight, shoulder blades pinched together, and your knees slightly bent. Step back from the rack.",
     "Begin by bending at the hips, moving them back as you bend over to near parallel. Keep your back arched and your cervical spine in proper alignment.",
     "Reverse the motion by extending through the hips with your glutes and hamstrings. Continue until you have returned to the starting position."
+  ],
+  "instructionsEs": [
+    "Comienza con una barra en un soporte a la altura de los hombros. Apoya la barra en la parte posterior de tus hombros como lo harías para una sentadilla pesada, no encima de tus hombros. Mantén tu espalda firme, tus omóplatos juntos y tus rodillas ligeramente flexionadas. Da un paso atrás para alejarte del soporte.",
+    "Comienza flexionando las caderas, moviéndolas hacia atrás mientras te inclinas hasta quedar casi paralelo. Mantén tu espalda arqueada y tu columna cervical en la alineación correcta.",
+    "Revierte el movimiento extendiendo las caderas con tus glúteos e isquiotibiales. Continúa hasta que hayas regresado a la posición inicial."
   ],
   "category": "powerlifting",
   "trackingType": "weight_reps",

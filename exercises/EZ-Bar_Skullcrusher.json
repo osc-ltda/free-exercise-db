@@ -1,5 +1,6 @@
 {
   "name": "EZ-Bar Skullcrusher",
+  "nameEs": "Rompecráneos con barra Z",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,12 @@
     "Keeping the upper arms stationary, lower the bar by allowing the elbows to flex. Inhale as you perform this portion of the movement. Pause once the bar is directly above the forehead.",
     "Lift the bar back to the starting position by extending the elbow and exhaling.",
     "Repeat."
+  ],
+  "instructionsEs": [
+    "Usando un agarre cerrado, levanta la barra Z y sostenla con los codos hacia adentro mientras te acuestas en el banco. Tus brazos deben estar perpendiculares al suelo. Esta será tu posición inicial.",
+    "Manteniendo la parte superior de los brazos fija, baja la barra permitiendo que los codos se flexionen. Inhala mientras realizas esta porción del movimiento. Pausa una vez que la barra esté directamente sobre la frente.",
+    "Levanta la barra de regreso a la posición inicial extendiendo el codo y exhalando.",
+    "Repite."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

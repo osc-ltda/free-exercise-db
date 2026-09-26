@@ -1,5 +1,6 @@
 {
   "name": "Leg Raises (Front)",
+  "nameEs": "Elevación de piernas (Frontal)",
   "force": "pull",
   "level": "beginner",
   "mechanic": null,
@@ -11,6 +12,10 @@
   "instructions": [
     "Stand next to a chair or other support, holding on with one hand.",
     "Swing your leg forward, keeping the leg straight. Continue with a downward swing, bringing the leg as far back as your flexibility allows. Repeat 5-10 times, and then switch legs."
+  ],
+  "instructionsEs": [
+    "Párate al lado de una silla u otro soporte, sosteniéndote con una mano.",
+    "Balancea tu pierna hacia adelante, manteniéndola recta. Continúa con un balanceo hacia abajo, llevando la pierna tan atrás como tu flexibilidad lo permita. Repite de 5 a 10 veces y luego cambia de pierna."
   ],
   "category": "stretching",
   "trackingType": "time",

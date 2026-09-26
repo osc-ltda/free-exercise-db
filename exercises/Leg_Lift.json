@@ -1,5 +1,6 @@
 {
   "name": "Leg Lift",
+  "nameEs": "Elevación de pierna",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,6 +17,13 @@
     "Slowly bring the raised leg back to the floor as you breathe in.",
     "Repeat for the recommended amount of repetitions.",
     "Repeat the movement with the opposite leg."
+  ],
+  "instructionsEs": [
+    "Mientras te paras derecho con ambos pies uno al lado del otro a la altura de los hombros, agarra una superficie firme como los lados de un soporte para sentadilla o la parte superior de una silla para afirmarte y mantener el equilibrio.",
+    "Con o sin un peso en el tobillo, levanta una pierna detrás de ti como si hicieras un curl de pierna pero de pie, mientras mantienes la otra pierna recta. Exhala mientras realizas este movimiento.",
+    "Lleva lentamente la pierna levantada de regreso al suelo mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones.",
+    "Repite el movimiento con la pierna opuesta."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

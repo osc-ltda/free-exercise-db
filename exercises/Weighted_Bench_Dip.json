@@ -1,5 +1,6 @@
 {
   "name": "Dip (Weighted Bench)",
+  "nameEs": "Fondo (Banco con peso)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "Slowly lower your body as you inhale by bending at the elbows until you lower yourself far enough to where there is an angle slightly smaller than 90 degrees between the upper arm and the forearm. Tip: Keep the elbows as close as possible throughout the movement. Forearms should always be pointing down.",
     "Using your triceps to bring your torso up again, lift yourself back to the starting position while exhaling.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Para este ejercicio necesitarás colocar un banco detrás de tu espalda y otro frente a ti. Con los bancos perpendiculares a tu cuerpo, sujércate de un banco por su borde con las manos cerca de tu cuerpo, separadas al ancho de los hombros. Tus brazos deben estar completamente extendidos.",
+    "Las piernas estarán extendidas hacia adelante encima del otro banco. Tus piernas deben estar paralelas al suelo mientras tu torso debe estar perpendicular al suelo. Pide a tu compañero que coloque la mancuerna sobre tus muslos. Nota: Este ejercicio se realiza mejor con un compañero, ya que colocar el peso sobre tus muslos puede ser difícil y causar lesiones sin asistencia. Esta será tu posición inicial.",
+    "Baja lentamente tu cuerpo mientras inhalas flexionando los codos hasta que bajes lo suficiente como para que haya un ángulo ligeramente menor a 90 grados entre el brazo y el antebrazo. Consejo: Mantén los codos lo más cerca posible durante todo el movimiento. Los antebrazos siempre deben apuntar hacia abajo.",
+    "Utilizando tus tríceps para subir tu torso nuevamente, elévate de regreso a la posición inicial mientras exhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

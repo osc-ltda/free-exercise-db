@@ -1,5 +1,6 @@
 {
   "name": "Bridge (Butt Lift)",
+  "nameEs": "Puente (Elevación de glúteos)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,11 @@
     "Lie flat on the floor on your back with the hands by your side and your knees bent. Your feet should be placed around shoulder width. This will be your starting position.",
     "Pushing mainly with your heels, lift your hips off the floor while keeping your back straight. Breathe out as you perform this part of the motion and hold at the top for a second.",
     "Slowly go back to the starting position as you breathe in."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca arriba en el suelo con las manos a los costados y las rodillas dobladas. Tus pies deben colocarse aproximadamente al ancho de los hombros. Esta será tu posición inicial.",
+    "Empujando principalmente con los talones, levanta las caderas del suelo mientras mantienes la espalda recta. Exhala mientras realizas esta parte del movimiento y mantén la posición arriba por un segundo.",
+    "Regresa lentamente a la posición inicial mientras inspiras."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

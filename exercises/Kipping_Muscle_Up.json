@@ -1,5 +1,6 @@
 {
   "name": "Kipping Muscle Up",
+  "nameEs": "Kipping Muscle Up",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -22,6 +23,13 @@
     "Counter that movement by swinging your legs forward and up, jerking your chin and chest back, pulling yourself up with both arms as you do so. As you reach the top position of the pull-up, pull the rings to your armpits as you roll your shoulders forward, allowing your elbows to move straight back behind you. This puts you into the proper position to continue into the dip portion of the movement.",
     "Maintaining control and stability, extend through the elbow to complete the motion.",
     "Use care when lowering yourself to the ground."
+  ],
+  "instructionsEs": [
+    "Toma las anillas usando un agarre falso (false grip), con la base de las palmas de las manos sobre las anillas.",
+    "Comienza con un movimiento balanceando tus piernas ligeramente hacia atrás.",
+    "Contrarresta ese movimiento balanceando tus piernas hacia adelante y hacia arriba, tirando de tu barbilla y pecho hacia atrás, y elevándote con ambos brazos al mismo tiempo. Al alcanzar la posición alta de la dominada, lleva las anillas hacia tus axilas mientras rotas los hombros hacia adelante, permitiendo que tus codos se muevan directamente hacia atrás. Esto te coloca en la posición adecuada para continuar con la parte de fondo del movimiento.",
+    "Manteniendo el control y la estabilidad, extiende el codo para completar el movimiento.",
+    "Ten cuidado al bajarte al suelo."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

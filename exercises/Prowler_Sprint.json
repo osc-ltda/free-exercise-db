@@ -1,5 +1,6 @@
 {
   "name": "Prowler Sprint",
+  "nameEs": "Prowler Sprint",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,6 +19,11 @@
     "Place your sled on an appropriate surface, loaded to a suitable weight. The sled should provide enough resistance to require effort, but not so heavy that you are significantly slowed down.",
     "You may use the upright or the low handles for this exercise. Place your hands on the handles with your arms extended, leaning into the implement.",
     "With good posture, drive through the ground with alternating, short steps. Move as fast as you can for a short distance."
+  ],
+  "instructionsEs": [
+    "Coloca tu trineo en una superficie adecuada, con un peso apropiado. El trineo debe ofrecer suficiente resistencia para requerir esfuerzo, pero no tanto como para ralentizarte significativamente.",
+    "Puedes usar las agarraderas altas o bajas para este ejercicio. Coloca tus manos en las agarraderas con los brazos extendidos, inclinándote hacia el implemento.",
+    "Con una buena postura, empuja el suelo con pasos cortos y alternados. Muévete lo más rápido que puedas durante una distancia corta."
   ],
   "category": "cardio",
   "trackingType": "time",

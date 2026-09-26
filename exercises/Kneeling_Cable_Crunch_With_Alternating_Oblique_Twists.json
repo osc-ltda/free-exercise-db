@@ -1,5 +1,6 @@
 {
   "name": "Crunch (Kneeling Cable With Alternating Oblique Twists)",
+  "nameEs": "Abdominal (Polea arrodillado con giros oblicuos alternados)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -18,6 +19,17 @@
     "Again, pause briefly at the bottom and rise up in a slow and controlled manner until you reach the starting position.",
     "Repeat the same movement as before, but alternate the other elbow to the opposite knee.",
     "Continue this series of movements to failure."
+  ],
+  "instructionsEs": [
+    "Conecta un accesorio de cuerda a una polea alta y coloca una esterilla en el suelo frente a ella.",
+    "Agarra la cuerda con ambas manos y arrodíllate aproximadamente a dos pies de distancia de la torre.",
+    "Coloca la cuerda detrás de tu cabeza con las manos cerca de las orejas.",
+    "Mantén las manos en el mismo lugar, contrae el abdomen y tira de la cuerda hacia abajo en un movimiento de abdominal hasta que tus codos alcancen las rodillas.",
+    "Haz una breve pausa en la parte inferior y sube de manera lenta y controlada hasta alcanzar la posición inicial.",
+    "Repite el mismo movimiento hacia descendente hasta la mitad del recorrido, momento en el cual comenzarás a rotar uno de tus codos hacia la rodilla opuesta.",
+    "Nuevamente, haz una breve pausa en la parte inferior y sube de manera lenta y controlada hasta alcanzar la posición inicial.",
+    "Repite el mismo movimiento de antes, pero alterna el otro codo hacia la rodilla opuesta.",
+    "Continúa esta serie de movimientos hasta el fallo."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

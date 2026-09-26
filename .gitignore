@@ -1,1 +1,4 @@
 .DS_Store
+
+# translate_es.py daily quota counter
+scripts/.translate_es_state.json

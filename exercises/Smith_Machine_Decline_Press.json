@@ -1,5 +1,6 @@
 {
   "name": "Press (Smith Machine Decline)",
+  "nameEs": "Press (Máquina Smith declinado)",
   "force": null,
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,13 @@
     "Begin the movement by flexing your arms, lowering the bar to your chest.",
     "Pause briefly, and then extend your arms to push the weight back to the starting position.",
     "After completing the desired number of repetitions, rotate the bar to rack the weight."
+  ],
+  "instructionsEs": [
+    "Coloca un banco declinado en el rack de modo que la barra quede por encima de tu pecho. Carga un peso adecuado y toma tu lugar en el banco.",
+    "Gira la barra para desengancharla del rack y extiende completamente tus brazos. Tu espalda debe estar levemente arqueada y tus omóplatos retraídos. Esta será tu posición inicial.",
+    "Comienza el movimiento flexionando tus brazos, bajando la barra hacia tu pecho.",
+    "Haz una pausa breve y luego extiende tus brazos para empujar el peso de regreso a la posición inicial.",
+    "Después de completar el número deseado de repeticiones, gira la barra para asegurarla en el rack."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

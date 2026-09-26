@@ -1,5 +1,6 @@
 {
   "name": "Side to Side Box Shuffle",
+  "nameEs": "Desplazamiento lateral sobre cajón",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,11 @@
     "Stand to one side of the box with your left foot resting on the middle of it.",
     "To begin, jump up and over to the other side of the box, landing with your right foot on top of the box and your left foot on the floor. Swing your arms to aid your movement.",
     "Continue shuffling back and forth across the box."
+  ],
+  "instructionsEs": [
+    "Párate a un lado del cajón con tu pie izquierdo apoyado en el medio del mismo.",
+    "Para empezar, salta hacia arriba y hacia el otro lado del cajón, aterrizando con tu pie derecho encima del cajón y tu pie izquierdo en el suelo. Mueve tus brazos para ayudar a tu movimiento.",
+    "Continúa desplazándote de un lado a otro a través del cajón."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

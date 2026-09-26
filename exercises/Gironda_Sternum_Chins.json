@@ -1,5 +1,6 @@
 {
   "name": "Gironda Sternum Chins",
+  "nameEs": "Dominadas de esternón Gironda",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,6 +19,14 @@
     "Keep pulling until your collarbone passes the bar and your lower chest or sternum area touches it. Hold that contraction for a second. Tip: By the time you've completed this portion of the movement; your head will be parallel to the floor.",
     "Slowly start going back to the starting position as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Agarra la barra de dominada con un agarre supino al ancho de los hombros.",
+    "Ahora cuélgate con los brazos completamente extendidos, saca el pecho y échate hacia atrás. Consejo: Estarás inclinado hacia atrás durante todo el movimiento. Esta será tu posición inicial.",
+    "Comienza a jalarte hacia la barra con la columna arqueada durante todo el movimiento y la cabeza inclinada hacia atrás lo más lejos posible de la barra. Exhala mientras realizas esta parte del movimiento. Consejo: En la parte superior del movimiento, tus caderas y piernas estarán a un ángulo de aproximadamente 45 grados respecto al piso.",
+    "Sigue jalando hasta que tu clavícula pase la barra y tu pecho bajo o área del esternón la toque. Mantén esa contracción por un segundo. Consejo: Para cuando hayas completado esta porción del movimiento, tu cabeza estará paralela al piso.",
+    "Comienza a regresar lentamente a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

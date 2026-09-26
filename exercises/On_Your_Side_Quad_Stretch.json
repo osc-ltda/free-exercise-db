@@ -1,5 +1,6 @@
 {
   "name": "On Your Side Quad Stretch",
+  "nameEs": "Estiramiento de cuádriceps de lado",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,6 +12,10 @@
   "instructions": [
     "Start off by lying on your right side, with your right knee bent at a 90-degree angle resting on the floor in front of you (this stabilizes the torso).",
     "Bend your left knee behind you and hold your left foot with your left hand. To stretch your hip flexor, press your left hip forward as you push your left foot back into your hand. Switch sides."
+  ],
+  "instructionsEs": [
+    "Comienza recostándote sobre tu lado derecho, con tu rodilla derecha flexionada a un ángulo de 90 grados apoyada en el suelo frente a ti (esto estabiliza el torso).",
+    "Flexiona tu rodilla izquierda detrás de ti y sujeta tu pie izquierdo con tu mano izquierda. Para estirar el flexor de la cadera, presiona tu cadera izquierda hacia adelante mientras empujas tu pie izquierdo hacia atrás contra tu mano. Cambia de lado."
   ],
   "category": "stretching",
   "trackingType": "time",

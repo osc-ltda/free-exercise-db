@@ -1,5 +1,6 @@
 {
   "name": "Shrug (Barbell)",
+  "nameEs": "Encogimiento (Barra)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,6 +14,12 @@
     "Raise your shoulders up as far as you can go as you breathe out and hold the contraction for a second. Tip: Refrain from trying to lift the barbell by using your biceps.",
     "Slowly return to the starting position as you breathe in.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Párate derecho con los pies separados a la distancia de los hombros mientras sostienes una barra con ambas manos frente a ti usando un agarre pronado (con las palmas hacia los muslos). Consejo: Tus manos deben estar un poco más separadas que el ancho de los hombros. Puedes usar correas de muñeca para este ejercicio para un mejor agarre. Esta será tu posición inicial.",
+    "Eleva los hombros lo más alto posible mientras exhalas y mantén la contracción durante un segundo. Consejo: Evita intentar levantar la barra usando tus bíceps.",
+    "Regresa lentamente a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

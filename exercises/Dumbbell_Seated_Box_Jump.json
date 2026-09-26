@@ -1,5 +1,6 @@
 {
   "name": "Dumbbell Seated Box Jump",
+  "nameEs": "Salto al cajón sentado con mancuerna",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "Plant your feet firmly on the ground as you lean forward, extending through the hips and knees to jump up and forward.",
     "Land on the box with both feet, absorbing the impact by allowing the hips and knees to bend.",
     "Step down and return to the starting position."
+  ],
+  "instructionsEs": [
+    "Coloca un cajón a un par de pies al lado de un banco. Sostén una mancuerna contra tu pecho con ambas manos y siéntate en el banco de cara al cajón. Esta será tu posición inicial.",
+    "Apoya firmemente los pies en el suelo mientras te inclinas hacia adelante, extendiendo las caderas y las rodillas para saltar hacia arriba y hacia adelante.",
+    "Aterriza en el cajón con ambos pies, absorbiendo el impacto al permitir que las caderas y las rodillas se flexionen.",
+    "Baja y regresa a la posición inicial."
   ],
   "category": "plyometrics",
   "trackingType": "weight_reps",

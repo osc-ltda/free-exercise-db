@@ -1,5 +1,6 @@
 {
   "name": "Snatch (Heaving Balance)",
+  "nameEs": "Arranque (Heaving Balance)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,6 +20,11 @@
     "This drill helps you learn the snatch. Begin by holding a light weight across the back of the shoulders. Your feet should be slightly wider than hip width apart with the feet turned out, the same position that you would perform a squat with.",
     "Begin by dipping with the knees slightly, and popping back up to briefly unload the bar. Drive yourself underneath the bar, elevating it overhead as you descend into a full squat.",
     "Return to a standing position."
+  ],
+  "instructionsEs": [
+    "Este ejercicio te ayuda a aprender el arranque. Comienza sosteniendo un peso ligero en la parte posterior de los hombros. Tus pies deben estar ligeramente más separados que el ancho de las cadera con los pies hacia afuera, la misma posición en la que realizarías una sentadilla.",
+    "Comienza flexionando ligeramente las rodillas y subiendo de golpe para descargar brevemente la barra. Impúlsate por debajo de la barra, elevándola por encima de la cabeza mientras bajas a una sentadilla completa.",
+    "Regresa a una posición de pie."
   ],
   "category": "olympic weightlifting",
   "trackingType": "weight_reps",

@@ -1,5 +1,6 @@
 {
   "name": "Cocoons",
+  "nameEs": "Cocodrilos abdominales",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,6 +13,11 @@
     "Begin by lying on your back on the ground. Your legs should be straight and your arms extended behind your head. This will be your starting position.",
     "To perform the movement, tuck the knees toward your chest, rotating your pelvis to lift your glutes from the floor. As you do so, flex the spine, bringing your arms back over your head to perform a simultaneous crunch motion.",
     "After a brief pause, return to the starting position."
+  ],
+  "instructionsEs": [
+    "Comienza recostándote boca arriba en el suelo. Tus piernas deben estar rectas y tus brazos extendidos detrás de tu cabeza. Esta será tu posición inicial.",
+    "Para realizar el movimiento, lleva las rodillas hacia tu pecho, rotando tu pelvis para levantar los glúteos del suelo. Al hacerlo, flexiona la columna, llevando tus brazos de regreso sobre tu cabeza para realizar un movimiento de abdominal simultáneo.",
+    "Después de una breve pausa, regresa a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "bodyweight_reps",

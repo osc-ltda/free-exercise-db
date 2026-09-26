@@ -1,5 +1,6 @@
 {
   "name": "Deadlift (Car)",
+  "nameEs": "Peso muerto (Automóvil)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,6 +20,12 @@
     "Center yourself between the handles if you are a strong squatter, or back a couple inches if you are a strong deadlifter. You feet should be about hip width apart. Bend at the hip to grip the handles. With your feet and your grip set, take a big breath and then lower your hips and flex the knees.",
     "Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward. As the weight comes up, pull your shoulder blades together as you drive your hips forward.",
     "Lower the weight by bending at the hips and guiding it to the floor."
+  ],
+  "instructionsEs": [
+    "Este aparato de competición suele tener mangos con agarre neutral, aunque algunos tienen una barra recta a la que te puedes acercar como a un peso muerto normal. El aparato se puede cargar con un vehículo u otros objetos pesados como neumáticos de tractor o barriles.",
+    "Centrate entre los mangos si eres fuerte haciendo sentadilla, o un par de pulgadas hacia atrás si eres fuerte haciendo peso muerto. Tus pies deben estar separados aproximadamente a la distancia de las caderas. Dobla la cadera para agarrar los mangos. Con tus pies y tu agarre listos, toma una gran respiración y luego baja las caderas y flexiona las rodillas.",
+    "Mira hacia adelante con la cabeza, mantén el pecho levantado y la espalda arqueada, y comienza a empujar a través de los talones para mover el peso hacia arriba. A medida que el peso sube, junta tus omóplatos mientras empujas tus caderas hacia adelante.",
+    "Baja el peso doblando las caderas y guiándolo hacia el suelo."
   ],
   "category": "strongman",
   "trackingType": "weight_reps",

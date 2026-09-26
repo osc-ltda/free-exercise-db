@@ -1,5 +1,6 @@
 {
   "name": "Seated Crunch (Cable)",
+  "nameEs": "Abdominal sentado (Polea)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "With the hips stationary, flex the waist so the elbows travel toward the hips. Breathe out as you perform this step.",
     "As you inhale, go back to the initial position slowly.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Siéntate en un banco plano con la espalda orientada hacia una polea alta.",
+    "Toma el accesorio de cuerda de la polea con ambas manos (con las palmas enfrentadas) y colócalas de forma segura sobre ambos hombros. Consejo: Permite que el peso hiperextienda ligeramente la zona lumbar. Esta será tu posición inicial.",
+    "Con las caderas estáticas, flexiona la cintura para que los codos se dirijan hacia las caderas. Exhala al realizar este paso.",
+    "Mientras inhalas, regresa a la posición inicial lentamente.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

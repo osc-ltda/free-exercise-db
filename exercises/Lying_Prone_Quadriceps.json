@@ -1,5 +1,6 @@
 {
   "name": "Lying Prone Quadriceps",
+  "nameEs": "Cuádriceps boca abajo (acostado)",
   "force": null,
   "level": "expert",
   "mechanic": null,
@@ -13,6 +14,12 @@
     "Attempt to extend your knee while your partner prevents any actual movement.",
     "After 10-20 seconds, relax your muscles as your partner gently pushes the foot towards your glutes, further stretching the quadriceps and hip flexors.",
     "After 10-20 seconds, switch sides."
+  ],
+  "instructionsEs": [
+    "Acuéstate boca abajo en el suelo con tu compañero arrodillado a tu lado. Flexiona una rodilla y eleva esa pierna del suelo, intentando tocar tus glúteos con el pie. Tu compañero debe sostener la rodilla y el tobillo. Esta será tu posición inicial.",
+    "Intenta extender tu rodilla mientras tu compañero previene cualquier movimiento real.",
+    "Después de 10-20 segundos, relaja tus músculos mientras tu compañero empuja suavemente el pie hacia tus glúteos, estirando aún más los cuádriceps y los flexores de la cadera.",
+    "Después de 10-20 segundos, cambia de lado."
   ],
   "category": "stretching",
   "trackingType": "time",

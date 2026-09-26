@@ -1,5 +1,6 @@
 {
   "name": "Press (Svend)",
+  "nameEs": "Press (Svend)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,6 +18,12 @@
     "Press two lightweight plates together with your hands. Hold the plates together close to your chest to create an isometric contraction in your chest muscles. Your fingers should be pointed forward. This is your starting position.",
     "Squeeze the plates between your palms and extend your arms directly out in front of you in a controlled motion.",
     "Pause at the top of the motion, and then slowly return to the starting position."
+  ],
+  "instructionsEs": [
+    "Comienza en una posición de pie.",
+    "Presiona dos discos ligeros juntos con tus manos. Mantén los discos unidos cerca de tu pecho para crear una contracción isométrica en los músculos pectorales. Tus dedos deben apuntar hacia adelante. Esta es tu posición inicial.",
+    "Aprieta los discos entre las palmas de tus manos y extiende los brazos directamente frente a ti con un movimiento controlado.",
+    "Haz una pausa en la parte alta del movimiento y luego regresa lentamente a la posición inicial."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

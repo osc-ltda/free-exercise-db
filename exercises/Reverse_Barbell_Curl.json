@@ -1,5 +1,6 @@
 {
   "name": "Reverse Curl (Barbell)",
+  "nameEs": "Curl inverso (Barra)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,12 @@
     "While holding the upper arms stationary, curl the weights while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second as you squeeze the muscle.",
     "Slowly begin to bring the bar back to starting position as your breathe in.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Ponte de pie con el torso erguido mientras sostienes una barra con un ancho de hombros y los codos cerca del torso. Las palmas de tus manos deben apuntar hacia abajo (agarre pronado). Esta será tu posición inicial.",
+    "Manteniendo los brazos estáticos, haz un curl con los pesos mientras contraes los bíceps y exhalas. Solo deben moverse los antebrazos. Continúa el movimiento hasta que tus bíceps estén totalmente contraídos y la barra se encuentre a la altura de los hombros. Mantén la posición de contracción durante un segundo mientras aprietas el músculo.",
+    "Comienza a llevar lentamente la barra de regreso a la posición inicial mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

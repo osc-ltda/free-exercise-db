@@ -1,5 +1,6 @@
 {
   "name": "Car Drivers",
+  "nameEs": "Car Drivers",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,12 @@
     "Initiate the movement by rotating the plate as far to one side as possible. Use the same type of movement you would use to turn a steering wheel to one side.",
     "Reverse the motion, turning it all the way to the opposite side.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "De pie y erguido, sostén un disco de barra con ambas manos en las posiciones de las 3 y las 9 en punto. Tus palmas deben estar enfrentadas y tus brazos deben estar extendidos directamente frente a ti. Esta será tu posición inicial.",
+    "Inicia el movimiento girando el disco hacia un lado tanto como sea posible. Usa el mismo tipo de movimiento que usarías para girar el volante de un auto hacia un lado.",
+    "Revierte el movimiento, girándolo por completo hacia el lado opuesto.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

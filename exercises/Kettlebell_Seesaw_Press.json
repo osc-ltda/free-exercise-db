@@ -1,5 +1,6 @@
 {
   "name": "Press (Kettlebell Seesaw)",
+  "nameEs": "Press (Pesa rusa Seesaw)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -14,6 +15,11 @@
     "Clean two kettlebells two your shoulders.",
     "Press one kettlebell.",
     "Lower the kettlebell and immediately press the other kettlebell. Make sure to do the same amount of reps on both sides."
+  ],
+  "instructionsEs": [
+    "Lleva dos pesas rusas a tus hombros con un movimiento de clean.",
+    "Haz press con una pesa rusa.",
+    "Baja la pesa rusa e inmediatamente haz press con la otra. Asegúrate de hacer el mismo número de repeticiones en ambos lados."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

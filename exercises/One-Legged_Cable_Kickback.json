@@ -1,5 +1,6 @@
 {
   "name": "One-Legged Cable Kickback",
+  "nameEs": "Patada de glúteo a una pierna con polea",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -17,6 +18,14 @@
     "Now slowly bring your working leg forward, resisting the pull of the cable until you reach the starting position.",
     "Repeat for the recommended amount of repetitions.",
     "Switch legs and repeat the movement for the other side."
+  ],
+  "instructionsEs": [
+    "Engancha un brazalete de cuero para tobillo a una polea baja y luego sujeta el brazalete a tu tobillo.",
+    "Párate frente a la torre de pesas a una distancia de unos dos pies, agarrando el marco de acero para tener soporte.",
+    "Mientras mantienes tus rodillas y caderas ligeramente flexionadas y el abdomen contraído, contrae tus glúteos para \"patear\" lentamente la pierna de trabajo hacia atrás en un arco semicircular lo más alto que puedas cómodamente mientras exhalas. Consejo: en la extensión máxima, aprieta los glúteos durante un segundo para lograr una contracción máxima.",
+    "Ahora lleva lentamente tu pierna de trabajo hacia adelante, resistiendo el tirón de la polea hasta llegar a la posición inicial.",
+    "Repite por la cantidad recomendada de repeticiones.",
+    "Cambia de pierna y repite el movimiento para el otro lado."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

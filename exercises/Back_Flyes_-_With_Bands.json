@@ -1,5 +1,6 @@
 {
   "name": "Back Flyes (With Bands)",
+  "nameEs": "Aperturas inversas (Con Banda)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,6 +19,14 @@
     "As you exhale, move your arms to the sides and back. Keep your arms extended and parallel to the floor. Continue the movement until the arms are extended to your sides.",
     "After a pause, go back to the original position as you inhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Pasa una banda alrededor de un poste fijo, como el de un rack de sentadilla.",
+    "Toma la banda por los mangos y retrocede para que aumente la tensión en la banda.",
+    "Extiende y levanta los brazos rectos frente a ti. Consejo: Tus brazos deben estar rectos y paralelos al suelo, y perpendiculares a tu torso. Tus pies deben estar firmemente apoyados en el suelo y separados al ancho de los hombros. Esta será tu posición inicial.",
+    "Al exhalar, mueve los brazos hacia los lados y hacia atrás. Mantén los brazos extendidos y paralelos al suelo. Continúa el movimiento hasta que los brazos estén extendidos a tus lados.",
+    "Después de una pausa, regresa a la posición original mientras inhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

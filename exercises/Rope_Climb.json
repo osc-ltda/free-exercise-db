@@ -1,5 +1,6 @@
 {
   "name": "Rope Climb",
+  "nameEs": "Trepa de cuerda",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,6 +20,13 @@
     "Release the rope from your feet as you pull yourself up with your arms, bringing your knees towards your chest.",
     "Resecure your feet on the rope, and then stand up to take another high hold on the rope. Continue until you reach the top of the rope.",
     "To lower yourself, loosen the grip of your feet on the rope as you slide down using a hand over hand motion."
+  ],
+  "instructionsEs": [
+    "Agarra la cuerda con ambas manos por encima de tu cabeza. Tira de la cuerda hacia abajo mientras das un pequeño salto.",
+    "Envuelve la cuerda alrededor de una pierna, usando tus pies para presionar la cuerda. Estírate hacia arriba lo más alto posible con tus brazos, agarrando la cuerda firmemente.",
+    "Suelta la cuerda de tus pies mientras te impulsas hacia arriba con tus brazos, llevando tus rodillas hacia tu pecho.",
+    "Vuelve a asegurar tus pies en la cuerda y luego ponte de pie para tomar otro agarre alto en la cuerda. Continúa hasta llegar a la cima de la cuerda.",
+    "Para bajarte, afloja el agarre de tus pies en la cuerda mientras te deslizas hacia abajo usando un movimiento de mano sobre mano."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

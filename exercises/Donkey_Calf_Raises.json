@@ -1,5 +1,6 @@
 {
   "name": "Calf Raises (Donkey)",
+  "nameEs": "Elevación de pantorrilla (Donkey)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -14,6 +15,13 @@
     "Raise your heels as you breathe out by extending your ankles as high as possible and flexing your calf. Ensure that the knee is kept stationary at all times. There should be no bending at any time. Hold the contracted position by a second before you start to go back down.",
     "Go back slowly to the starting position as you breathe in by lowering your heels as you bend the ankles until calves are stretched.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Para este ejercicio necesitarás acceso a una máquina de elevación de pantorrilla tipo donkey. Comienza posicionando tu parte baja de la espalda y tus caderas bajo la palanca acolchada provista. El área del coxis debe ser la que entre en contacto con la almohadilla.",
+    "Coloca ambos brazos en las asas laterales y apoya la parte delantera de tus pies en el bloque para pantorrillas, dejando los talones colgando. Alinea los dedos hacia adelante, hacia adentro o hacia afuera, según el área que desees trabajar, y estira las rodillas sin bloquearlas. Esta será tu posición inicial.",
+    "Eleva tus talones mientras exhalas extendiendo los tobillos lo más alto posible y contrayendo tu pantorrilla. Asegúrate de mantener la rodilla estática en todo momento. No debe haber flexión en ningún momento. Mantén la posición contraída durante un segundo antes de comenzar a descender.",
+    "Regresa lentamente a la posición inicial mientras inhalas bajando los talones y flexionando los tobillos hasta que las pantorrillas se estiren.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

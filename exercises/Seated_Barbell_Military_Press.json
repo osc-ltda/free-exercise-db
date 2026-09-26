@@ -1,5 +1,6 @@
 {
   "name": "Military Press (Seated Barbell)",
+  "nameEs": "Press militar (Sentado con barra)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,6 +17,13 @@
     "Lower the bar down to the collarbone slowly as you inhale.",
     "Lift the bar back up to the starting position as you exhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Siéntate en un banco para press militar con una barra detrás de tu cabeza y pide a un compañero que te dé la barra (es mejor para el manguito rotador de esta manera) o tómala tú mismo con cuidado con un agarre pronado (palmas hacia adelante). Consejo: Tu agarre debe ser más ancho que el ancho de los hombros y debe crear un ángulo de 90 grados entre el antebrazo y el brazo superior a medida que baja la barra.",
+    "Una vez que tomes la barra con la longitud de agarre correcta, levántala por encima de tu cabeza bloqueando tus brazos. Sostén a la altura de los hombros y ligeramente en frente de tu cabeza. Esta es tu posición inicial.",
+    "Baja la barra lentamente hacia la clavícula mientras inhalas.",
+    "Eleva la barra de regreso a la posición inicial mientras exhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

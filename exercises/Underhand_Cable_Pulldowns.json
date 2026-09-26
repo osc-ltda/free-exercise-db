@@ -1,5 +1,6 @@
 {
   "name": "Pulldown (Underhand Cable)",
+  "nameEs": "Jalón (Polea con agarre supino)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -19,6 +20,14 @@
     "As you breathe out, pull the bar down until it touches your upper chest by drawing the shoulders and the upper arms down and back. Tip: Concentrate on squeezing the back muscles once you reach the fully contracted position and keep the elbows close to your body. The upper torso should remain stationary as your bring the bar to you and only the arms should move. The forearms should do no other work other than hold the bar.",
     "After a second on the contracted position, while breathing in, slowly bring the bar back to the starting position when your arms are fully extended and the lats are fully stretched.",
     "Repeat this motion for the prescribed amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Siéntate en una máquina de jalón con una barra ancha conectada a la polea superior. Ajusta el soporte para las rodillas de la máquina según tu altura. Estos soportes evitarán que tu cuerpo se eleve por la resistencia unida a la barra.",
+    "Agarra la barra de jalón con las palmas mirando hacia tu torso (un agarre supino). Asegúrate de que las manos estén colocadas a una distancia menor que el ancho de los hombros.",
+    "Con ambos brazos extendidos frente a ti sosteniendo la barra con el ancho de agarre elegido, lleva tu torso hacia atrás unos 30 grados más o menos mientras creas una curvatura en la parte baja de la espalda y sacas el pecho. Esta es tu posición inicial.",
+    "Mientras exhalas, tira de la barra hacia abajo hasta que toque la parte superior del pecho bajando y echando hacia atrás los hombros y la parte superior de los brazos. Consejo: concéntrate en contraer los músculos de la espalda una vez que alcances la posición de máxima contracción y mantén los codos cerca del cuerpo. La parte superior del torso debe permanecer fija mientras llevas la barra hacia ti y solo deben moverse los brazos. Los antebrazos no deben hacer otro trabajo que no sea sostener la barra.",
+    "Después de un segundo en la posición contraída, mientras inhalas, regresa lentamente la barra a la posición inicial cuando tus brazos estén completamente extendidos y los dorsales estén completamente estirados.",
+    "Repite este movimiento durante el número de repeticiones prescrito."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

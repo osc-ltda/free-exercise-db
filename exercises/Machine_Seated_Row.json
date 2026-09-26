@@ -1,5 +1,6 @@
 {
   "name": "Seated Row (Machine)",
+  "nameEs": "Remo sentado (Máquina)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,6 +17,12 @@
     "Take the handles, brace your midsection and keep your torso still.",
     "Pull the elbows back past your ribs and squeeze your shoulder blades together.",
     "Let the handles travel forward under control until your shoulder blades spread again."
+  ],
+  "instructionsEs": [
+    "Ajusta el cojín para el pecho de modo que puedas alcanzar las manijas con los brazos estirados y el pecho apoyado en él.",
+    "Toma las manijas, contrae tu abdomen y mantén tu torso quieto.",
+    "Jala los codos hacia atrás pasando tus costillas y junta tus omóplatos.",
+    "Deja que las manijas avancen de forma controlada hasta que tus omóplatos se vuelvan a separar."
   ],
   "category": "strength",
   "trackingType": "weight_reps",

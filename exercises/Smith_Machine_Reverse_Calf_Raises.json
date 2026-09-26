@@ -1,5 +1,6 @@
 {
   "name": "Calf Raises (Smith Machine Reverse)",
+  "nameEs": "Elevación de pantorrilla (Máquina Smith inversa)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -15,6 +16,14 @@
     "Raise the balls of your feet as you breathe out by extending your toes as high as possible and flexing your calf. Ensure that the knee is kept stationary at all times. There should be no bending at any time. Hold the contracted position for a second before you start to go back down.",
     "Slowly go back down to the starting position as you breathe in by lowering the balls of your feet and toes.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Ajusta la barra en la máquina Smith para que se adapte a tu altura y alinea una plataforma elevada justo debajo de la barra.",
+    "Párate sobre la plataforma con los talones asegurados encima de ella y la parte delantera de los pies sobresaliendo. Coloca los dedos apuntando hacia adelante con una separación equivalente al ancho de los hombros.",
+    "Ahora, coloca tus hombros debajo de la barra manteniendo la posición de los pies descrita y empuja la barra hacia arriba extendiendo tus caderas y rodillas hasta que tu torso esté erguido. Las rodillas deben mantenerse con una ligera flexión; nunca bloqueadas. Esta será tu posición inicial. Consejo: La barra en tu espalda es únicamente para fines de equilibrio.",
+    "Eleva la parte delantera de tus pies mientras exhalas extendiendo los dedos lo más alto posible y flexionando la pantorrilla. Asegúrate de que la rodilla se mantenga estática en todo momento. No debe haber flexión en ningún momento. Mantén la posición contraída durante un segundo antes de comenzar a bajar.",
+    "Regresa lentamente a la posición inicial mientras inhalas bajando la parte delantera de tus pies y los dedos.",
+    "Repite para la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",
