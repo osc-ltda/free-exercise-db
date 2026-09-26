@@ -1,6 +1,6 @@
 {
-  "name": "Pulldown (Straight-Arm)",
-  "nameEs": "Jalón de brazos rectos (Polea)",
+  "name": "Straight-Arm Pulldown",
+  "nameEs": "Jalón con brazos rectos",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",

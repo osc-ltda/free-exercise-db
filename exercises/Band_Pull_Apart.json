@@ -1,6 +1,6 @@
 {
-  "name": "Pull (Band Apart)",
-  "nameEs": "Pull (Apertura con Banda)",
+  "name": "Band Pull Apart",
+  "nameEs": "Separación con banda",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",

@@ -1,6 +1,6 @@
 {
-  "name": "Row (Upright Barbell)",
-  "nameEs": "Remo (Barra vertical)",
+  "name": "Upright Row (Barbell)",
+  "nameEs": "Remo al mentón (Barra)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",

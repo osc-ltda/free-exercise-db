@@ -1,6 +1,6 @@
 {
-  "name": "Squat (Box with Chains)",
-  "nameEs": "Sentadilla (Box con cadenas)",
+  "name": "Box Squat (with Chains)",
+  "nameEs": "Sentadilla al cajón (Con cadenas)",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",

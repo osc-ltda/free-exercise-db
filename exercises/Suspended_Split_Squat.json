@@ -1,6 +1,6 @@
 {
-  "name": "Squat (Suspended Split)",
-  "nameEs": "Sentadilla (Suspendida Split)",
+  "name": "Split Squat (Suspended)",
+  "nameEs": "Sentadilla dividida (Suspendida)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -28,7 +28,7 @@
     "En la parte baja del movimiento, invierte el movimiento, extendiendo la cadera y la rodilla para volver a la posición inicial."
   ],
   "category": "strength",
-  "trackingType": "weight_reps",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Suspended_Split_Squat/0.jpg",
     "Suspended_Split_Squat/1.jpg"

@@ -1,6 +1,6 @@
 {
-  "name": "Row (Bodyweight Mid)",
-  "nameEs": "Remo (Peso corporal medio)",
+  "name": "Inverted Row (Bodyweight Mid)",
+  "nameEs": "Remo invertido (Peso corporal, agarre medio)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -23,7 +23,7 @@
     "Después de una breve pausa, regresa a la posición inicial."
   ],
   "category": "strength",
-  "trackingType": "weight_reps",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Bodyweight_Mid_Row/0.jpg",
     "Bodyweight_Mid_Row/1.jpg"

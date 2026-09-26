@@ -1,6 +1,6 @@
 {
-  "name": "Lunge (Bodyweight Walking)",
-  "nameEs": "Zancada (Peso corporal caminando)",
+  "name": "Walking Lunge (Bodyweight)",
+  "nameEs": "Zancada caminando (Peso corporal)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -26,7 +26,7 @@
     "Da un paso adelante con el pie trasero, repitiendo la zancada con la pierna opuesta."
   ],
   "category": "strength",
-  "trackingType": "weight_reps",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Bodyweight_Walking_Lunge/0.jpg",
     "Bodyweight_Walking_Lunge/1.jpg"

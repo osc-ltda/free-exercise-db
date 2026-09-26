@@ -1,6 +1,6 @@
 {
-  "name": "Pull (Face)",
-  "nameEs": "Remo al rostro (Face Pull)",
+  "name": "Face Pull",
+  "nameEs": "Face pull",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",

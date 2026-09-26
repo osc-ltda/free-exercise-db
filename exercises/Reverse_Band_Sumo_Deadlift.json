@@ -1,6 +1,6 @@
 {
-  "name": "Deadlift (Reverse Band Sumo)",
-  "nameEs": "Peso muerto (Sumo con banda inversa)",
+  "name": "Sumo Deadlift (Reverse Band)",
+  "nameEs": "Peso muerto sumo (Banda inversa)",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",

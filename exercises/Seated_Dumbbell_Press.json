@@ -1,6 +1,6 @@
 {
-  "name": "Press (Seated Dumbbell)",
-  "nameEs": "Press (Sentado con mancuernas)",
+  "name": "Shoulder Press (Seated Dumbbell)",
+  "nameEs": "Press de hombros (Mancuerna sentado)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",

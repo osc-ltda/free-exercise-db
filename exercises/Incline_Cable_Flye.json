@@ -1,6 +1,6 @@
 {
-  "name": "Fly (Incline Cable)",
-  "nameEs": "Apertura (Inclinado Polea)",
+  "name": "Incline Fly (Cable)",
+  "nameEs": "Apertura inclinada (Polea)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",

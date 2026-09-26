@@ -1,6 +1,6 @@
 {
-  "name": "Squat (Kneeling Jump)",
-  "nameEs": "Sentadilla (Salto de rodillas)",
+  "name": "Jump Squat (Kneeling)",
+  "nameEs": "Sentadilla con salto (De rodillas)",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",

@@ -1,6 +1,6 @@
 {
-  "name": "Press (Decline Smith)",
-  "nameEs": "Press (Máquina Smith declinado)",
+  "name": "Chest Press (Decline Smith)",
+  "nameEs": "Press de pecho (Máquina Smith declinado)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",

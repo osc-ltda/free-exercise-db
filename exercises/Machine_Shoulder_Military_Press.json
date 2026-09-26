@@ -1,6 +1,6 @@
 {
-  "name": "Press (Machine Shoulder Military)",
-  "nameEs": "Press militar de hombro (Máquina)",
+  "name": "Shoulder Press (Machine)",
+  "nameEs": "Press de hombros (Máquina)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",

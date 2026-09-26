@@ -1,6 +1,6 @@
 {
-  "name": "Squat (Freehand Jump)",
-  "nameEs": "Sentadilla (Freehand Jump)",
+  "name": "Jump Squat (Freehand)",
+  "nameEs": "Sentadilla con salto (Sin peso)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",

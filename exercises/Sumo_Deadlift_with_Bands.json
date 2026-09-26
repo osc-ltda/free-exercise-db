@@ -1,6 +1,6 @@
 {
-  "name": "Deadlift (Sumo with Bands)",
-  "nameEs": "Peso muerto (Sumo con bandas)",
+  "name": "Sumo Deadlift (with Bands)",
+  "nameEs": "Peso muerto sumo (Con bandas)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",

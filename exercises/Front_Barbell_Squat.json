@@ -1,6 +1,6 @@
 {
-  "name": "Squat (Front Barbell)",
-  "nameEs": "Sentadilla (Barra frontal)",
+  "name": "Front Squat (Barbell)",
+  "nameEs": "Sentadilla frontal (Barra)",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",

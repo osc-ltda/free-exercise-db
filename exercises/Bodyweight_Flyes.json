@@ -28,7 +28,7 @@
     "Después de separar las barras tanto como puedas, regresa a la posición inicial juntándolas de nuevo. Exhala al realizar este movimiento."
   ],
   "category": "strength",
-  "trackingType": "weight_reps",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Bodyweight_Flyes/0.jpg",
     "Bodyweight_Flyes/1.jpg"

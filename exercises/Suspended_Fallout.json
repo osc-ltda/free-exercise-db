@@ -28,7 +28,7 @@
     "Haz una pausa durante la contracción máxima y luego regresa a la posición inicial."
   ],
   "category": "strength",
-  "trackingType": "weight_reps",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Suspended_Fallout/0.jpg",
     "Suspended_Fallout/1.jpg"

@@ -25,7 +25,7 @@
     "Continúa hasta que tus codos superen los 90 grados, haciendo una pausa antes de extender para volver a la posición inicial."
   ],
   "category": "strength",
-  "trackingType": "weight_reps",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Suspended_Push-Up/0.jpg",
     "Suspended_Push-Up/1.jpg"

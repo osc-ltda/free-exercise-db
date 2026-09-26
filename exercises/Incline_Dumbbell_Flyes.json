@@ -1,6 +1,6 @@
 {
-  "name": "Fly (Incline Dumbbell)",
-  "nameEs": "Apertura (Inclinado Mancuerna)",
+  "name": "Incline Fly (Dumbbell)",
+  "nameEs": "Apertura inclinada (Mancuerna)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",

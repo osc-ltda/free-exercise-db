@@ -1,6 +1,6 @@
 {
-  "name": "Press (Incline Dumbbell)",
-  "nameEs": "Press (Mancuerna Inclinado)",
+  "name": "Chest Press (Incline Dumbbell)",
+  "nameEs": "Press de pecho (Mancuerna inclinado)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",

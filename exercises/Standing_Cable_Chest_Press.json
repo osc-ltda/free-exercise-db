@@ -1,6 +1,6 @@
 {
-  "name": "Press (Standing Cable Chest)",
-  "nameEs": "Press de pecho con polea (de pie)",
+  "name": "Chest Press (Standing Cable)",
+  "nameEs": "Press de pecho (Polea de pie)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",

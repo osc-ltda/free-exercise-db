@@ -1,6 +1,6 @@
 {
-  "name": "Fly (Reverse Machine)",
-  "nameEs": "Apertura (Máquina inversa)",
+  "name": "Reverse Fly (Machine)",
+  "nameEs": "Apertura inversa (Máquina)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",

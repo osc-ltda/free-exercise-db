@@ -1,6 +1,6 @@
 {
-  "name": "Press (Standing Dumbbell)",
-  "nameEs": "Press (Mancuerna de pie)",
+  "name": "Shoulder Press (Standing Dumbbell)",
+  "nameEs": "Press de hombros (Mancuerna de pie)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",

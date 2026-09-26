@@ -1,6 +1,6 @@
 {
-  "name": "Row (Inverted)",
-  "nameEs": "Remo (invertido)",
+  "name": "Inverted Row",
+  "nameEs": "Remo invertido",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -26,7 +26,7 @@
     "Repite para el número deseado de repeticiones."
   ],
   "category": "strength",
-  "trackingType": "weight_reps",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Inverted_Row/0.jpg",
     "Inverted_Row/1.jpg"

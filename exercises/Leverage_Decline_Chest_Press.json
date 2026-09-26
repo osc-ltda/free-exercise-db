@@ -1,6 +1,6 @@
 {
-  "name": "Press (Leverage Decline Chest)",
-  "nameEs": "Press de pecho declinado (Máquina)",
+  "name": "Chest Press (Leverage Decline)",
+  "nameEs": "Press de pecho (Máquina de palanca declinado)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",

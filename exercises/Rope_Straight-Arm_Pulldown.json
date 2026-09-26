@@ -1,6 +1,6 @@
 {
-  "name": "Pulldown (Rope Straight-Arm)",
-  "nameEs": "Jalón (Polea con cuerda y brazos rectos)",
+  "name": "Straight-Arm Pulldown (Rope)",
+  "nameEs": "Jalón con brazos rectos (Cuerda)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",

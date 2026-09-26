@@ -1,6 +1,6 @@
 {
-  "name": "Press (Incline Cable Chest)",
-  "nameEs": "Press de pecho en Polea Inclinado",
+  "name": "Chest Press (Incline Cable)",
+  "nameEs": "Press de pecho (Polea inclinado)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",

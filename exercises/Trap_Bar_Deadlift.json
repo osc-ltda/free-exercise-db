@@ -1,6 +1,6 @@
 {
-  "name": "Deadlift (Trap Bar)",
-  "nameEs": "Peso muerto (Barra trampa)",
+  "name": "Trap Bar Deadlift",
+  "nameEs": "Peso muerto con barra hexagonal",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",

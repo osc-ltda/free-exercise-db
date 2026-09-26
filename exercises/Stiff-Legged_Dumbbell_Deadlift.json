@@ -1,6 +1,6 @@
 {
-  "name": "Deadlift (Stiff-Legged Dumbbell)",
-  "nameEs": "Peso muerto (Mancuerna con piernas rígidas)",
+  "name": "Stiff-Legged Deadlift (Dumbbell)",
+  "nameEs": "Peso muerto con piernas rígidas (Mancuerna)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",

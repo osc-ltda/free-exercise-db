@@ -54,10 +54,22 @@ and `make lint` checks them against [the schema](./schema.json).
   `category`, `equipment`, `mechanic` and `level`.
 * `trackingType` — what a set of the exercise logs.
 * `unassistedId` — the free-weight form an assisted machine stands in for.
-* `nameEs`, `instructionsEs` — Spanish. **Optional, and mostly not filled in
-  yet.** A consumer falls back to `name` / `instructions` for any exercise that
-  has no translation, so the two can be added a batch at a time rather than all
-  at once. `instructionsEs` is step for step with `instructions`.
+* `nameEs`, `instructionsEs` — Spanish, step for step with `instructions`.
+  Optional in the schema, so a new exercise can land before its translation: a
+  consumer falls back to `name` / `instructions`. `scripts/translate_es.py`
+  fills in whatever is missing through the Gemini API (`GEMINI_API_KEY`), held
+  to the free tier's limits and safe to rerun the next day.
+
+#### Names
+
+This fork's names are the ones the app shows, so they are fixed here rather
+than corrected downstream. Movement first, variant in the brackets -
+"Shoulder Press (Machine)", not upstream's "Press (Machine Shoulder
+Military)": nobody searching their log for a shoulder press types "Press".
+A word goes in front when it names the *movement* ("Split Squat", "Front
+Squat") and in the brackets when it names the *equipment* ("Shrug (Barbell)").
+Names must stay unique ignoring case - consumers derive ids from them - and
+renaming one moves it to a new id there, so rename deliberately.
 
 ### How do I use them?
 

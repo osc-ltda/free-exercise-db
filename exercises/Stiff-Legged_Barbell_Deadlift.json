@@ -1,6 +1,6 @@
 {
-  "name": "Deadlift (Stiff-Legged Barbell)",
-  "nameEs": "Peso muerto (Barra con piernas rígidas)",
+  "name": "Stiff-Legged Deadlift (Barbell)",
+  "nameEs": "Peso muerto con piernas rígidas (Barra)",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",

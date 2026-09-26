@@ -1,6 +1,6 @@
 {
-  "name": "Press (Leg-Over Floor)",
-  "nameEs": "Press (Pierna cruzada en el suelo)",
+  "name": "Chest Press (Leg-Over Floor)",
+  "nameEs": "Press de pecho (Pierna cruzada en el suelo)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",

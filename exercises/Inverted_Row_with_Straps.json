@@ -1,6 +1,6 @@
 {
-  "name": "Row (Inverted with Straps)",
-  "nameEs": "Remo (invertido con correas)",
+  "name": "Inverted Row (with Straps)",
+  "nameEs": "Remo invertido (Con correas)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -25,7 +25,7 @@
     "Repite para el número deseado de repeticiones."
   ],
   "category": "strength",
-  "trackingType": "weight_reps",
+  "trackingType": "bodyweight_reps",
   "images": [
     "Inverted_Row_with_Straps/0.jpg",
     "Inverted_Row_with_Straps/1.jpg"

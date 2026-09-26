@@ -1,6 +1,6 @@
 {
-  "name": "Squat (Front Barbell To A Bench)",
-  "nameEs": "Sentadilla (Barra frontal hacia un banco)",
+  "name": "Front Squat (Barbell To A Bench)",
+  "nameEs": "Sentadilla frontal (Barra a un banco)",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",

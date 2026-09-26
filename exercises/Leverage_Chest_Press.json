@@ -1,6 +1,6 @@
 {
-  "name": "Press (Leverage Chest)",
-  "nameEs": "Press (Pecho en máquina de palanca)",
+  "name": "Chest Press (Leverage)",
+  "nameEs": "Press de pecho (Máquina de palanca)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",

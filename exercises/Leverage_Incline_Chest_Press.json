@@ -1,6 +1,6 @@
 {
-  "name": "Press (Leverage Incline Chest)",
-  "nameEs": "Press de pecho inclinado (Máquina)",
+  "name": "Chest Press (Leverage Incline)",
+  "nameEs": "Press de pecho (Máquina de palanca inclinado)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",

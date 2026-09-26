@@ -309,8 +309,8 @@
     "popularity": 0.7
   },
   {
-    "name": "Curl (Alternate Hammer)",
-    "nameEs": "Curl (Martillo alterno)",
+    "name": "Hammer Curl (Alternate)",
+    "nameEs": "Curl martillo (Alterno)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -1384,8 +1384,8 @@
     "popularity": 2
   },
   {
-    "name": "Pull (Band Apart)",
-    "nameEs": "Pull (Apertura con Banda)",
+    "name": "Band Pull Apart",
+    "nameEs": "Separación con banda",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -1972,8 +1972,8 @@
     "popularity": 3.5
   },
   {
-    "name": "Row (Barbell Rear Delt)",
-    "nameEs": "Remo (Barra parte posterior de los hombros)",
+    "name": "Rear Delt Row (Barbell)",
+    "nameEs": "Remo de deltoides posterior (Barra)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -2226,8 +2226,8 @@
     "popularity": 2.7
   },
   {
-    "name": "Squat (Barbell Side Split)",
-    "nameEs": "Sentadilla (Sentadilla búlgara lateral con barra)",
+    "name": "Split Squat (Barbell Side)",
+    "nameEs": "Sentadilla dividida (Barra lateral)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -2389,8 +2389,8 @@
     "popularity": 2.6
   },
   {
-    "name": "Lunge (Barbell Walking)",
-    "nameEs": "Zancada (Barra caminando)",
+    "name": "Walking Lunge (Barbell)",
+    "nameEs": "Zancada caminando (Barra)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -2530,8 +2530,8 @@
     "popularity": 0.4
   },
   {
-    "name": "Dips (Bench)",
-    "nameEs": "Fondos (Banco)",
+    "name": "Bench Dip",
+    "nameEs": "Fondo en banco",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -3381,7 +3381,7 @@
       "Después de separar las barras tanto como puedas, regresa a la posición inicial juntándolas de nuevo. Exhala al realizar este movimiento."
     ],
     "category": "strength",
-    "trackingType": "weight_reps",
+    "trackingType": "bodyweight_reps",
     "images": [
       "Bodyweight_Flyes/0.jpg",
       "Bodyweight_Flyes/1.jpg"
@@ -3391,8 +3391,8 @@
     "popularity": 2.1
   },
   {
-    "name": "Row (Bodyweight Mid)",
-    "nameEs": "Remo (Peso corporal medio)",
+    "name": "Inverted Row (Bodyweight Mid)",
+    "nameEs": "Remo invertido (Peso corporal, agarre medio)",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "compound",
@@ -3415,7 +3415,7 @@
       "Después de una breve pausa, regresa a la posición inicial."
     ],
     "category": "strength",
-    "trackingType": "weight_reps",
+    "trackingType": "bodyweight_reps",
     "images": [
       "Bodyweight_Mid_Row/0.jpg",
       "Bodyweight_Mid_Row/1.jpg"
@@ -3459,8 +3459,8 @@
     "popularity": 3.5
   },
   {
-    "name": "Lunge (Bodyweight Walking)",
-    "nameEs": "Zancada (Peso corporal caminando)",
+    "name": "Walking Lunge (Bodyweight)",
+    "nameEs": "Zancada caminando (Peso corporal)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -3486,7 +3486,7 @@
       "Da un paso adelante con el pie trasero, repitiendo la zancada con la pierna opuesta."
     ],
     "category": "strength",
-    "trackingType": "weight_reps",
+    "trackingType": "bodyweight_reps",
     "images": [
       "Bodyweight_Walking_Lunge/0.jpg",
       "Bodyweight_Walking_Lunge/1.jpg"
@@ -3496,8 +3496,8 @@
     "popularity": 2
   },
   {
-    "name": "Crunch (Bosu Ball Cable With Side Bends)",
-    "nameEs": "Crunch (Pelota Bosu con polea y flexiones laterales)",
+    "name": "Cable Crunch (Bosu Ball With Side Bends)",
+    "nameEs": "Abdominal en polea (Bosu con flexiones laterales)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -3682,8 +3682,8 @@
     "popularity": 1
   },
   {
-    "name": "Squat (Box)",
-    "nameEs": "Sentadilla (Box)",
+    "name": "Box Squat",
+    "nameEs": "Sentadilla al cajón",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -3721,8 +3721,8 @@
     "popularity": 2
   },
   {
-    "name": "Squat (Box with Bands)",
-    "nameEs": "Sentadilla (Box con bandas)",
+    "name": "Box Squat (with Bands)",
+    "nameEs": "Sentadilla al cajón (Con bandas)",
     "force": "push",
     "level": "expert",
     "mechanic": "compound",
@@ -3761,8 +3761,8 @@
     "popularity": 1.8
   },
   {
-    "name": "Squat (Box with Chains)",
-    "nameEs": "Sentadilla (Box con cadenas)",
+    "name": "Box Squat (with Chains)",
+    "nameEs": "Sentadilla al cajón (Con cadenas)",
     "force": "push",
     "level": "expert",
     "mechanic": "compound",
@@ -3832,8 +3832,8 @@
     "popularity": 0.2
   },
   {
-    "name": "Press (Bradford/Rocky)",
-    "nameEs": "Press (Bradford/Rocky)",
+    "name": "Shoulder Press (Bradford/Rocky)",
+    "nameEs": "Press de hombros (Bradford/Rocky)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -3939,8 +3939,8 @@
     "popularity": 2.4
   },
   {
-    "name": "Butterfly",
-    "nameEs": "Apertura (Mariposa)",
+    "name": "Chest Fly (Machine)",
+    "nameEs": "Apertura de pecho (Máquina)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -3974,7 +3974,7 @@
     "popularity": 4
   },
   {
-    "name": "Press (Cable Chest)",
+    "name": "Chest Press (Cable)",
     "nameEs": "Press de pecho (Polea)",
     "force": "push",
     "level": "beginner",
@@ -4047,8 +4047,8 @@
     "popularity": 4.5
   },
   {
-    "name": "Crunch (Cable)",
-    "nameEs": "Abdominal (Polea)",
+    "name": "Cable Crunch",
+    "nameEs": "Abdominal en polea",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -4486,8 +4486,8 @@
     "popularity": 3
   },
   {
-    "name": "Fly (Cable Rear Delt)",
-    "nameEs": "Apertura para deltoides posterior (Polea)",
+    "name": "Rear Delt Fly (Cable)",
+    "nameEs": "Apertura de deltoides posterior (Polea)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -5328,8 +5328,8 @@
     "popularity": 1.2
   },
   {
-    "name": "Press (Chain)",
-    "nameEs": "Press (con cadena)",
+    "name": "Chest Press (Chain)",
+    "nameEs": "Press de pecho (Cadena)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -6221,8 +6221,8 @@
     "popularity": 3.5
   },
   {
-    "name": "Press (Close-Grip Dumbbell)",
-    "nameEs": "Press (Mancuerna - Agarre estrecho)",
+    "name": "Triceps Press (Close-Grip Dumbbell)",
+    "nameEs": "Press de tríceps (Mancuerna - Agarre estrecho)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -6296,8 +6296,8 @@
     "popularity": 2.3
   },
   {
-    "name": "Press (Close-Grip EZ-Bar)",
-    "nameEs": "Press (Barra Z - Agarre estrecho)",
+    "name": "Triceps Press (Close-Grip EZ-Bar)",
+    "nameEs": "Press de tríceps (Barra Z - Agarre estrecho)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -6880,8 +6880,8 @@
     "popularity": 4.5
   },
   {
-    "name": "Press (Cuban)",
-    "nameEs": "Press (Cubano)",
+    "name": "Shoulder Press (Cuban)",
+    "nameEs": "Press de hombros (Cubano)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -7185,8 +7185,8 @@
     "popularity": 2.6
   },
   {
-    "name": "Crunch (Decline)",
-    "nameEs": "Abdominal (declinada)",
+    "name": "Decline Crunch",
+    "nameEs": "Abdominal declinado",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "isolation",
@@ -7262,8 +7262,8 @@
     "popularity": 3.5
   },
   {
-    "name": "Fly (Decline Dumbbell)",
-    "nameEs": "Apertura (Mancuerna declinada)",
+    "name": "Decline Fly (Dumbbell)",
+    "nameEs": "Apertura declinada (Mancuerna)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -7367,8 +7367,8 @@
     "popularity": 2.7
   },
   {
-    "name": "Crunch (Decline Oblique)",
-    "nameEs": "Abdominal (Declinado oblicuo)",
+    "name": "Oblique Crunch (Decline)",
+    "nameEs": "Abdominal oblicuo (Declinado)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -7475,8 +7475,8 @@
     "popularity": 2.5
   },
   {
-    "name": "Press (Decline Smith)",
-    "nameEs": "Press (Máquina Smith declinado)",
+    "name": "Chest Press (Decline Smith)",
+    "nameEs": "Press de pecho (Máquina Smith declinado)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -7513,8 +7513,8 @@
     "popularity": 2.7
   },
   {
-    "name": "Deadlift (Deficit)",
-    "nameEs": "Peso muerto (Con déficit)",
+    "name": "Deficit Deadlift",
+    "nameEs": "Peso muerto con déficit",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "compound",
@@ -7817,8 +7817,8 @@
     "popularity": 2.1
   },
   {
-    "name": "Press (Double Kettlebell Push)",
-    "nameEs": "Press con impulso (Doble pesa rusa)",
+    "name": "Shoulder Press (Double Kettlebell Push)",
+    "nameEs": "Press de hombros (Doble pesa rusa con impulso)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -8254,8 +8254,8 @@
     "popularity": 2.6
   },
   {
-    "name": "Press (Dumbbell Floor)",
-    "nameEs": "Press (Mancuerna en suelo)",
+    "name": "Triceps Press (Dumbbell Floor)",
+    "nameEs": "Press de tríceps (Mancuerna en el suelo)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -9574,8 +9574,8 @@
     "popularity": 2.1
   },
   {
-    "name": "Press (Extended Range One-Arm Kettlebell Floor)",
-    "nameEs": "Press (Pesa rusa a un brazo en el suelo de rango extendido)",
+    "name": "Chest Press (Extended Range One-Arm Kettlebell Floor)",
+    "nameEs": "Press de pecho (Pesa rusa a un brazo en el suelo, rango extendido)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -9711,8 +9711,8 @@
     "popularity": 2.6
   },
   {
-    "name": "Pull (Face)",
-    "nameEs": "Remo al rostro (Face Pull)",
+    "name": "Face Pull",
+    "nameEs": "Face pull",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "compound",
@@ -10028,8 +10028,8 @@
     "popularity": 1.7
   },
   {
-    "name": "Press (Floor)",
-    "nameEs": "Press (Suelo)",
+    "name": "Triceps Press (Floor)",
+    "nameEs": "Press de tríceps (Suelo)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -10062,8 +10062,8 @@
     "popularity": 2
   },
   {
-    "name": "Press (Floor with Chains)",
-    "nameEs": "Press (Suelo con cadenas)",
+    "name": "Triceps Press (Floor with Chains)",
+    "nameEs": "Press de tríceps (Suelo con cadenas)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -10164,8 +10164,8 @@
     "popularity": 0.3
   },
   {
-    "name": "Press (Forward Drag with)",
-    "nameEs": "Press (Forward Drag with)",
+    "name": "Chest Press (Forward Drag)",
+    "nameEs": "Press de pecho (Arrastre hacia adelante)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -10238,8 +10238,8 @@
     "popularity": 1.7
   },
   {
-    "name": "Squat (Freehand Jump)",
-    "nameEs": "Sentadilla (Freehand Jump)",
+    "name": "Jump Squat (Freehand)",
+    "nameEs": "Sentadilla con salto (Sin peso)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -10351,8 +10351,8 @@
     "popularity": 2.2
   },
   {
-    "name": "Squat (Front Barbell)",
-    "nameEs": "Sentadilla (Barra frontal)",
+    "name": "Front Squat (Barbell)",
+    "nameEs": "Sentadilla frontal (Barra)",
     "force": "push",
     "level": "expert",
     "mechanic": "compound",
@@ -10392,8 +10392,8 @@
     "popularity": 4
   },
   {
-    "name": "Squat (Front Barbell To A Bench)",
-    "nameEs": "Sentadilla (Barra frontal hacia un banco)",
+    "name": "Front Squat (Barbell To A Bench)",
+    "nameEs": "Sentadilla frontal (Barra a un banco)",
     "force": "push",
     "level": "expert",
     "mechanic": "compound",
@@ -10676,8 +10676,8 @@
     "popularity": 2.8
   },
   {
-    "name": "Squat (Front Clean Grip)",
-    "nameEs": "Sentadilla (Front Clean Grip)",
+    "name": "Front Squat (Clean Grip)",
+    "nameEs": "Sentadilla frontal (Agarre de cargada)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -10922,8 +10922,8 @@
     "popularity": 3
   },
   {
-    "name": "Squat (Goblet)",
-    "nameEs": "Sentadilla (Goblet)",
+    "name": "Goblet Squat",
+    "nameEs": "Sentadilla goblet",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -12251,8 +12251,8 @@
     "popularity": 2.7
   },
   {
-    "name": "Press (Incline Cable Chest)",
-    "nameEs": "Press de pecho en Polea Inclinado",
+    "name": "Chest Press (Incline Cable)",
+    "nameEs": "Press de pecho (Polea inclinado)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -12285,8 +12285,8 @@
     "popularity": 2.7
   },
   {
-    "name": "Fly (Incline Cable)",
-    "nameEs": "Apertura (Inclinado Polea)",
+    "name": "Incline Fly (Cable)",
+    "nameEs": "Apertura inclinada (Polea)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "isolation",
@@ -12357,8 +12357,8 @@
     "popularity": 2.7
   },
   {
-    "name": "Fly (Incline Dumbbell)",
-    "nameEs": "Apertura (Inclinado Mancuerna)",
+    "name": "Incline Fly (Dumbbell)",
+    "nameEs": "Apertura inclinada (Mancuerna)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -12394,8 +12394,8 @@
     "popularity": 4
   },
   {
-    "name": "Flyes (Incline Dumbbell - With A Twist)",
-    "nameEs": "Aperturas (Inclinado Mancuerna - Con un giro)",
+    "name": "Incline Fly (Dumbbell - With A Twist)",
+    "nameEs": "Apertura inclinada (Mancuerna - Con giro)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -12433,8 +12433,8 @@
     "popularity": 2.8
   },
   {
-    "name": "Press (Incline Dumbbell)",
-    "nameEs": "Press (Mancuerna Inclinado)",
+    "name": "Chest Press (Incline Dumbbell)",
+    "nameEs": "Press de pecho (Mancuerna inclinado)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -12859,8 +12859,8 @@
     "popularity": 2
   },
   {
-    "name": "Row (Inverted)",
-    "nameEs": "Remo (invertido)",
+    "name": "Inverted Row",
+    "nameEs": "Remo invertido",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -12886,7 +12886,7 @@
       "Repite para el número deseado de repeticiones."
     ],
     "category": "strength",
-    "trackingType": "weight_reps",
+    "trackingType": "bodyweight_reps",
     "images": [
       "Inverted_Row/0.jpg",
       "Inverted_Row/1.jpg"
@@ -12896,8 +12896,8 @@
     "popularity": 2
   },
   {
-    "name": "Row (Inverted with Straps)",
-    "nameEs": "Remo (invertido con correas)",
+    "name": "Inverted Row (with Straps)",
+    "nameEs": "Remo invertido (Con correas)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -12922,7 +12922,7 @@
       "Repite para el número deseado de repeticiones."
     ],
     "category": "strength",
-    "trackingType": "weight_reps",
+    "trackingType": "bodyweight_reps",
     "images": [
       "Inverted_Row_with_Straps/0.jpg",
       "Inverted_Row_with_Straps/1.jpg"
@@ -13138,8 +13138,8 @@
     "popularity": 2.5
   },
   {
-    "name": "Press (JM)",
-    "nameEs": "Press (JM)",
+    "name": "Triceps Press (JM)",
+    "nameEs": "Press de tríceps (JM)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -13431,8 +13431,8 @@
     "popularity": 0.8
   },
   {
-    "name": "Press (Kettlebell Arnold)",
-    "nameEs": "Press (Pesa rusa Arnold)",
+    "name": "Shoulder Press (Kettlebell Arnold)",
+    "nameEs": "Press de hombros (Pesa rusa Arnold)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -13821,8 +13821,8 @@
     "popularity": 1.9
   },
   {
-    "name": "Press (Kettlebell Seated)",
-    "nameEs": "Press (Pesa rusa sentado)",
+    "name": "Shoulder Press (Kettlebell Seated)",
+    "nameEs": "Press de hombros (Pesa rusa sentado)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -13854,8 +13854,8 @@
     "popularity": 2.1
   },
   {
-    "name": "Press (Kettlebell Seesaw)",
-    "nameEs": "Press (Pesa rusa Seesaw)",
+    "name": "Shoulder Press (Kettlebell Seesaw)",
+    "nameEs": "Press de hombros (Pesa rusa en balancín)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -14201,7 +14201,7 @@
       "Repite por la cantidad de repeticiones recomendada."
     ],
     "category": "strength",
-    "trackingType": "weight_reps",
+    "trackingType": "bodyweight_reps",
     "images": [
       "Knee_Hip_Raise_On_Parallel_Bars/0.jpg",
       "Knee_Hip_Raise_On_Parallel_Bars/1.jpg"
@@ -14283,8 +14283,8 @@
     "popularity": 0.5
   },
   {
-    "name": "Crunch (Kneeling Cable With Alternating Oblique Twists)",
-    "nameEs": "Abdominal (Polea arrodillado con giros oblicuos alternados)",
+    "name": "Oblique Crunch (Kneeling Cable With Alternating Twists)",
+    "nameEs": "Abdominal oblicuo (Polea arrodillado con giros alternos)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -14459,8 +14459,8 @@
     "popularity": 0.7
   },
   {
-    "name": "Squat (Kneeling Jump)",
-    "nameEs": "Sentadilla (Salto de rodillas)",
+    "name": "Jump Squat (Kneeling)",
+    "nameEs": "Sentadilla con salto (De rodillas)",
     "force": "push",
     "level": "expert",
     "mechanic": "compound",
@@ -14831,8 +14831,8 @@
     "popularity": 0.7
   },
   {
-    "name": "Press (Leg-Over Floor)",
-    "nameEs": "Press (Pierna cruzada en el suelo)",
+    "name": "Chest Press (Leg-Over Floor)",
+    "nameEs": "Press de pecho (Pierna cruzada en el suelo)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -15038,8 +15038,8 @@
     "popularity": 2.5
   },
   {
-    "name": "Press (Leverage Chest)",
-    "nameEs": "Press (Pecho en máquina de palanca)",
+    "name": "Chest Press (Leverage)",
+    "nameEs": "Press de pecho (Máquina de palanca)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -15106,8 +15106,8 @@
     "popularity": 2.7
   },
   {
-    "name": "Press (Leverage Decline Chest)",
-    "nameEs": "Press de pecho declinado (Máquina)",
+    "name": "Chest Press (Leverage Decline)",
+    "nameEs": "Press de pecho (Máquina de palanca declinado)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -15175,8 +15175,8 @@
     "popularity": 2.7
   },
   {
-    "name": "Press (Leverage Incline Chest)",
-    "nameEs": "Press de pecho inclinado (Máquina)",
+    "name": "Chest Press (Leverage Incline)",
+    "nameEs": "Press de pecho (Máquina de palanca inclinado)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -15954,8 +15954,8 @@
     "popularity": 2.5
   },
   {
-    "name": "Press (Lying Close-Grip Barbell Triceps To Chin)",
-    "nameEs": "Press de tríceps (Barra con agarre cerrado hacia la barbilla acostado)",
+    "name": "Triceps Press (Lying Close-Grip Barbell To Chin)",
+    "nameEs": "Press de tríceps (Barra agarre estrecho a la barbilla, acostado)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "isolation",
@@ -16477,8 +16477,8 @@
     "popularity": 3.5
   },
   {
-    "name": "Press (Lying Triceps)",
-    "nameEs": "Press (Tríceps acostado)",
+    "name": "Triceps Press (Lying)",
+    "nameEs": "Press de tríceps (Acostado)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "isolation",
@@ -16854,8 +16854,8 @@
     "popularity": 3.8
   },
   {
-    "name": "Press (Machine Shoulder Military)",
-    "nameEs": "Press militar de hombro (Máquina)",
+    "name": "Shoulder Press (Machine)",
+    "nameEs": "Press de hombros (Máquina)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -17502,8 +17502,8 @@
     "popularity": 0.3
   },
   {
-    "name": "Press (Neck)",
-    "nameEs": "Press (Cuello)",
+    "name": "Chest Press (Neck)",
+    "nameEs": "Press de pecho (Al cuello)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -17540,8 +17540,8 @@
     "popularity": 2.6
   },
   {
-    "name": "Crunch (Oblique)",
-    "nameEs": "Abdominal (Oblicuo)",
+    "name": "Oblique Crunch",
+    "nameEs": "Abdominal oblicuo",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -17942,8 +17942,8 @@
     "popularity": 2.1
   },
   {
-    "name": "Press (One-Arm Kettlebell Floor)",
-    "nameEs": "Press (Pesa rusa de un brazo en el suelo)",
+    "name": "Chest Press (One-Arm Kettlebell Floor)",
+    "nameEs": "Press de pecho (Pesa rusa a un brazo en el suelo)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -18045,8 +18045,8 @@
     "popularity": 2.1
   },
   {
-    "name": "Press (One-Arm Kettlebell Para)",
-    "nameEs": "Press (Pesa rusa de un brazo Para)",
+    "name": "Shoulder Press (One-Arm Kettlebell Para)",
+    "nameEs": "Press de hombros (Pesa rusa a un brazo, Para)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -18078,8 +18078,8 @@
     "popularity": 2.1
   },
   {
-    "name": "Press (One-Arm Kettlebell Push)",
-    "nameEs": "Push Press (Pesa rusa de un brazo)",
+    "name": "Shoulder Press (One-Arm Kettlebell Push)",
+    "nameEs": "Press de hombros (Pesa rusa a un brazo con impulso)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -18703,8 +18703,8 @@
     "popularity": 2.7
   },
   {
-    "name": "Press (One Arm Floor)",
-    "nameEs": "Press (Suelo a un brazo)",
+    "name": "Triceps Press (One Arm Floor)",
+    "nameEs": "Press de tríceps (Suelo a un brazo)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -19178,8 +19178,8 @@
     "popularity": 1
   },
   {
-    "name": "Squat (Overhead)",
-    "nameEs": "Sentadilla (Overhead)",
+    "name": "Overhead Squat",
+    "nameEs": "Sentadilla overhead",
     "force": "push",
     "level": "expert",
     "mechanic": "compound",
@@ -19725,8 +19725,8 @@
     "popularity": 2.1
   },
   {
-    "name": "Press (Pin)",
-    "nameEs": "Press con pines (Barra)",
+    "name": "Triceps Press (Pin)",
+    "nameEs": "Press de tríceps (Pines)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -20793,8 +20793,8 @@
     "popularity": 1.9
   },
   {
-    "name": "Press (Push)",
-    "nameEs": "Press (Push)",
+    "name": "Shoulder Press (Push)",
+    "nameEs": "Press de hombros (Con impulso)",
     "force": "push",
     "level": "expert",
     "mechanic": "compound",
@@ -21338,8 +21338,8 @@
     "popularity": 2
   },
   {
-    "name": "Squat (Reverse Band Box)",
-    "nameEs": "Sentadilla en cajón (Banda inversa)",
+    "name": "Box Squat (Reverse Band)",
+    "nameEs": "Sentadilla al cajón (Banda inversa)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -21460,8 +21460,8 @@
     "popularity": 1.8
   },
   {
-    "name": "Deadlift (Reverse Band Sumo)",
-    "nameEs": "Peso muerto (Sumo con banda inversa)",
+    "name": "Sumo Deadlift (Reverse Band)",
+    "nameEs": "Peso muerto sumo (Banda inversa)",
     "force": "pull",
     "level": "expert",
     "mechanic": "compound",
@@ -21611,8 +21611,8 @@
     "popularity": 2.6
   },
   {
-    "name": "Crunch (Reverse)",
-    "nameEs": "Abdominal (Inverso)",
+    "name": "Reverse Crunch",
+    "nameEs": "Abdominal inverso",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -21834,8 +21834,8 @@
     "popularity": 2.1
   },
   {
-    "name": "Fly (Reverse Machine)",
-    "nameEs": "Apertura (Máquina inversa)",
+    "name": "Reverse Fly (Machine)",
+    "nameEs": "Apertura inversa (Máquina)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -22047,8 +22047,8 @@
     "popularity": 0.8
   },
   {
-    "name": "Dips (Ring)",
-    "nameEs": "Fondos (Anillas)",
+    "name": "Ring Dip",
+    "nameEs": "Fondo en anillas",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -22199,8 +22199,8 @@
     "popularity": 1.9
   },
   {
-    "name": "Deadlift (Romanian)",
-    "nameEs": "Peso muerto (rumano)",
+    "name": "Romanian Deadlift",
+    "nameEs": "Peso muerto rumano",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "compound",
@@ -22238,8 +22238,8 @@
     "popularity": 5
   },
   {
-    "name": "Deadlift (Romanian from Deficit)",
-    "nameEs": "Peso muerto (rumano desde déficit)",
+    "name": "Romanian Deadlift (from Deficit)",
+    "nameEs": "Peso muerto rumano (Con déficit)",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "compound",
@@ -22381,8 +22381,8 @@
     "popularity": 0.4
   },
   {
-    "name": "Pulldown (Rope Straight-Arm)",
-    "nameEs": "Jalón (Polea con cuerda y brazos rectos)",
+    "name": "Straight-Arm Pulldown (Rope)",
+    "nameEs": "Jalón con brazos rectos (Cuerda)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -22552,8 +22552,8 @@
     "popularity": 1.2
   },
   {
-    "name": "Twist (Russian)",
-    "nameEs": "Twist ruso",
+    "name": "Russian Twist",
+    "nameEs": "Giro ruso",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "compound",
@@ -22992,8 +22992,8 @@
     "popularity": 0.8
   },
   {
-    "name": "Rows (Seated Cable)",
-    "nameEs": "Remo (Sentado en polea)",
+    "name": "Seated Cable Row",
+    "nameEs": "Remo sentado en polea",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -23324,8 +23324,8 @@
     "popularity": 2.7
   },
   {
-    "name": "Press (Seated Dumbbell)",
-    "nameEs": "Press (Sentado con mancuernas)",
+    "name": "Shoulder Press (Seated Dumbbell)",
+    "nameEs": "Press de hombros (Mancuerna sentado)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -23738,8 +23738,8 @@
     "popularity": 2.7
   },
   {
-    "name": "Rows (Seated One-arm Cable Pulley)",
-    "nameEs": "Remo (Polea sentado a un brazo)",
+    "name": "Seated Cable Row (One-Arm Pulley)",
+    "nameEs": "Remo sentado en polea (A un brazo)",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "compound",
@@ -23915,8 +23915,8 @@
     "popularity": 3.5
   },
   {
-    "name": "Press (Seated Triceps)",
-    "nameEs": "Press de tríceps (sentado)",
+    "name": "Triceps Press (Seated)",
+    "nameEs": "Press de tríceps (Sentado)",
     "force": "push",
     "level": "beginner",
     "mechanic": "isolation",
@@ -23991,8 +23991,8 @@
     "popularity": 2.6
   },
   {
-    "name": "Press (See-Saw Alternating Side)",
-    "nameEs": "Press en balancín (Press lateral alterno)",
+    "name": "Shoulder Press (See-Saw Alternating Side)",
+    "nameEs": "Press de hombros (Balancín alterno lateral)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -24752,8 +24752,8 @@
     "popularity": 0.6
   },
   {
-    "name": "Squat (Single-Leg High Box)",
-    "nameEs": "Sentadilla (Cajón alto a una pierna)",
+    "name": "Box Squat (Single-Leg High)",
+    "nameEs": "Sentadilla al cajón (Cajón alto a una pierna)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -25533,8 +25533,8 @@
     "popularity": 3
   },
   {
-    "name": "Row (Smith Machine Bent Over)",
-    "nameEs": "Remo (Máquina Smith inclinado)",
+    "name": "Bent Over Row (Smith Machine)",
+    "nameEs": "Remo inclinado (Máquina Smith)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -25644,44 +25644,6 @@
     ],
     "id": "Smith_Machine_Close-Grip_Bench_Press",
     "baseXP": 20,
-    "popularity": 2.7
-  },
-  {
-    "name": "Press (Smith Machine Decline)",
-    "nameEs": "Press (Máquina Smith declinado)",
-    "force": null,
-    "level": "beginner",
-    "mechanic": "compound",
-    "equipment": "machine",
-    "primaryMuscles": [
-      "chest"
-    ],
-    "secondaryMuscles": [
-      "shoulders",
-      "triceps"
-    ],
-    "instructions": [
-      "Position a decline bench in the rack so that the bar will be above your chest. Load an appropriate weight and take your place on the bench.",
-      "Rotate the bar to unhook it from the rack and fully extend your arms. Your back should be slightly arched and your shoulder blades retracted. This will be your starting position.",
-      "Begin the movement by flexing your arms, lowering the bar to your chest.",
-      "Pause briefly, and then extend your arms to push the weight back to the starting position.",
-      "After completing the desired number of repetitions, rotate the bar to rack the weight."
-    ],
-    "instructionsEs": [
-      "Coloca un banco declinado en el rack de modo que la barra quede por encima de tu pecho. Carga un peso adecuado y toma tu lugar en el banco.",
-      "Gira la barra para desengancharla del rack y extiende completamente tus brazos. Tu espalda debe estar levemente arqueada y tus omóplatos retraídos. Esta será tu posición inicial.",
-      "Comienza el movimiento flexionando tus brazos, bajando la barra hacia tu pecho.",
-      "Haz una pausa breve y luego extiende tus brazos para empujar el peso de regreso a la posición inicial.",
-      "Después de completar el número deseado de repeticiones, gira la barra para asegurarla en el rack."
-    ],
-    "category": "strength",
-    "trackingType": "weight_reps",
-    "images": [
-      "Smith_Machine_Decline_Press/0.jpg",
-      "Smith_Machine_Decline_Press/1.jpg"
-    ],
-    "id": "Smith_Machine_Decline_Press",
-    "baseXP": 17,
     "popularity": 2.7
   },
   {
@@ -26027,8 +25989,8 @@
     "popularity": 2.7
   },
   {
-    "name": "Deadlift (Smith Machine Stiff-Legged)",
-    "nameEs": "Peso muerto (Máquina Smith de piernas rígidas)",
+    "name": "Stiff-Legged Deadlift (Smith Machine)",
+    "nameEs": "Peso muerto con piernas rígidas (Máquina Smith)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -26104,8 +26066,8 @@
     "popularity": 2.7
   },
   {
-    "name": "Squat (Smith Single-Leg Split)",
-    "nameEs": "Sentadilla (Máquina Smith búlgara a una pierna)",
+    "name": "Split Squat (Smith Single-Leg)",
+    "nameEs": "Sentadilla dividida (Máquina Smith a una pierna)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -26419,8 +26381,8 @@
     "popularity": 2
   },
   {
-    "name": "Squat (Speed Box)",
-    "nameEs": "Sentadilla (Speed Box)",
+    "name": "Box Squat (Speed)",
+    "nameEs": "Sentadilla al cajón (Velocidad)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -27123,8 +27085,8 @@
     "popularity": 1
   },
   {
-    "name": "Press (Standing Alternating Dumbbell)",
-    "nameEs": "Press (alternado de pie con mancuerna)",
+    "name": "Shoulder Press (Standing Alternating Dumbbell)",
+    "nameEs": "Press de hombros (Mancuerna alterno de pie)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -27195,8 +27157,8 @@
     "popularity": 2.7
   },
   {
-    "name": "Press (Standing Barbell Behind Neck)",
-    "nameEs": "Press (Barra de pie detrás del cuello)",
+    "name": "Shoulder Press (Standing Barbell Behind Neck)",
+    "nameEs": "Press de hombros (Barra de pie tras nuca)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -27371,8 +27333,8 @@
     "popularity": 0.8
   },
   {
-    "name": "Press (Standing Bradford)",
-    "nameEs": "Press (Bradford de pie)",
+    "name": "Shoulder Press (Standing Bradford)",
+    "nameEs": "Press de hombros (Bradford de pie)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -27410,8 +27372,8 @@
     "popularity": 2.8
   },
   {
-    "name": "Press (Standing Cable Chest)",
-    "nameEs": "Press de pecho con polea (de pie)",
+    "name": "Chest Press (Standing Cable)",
+    "nameEs": "Press de pecho (Polea de pie)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -27635,8 +27597,8 @@
     "popularity": 2.5
   },
   {
-    "name": "Press (Standing Dumbbell)",
-    "nameEs": "Press (Mancuerna de pie)",
+    "name": "Shoulder Press (Standing Dumbbell)",
+    "nameEs": "Press de hombros (Mancuerna de pie)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -28449,8 +28411,8 @@
     "popularity": 2.7
   },
   {
-    "name": "Press (Standing Palm-In One-Arm Dumbbell)",
-    "nameEs": "Press (Mancuerna a un brazo de pie con palma hacia adentro)",
+    "name": "Shoulder Press (Standing Palm-In One-Arm Dumbbell)",
+    "nameEs": "Press de hombros (Mancuerna a un brazo de pie, palma hacia adentro)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -28490,8 +28452,8 @@
     "popularity": 2.8
   },
   {
-    "name": "Press (Standing Palms-In Dumbbell)",
-    "nameEs": "Press (Mancuerna de pie con palmas hacia adentro)",
+    "name": "Shoulder Press (Standing Palms-In Dumbbell)",
+    "nameEs": "Press de hombros (Mancuerna de pie, palmas hacia adentro)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -28525,8 +28487,8 @@
     "popularity": 2.6
   },
   {
-    "name": "Curl (Standing Palms-Up Barbell Behind The Back Wrist)",
-    "nameEs": "Curl (Muñeca con barra por detrás de la espalda de pie con palmas hacia arriba)",
+    "name": "Wrist Curl (Standing Palms-Up Barbell Behind The Back)",
+    "nameEs": "Curl de muñeca (Barra de pie tras la espalda, palmas hacia arriba)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -28858,8 +28820,8 @@
     "popularity": 1
   },
   {
-    "name": "Deadlift (Stiff-Legged Barbell)",
-    "nameEs": "Peso muerto (Barra con piernas rígidas)",
+    "name": "Stiff-Legged Deadlift (Barbell)",
+    "nameEs": "Peso muerto con piernas rígidas (Barra)",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "compound",
@@ -28896,8 +28858,8 @@
     "popularity": 2.6
   },
   {
-    "name": "Deadlift (Stiff-Legged Dumbbell)",
-    "nameEs": "Peso muerto (Mancuerna con piernas rígidas)",
+    "name": "Stiff-Legged Deadlift (Dumbbell)",
+    "nameEs": "Peso muerto con piernas rígidas (Mancuerna)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -29050,8 +29012,8 @@
     "popularity": 2.6
   },
   {
-    "name": "Pulldown (Straight-Arm)",
-    "nameEs": "Jalón de brazos rectos (Polea)",
+    "name": "Straight-Arm Pulldown",
+    "nameEs": "Jalón con brazos rectos",
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
@@ -29085,8 +29047,8 @@
     "popularity": 2.6
   },
   {
-    "name": "Rows (Straight Bar Bench Mid)",
-    "nameEs": "Remo en banco (Barra recta media)",
+    "name": "Mid Row (Straight Bar Bench)",
+    "nameEs": "Remo medio (Barra recta en banco)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -29224,8 +29186,8 @@
     "popularity": 1
   },
   {
-    "name": "Deadlift (Sumo)",
-    "nameEs": "Peso muerto (Sumo)",
+    "name": "Sumo Deadlift",
+    "nameEs": "Peso muerto sumo",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "compound",
@@ -29265,8 +29227,8 @@
     "popularity": 2
   },
   {
-    "name": "Deadlift (Sumo with Bands)",
-    "nameEs": "Peso muerto (Sumo con bandas)",
+    "name": "Sumo Deadlift (with Bands)",
+    "nameEs": "Peso muerto sumo (Con bandas)",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "compound",
@@ -29308,8 +29270,8 @@
     "popularity": 2
   },
   {
-    "name": "Deadlift (Sumo with Chains)",
-    "nameEs": "Peso muerto (Sumo con cadenas)",
+    "name": "Sumo Deadlift (with Chains)",
+    "nameEs": "Peso muerto sumo (Con cadenas)",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "compound",
@@ -29525,7 +29487,7 @@
       "Haz una pausa durante la contracción máxima y luego regresa a la posición inicial."
     ],
     "category": "strength",
-    "trackingType": "weight_reps",
+    "trackingType": "bodyweight_reps",
     "images": [
       "Suspended_Fallout/0.jpg",
       "Suspended_Fallout/1.jpg"
@@ -29561,7 +29523,7 @@
       "Continúa hasta que tus codos superen los 90 grados, haciendo una pausa antes de extender para volver a la posición inicial."
     ],
     "category": "strength",
-    "trackingType": "weight_reps",
+    "trackingType": "bodyweight_reps",
     "images": [
       "Suspended_Push-Up/0.jpg",
       "Suspended_Push-Up/1.jpg"
@@ -29594,7 +29556,7 @@
       "En la parte alta del movimiento controlado, regresa a la posición inicial."
     ],
     "category": "strength",
-    "trackingType": "weight_reps",
+    "trackingType": "bodyweight_reps",
     "images": [
       "Suspended_Reverse_Crunch/0.jpg",
       "Suspended_Reverse_Crunch/1.jpg"
@@ -29604,8 +29566,8 @@
     "popularity": 2
   },
   {
-    "name": "Row (Suspended)",
-    "nameEs": "Remo (Suspendido)",
+    "name": "Inverted Row (Suspended)",
+    "nameEs": "Remo invertido (Suspendido)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -29628,7 +29590,7 @@
       "Al completar el movimiento, haz una pausa y luego regresa a la posición inicial."
     ],
     "category": "strength",
-    "trackingType": "weight_reps",
+    "trackingType": "bodyweight_reps",
     "images": [
       "Suspended_Row/0.jpg",
       "Suspended_Row/1.jpg"
@@ -29638,8 +29600,8 @@
     "popularity": 2.1
   },
   {
-    "name": "Squat (Suspended Split)",
-    "nameEs": "Sentadilla (Suspendida Split)",
+    "name": "Split Squat (Suspended)",
+    "nameEs": "Sentadilla dividida (Suspendida)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -29667,7 +29629,7 @@
       "En la parte baja del movimiento, invierte el movimiento, extendiendo la cadera y la rodilla para volver a la posición inicial."
     ],
     "category": "strength",
-    "trackingType": "weight_reps",
+    "trackingType": "bodyweight_reps",
     "images": [
       "Suspended_Split_Squat/0.jpg",
       "Suspended_Split_Squat/1.jpg"
@@ -29677,8 +29639,8 @@
     "popularity": 1.9
   },
   {
-    "name": "Press (Svend)",
-    "nameEs": "Press (Svend)",
+    "name": "Chest Press (Svend)",
+    "nameEs": "Press de pecho (Svend)",
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
@@ -29752,8 +29714,8 @@
     "popularity": 4
   },
   {
-    "name": "Press (Tate)",
-    "nameEs": "Press Tate",
+    "name": "Triceps Press (Tate)",
+    "nameEs": "Press de tríceps (Tate)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "isolation",
@@ -30033,8 +29995,8 @@
     "popularity": 0.5
   },
   {
-    "name": "Deadlift (Trap Bar)",
-    "nameEs": "Peso muerto (Barra trampa)",
+    "name": "Trap Bar Deadlift",
+    "nameEs": "Peso muerto con barra hexagonal",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -30601,8 +30563,8 @@
     "popularity": 0.4
   },
   {
-    "name": "Row (Upright Barbell)",
-    "nameEs": "Remo (Barra vertical)",
+    "name": "Upright Row (Barbell)",
+    "nameEs": "Remo al mentón (Barra)",
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
@@ -30636,8 +30598,8 @@
     "popularity": 2.8
   },
   {
-    "name": "Row (Upright Cable)",
-    "nameEs": "Remo (Polea vertical)",
+    "name": "Upright Row (Cable)",
+    "nameEs": "Remo al mentón (Polea)",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "compound",
@@ -30964,8 +30926,8 @@
     "popularity": 1.8
   },
   {
-    "name": "Dip (Weighted Bench)",
-    "nameEs": "Fondo (Banco con peso)",
+    "name": "Bench Dip (Weighted)",
+    "nameEs": "Fondo en banco (Con peso)",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
@@ -31070,7 +31032,7 @@
     "popularity": 3.4
   },
   {
-    "name": "Squat (Weighted Jump)",
+    "name": "Jump Squat (Weighted)",
     "nameEs": "Sentadilla con salto (Con peso)",
     "force": "push",
     "level": "intermediate",
@@ -31144,8 +31106,8 @@
     "popularity": 3.5
   },
   {
-    "name": "Squat (Weighted Sissy)",
-    "nameEs": "Sentadilla (Sissy lastrada)",
+    "name": "Sissy Squat (Weighted)",
+    "nameEs": "Sentadilla sissy (Con peso)",
     "force": "push",
     "level": "expert",
     "mechanic": "compound",
@@ -31878,8 +31840,8 @@
     "popularity": 2.4
   },
   {
-    "name": "Curl (Zottman)",
-    "nameEs": "Curl (Zottman)",
+    "name": "Zottman Curl",
+    "nameEs": "Curl Zottman",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "isolation",

@@ -1,6 +1,6 @@
 {
-  "name": "Deadlift (Deficit)",
-  "nameEs": "Peso muerto (Con déficit)",
+  "name": "Deficit Deadlift",
+  "nameEs": "Peso muerto con déficit",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",

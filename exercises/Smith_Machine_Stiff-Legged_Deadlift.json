@@ -1,6 +1,6 @@
 {
-  "name": "Deadlift (Smith Machine Stiff-Legged)",
-  "nameEs": "Peso muerto (Máquina Smith de piernas rígidas)",
+  "name": "Stiff-Legged Deadlift (Smith Machine)",
+  "nameEs": "Peso muerto con piernas rígidas (Máquina Smith)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",

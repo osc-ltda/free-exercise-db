@@ -1,6 +1,6 @@
 {
-  "name": "Deadlift (Sumo)",
-  "nameEs": "Peso muerto (Sumo)",
+  "name": "Sumo Deadlift",
+  "nameEs": "Peso muerto sumo",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",

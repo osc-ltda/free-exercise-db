@@ -1,6 +1,6 @@
 {
-  "name": "Squat (Overhead)",
-  "nameEs": "Sentadilla (Overhead)",
+  "name": "Overhead Squat",
+  "nameEs": "Sentadilla overhead",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",

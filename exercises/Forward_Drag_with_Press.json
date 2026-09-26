@@ -1,6 +1,6 @@
 {
-  "name": "Press (Forward Drag with)",
-  "nameEs": "Press (Forward Drag with)",
+  "name": "Chest Press (Forward Drag)",
+  "nameEs": "Press de pecho (Arrastre hacia adelante)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
