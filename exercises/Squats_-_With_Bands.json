@@ -1,5 +1,6 @@
 {
-  "name": "Squat (With Bands)",
+  "name": "Squat (Bands Only)",
+  "nameEs": "Sentadilla (Solo con banda)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -19,6 +20,13 @@
     "Slowly start to bend the knees and lower the legs so that your thighs are parallel to the floor while exhaling.",
     "Use the heel of your feet to push your body up to the starting position as you exhale.",
     "Repeat for the recommended amount of repetitions."
+  ],
+  "instructionsEs": [
+    "Para comenzar, asegúrate de que la banda de ejercicio esté dividida equitativamente entre el lado izquierdo y derecho del cuerpo. Para hacer esto, usa tus manos para agarrar ambos lados de la banda y coloca ambos pies en el medio de la misma. Tus pies deben estar separados a la distancia de los hombros.",
+    "Al sostener las bandas, deben estar a la misma altura en cada lado. Debes usar un agarre pronado (con las palmas hacia adelante) y tener las manijas de las bandas cerca de tu cara para este ejercicio. Esta es la posición inicial.",
+    "Comienza lentamente a doblar las rodillas y bajar las piernas para que tus muslos queden paralelos al suelo mientras exhalas.",
+    "Usa el talón de tus pies para empujar tu cuerpo hacia la posición inicial mientras exhalas.",
+    "Repite por la cantidad recomendada de repeticiones."
   ],
   "category": "strength",
   "trackingType": "weight_reps",
