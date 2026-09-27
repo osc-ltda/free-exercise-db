@@ -1,5 +1,11 @@
 ## Free Exercise DB 💪  &nbsp; [![Test, Lint & Deploy Site to Github Pages](https://github.com/yuhonas/free-exercise-db/actions/workflows/ci.yaml/badge.svg)](https://github.com/yuhonas/free-exercise-db/actions/workflows/ci.yaml) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
+> **Frozen for MaxOut.** The catalogue was imported into `maxout-api`
+> (`cargo run --bin import_catalogue -- <this repo>`), which is its one copy
+> now: admins edit it through `/admin/exercise` there, and the app pulls from
+> `GET /exercise`. Edits made here reach no one. The app still downloads
+> `dist/exercises.json` at a pinned commit as its first-launch bundle.
+
 Open Public Domain Exercise Dataset in `JSON` format, 800+ exercises with a browsable public searchable frontend
 
 ### Why?
